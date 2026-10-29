@@ -1,0 +1,57 @@
+[
+  {
+    "id": "petrol",
+    "name": "Petrol \u00b7 Premier Euro 5",
+    "category": "fuel",
+    "city": "Pakistan",
+    "price": 377.91,
+    "unit": "litre",
+    "date": "2026-10-29",
+    "kind": "PSO published rate",
+    "source": "https://www.psopk.com/en/fuels/fuel-prices"
+  },
+  {
+    "id": "diesel",
+    "name": "High-speed diesel \u00b7 Euro 5",
+    "category": "fuel",
+    "city": "Pakistan",
+    "price": 399.82,
+    "unit": "litre",
+    "date": "2026-10-29",
+    "kind": "PSO published rate",
+    "source": "https://www.psopk.com/en/fuels/fuel-prices"
+  },
+  {
+    "id": "gold-24k",
+    "name": "Gold \u00b7 24 karat",
+    "category": "metals",
+    "city": "Pakistan",
+    "price": 421000,
+    "unit": "tola",
+    "date": "2026-10-30",
+    "kind": "Reported market benchmark",
+    "source": "https://hamariweb.com/finance/gold_rate/"
+  },
+  {
+    "id": "silver",
+    "name": "Silver \u00b7 reported benchmark",
+    "category": "metals",
+    "city": "Pakistan",
+    "price": 5881,
+    "unit": "tola",
+    "date": "2026-10-30",
+    "kind": "Reported market benchmark",
+    "source": "https://hamariweb.com/finance/silver_rate/"
+  },
+  {
+    "id": "samsung-a06",
+    "name": "Samsung Galaxy A06 \u00b7 listing from",
+    "category": "electronics",
+    "city": "Pakistan",
+    "price": 22499,
+    "unit": "device; check variant",
+    "date": "2026-10-30",
+    "kind": "Retailer listing snapshot",
+    "source": "https://priceoye.pk/mobiles/samsung"
+  }
+]

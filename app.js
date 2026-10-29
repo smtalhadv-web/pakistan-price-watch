@@ -1,0 +1,5 @@
+'use strict';
+const today=new Intl.DateTimeFormat('en-CA',{timeZone:'Asia/Karachi',year:'numeric',month:'2-digit',day:'2-digit'}).format(new Date());
+for(const el of document.querySelectorAll('.freshness')){const days=Math.floor((Date.parse(today)-Date.parse(el.dataset.date))/86400000);el.textContent=days>0?`Source quote is ${days} day(s) old — check before purchase.`:'Quoted today · see original source';}
+function filter(){const q=document.querySelector('#search').value.trim().toLowerCase(),city=document.querySelector('#city').value,cat=document.querySelector('#category').value;let n=0;for(const c of document.querySelectorAll('#prices .card')){c.hidden=!(c.dataset.name.toLowerCase().includes(q)&&(!city||c.dataset.city===city)&&(!cat||c.dataset.category===cat));if(!c.hidden)n++;}document.querySelector('#count').textContent=`${n} source-linked quotes`;document.querySelector('#empty').hidden=n!==0;}
+if(document.querySelector('#search')){for(const id of ['search','city','category'])document.getElementById(id).addEventListener('input',filter);filter();}
