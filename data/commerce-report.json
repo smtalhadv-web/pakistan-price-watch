@@ -1,0 +1,545 @@
+{
+  "checked_at": "2026-10-30",
+  "observed_offers": 3078,
+  "sources": [
+    {
+      "url": "https://www.zahcomputers.pk/shop/",
+      "status": "parsed",
+      "observed_offers": 23
+    },
+    {
+      "url": "https://www.galaxy.pk/laptops",
+      "status": "parsed",
+      "observed_offers": 15
+    },
+    {
+      "url": "https://priceoye.pk/mobiles/samsung?page=1",
+      "status": "parsed",
+      "observed_offers": 27
+    },
+    {
+      "url": "https://priceoye.pk/mobiles/samsung?page=2",
+      "status": "parsed",
+      "observed_offers": 36
+    },
+    {
+      "url": "https://priceoye.pk/mobiles/samsung?page=3",
+      "status": "parsed",
+      "observed_offers": 36
+    },
+    {
+      "url": "https://priceoye.pk/mobiles/samsung?page=4",
+      "status": "parsed",
+      "observed_offers": 36
+    },
+    {
+      "url": "https://priceoye.pk/mobiles/xiaomi?page=1",
+      "status": "parsed",
+      "observed_offers": 24
+    },
+    {
+      "url": "https://priceoye.pk/mobiles/xiaomi?page=2",
+      "status": "parsed",
+      "observed_offers": 36
+    },
+    {
+      "url": "https://priceoye.pk/mobiles/xiaomi?page=3",
+      "status": "parsed",
+      "observed_offers": 36
+    },
+    {
+      "url": "https://priceoye.pk/mobiles/xiaomi?page=4",
+      "status": "parsed",
+      "observed_offers": 36
+    },
+    {
+      "url": "https://priceoye.pk/mobiles/vivo?page=1",
+      "status": "parsed",
+      "observed_offers": 13
+    },
+    {
+      "url": "https://priceoye.pk/mobiles/vivo?page=2",
+      "status": "parsed",
+      "observed_offers": 36
+    },
+    {
+      "url": "https://priceoye.pk/mobiles/vivo?page=3",
+      "status": "parsed",
+      "observed_offers": 36
+    },
+    {
+      "url": "https://priceoye.pk/mobiles/vivo?page=4",
+      "status": "parsed",
+      "observed_offers": 36
+    },
+    {
+      "url": "https://priceoye.pk/mobiles/oppo?page=1",
+      "status": "parsed",
+      "observed_offers": 12
+    },
+    {
+      "url": "https://priceoye.pk/mobiles/oppo?page=2",
+      "status": "parsed",
+      "observed_offers": 36
+    },
+    {
+      "url": "https://priceoye.pk/mobiles/oppo?page=3",
+      "status": "parsed",
+      "observed_offers": 33
+    },
+    {
+      "url": "https://priceoye.pk/mobiles/oppo?page=4",
+      "status": "parsed",
+      "observed_offers": 36
+    },
+    {
+      "url": "https://priceoye.pk/mobiles/realme?page=1",
+      "status": "parsed",
+      "observed_offers": 10
+    },
+    {
+      "url": "https://priceoye.pk/mobiles/realme?page=2",
+      "status": "parsed",
+      "observed_offers": 36
+    },
+    {
+      "url": "https://priceoye.pk/mobiles/realme?page=3",
+      "status": "parsed",
+      "observed_offers": 36
+    },
+    {
+      "url": "https://priceoye.pk/mobiles/realme?page=4",
+      "status": "parsed",
+      "observed_offers": 36
+    },
+    {
+      "url": "https://priceoye.pk/mobiles/infinix?page=1",
+      "status": "parsed",
+      "observed_offers": 9
+    },
+    {
+      "url": "https://priceoye.pk/mobiles/infinix?page=2",
+      "status": "parsed",
+      "observed_offers": 36
+    },
+    {
+      "url": "https://priceoye.pk/mobiles/infinix?page=3",
+      "status": "parsed",
+      "observed_offers": 36
+    },
+    {
+      "url": "https://priceoye.pk/mobiles/infinix?page=4",
+      "status": "parsed",
+      "observed_offers": 36
+    },
+    {
+      "url": "https://priceoye.pk/mobiles/tecno?page=1",
+      "status": "parsed",
+      "observed_offers": 12
+    },
+    {
+      "url": "https://priceoye.pk/mobiles/tecno?page=2",
+      "status": "parsed",
+      "observed_offers": 36
+    },
+    {
+      "url": "https://priceoye.pk/mobiles/tecno?page=3",
+      "status": "parsed",
+      "observed_offers": 36
+    },
+    {
+      "url": "https://priceoye.pk/mobiles/tecno?page=4",
+      "status": "parsed",
+      "observed_offers": 36
+    },
+    {
+      "url": "https://priceoye.pk/mobiles/apple?page=1",
+      "status": "parsed",
+      "observed_offers": 9
+    },
+    {
+      "url": "https://priceoye.pk/mobiles/apple?page=2",
+      "status": "parsed",
+      "observed_offers": 14
+    },
+    {
+      "url": "https://priceoye.pk/mobiles/apple?page=3",
+      "status": "parsed",
+      "observed_offers": 0
+    },
+    {
+      "url": "https://priceoye.pk/mobiles/apple?page=4",
+      "status": "parsed",
+      "observed_offers": 0
+    },
+    {
+      "url": "https://priceoye.pk/laptops?page=1",
+      "status": "parsed",
+      "observed_offers": 36
+    },
+    {
+      "url": "https://priceoye.pk/laptops?page=2",
+      "status": "parsed",
+      "observed_offers": 36
+    },
+    {
+      "url": "https://priceoye.pk/laptops?page=3",
+      "status": "parsed",
+      "observed_offers": 36
+    },
+    {
+      "url": "https://priceoye.pk/smart-watches?page=1",
+      "status": "parsed",
+      "observed_offers": 36
+    },
+    {
+      "url": "https://priceoye.pk/smart-watches?page=2",
+      "status": "parsed",
+      "observed_offers": 36
+    },
+    {
+      "url": "https://priceoye.pk/smart-watches?page=3",
+      "status": "parsed",
+      "observed_offers": 36
+    },
+    {
+      "url": "https://priceoye.pk/wireless-earbuds?page=1",
+      "status": "parsed",
+      "observed_offers": 36
+    },
+    {
+      "url": "https://priceoye.pk/wireless-earbuds?page=2",
+      "status": "parsed",
+      "observed_offers": 36
+    },
+    {
+      "url": "https://priceoye.pk/wireless-earbuds?page=3",
+      "status": "parsed",
+      "observed_offers": 36
+    },
+    {
+      "url": "https://priceoye.pk/tablets?page=1",
+      "status": "parsed",
+      "observed_offers": 36
+    },
+    {
+      "url": "https://priceoye.pk/tablets?page=2",
+      "status": "parsed",
+      "observed_offers": 13
+    },
+    {
+      "url": "https://priceoye.pk/tablets?page=3",
+      "status": "parsed",
+      "observed_offers": 0
+    },
+    {
+      "url": "https://priceoye.pk/power-banks?page=1",
+      "status": "parsed",
+      "observed_offers": 36
+    },
+    {
+      "url": "https://priceoye.pk/power-banks?page=2",
+      "status": "parsed",
+      "observed_offers": 36
+    },
+    {
+      "url": "https://priceoye.pk/power-banks?page=3",
+      "status": "parsed",
+      "observed_offers": 36
+    },
+    {
+      "url": "https://priceoye.pk/trimmers-shavers?page=1",
+      "status": "parsed",
+      "observed_offers": 22
+    },
+    {
+      "url": "https://priceoye.pk/trimmers-shavers?page=2",
+      "status": "parsed",
+      "observed_offers": 30
+    },
+    {
+      "url": "https://priceoye.pk/trimmers-shavers?page=3",
+      "status": "parsed",
+      "observed_offers": 26
+    },
+    {
+      "url": "https://priceoye.pk/speakers?page=1",
+      "status": "parsed",
+      "observed_offers": 0
+    },
+    {
+      "url": "https://priceoye.pk/speakers?page=2",
+      "status": "parsed",
+      "observed_offers": 0
+    },
+    {
+      "url": "https://priceoye.pk/speakers?page=3",
+      "status": "parsed",
+      "observed_offers": 0
+    },
+    {
+      "url": "https://mistore.pk/products.json?limit=250&page=1",
+      "status": "parsed",
+      "observed_offers": 393
+    },
+    {
+      "url": "https://mistore.pk/products.json?limit=250&page=2",
+      "status": "parsed",
+      "observed_offers": 399
+    },
+    {
+      "url": "https://mistore.pk/products.json?limit=250&page=3",
+      "status": "parsed",
+      "observed_offers": 196
+    },
+    {
+      "url": "https://mistore.pk/products.json?limit=250&page=4",
+      "status": "parsed",
+      "observed_offers": 0
+    },
+    {
+      "url": "https://mistore.pk/products.json?limit=250&page=5",
+      "status": "parsed",
+      "observed_offers": 0
+    },
+    {
+      "url": "https://mistore.pk/products.json?limit=250&page=6",
+      "status": "parsed",
+      "observed_offers": 0
+    },
+    {
+      "url": "https://www.zahcomputers.pk/category/apple-accessories",
+      "status": "parsed",
+      "observed_offers": 19
+    },
+    {
+      "url": "https://www.zahcomputers.pk/category/cables",
+      "status": "parsed",
+      "observed_offers": 24
+    },
+    {
+      "url": "https://www.zahcomputers.pk/category/casing",
+      "status": "parsed",
+      "observed_offers": 20
+    },
+    {
+      "url": "https://www.zahcomputers.pk/category/cooling-solutions",
+      "status": "parsed",
+      "observed_offers": 24
+    },
+    {
+      "url": "https://www.zahcomputers.pk/category/cooling-solutions/air-cooler",
+      "status": "parsed",
+      "observed_offers": 12
+    },
+    {
+      "url": "https://www.zahcomputers.pk/category/cooling-solutions/cooling-fans",
+      "status": "parsed",
+      "observed_offers": 23
+    },
+    {
+      "url": "https://www.zahcomputers.pk/category/cooling-solutions/liquid-cooler-aio",
+      "status": "parsed",
+      "observed_offers": 18
+    },
+    {
+      "url": "https://www.zahcomputers.pk/category/cooling-solutions/thermal-paste-pads",
+      "status": "parsed",
+      "observed_offers": 15
+    },
+    {
+      "url": "https://www.zahcomputers.pk/category/gaming-chairs",
+      "status": "parsed",
+      "observed_offers": 24
+    },
+    {
+      "url": "https://www.zahcomputers.pk/category/gaming-console",
+      "status": "parsed",
+      "observed_offers": 7
+    },
+    {
+      "url": "https://www.zahcomputers.pk/category/gaming-controllers",
+      "status": "parsed",
+      "observed_offers": 24
+    },
+    {
+      "url": "https://www.zahcomputers.pk/category/gaming-desks",
+      "status": "parsed",
+      "observed_offers": 9
+    },
+    {
+      "url": "https://www.zahcomputers.pk/category/gaming-vr-headsets",
+      "status": "parsed",
+      "observed_offers": 0
+    },
+    {
+      "url": "https://www.zahcomputers.pk/category/graphics-cards",
+      "status": "parsed",
+      "observed_offers": 23
+    },
+    {
+      "url": "https://www.zahcomputers.pk/category/graphics-cards-refurb",
+      "status": "parsed",
+      "observed_offers": 1
+    },
+    {
+      "url": "https://www.zahcomputers.pk/category/graphics-tablet",
+      "status": "parsed",
+      "observed_offers": 0
+    },
+    {
+      "url": "https://www.zahcomputers.pk/category/headphones-earphones",
+      "status": "parsed",
+      "observed_offers": 24
+    },
+    {
+      "url": "https://www.zahcomputers.pk/category/imac",
+      "status": "parsed",
+      "observed_offers": 6
+    },
+    {
+      "url": "https://www.zahcomputers.pk/category/ipad",
+      "status": "parsed",
+      "observed_offers": 2
+    },
+    {
+      "url": "https://www.zahcomputers.pk/category/keyboards",
+      "status": "parsed",
+      "observed_offers": 15
+    },
+    {
+      "url": "https://www.zahcomputers.pk/category/laptop",
+      "status": "parsed",
+      "observed_offers": 23
+    },
+    {
+      "url": "https://www.zahcomputers.pk/category/laptop-bags",
+      "status": "parsed",
+      "observed_offers": 16
+    },
+    {
+      "url": "https://www.zahcomputers.pk/category/laptop/laptop-coolers",
+      "status": "parsed",
+      "observed_offers": 3
+    },
+    {
+      "url": "https://www.zahcomputers.pk/category/laptop/laptop-refurb",
+      "status": "parsed",
+      "observed_offers": 3
+    },
+    {
+      "url": "https://www.zahcomputers.pk/category/laptop/new-laptop",
+      "status": "parsed",
+      "observed_offers": 4
+    },
+    {
+      "url": "https://www.zahcomputers.pk/category/laptop/used-laptop",
+      "status": "parsed",
+      "observed_offers": 3
+    },
+    {
+      "url": "https://www.zahcomputers.pk/category/macbook",
+      "status": "parsed",
+      "observed_offers": 24
+    },
+    {
+      "url": "https://www.zahcomputers.pk/category/memory-module-ram",
+      "status": "parsed",
+      "observed_offers": 23
+    },
+    {
+      "url": "https://www.zahcomputers.pk/category/microphone",
+      "status": "parsed",
+      "observed_offers": 24
+    },
+    {
+      "url": "https://www.zahcomputers.pk/category/mini-pc",
+      "status": "parsed",
+      "observed_offers": 0
+    },
+    {
+      "url": "https://www.zahcomputers.pk/category/monitor-arms",
+      "status": "parsed",
+      "observed_offers": 20
+    },
+    {
+      "url": "https://www.zahcomputers.pk/category/monitors",
+      "status": "parsed",
+      "observed_offers": 24
+    },
+    {
+      "url": "https://www.zahcomputers.pk/category/monitors-open-box",
+      "status": "parsed",
+      "observed_offers": 5
+    },
+    {
+      "url": "https://www.zahcomputers.pk/category/motherboard-chipset",
+      "status": "parsed",
+      "observed_offers": 24
+    },
+    {
+      "url": "https://www.zahcomputers.pk/category/mouse",
+      "status": "parsed",
+      "observed_offers": 16
+    },
+    {
+      "url": "https://www.zahcomputers.pk/category/mouse-pad",
+      "status": "parsed",
+      "observed_offers": 23
+    },
+    {
+      "url": "https://www.zahcomputers.pk/category/new-laptop",
+      "status": "parsed",
+      "observed_offers": 0
+    },
+    {
+      "url": "https://www.zahcomputers.pk/category/portable-bluetooth-speakers",
+      "status": "parsed",
+      "observed_offers": 24
+    },
+    {
+      "url": "https://www.zahcomputers.pk/category/power-supplies",
+      "status": "parsed",
+      "observed_offers": 24
+    },
+    {
+      "url": "https://www.zahcomputers.pk/category/pre-builds",
+      "status": "parsed",
+      "observed_offers": 7
+    },
+    {
+      "url": "https://www.galaxy.pk/desktops",
+      "status": "fetch failed; previous quote retained"
+    },
+    {
+      "url": "https://www.galaxy.pk/monitors",
+      "status": "parsed",
+      "observed_offers": 15
+    },
+    {
+      "url": "https://www.galaxy.pk/processors",
+      "status": "fetch failed; previous quote retained"
+    },
+    {
+      "url": "https://www.galaxy.pk/motherboards",
+      "status": "fetch failed; previous quote retained"
+    },
+    {
+      "url": "https://www.galaxy.pk/graphic-cards",
+      "status": "fetch failed; previous quote retained"
+    },
+    {
+      "url": "https://www.galaxy.pk/memory",
+      "status": "fetch failed; previous quote retained"
+    },
+    {
+      "url": "https://www.galaxy.pk/solid-state-drive",
+      "status": "fetch failed; previous quote retained"
+    },
+    {
+      "url": "https://www.galaxy.pk/printers",
+      "status": "parsed",
+      "observed_offers": 15
+    }
+  ]
+}

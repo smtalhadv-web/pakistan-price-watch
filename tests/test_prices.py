@@ -45,3 +45,17 @@ class CatalogTests(unittest.TestCase):
   from model import mode
   for r in json.loads((ROOT/'data/prices.json').read_text()):
    if r['id'].startswith('pbs-'):self.assertEqual(mode(r),'reference')
+
+class ComparisonTests(unittest.TestCase):
+ def test_comparisons_preserve_variant_and_period(self):
+  from presentation import comparison_key
+  base=dict(category='electronics',name='Laptop 16GB 512GB',unit='device',kind='Retailer listing',pricing_mode='listed',date='2026-10-30')
+  self.assertNotEqual(comparison_key(base),comparison_key({**base,'name':'Laptop 8GB 512GB'}))
+  survey={**base,'kind':'PBS weekly average','pricing_mode':'reference','period':'Week ending 2026-10-22'}
+  self.assertNotEqual(comparison_key(survey),comparison_key({**survey,'period':'Week ending 2026-10-29'}))
+  self.assertNotEqual(comparison_key(base),comparison_key(survey))
+ def test_parent_location(self):
+  import subprocess
+  app=(ROOT/'app.js').read_text();function=app[app.index('function localMatch'):app.index('function filter')]
+  result=subprocess.run(['node','-e',function+"if(!localMatch({city:'Pakistan'},'Karachi')||!localMatch({city:'Karachi'},'Karachi')||localMatch({city:'Lahore'},'Karachi')||localMatch({city:'Karachi'},'Pakistan'))process.exit(1)"],capture_output=True)
+  self.assertEqual(result.returncode,0,result.stderr)
