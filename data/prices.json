@@ -36,12 +36,12 @@
     "id": "silver",
     "name": "Silver · reported benchmark",
     "category": "metals",
-    "city": "Pakistan",
-    "price": 5881,
+    "price": 5881.0,
     "unit": "tola",
     "date": "2026-10-30",
-    "kind": "Reported market benchmark",
-    "source": "https://hamariweb.com/finance/silver_rate/"
+    "source": "https://hamariweb.com/finance/silver_rate/",
+    "city": "Pakistan",
+    "kind": "Reported market benchmark"
   },
   {
     "id": "fuel-ldo",
@@ -22277,5 +22277,16 @@
     "urdu": "پاپے بی کلاس",
     "sheet": "assets/bakery-ec3aa85d30.jpg",
     "note": "Manually read from the official image. Date is the date printed on the notification, which may differ from the website index."
+  },
+  {
+    "id": "silver-10g",
+    "name": "Silver · reported benchmark",
+    "category": "metals",
+    "price": 5041.0,
+    "unit": "10 grams",
+    "date": "2026-10-30",
+    "source": "https://hamariweb.com/finance/silver_rate/",
+    "city": "Pakistan",
+    "kind": "Reported market benchmark"
   }
 ]

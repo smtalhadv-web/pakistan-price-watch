@@ -46,7 +46,7 @@ def ingest():
    if not d:continue
    date=date_en(d[1])
    for tr in table.select('tbody tr'):
-    td=tr.select('td')
+    td=tr.select('th,td')
     if len(td)!=2:continue
     name=td[0].get_text(' ',strip=True);v=num(td[1].get_text())
     id={'PREMIER EURO 5':'petrol','HI-CETANE DIESEL EURO 5':'diesel'}.get(name,'fuel-'+slug(name))
@@ -59,7 +59,7 @@ def ingest():
   for t in ss.select('table'):
    headers=t.select_one('tr').get_text(' ',strip=True)
    for tr in t.select('tr')[1:]:
-    td=tr.select('td')
+    td=tr.select('th,td')
     if len(td)<3:continue
     if headers.startswith('Purity Tola'):
      purity=td[0].get_text(strip=True)
@@ -77,7 +77,7 @@ def ingest():
   for t in tables:
    h=t.select_one('tr').get_text(' ',strip=True)
    for tr in t.select('tr')[1:]:
-    td=tr.select('td')
+    td=tr.select('th,td')
     if len(td)<3:continue
     if h.startswith('City') and td[0].get_text(strip=True)=='Karachi':
      add('silver','Silver · reported benchmark','metals',num(td[1].get_text()),'tola',d,URLS['silver'],kind='Reported market benchmark')
@@ -96,7 +96,7 @@ def ingest():
    market='Open market' if h=='Currency Buying Selling' else 'Interbank' if h.startswith('Currency Symbol') else None
    if not market:continue
    for tr in t.select('tr')[1:]:
-    td=tr.select('td')
+    td=tr.select('th,td')
     if len(td)<3:continue
     name=td[0].get_text(' ',strip=True)
     if not name or 'Source:' in name:continue
