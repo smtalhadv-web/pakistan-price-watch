@@ -56,6 +56,6 @@ class ComparisonTests(unittest.TestCase):
   self.assertNotEqual(comparison_key(base),comparison_key(survey))
  def test_parent_location(self):
   import subprocess
-  app=(ROOT/'app.js').read_text();function=app[app.index('function localMatch'):app.index('function filter')]
+  app=(ROOT/'app.js').read_text();function=app[app.index('function localMatch'):app.index('function readLocation')]
   result=subprocess.run(['node','-e',function+"if(!localMatch({city:'Pakistan'},'Karachi')||!localMatch({city:'Karachi'},'Karachi')||localMatch({city:'Lahore'},'Karachi')||localMatch({city:'Karachi'},'Pakistan'))process.exit(1)"],capture_output=True)
   self.assertEqual(result.returncode,0,result.stderr)
