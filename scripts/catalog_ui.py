@@ -7,7 +7,7 @@ def family(r):
  if r.get('manufacturer_model')and r['category']=='machinery':return 'makita-model|'+r['manufacturer_model'].casefold()
  name=r['name'].split(' · ')[0]if mode(r)=='listed'else r['name']
  if r['category']=='mobiles':name=re.sub(r'^xiaomi (?=redmi|poco)','',name,flags=re.I)
- return '|'.join([r['category'],re.sub(r'[^\w]+',' ',name.casefold()).strip(),'product'if mode(r)=='listed'else r['unit'].casefold(),mode(r),r['kind']if mode(r)!='listed'else''])
+ return '|'.join([r['category'],re.sub(r'[^\w]+',' ',name.casefold().replace('+',' plus ')).strip(),'product'if mode(r)=='listed'else r['unit'].casefold(),mode(r),r['kind']if mode(r)!='listed'else''])
 def groups_for(rows):
  groups=collections.defaultdict(list)
  for r in rows:groups[family(r)].append(r)
@@ -26,7 +26,9 @@ def archive(items,prefix=''):
   out+='<strong class="range-price">'+value+'</strong><p>'+E(r['unit'])+' · '+('Latest source '+max(x['date']for x in priced)if priced else'Exact specification / quote needed')+'</p></article>'
  return out+'</div>'
 def graph(points,label,compact=False):
- if len(points)<2:return '<div class="history-pending">'+('One recorded observation; the trend begins after another verified source date.'if points else'No dated price observation is available yet.')+'</div>'
+ if not points:return '<div class="history-pending">No dated price observation is available yet.</div>'
+ if len(points)==1:
+  p=points[0];return '<svg class="history-graph" viewBox="0 0 720 170" role="img" aria-label="One recorded source price; no trend"><line x1="70" y1="120" x2="690" y2="120" stroke="#e0e9dd"/><circle cx="370" cy="75" r="6" fill="#1a7d52"/><text x="370" y="50" text-anchor="middle">PKR '+f'{p["price"]:,.2f}'+'</text><text x="370" y="145" text-anchor="middle">'+E(p['date'])+' · One observation, no trend inferred</text></svg>'
  a=points[-60:];W,H=720,170 if compact else 260;L,R,T,B=70,15,20,36;lo=min(p['price']for p in a);hi=max(p['price']for p in a);span=hi-lo or max(hi*.02,1)
  coords=' '.join(f'{L+(W-L-R)*i/(len(a)-1):.1f},{H-B-(p["price"]-lo)/span*(H-T-B):.1f}'for i,p in enumerate(a));color='#18795b'if a[-1]['price']<=a[0]['price']else'#b77833'
  return f'<svg class="history-graph" viewBox="0 0 {W} {H}" role="img" aria-label="{E(label)} recorded price history"><line x1="{L}" x2="{W-R}" y1="{H-B}" y2="{H-B}" stroke="#dce7df"/><text x="8" y="28">{hi:,.2f}</text><text x="8" y="{H-B}">{lo:,.2f}</text><polyline points="{coords}" fill="none" stroke="{color}" stroke-width="3"/>'+''.join(f'<circle cx="{L+(W-L-R)*i/(len(a)-1):.1f}" cy="{H-B-(p["price"]-lo)/span*(H-T-B):.1f}" r="3" fill="{color}"><title>{E(p["date"])} · PKR {p["price"]:,.2f}</title></circle>'for i,p in enumerate(a))+f'<text x="{L}" y="{H-7}">{E(a[0]["date"])}</text><text text-anchor="end" x="{W-R}" y="{H-7}">{E(a[-1]["date"])}</text></svg>'
