@@ -20,21 +20,8 @@ def parse_pso(raw):
   values[key]=(value,date.isoformat())
  return values
 if __name__=='__main__':
- report={'checked_at':datetime.datetime.now(datetime.timezone.utc).isoformat(),'sources':[],'manual_queue':['Commissioner Karachi fruit, vegetables and meat image sheets','SBP currency quotes','Gold and silver benchmarks: manual cross-check required','Electronics: variant and availability verification','Construction: dated supplier quote or PBS report']}
- prices=json.loads((ROOT/'data/prices.json').read_text())
- try:
-  url='https://www.psopk.com/en/fuels/fuel-prices'
-  req=urllib.request.Request(url,headers={'User-Agent':'PakistanPriceWatch/1.0 (daily public price check)'})
-  with urllib.request.urlopen(req,timeout=35) as response: raw=response.read(4000000).decode('utf-8')
-  values=parse_pso(raw)
-  for r in prices:
-   if r['id'] in values:
-    value,date=values[r['id']]
-    if date<r['date']:continue
-    if date==r['date'] and value!=r['price']:raise ValueError('Conflicting same-date source value; manual review required')
-    r.update(price=value,date=date,source=url)
-  report['sources'].append({'source':'PSO','status':'checked','effective_date':next(iter(values.values()))[1]})
-  (ROOT/'data/prices.json').write_text(json.dumps(prices,indent=2)+'\n')
- except Exception as e:report['sources'].append({'source':'PSO','status':'manual_required','reason':str(e)})
- (ROOT/'data/update-report.json').write_text(json.dumps(report,indent=2)+'\n')
- print(json.dumps(report,indent=2))
+ import subprocess,sys
+ for name in ['collect.py','download_sources.py','ingest.py']:
+  result=subprocess.run([sys.executable,str(ROOT/'scripts'/name)],check=False)
+  if result.returncode:
+   print(name+' failed: existing dated quotes retained; manual review required')

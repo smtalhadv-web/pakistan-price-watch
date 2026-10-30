@@ -1,17 +1,98 @@
 {
-  "checked_at": "2026-10-30T00:02:39.962786+00:00",
+  "fetches": [
+    [
+      "karachi",
+      114579
+    ],
+    [
+      "forex",
+      110681
+    ],
+    [
+      "gold",
+      111808
+    ],
+    [
+      "silver",
+      104714
+    ],
+    [
+      "pso-history",
+      232378
+    ],
+    [
+      "samsung",
+      594840
+    ],
+    [
+      "xiaomi",
+      522099
+    ],
+    [
+      "vivo",
+      438127
+    ],
+    [
+      "oppo",
+      462034
+    ],
+    [
+      "realme",
+      459652
+    ],
+    [
+      "infinix",
+      446826
+    ],
+    [
+      "tecno",
+      451937
+    ],
+    [
+      "appliances",
+      750478
+    ],
+    [
+      "pbs",
+      342437
+    ]
+  ],
+  "checked_at": "2026-10-30T00:22:26.274436+00:00",
   "sources": [
     {
-      "source": "PSO",
-      "status": "checked",
-      "effective_date": "2026-10-29"
+      "source": "PSO dated fuel archive",
+      "status": "parsed",
+      "new_records": 0
+    },
+    {
+      "source": "Published gold and silver benchmarks",
+      "status": "parsed",
+      "new_records": 0
+    },
+    {
+      "source": "Published currency tables",
+      "status": "parsed",
+      "new_records": 0
+    },
+    {
+      "source": "PriceOye published listings",
+      "status": "parsed",
+      "new_records": 0
+    },
+    {
+      "source": "PBS weekly city prices",
+      "status": "parsed",
+      "new_records": 0
+    },
+    {
+      "source": "PBS construction and labour",
+      "status": "parsed",
+      "new_records": 0
     }
   ],
+  "quotes": 1586,
   "manual_queue": [
-    "Commissioner Karachi fruit, vegetables and meat image sheets",
-    "SBP currency quotes",
-    "Gold and silver benchmarks: manual cross-check required",
-    "Electronics: variant and availability verification",
-    "Construction: dated supplier quote or PBS report"
+    "Verify new image rates before transcribing; source sheets refresh automatically",
+    "Unsupported sources retain their dated quotes"
   ]
 }

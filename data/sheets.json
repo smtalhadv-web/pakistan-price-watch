@@ -1,0 +1,110 @@
+[
+  {
+    "id": "beef",
+    "title": "Beef 17/02/2026",
+    "source": "https://commissionerkarachi.gos.pk/uploads/pricelist/1771323073_e3e30b9e7740f2069326.jpg",
+    "file": "assets/beef-4d84707ea7.jpg",
+    "date": "2026-02-17",
+    "city": "Karachi",
+    "note": "Official source image. Read date and units printed on the sheet; website index dates can differ."
+  },
+  {
+    "id": "nimco",
+    "title": "Nimco 17/02/2026",
+    "source": "https://commissionerkarachi.gos.pk/uploads/pricelist/1771323021_a68dff24fa6b2da42933.jpg",
+    "file": "assets/nimco-b2a8a95db7.jpg",
+    "date": "2026-02-17",
+    "city": "Karachi",
+    "note": "Official source image. Read date and units printed on the sheet; website index dates can differ."
+  },
+  {
+    "id": "bakery",
+    "title": "Bakery 17/02/2026",
+    "source": "https://commissionerkarachi.gos.pk/uploads/pricelist/1771322989_a59ee66c29c0a4c856aa.jpg",
+    "file": "assets/bakery-ec3aa85d30.jpg",
+    "date": "2026-02-17",
+    "city": "Karachi",
+    "note": "Official source image. Read date and units printed on the sheet; website index dates can differ."
+  },
+  {
+    "id": "atta",
+    "title": "Atta 09/07/2026",
+    "source": "https://commissionerkarachi.gos.pk/uploads/pricelist/1789994108_4cb73641933ec3425de5.jpeg",
+    "file": "assets/atta-129f6a75bf.jpg",
+    "date": "2026-07-09",
+    "city": "Karachi",
+    "note": "Official source image. Read date and units printed on the sheet; website index dates can differ."
+  },
+  {
+    "id": "fruit",
+    "title": "Fruit 29/10/2026",
+    "source": "https://commissionerkarachi.gos.pk/uploads/pricelist/1793253258_f9136ac99ca5b1029932.jpg",
+    "file": "assets/fruit-bbe9e3a0fc.jpg",
+    "date": "2026-10-29",
+    "city": "Karachi",
+    "note": "Official source image. Read date and units printed on the sheet; website index dates can differ."
+  },
+  {
+    "id": "grocery",
+    "title": "Grocery 13/05/2026",
+    "source": "https://commissionerkarachi.gos.pk/uploads/pricelist/1778650336_9e680e1b423e825b4abd.jpg",
+    "file": "assets/grocery-11463035ee.jpg",
+    "date": "2026-05-13",
+    "city": "Karachi",
+    "note": "Official source image. Read date and units printed on the sheet; website index dates can differ."
+  },
+  {
+    "id": "milk",
+    "title": "Milk 31/01/2026",
+    "source": "https://commissionerkarachi.gos.pk/uploads/pricelist/Milk%2001.04.2026.jpg",
+    "file": "assets/milk-3210556372.jpg",
+    "date": "2026-01-31",
+    "city": "Karachi",
+    "note": "Official source image. Read date and units printed on the sheet; website index dates can differ."
+  },
+  {
+    "id": "mutton",
+    "title": "Mutton 17/02/2026",
+    "source": "https://commissionerkarachi.gos.pk/uploads/pricelist/1771323046_5efe47149ccffa42ec40.jpg",
+    "file": "assets/mutton-45f7041753.jpg",
+    "date": "2026-02-17",
+    "city": "Karachi",
+    "note": "Official source image. Read date and units printed on the sheet; website index dates can differ."
+  },
+  {
+    "id": "naan-chapati",
+    "title": "Naan/Chapati 09/10/2026",
+    "source": "https://commissionerkarachi.gos.pk/uploads/pricelist/1791798637_c35a79510acf3aad9898.jpeg",
+    "file": "assets/naan-chapati-8871211505.jpg",
+    "date": "2026-10-09",
+    "city": "Karachi",
+    "note": "Official source image. Read date and units printed on the sheet; website index dates can differ."
+  },
+  {
+    "id": "chicken",
+    "title": "Chicken 29/10/2026",
+    "source": "https://commissionerkarachi.gos.pk/uploads/pricelist/1793253282_a6081a60cc5f9479846c.jpg",
+    "file": "assets/chicken-8f0e0736dd.jpg",
+    "date": "2026-10-29",
+    "city": "Karachi",
+    "note": "Official source image. Read date and units printed on the sheet; website index dates can differ."
+  },
+  {
+    "id": "sugar",
+    "title": "Sugar 14/02/2026",
+    "source": "https://commissionerkarachi.gos.pk/uploads/pricelist/1771221286_b4c0e2f5d6494702a097.jpg",
+    "file": "assets/sugar-4eab8c942f.jpg",
+    "date": "2026-02-14",
+    "city": "Karachi",
+    "note": "Official source image. Read date and units printed on the sheet; website index dates can differ."
+  },
+  {
+    "id": "vegetable",
+    "title": "Vegetable 29/10/2026",
+    "source": "https://commissionerkarachi.gos.pk/uploads/pricelist/1793253223_0696cc7844af84fdf945.jpg",
+    "file": "assets/vegetable-51ed7f25d7.jpg",
+    "date": "2026-10-29",
+    "city": "Karachi",
+    "note": "Official source image. Read date and units printed on the sheet; website index dates can differ."
+  }
+]

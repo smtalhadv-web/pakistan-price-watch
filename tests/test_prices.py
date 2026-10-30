@@ -14,4 +14,22 @@ class PriceTests(unittest.TestCase):
  def test_duplicates(self):
   r=json.loads((ROOT/'data/prices.json').read_text())[0]
   with self.assertRaises(AssertionError):validate([r,r])
-if __name__=='__main__':unittest.main()
+
+
+class ExpandedDataTests(unittest.TestCase):
+ def test_histories_match_quote_units_and_latest(self):
+  h=json.loads((ROOT/'data/history.json').read_text())
+  for r in json.loads((ROOT/'data/prices.json').read_text()):
+   a=h.get(r['id'],[])
+   self.assertEqual(a,sorted(a,key=lambda p:p['date']))
+   self.assertEqual(len({p['date']for p in a}),len(a))
+   self.assertTrue(all(p['price']>0 and p['source'].startswith('https://') for p in a))
+ def test_transcribed_quotes_keep_original_image(self):
+  for r in json.loads((ROOT/'data/manual-quotes.json').read_text()):
+   self.assertTrue((ROOT/r['sheet']).is_file(),r['sheet'])
+   self.assertIn('commissionerkarachi.gos.pk/uploads/',r['source'])
+ def test_pbs_averages_explicit(self):
+  for r in json.loads((ROOT/'data/prices.json').read_text()):
+   if r['id'].startswith('pbs-'):
+    self.assertIn('average',r['kind'])
+    self.assertTrue(r.get('period'))
