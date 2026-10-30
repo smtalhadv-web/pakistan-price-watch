@@ -1,27 +1,26 @@
 # Pakistan Price Watch
 
-Public source-linked Pakistan price dashboard, hosted on GitHub Pages. Stock-market-style list view, real historical charts, market watch, search, location/category/basis filters, pagination, static category and item pages, original official image viewer with zoom, and a manual update desk.
+GitHub Pages price directory with optional chart sidebar, a first-visit location chooser, Urdu-first official rate transcriptions with English translations, and a broad priced/unpriced catalog.
 
-Live: https://smtalhadv-web.github.io/pakistan-price-watch/
+## Coverage
+The current source snapshot contains **2,723 priced records**, plus **304 unpriced catalog entries**, across 36 locations and 20 directory categories. Counts include city, unit, supplier and variant differences, not only unique products. Priced coverage includes 411 mobile listings, 108 electronics listings, 315 furniture variants, 369 machinery/tool/engine records, 57 vehicle/motorcycle variants, official Karachi rates and PBS survey references. Unpriced entries include generic item types and supplier products without a published price; their price and quote date are null, never zero or estimated.
 
-## Current coverage
-1,587 dated quote records across 36 locations, including national benchmarks. Records are distinct by unit, location and quote basis; these are not 1,587 unique products. Sources include PBS weekly city surveys and monthly construction/labour surveys, PSO fuel tables, reported gold/silver/FX tables, PriceOye listings, and 137 manually verified Karachi image transcriptions. Eleven official image sheets are saved; the milk source image returns 404 and is labelled unavailable. Dates printed on images take precedence over website index dates.
+Sources: PSO, Commissioner Karachi original rate sheets, PBS city workbooks, published Hamariweb metal/FX tables, PriceOye, Interwood, Toolsmart, Kamadi, Suzuki Pakistan and Toyota Indus. Toyota figures come from the manufacturer's published vehicle-price configuration and may exclude taxes, freight and registration. Listings need exact model, variant, stock and checkout verification. Source dates and observation dates are labelled. Original milk notification image is unavailable (404); no image-derived price was fabricated.
 
-## Daily update
-`.github/workflows/pages.yml` runs at 07:30 Pakistan time (02:30 UTC), on pushes, and on manual dispatch. GitHub may delay schedules or disable them on inactive repositories. The workflow installs the two source-reader dependencies, collects supported public sources, parses numeric data and saves official image snapshots. It commits `data/` and `assets/`, validates, builds, then deploys Pages. Failures retain the previous dated record; see `data/update-report.json`. There is no AI OCR or paid service dependency. New image-only prices require manual verification; the image itself is available inside the site after a successful fetch.
+## Interface
+- The price list begins near the top. Charts and market watch are hidden until the user opens the right-side drawer from the sidebar, toolbar or an item row.
+- On first visit, users choose a location. Their choice and whether national listings are included stay in browser localStorage. No GPS or IP lookup occurs. The Location control can reopen the chooser.
+- Official image transcriptions show Urdu first and English underneath, including inside the zoomable image viewer. There are 149 manually checked item/class records; notification/index date differences stay explicit.
+- Durable supplier/manufacturer/retailer prices are shown green and labelled **Listed price**, separate from daily notified rates and survey references. Green does not promise a fixed future price. An unchanged-price claim requires two matching actual observations.
+- Unknown-price entries remain visible, searchable and filterable. No price, source availability, inventory or historical trend is invented.
 
-Fuel and metals charts use actual historical observations from the source. Other records accumulate history when subsequent observations arrive. Single quotes have no inferred trend. Each chart keeps the same item, unit, location and quote basis. Source history contains exact date/price/source tuples.
+## Automation
+`.github/workflows/pages.yml` checks supported sources at 07:30 Pakistan time (02:30 UTC), on manual workflow dispatch, and rebuilds on main pushes. GitHub schedules may be delayed or disabled on inactive repositories. The pipeline fetches public sources, retains original images/workbooks, parses quotes, expands supplier catalogs, records source histories, validates and deploys. Failed sources retain previously dated quotes; inspect `data/update-report.json`. Images refresh automatically but new text transcriptions require human verification. No paid API, AI OCR or secret frontend token is needed.
 
-## Manual daily fallback
-1. Open **Update desk**, then **Load published data**.
-2. Use the form to add/replace a quote by ID, or import JSON/CSV. Preserve unit, source date and HTTPS original source URL.
-3. Validate and download `prices.json`.
-4. Commit the reviewed file as `data/prices.json` in GitHub. The public editor cannot publish and never asks for tokens.
-5. If adding a new quote manually, the build fills its initial history point; subsequent daily ingestion preserves it. To correct a manually transcribed source image rate, also update `data/manual-quotes.json` so the original transcription registry stays consistent.
+## Manual updates
+Open Update desk → Load published data → edit/add the English and optional Urdu name, price, unit, source date and HTTPS source → Validate → download `prices.json` → commit it as `data/prices.json` in GitHub. Existing metadata is preserved when replacing a quote through the form. The editor prepares files only; GitHub permissions control publishing. To correct a source-image transcription, also update `data/manual-quotes.json` so the transcription registry remains consistent. Generic unpriced entries are maintained in `data/catalog.json`; supplier unpriced entries are in `data/extra-catalog.json`.
 
-## Development
-Python 3.10+, Node for JS syntax checks:
-
+## Build and test
 ```
 python -m pip install -r requirements.txt
 python scripts/update.py
@@ -30,9 +29,6 @@ python scripts/build.py
 python -m http.server 8000 --directory dist
 ```
 
-`raw/` contains temporary downloaded HTML and workbooks and is ignored. `assets/` stores original source images and PBS workbooks for durable deployment. `data/prices.json` is the current quote set, `history.json` is dated observations, `sheets.json` is the image source index. Source images use URL-hashed snapshot filenames so later notifications do not overwrite old evidence. Failed image downloads are visible as unavailable, never zero-priced quotes.
+`data/prices.json` is the strictly positive priced feed. `data/history.json` records actual source observations. Build emits `dist/data/directory.json` combining priced and unpriced entries. Its version and JS/CSS versions prevent stale cached data. `raw/` and `dist/` are ignored; original snapshots in `assets/` are tracked. All fields used in generated HTML are escaped. New generic catalog entries have no individual indexable item page; useful category tables remain crawlable. Set SITE_URL for the canonical URL/sitemap (the workflow supplies it).
 
-Set SITE_URL for canonical URLs and sitemap; the workflow obtains it from Pages. Static category tables include all records for crawlers without JS. Individual item pages preserve sources and dates. Rankings, ad approval, revenue and complete national coverage are not guaranteed. No ads are configured.
-
-## Quote types
-Official notified ceilings, weekly/monthly surveyed averages, reported exchange/metal benchmarks and advertised retailer listings are separate records. PBS dates mean week ending or month end, not the current daily transaction price. Retail dates are observation dates. Use exact brand, variant, grade, purity, city and unit before comparison. This is an independent reference, not an official government service or live exchange.
+This is an independent reference, not a government service, an exchange, a complete inventory of every possible product, or a transaction-price guarantee. No ads or analytics are configured; rankings, revenue and availability are not guaranteed. External sources retain their rights.

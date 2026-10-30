@@ -57,7 +57,7 @@
       342437
     ]
   ],
-  "checked_at": "2026-10-30T00:30:28.111797+00:00",
+  "checked_at": "2026-10-30T00:54:53.576163+00:00",
   "sources": [
     {
       "source": "PSO dated fuel archive",
@@ -88,11 +88,32 @@
       "source": "PBS construction and labour",
       "status": "parsed",
       "new_records": 0
+    },
+    {
+      "source": "Additional mobile, laptop, watch and audio listings",
+      "status": "parsed",
+      "new_records": 0
+    },
+    {
+      "source": "Furniture and power-tool variant listings",
+      "status": "parsed",
+      "new_records": 0
+    },
+    {
+      "source": "Suzuki manufacturer vehicles and marine engines",
+      "status": "parsed",
+      "new_records": 0
+    },
+    {
+      "source": "Toyota manufacturer vehicle price configuration",
+      "status": "parsed",
+      "new_records": 0
     }
   ],
-  "quotes": 1587,
+  "quotes": 2723,
   "manual_queue": [
     "Verify new image rates before transcribing; source sheets refresh automatically",
     "Unsupported sources retain their dated quotes"
-  ]
+  ],
+  "unpriced_supplier_items": 6
 }

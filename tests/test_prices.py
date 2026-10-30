@@ -33,3 +33,15 @@ class ExpandedDataTests(unittest.TestCase):
    if r['id'].startswith('pbs-'):
     self.assertIn('average',r['kind'])
     self.assertTrue(r.get('period'))
+
+class CatalogTests(unittest.TestCase):
+ def test_unknown_prices_are_not_zero_quotes(self):
+  for name in ['catalog.json','extra-catalog.json']:
+   for r in json.loads((ROOT/'data'/name).read_text()):
+    self.assertIsNone(r['price'])
+    self.assertIsNone(r['date'])
+    self.assertEqual(r['pricing_mode'],'unpriced')
+ def test_surveys_stay_references(self):
+  from model import mode
+  for r in json.loads((ROOT/'data/prices.json').read_text()):
+   if r['id'].startswith('pbs-'):self.assertEqual(mode(r),'reference')
