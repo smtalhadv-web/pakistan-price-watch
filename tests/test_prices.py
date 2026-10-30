@@ -98,3 +98,52 @@ class ItemImageTests(unittest.TestCase):
   self.assertEqual(subject_for(dict(id='pbs-weekly-40-karachi',name='Ladies Sandal Bata',category='apparel')),"Women's sandals")
   self.assertEqual(subject_for(dict(id='suzuki-alto',name='Suzuki Alto VXR',category='automobiles')),'')
   self.assertFalse(valid_subject('Badminton racket',{'subject':'Racket (sports equipment)'}))
+
+class PartnerMarketTests(unittest.TestCase):
+ def test_classified_price_units_and_contacts(self):
+  from partner_sources import number,sanitize
+  self.assertEqual(number('Rs 1.69 Lac'),169000)
+  self.assertEqual(number('Rs 1.2 crore'),12000000)
+  self.assertEqual(number('Rs 35K'),35000)
+  self.assertIsNone(number('Call for price'))
+  self.assertNotIn('03001234567',sanitize('Call 03001234567 phone'))
+ def test_unconfirmed_packs_do_not_merge_with_verified_offers(self):
+  from catalog_ui import family
+  a=dict(id='a',name='Cooking Oil',category='grocery',price=100,pricing_mode='listed',kind='Retailer listing',unit='item',comparison_eligible=False)
+  self.assertNotEqual(family(a),family({**a,'id':'b'}))
+ def test_branch_schema_is_required_for_foodpanda_quotes(self):
+  from partner_sources import parse
+  self.assertEqual(parse('Foodpanda / Kifayah','https://www.foodpanda.pk/shop/a036/kifayah-supermarket-pechs','<p>Rs. 50</p>'),[])
+ def test_predictor_uses_past_same_source_daily_observations(self):
+  from market_features import estimate
+  import datetime
+  r=dict(id='test-gold',category='metals',price=109,pricing_mode='daily',kind='Reported benchmark',source='https://example.com/gold')
+  today=datetime.date(2026,10,30)
+  pts=[dict(date=(today-datetime.timedelta(days=9-i)).isoformat(),price=100+i,source=r['source'])for i in range(10)]
+  e=estimate(r,pts,today);self.assertEqual(e['status'],'experimental');self.assertEqual(e['date'],'2026-10-31');self.assertLessEqual(e['low'],e['center']);self.assertLessEqual(e['center'],e['high'])
+  self.assertEqual(estimate({**r,'pricing_mode':'asking'},pts,today)['status'],'unavailable')
+  self.assertEqual(estimate(r,pts[:2],today)['status'],'unavailable')
+ def test_subcategories_keep_household_and_phone_accessories_apart(self):
+  from market_features import subgroup
+  self.assertEqual(subgroup(dict(category='apparel',name='Ladies Sandal Bata'))[0],'Footwear')
+  self.assertEqual(subgroup(dict(category='grocery',name='Cooking Oil 5L'))[0],'Cooking oil & ghee')
+  self.assertEqual(subgroup(dict(category='electronics',name='Xiaomi 20W Power Adapter'))[0],'Phone accessories')
+
+class PartnerFeedTests(unittest.TestCase):
+ def test_partner_records_are_sourced_and_public_fields_only(self):
+  import json
+  p=ROOT/'data/partner-prices.json'
+  if not p.exists():return
+  rows=json.loads(p.read_text());validate(rows)
+  for r in rows:
+   self.assertFalse({'seller','phone','email','address','latitude','longitude'}.intersection(r))
+   if r['store']in ['OLX','Metro']:self.assertFalse(r['comparison_eligible'])
+   if r['store']=='Foodpanda / Kifayah':self.assertEqual(r['city'],'Karachi')
+
+class PackIdentityTests(unittest.TestCase):
+ def test_exact_pack_equivalence_keeps_variants_separate(self):
+  from catalog_ui import family
+  r=dict(id='test-pack',category='grocery',name='Brand Milk 1 Ltr',price=1,unit='item',pricing_mode='listed',kind='Retailer listing')
+  self.assertEqual(family(r),family({**r,'name':'Brand Milk 1000ml'}))
+  self.assertNotEqual(family(r),family({**r,'name':'Brand Milk 100ml'}))
+  self.assertNotEqual(family(r),family({**r,'name':'Brand Lactose Free Milk 1000ml'}))

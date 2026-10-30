@@ -1,0 +1,90 @@
+{
+  "checked_at": "2026-10-30T15:01:33.951110+05:00",
+  "quotes": 1765,
+  "checks": [
+    {
+      "store": "Chase Value",
+      "url": "https://chasevalue.pk/products.json?limit=100&page=1",
+      "status": "parsed",
+      "offers": 708
+    },
+    {
+      "store": "Chase Value",
+      "url": "https://chasevalue.pk/products.json?limit=100&page=2",
+      "status": "parsed",
+      "offers": 427
+    },
+    {
+      "store": "Naheed",
+      "url": "https://www.naheed.pk/groceries-pets",
+      "status": "parsed",
+      "offers": 48
+    },
+    {
+      "store": "Naheed",
+      "url": "https://www.naheed.pk/groceries-pets/fresh-products/vegetables",
+      "status": "parsed",
+      "offers": 32
+    },
+    {
+      "store": "Paklap",
+      "url": "https://www.paklap.pk/laptops-prices.html",
+      "status": "parsed",
+      "offers": 20
+    },
+    {
+      "store": "Paklap",
+      "url": "https://www.paklap.pk/daily-deals.html",
+      "status": "parsed",
+      "offers": 5
+    },
+    {
+      "store": "Metro",
+      "url": "https://metro-online.pk/",
+      "status": "parsed",
+      "offers": 251
+    },
+    {
+      "store": "OLX",
+      "url": "https://www.olx.com.pk/items/q-iphone-15",
+      "status": "parsed",
+      "offers": 33
+    },
+    {
+      "store": "OLX",
+      "url": "https://www.olx.com.pk/items/q-laptop",
+      "status": "parsed",
+      "offers": 33
+    },
+    {
+      "store": "OLX",
+      "url": "https://www.olx.com.pk/items/q-sofa",
+      "status": "parsed",
+      "offers": 33
+    },
+    {
+      "store": "Foodpanda / Kifayah",
+      "url": "https://www.foodpanda.pk/shop/a036/kifayah-supermarket-pechs",
+      "status": "parsed",
+      "offers": 90
+    },
+    {
+      "store": "Naheed",
+      "url": "https://www.naheed.pk/groceries-pets/dairy/milk-dairy-drinks",
+      "status": "parsed",
+      "offers": 32
+    },
+    {
+      "store": "Naheed",
+      "url": "https://www.naheed.pk/groceries-pets/baking-cooking/rice",
+      "status": "parsed",
+      "offers": 23
+    },
+    {
+      "store": "Naheed",
+      "url": "https://www.naheed.pk/groceries-pets/baking-cooking/flours-meals",
+      "status": "parsed",
+      "offers": 32
+    }
+  ]
+}

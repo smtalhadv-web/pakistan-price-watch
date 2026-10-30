@@ -18,16 +18,18 @@ def validate(rows):
  return rows
 from catalog_ui import family,groups_for,archive,detail,graph,photo
 from discovery_ui import chrome,home,MENU
+from market_features import subgroup,feature_pages
 
 def build():
  priced=validate(json.loads((ROOT/'data/prices.json').read_text()));catalog=[]
+ if (ROOT/'data/partner-prices.json').exists():priced+=validate(json.loads((ROOT/'data/partner-prices.json').read_text()))
  for fn in ['catalog.json','extra-catalog.json']:catalog+=json.loads((ROOT/'data'/fn).read_text())
  normalize(priced);normalize(catalog)
  ids={r['id']for r in priced};rows=priced+[r for r in catalog if r['id']not in ids]
  for r in rows:
-  r['pricing_mode']=mode(r);r['store']=store_name(r);r['family']=family(r)
+  r['pricing_mode']=mode(r);r['subcategory'],r['subcategory_slug']=subgroup(r);r['store']=store_name(r);r['family']=family(r)
   if 'priceoye.pk/mobiles/'in (r.get('source')or'')and not r.get('brand'):r['brand']=r['source'].split('/mobiles/')[1].split('/')[0].title()
- groups=groups_for(rows);hist=json.loads((ROOT/'data/history.json').read_text());out=ROOT/'dist';shutil.rmtree(out,ignore_errors=True);out.mkdir()
+ groups=groups_for(rows);hist=json.loads((ROOT/'data/history.json').read_text());hist.update(json.loads((ROOT/'data/partner-history.json').read_text())if(ROOT/'data/partner-history.json').exists()else{});out=ROOT/'dist';shutil.rmtree(out,ignore_errors=True);out.mkdir()
  for f in ['style.css','app.js']:shutil.copy(ROOT/f,out/f)
  (out/'data').mkdir();shutil.copytree(ROOT/'assets',out/'assets');(out/'admin').mkdir();(out/'admin/.gitkeep').touch()
  for cat,label in CATS.items():
@@ -38,8 +40,8 @@ def build():
   if not any(p['date']==r['date']and p['price']==r['price']for p in a):
    a[:]=[p for p in a if p['date']!=r['date']];a.append(dict(date=r['date'],price=r['price'],source=r['source']));a.sort(key=lambda p:p['date'])
  (out/'data/directory.json').write_text(json.dumps(rows,ensure_ascii=False,separators=(',',':')));(out/'data/history.json').write_text(json.dumps(hist,ensure_ascii=False,separators=(',',':')))
- E=lambda x:html.escape(str(x or''),quote=True);version=hashlib.sha256((ROOT/'app.js').read_bytes()+(ROOT/'style.css').read_bytes()+(ROOT/'data/prices.json').read_bytes()+(ROOT/'data/history.json').read_bytes()+(ROOT/'scripts/catalog_ui.py').read_bytes()+(ROOT/'scripts/discovery_ui.py').read_bytes()+(ROOT/'scripts/build.py').read_bytes()+(ROOT/'scripts/taxonomy.py').read_bytes()+(ROOT/'scripts/item_images.py').read_bytes()+((ROOT/'data/item-images.json').read_bytes()if(ROOT/'data/item-images.json').exists()else b'')).hexdigest()[:12];base=os.environ.get('SITE_URL','https://smtalhadv-web.github.io/pakistan-price-watch').rstrip('/')
- cities=sorted({r['city']for r in rows if r['city']!='Pakistan'})
+ E=lambda x:html.escape(str(x or''),quote=True);version=hashlib.sha256((ROOT/'app.js').read_bytes()+(ROOT/'style.css').read_bytes()+(ROOT/'data/prices.json').read_bytes()+(ROOT/'data/history.json').read_bytes()+(ROOT/'scripts/catalog_ui.py').read_bytes()+(ROOT/'scripts/discovery_ui.py').read_bytes()+(ROOT/'scripts/build.py').read_bytes()+(ROOT/'scripts/taxonomy.py').read_bytes()+(ROOT/'scripts/market_features.py').read_bytes()+(ROOT/'scripts/partner_sources.py').read_bytes()+((ROOT/'data/partner-prices.json').read_bytes()if(ROOT/'data/partner-prices.json').exists()else b'')+(ROOT/'scripts/item_images.py').read_bytes()+((ROOT/'data/item-images.json').read_bytes()if(ROOT/'data/item-images.json').exists()else b'')).hexdigest()[:12];base=os.environ.get('SITE_URL','https://smtalhadv-web.github.io/pakistan-price-watch').rstrip('/')
+ cities=sorted({r['city']for r in rows if r['city']not in ['Pakistan','Location unconfirmed']})
  options='<option value="Pakistan">Pakistan · قومی قیمتیں</option><optgroup label="↳ Cities in Pakistan">'+''.join('<option value="'+E(c)+'">↳ '+E(c)+'</option>'for c in cities)+'</optgroup>'
  location='<dialog id="location-dialog" class="location-dialog"><form id="location-form"><div class="eyebrow">YOUR LOCATION</div><h2>اپنا شہر منتخب کریں</h2><div class="country-parent">🇵🇰 Pakistan <strong>✓ Parent country</strong></div><p>Any city includes Pakistan-wide prices automatically.</p><label for="location-pick">Pakistan → City / شہر</label><select id="location-pick">'+options+'</select><p id="parent-confirm" lang="ur" dir="rtl">پاکستان کی قومی قیمتیں خود بخود شامل ہیں۔</p><button class="primary" type="submit">Show prices / قیمتیں دکھائیں</button></form></dialog>'
  def page(title,body,path='index.html',prefix='',description=None):
@@ -68,12 +70,12 @@ def build():
  (out/'search.html').write_text(page('Search Pakistan prices by item, city and brand',searchbody,'search.html'))
  (out/'index.html').write_text(page('Pakistan Price Comparison – Gold, Petrol, Mobiles & Groceries',home(rows,market),description='Compare published prices in Pakistan for gold, petrol, mobile phones, laptops and groceries. Check city rates, multiple stores, source dates and price histories.'));urls=['index.html','methodology.html','laptops.html'];(out/'items').mkdir();(out/'categories').mkdir();(out/'brands').mkdir()
  for c,label in CATS.items():
-  items=[r for r in rows if r['category']==c];path='categories/'+c+'.html';body='<main id="main" class="home-layout" data-archive-category="'+c+'"><h1>'+ICONS[c]+' '+E(label)+'</h1><p>Open an item for the current source prices, store comparisons and dated history.</p><p class="current-location"></p><div id="archive-host">'+archive([r for r in items if r['city']=='Pakistan'],'../')+'</div><div class="pagination"><button id="previous">← Previous</button><span id="page-label"></span><button id="next">Next →</button></div></main>';(out/path).write_text(page(label+' prices in Pakistan',body,path,'../'));urls.append(path)
+  items=[r for r in rows if r['category']==c];path='categories/'+c+'.html';body='<main id="main" class="home-layout" data-archive-category="'+c+'"><h1>'+ICONS[c]+' '+E(label)+'</h1><p>Open an item for the current source prices, store comparisons and dated history.</p><p class="current-location"></p><div class="subcategory-links">'+''.join('<a href="../subcategories/'+E(slug)+'.html">'+E(label)+'</a>'for slug,label in sorted({(r['subcategory_slug'],r['subcategory'])for r in items}))+'</div><div id="archive-host">'+archive([r for r in items if r['city']=='Pakistan'and mode(r)!='asking'],'../')+'</div><div class="pagination"><button id="previous">← Previous</button><span id="page-label"></span><button id="next">Next →</button></div></main>';(out/path).write_text(page(label+' prices in Pakistan',body,path,'../'));urls.append(path)
  items=[r for r in rows if r['category']=='electronics'and re.search(r'laptop|desktop|mini pc|workstation|macbook|thinkpad|vivobook|ideapad',r['name'],re.I)]
  laptopbody='<main id="main" class="home-layout" data-archive-topic="computers"><h1>Laptop and PC prices in Pakistan</h1><p>Compare published laptop and desktop listings. Check processor, RAM, storage, graphics, condition and warranty on each item page.</p><div id="archive-host">'+archive(items,'')+'</div><div class="pagination"><button id="previous">← Previous</button><span id="page-label"></span><button id="next">Next →</button></div></main>'
  (out/'laptops.html').write_text(page('Laptop and PC prices in Pakistan',laptopbody,'laptops.html'))
  for b,items in brands.items():
-  path='brands/'+brand_slug(b)+'.html';body='<main id="main" class="home-layout" data-archive-brand="'+E(b)+'"><h1>'+E(b)+' prices</h1><p>Choose an item to inspect the listed variants, source dates and store comparison.</p><div id="archive-host">'+archive([r for r in items if r['city']=='Pakistan'],'../')+'</div><div class="pagination"><button id="previous">← Previous</button><span id="page-label"></span><button id="next">Next →</button></div></main>';(out/path).write_text(page(b+' prices and products in Pakistan',body,path,'../'));urls.append(path)
+  path='brands/'+brand_slug(b)+'.html';body='<main id="main" class="home-layout" data-archive-brand="'+E(b)+'"><h1>'+E(b)+' prices</h1><p>Choose an item to inspect the listed variants, source dates and store comparison.</p><div id="archive-host">'+archive([r for r in items if r['city']=='Pakistan'and mode(r)!='asking'],'../')+'</div><div class="pagination"><button id="previous">← Previous</button><span id="page-label"></span><button id="next">Next →</button></div></main>';(out/path).write_text(page(b+' prices and products in Pakistan',body,path,'../'));urls.append(path)
  # Policy pages stay available without technical download links on the customer dashboard.
  def dummy_table(items,prefix=''):return archive(items,prefix)
  enhance(out,rows,priced,groups,page,dummy_table,urls,base,E)
@@ -82,5 +84,6 @@ def build():
  (out/'methodology.html').write_text(page('Sources and methodology',method,'methodology.html'))
  for r in rows:
   path='items/'+r['id']+'.html';peers=groups[family(r)];(out/path).write_text(page(r['name']+' prices in Pakistan',detail(r,peers,hist,rows),path,'../',r['name']+' price comparison in Pakistan. '+('Published price PKR '+format(r['price'],',.2f')+' per '+r['unit']+', source date '+r['date']+'. 'if r['price']is not None else'No verified quote yet. ')+'Check listed variants, original sources, city rates and dated price history.'));urls.append(path)
+ feature_pages(out,rows,page,urls,base)
  (out/'sitemap.xml').write_text('<?xml version="1.0"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">'+''.join('<url><loc>'+E(base+'/'+u)+'</loc></url>'for u in dict.fromkeys(urls))+'</urlset>');(out/'.nojekyll').touch();print('Built',len(rows),'working item pages and',len(set(urls)),'crawlable pages')
 if __name__=='__main__':build()
