@@ -32,6 +32,9 @@ def archive(items,prefix=''):
   out+='<article class="archive-card" data-city="'+E('|'.join(sorted({x['city']for x in peers})))+'"><a class="product-title-link" href="'+prefix+'items/'+r['id']+'.html">'+photo(r,prefix)+'<h3>'+E(r['name'])+'</h3></a>'
   if r.get('urdu'):out+='<p class="original-urdu" lang="ur" dir="rtl">'+E(r['urdu'])+'</p>'
   out+=('<small class="quote-scope">'+E(r.get('condition','Condition not verified'))+'</small>'if mode(r)=='asking'else'<small class="quote-scope">Verify store area / pack before comparison</small>'if r.get('comparison_eligible')is False else'')
+  out+='<small class="item-taxonomy">'+E(r.get('subcategory',''))+'</small>'
+  quotes=r.get('wholesale_quotes',[])
+  if quotes:out+='<small class="wholesale-badge">Wholesale from PKR '+f'{min(q["price"]for q in quotes):,.2f}'+' / '+E(r['unit'])+'</small>'
   out+='<strong class="range-price">'+value+'</strong><p>'+E(r['unit'])+' · '+('Latest source '+max(x['date']for x in priced)if priced else'Exact specification / quote needed')+'</p></article>'
  return out+'</div>'
 def graph(points,label,compact=False):
@@ -63,7 +66,8 @@ def detail(r,peers,hist,rows):
  out+='<p class="detail-price">'+summary+'</p><p>'+E(r['unit'])+(' · Latest source date '+latest if latest else' · No verified quote yet')+'</p></div><figure class="detail-photo">'+photo(r,'../')+'<figcaption>'+('Representative '+E(r.get('image_subject','item'))+' image; exact brand, model or survey grade is not confirmed.'if r.get('image_kind')=='representative'else'Item illustration; a verified photograph of this exact item is not available.'if r.get('image_kind')=='illustration'else'Source-supplied product photo')+'</figcaption></figure></div>'
  if r.get('image_kind')=='representative':out+='<p class="image-credit">Photo: '+E(r.get('image_credit'))+' · '+E(r.get('image_license'))+' · <a href="'+E(r.get('image_source'))+'" target="_blank" rel="noopener noreferrer">Image source and attribution ↗</a></p>'
  if r.get('scope'):out+='<p class="quote-scope">'+E(r['scope'])+' · '+E(r.get('condition',''))+'</p>'
- out+=comparison(peers,r)
+ from wholesale import section
+ out+=comparison(peers,r)+section(r)
  out+='<section class="detail-section"><h2>Price history by date</h2><p>Each series keeps one item, location, unit and source. Dates are observations or notification dates, not invented daily prices.</p>'
  # Show representative series first, then other sources/cities as collapsible sections.
  ordered=sorted(priced,key=lambda x:(x['id']!=r['id'],x['city'],store_name(x)))

@@ -1,24 +1,31 @@
 import json,re,datetime,statistics,hashlib
 from catalog_ui import E,archive
 from model import CATS,mode
-from partner_sources import SOURCES
 
 def subgroup(r):
  n=r['name'].lower();cat=r['category']
  rules={
+ 'agriculture':[('Farm machinery',r'tractor|harvester|rotavator|cultivator|seed drill'),('Irrigation & sprayers',r'irrigation|sprayer'),('Fertilizers & soil',r'fertilizer|compost|urea|dap|potash'),('Seeds & animal feed',r'.')],
+ 'services':[('Vehicle & appliance repairs',r'repair|maintenance|installation'),('Construction trades',r'painter|mason|labour|plumber|electrician|carpenter|welder'),('Other services',r'.')],
+ 'baby':[('Baby care & feeding',r'diaper|wipes|feeding|molfix'),('Baby transport & furniture',r'stroller|cot|car seat'),('Toys & children’s essentials',r'.')],
+ 'sports':[('Fitness equipment',r'treadmill|exercise|dumbbell|fitness'),('Outdoor & travel',r'camping|suitcase|tent'),('Sports equipment',r'.')],
+ 'stationery':[('Books & learning',r'book|quran|reference'),('Paper & writing',r'paper|pen|pencil|notebook|marker|paint'),('Office & school supplies',r'.')],
+ 'pets':[('Cat food',r'cat'),('Dog food',r'dog'),('Pet supplies',r'.')],
+ 'other':[('Gift cards',r'gift card'),('Mystery boxes',r'mystery box'),('Unclassified — review pending',r'.')],
  'mobiles':[('Smartphones',r'iphone|galaxy|redmi|poco|xiaomi|samsung|vivo|oppo|tecno|infinix|realme|android|smartphone'),('Feature & specialist phones',r'.')],
  'electronics':[('Laptops & desktop PCs',r'laptop|macbook|notebook|ideapad|thinkpad|inbook|desktop computer'),('Computer parts & storage',r'ram|memory|processor|ssd|hard drive|graphics card|motherboard|casing|power suppl'),('Phone accessories',r'charger|adapter|power ?bank|mobile battery|usb cable'),('Audio & wearables',r'earbud|earphone|headphone|speaker|watch|band'),('Monitors & imaging',r'monitor|projector|camera|printer|scanner'),('Other electronics',r'.')],
- 'grocery':[('Rice, flour & grains',r'rice|flour|wheat|oat|grain'),('Pulses & legumes',r'pulse|dal|daal|lentil|chickpea|gram|moong|mash|masoor'),('Cooking oil & ghee',r'oil|ghee'),('Dairy & eggs',r'milk|curd|yogurt|cheese|butter|egg'),('Spices, salt & sugar',r'salt|sugar|spice|pepper|turmeric|coriander|chilli'),('Tea, snacks & other groceries',r'.')],
+ 'property':[('Rentals',r'rent|studio'),('Property listings',r'.')],
+ 'grocery':[('Snacks & bakery',r'cookies|biscuit|bread|rusks|kracks|lays|chocolate|cadbury|noms|wheatable|peek freans'),('Prepared & frozen food',r'samosa|kabab|kofta|nugget|paratha|fries|patty|patties|tikka|fajita|croquette|croquet'),('Drinks & beverages',r'nectar|juice|sharbat|sharbet|rooh afza|coca cola|7up|redbull|coconut water'),('Rice, flour & grains',r'rice|flour|wheat|oat|grain'),('Pulses & legumes',r'pulse|dal|daal|lentil|chickpea|gram|moong|mash|masoor'),('Cooking oil & ghee',r'oil|ghee'),('Dairy & eggs',r'milk|curd|yogurt|cheese|butter|egg'),('Spices, salt & sugar',r'salt|sugar|spice|pepper|turmeric|coriander|chilli'),('Tea, snacks & other groceries',r'.')],
  'produce':[('Vegetables',r'potato|tomato|onion|garlic|ginger|cabbage|cauliflower|carrot|radish|turnip|gourd|brinjal|eggplant|spinach|okra|cucumber|capsicum|beet|mint|coriander|chilli'),('Fruit',r'.')],
  'meat':[('Poultry & eggs',r'chicken|poultry|egg'),('Beef & mutton',r'beef|mutton|goat|buffalo|calf'),('Fish & other meat',r'.')],
  'construction':[('Cement, bricks & aggregates',r'cement|brick|bajri|sand|aggregate|concrete'),('Metal, wood & fixtures',r'iron|steel|door|window|plywood|pipe|wire|circuit'),('Finishes & other materials',r'.')],
- 'apparel':[('Footwear',r'shoe|sandal|chappal'),('Bags & accessories',r'bag|backpack|sunglass|luggage'),('Clothing & fabrics',r'.')],
+ 'apparel':[('Footwear',r'shoe|sandal|chappal'),('Bags & accessories',r'bag|backpack|sunglass|luggage'),('Children’s clothing',r'girls|boys|newborn|children'),('Outerwear & knitwear',r'jacket|sweater|sweatshirt'),('Clothing & fabrics',r'.')],
  'furniture':[('Chairs & desks',r'chair|desk'),('Beds & bedroom',r'bed|wardrobe|dresser'),('Sofas & living room',r'sofa|couch|coffee|side table'),('Other furniture',r'.')],
- 'household':[('Kitchen appliances & utensils',r'kettle|fryer|cooker|oven|microwave|cookware|blender|juicer|mug|casserole|dinner|kitchen'),('Cleaning, laundry & air care',r'vacuum|washing|clean|purifier|humidifier|fan|steamer|soap|detergent'),('Other household items',r'.')],
+ 'household':[('Kitchen appliances & utensils',r'kettle|fryer|cooker|oven|microwave|cookware|blender|juicer|mug|casserole|dinner|kitchen'),('Cleaning, laundry & air care',r'vacuum|washing|clean|purifier|humidifier|fan|steamer|soap|detergent'),('Home textiles & decor',r'cushion|runner|clock|planter|curtain|sheet|towel'),('Other household items',r'.')],
  'automobiles':[('Motorcycles & electric mobility',r'motorcycle|scooter|electric bike|gd 110|gs 150|gr 150|gsx'),('Vehicles & parts',r'.')],
  'machinery':[('Power tools',r'drill|saw|grinder|screwdriver|hammer|sander|planer'),('Industrial, pumps & engines',r'.')],
  'health':[('Grooming & personal care',r'shaver|toothbrush|toothpaste|shampoo|soap|cream|cosmetic|perfume|lotion|serum'),('Health equipment & supplies',r'.')],
- 'fuel':[('Vehicle fuels',r'petrol|diesel|euro|jp-1'),('Utilities & other energy',r'.')],
+ 'fuel':[('Vehicle fuels',r'petrol|diesel|euro|jp-1'),('Solar, batteries & backup power',r'solar|battery|inverter|ups|turbine|controller|ev charger'),('Utilities & other energy',r'.')],
  'metals':[('Gold',r'gold'),('Silver & other metals',r'.')],
  'currency':[('Open market',r'open market'),('Interbank & other currency quotes',r'.')]}
  label=next((label for label,p in rules.get(cat,[(CATS[cat],r'.')])if re.search(p,n)),CATS[cat]);slug=cat+'-'+re.sub(r'[^a-z0-9]+','-',label.lower()).strip('-')
@@ -57,14 +64,3 @@ def feature_pages(out,rows,page,urls,base):
  (out/'predictor.html').write_text(page('Experimental Pakistan price predictor and history-based ranges',body,'predictor.html'));urls.append('predictor.html')
  path='shares.html';body='''<main id="main" class="home-layout"><h1>Pakistan shares & stock market hub</h1><p>Research Pakistani shares through the official exchange. No live, delayed, historical share prices or index levels are republished here without the relevant data rights.</p><div class="hub-grid"><a class="hub-card" href="https://dps.psx.com.pk/" target="_blank" rel="noopener"><h2>PSX market watch ↗</h2><p>Open the official portal. Its data is generally delayed 5 minutes unless indicated otherwise.</p></a><a class="hub-card" href="https://dps.psx.com.pk/screener/" target="_blank" rel="noopener"><h2>Official share screener ↗</h2><p>Explore companies and published exchange information at the original source.</p></a><article class="hub-card"><h2>On-site quote feed</h2><p>Not connected. A PSX-authorized redistribution feed is required before numeric share prices, histories or predictions can be published here.</p><a href="https://www.psx.com.pk/psx/product-and-services/data-services-vending" target="_blank" rel="noopener">PSX data licensing information ↗</a></article></div><p>Compare securities only with appropriate financial context. No purchase recommendation or guaranteed-return claim is made.</p></main>'''
  (out/path).write_text(page('Pakistan shares and PSX stock market hub',body,path));urls.append(path)
- report=json.loads((out.parent/'data/partner-source-report.json').read_text())if(out.parent/'data/partner-source-report.json').exists()else{};checks=report.get('checks',[]);body='<main id="main" class="home-layout"><h1>Stores, marketplaces & price sources</h1><p>Coverage is partial and dated: an outbound research link is not an integrated price feed. Public catalog readers collect a bounded set of accessible pages, not a guarantee of every store product. Store-specific groceries, wholesale units, advertisements and used asking prices have different meanings.</p><div class="hub-grid">'
- for name,(url,note)in SOURCES.items():
-  count=sum(r.get('store')==name and r['price']is not None for r in rows);status=str(count)+' sourced observations'if count else'No on-site price feed'
-  if name=='PSX':status='Official external hub · license needed for on-site quotes'
-  body+='<article class="hub-card"><h2>'+E(name)+'</h2><strong>'+E(status)+'</strong><p>'+E(note)+'</p><a href="'+E(url)+'" target="_blank" rel="noopener noreferrer">Open original source ↗</a></article>'
- body+='</div><h2>Advertisements, news and wholesale quotes</h2><p>Ads and headlines are leads, not verified checkout or wholesale transaction prices. A reviewed quote needs a date, market/city, grade, package or bulk unit, condition where relevant, and the original public source. Unknowns remain unknown. Facebook Marketplace and Meta/Google commercial ads are not connected to an automated price feed. <a href="wholesale.html">Browse dated wholesale and farm-gate reference rates →</a></p></main>'
- (out/'sources.html').write_text(page('Pakistan price sources and store coverage',body,'sources.html'));urls.append('sources.html')
- scenes=json.loads((out.parent/'data/market-scenes.json').read_text())if(out.parent/'data/market-scenes.json').exists()else[]
- if scenes:
-  cards=''.join('<figure><img src="'+E(x['image'])+'" alt="'+E(x['title'])+'" loading="lazy"><figcaption>'+E(x['title'])+' · '+E(x['credit'])+' · '+E(x['license'])+' <a href="'+E(x['source'])+'" target="_blank" rel="noopener">Photo source ↗</a></figcaption></figure>'for x in scenes)
-  path='pakistani-markets.html';body='<main id="main" class="home-layout"><h1>Pakistani markets and bazaar culture</h1><p>Real, attributed documentary photographs. These scenes are not evidence of current product prices or a particular retailer’s stock.</p><div class="market-scenes">'+cards+'</div></main>';(out/path).write_text(page('Pakistani market and bazaar photographs',body,path));urls.append(path)

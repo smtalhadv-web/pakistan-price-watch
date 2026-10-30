@@ -61,3 +61,7 @@ def enhance(out,rows,priced,groups,page,table,urls,base,E):
     marker='<td><a class="itemlink urdu-first" href="'+prefix+'items/'+r['id']+'.html">'
     text=text.replace(marker,'<td><img class="item-photo" src="'+E(r['image'])+'" alt="'+E(r['name'])+'" loading="lazy" referrerpolicy="no-referrer"><a class="itemlink urdu-first" href="'+prefix+'items/'+r['id']+'.html">')
   f.write_text(text)
+
+ICONS['pets']='🐾'
+
+ICONS['property']='🏢'

@@ -147,3 +147,22 @@ class PackIdentityTests(unittest.TestCase):
   self.assertEqual(family(r),family({**r,'name':'Brand Milk 1000ml'}))
   self.assertNotEqual(family(r),family({**r,'name':'Brand Milk 100ml'}))
   self.assertNotEqual(family(r),family({**r,'name':'Brand Lactose Free Milk 1000ml'}))
+
+class NavigationAndTradeTests(unittest.TestCase):
+ def test_primary_product_category(self):
+  from taxonomy import category_for
+  for name,cat in [("Eminent Men's Knitted Sweatshirt",'apparel'),('Zimbo Cat Food Chicken Flavour','pets'),('Terra Cushion Cover','household'),('Shan Chicken Handi 50Gm','grocery'),('Sunridge Super White Atta','grocery'),('Queen Fish','meat'),('Coca Cola Can 250 ML','grocery')]:
+   self.assertEqual(category_for(dict(id='test',name=name,category='other' if name!='Shan Chicken Handi 50Gm'else'meat')),cat,name)
+ def test_wholesale_does_not_cross_grade_city_or_unit(self):
+  from wholesale import attach
+  base=dict(id='retail',category='grocery',name='Regular flour · retail',city='Karachi',unit='kg',date='2026-10-30',price=130,source='https://example.com/notice',kind='Official notified')
+  bulk={**base,'id':'bulk','name':'Regular flour · wholesale','price':122}
+  rows=[base,bulk,{**base,'id':'lahore','city':'Lahore'},{**base,'id':'fine','name':'Fine flour · retail'},{**base,'id':'bag','unit':'20 kg'},{**base,'id':'old','date':'2026-10-20'}];attach(rows)
+  self.assertEqual(base['wholesale_quotes'][0]['price'],122)
+  for r in rows[2:]:self.assertEqual(r['wholesale_quotes'],[])
+ def test_news_ignores_undated_and_future_items(self):
+  from news import parse_feed,TZ
+  import datetime
+  now=datetime.datetime(2026,10,31,8,tzinfo=TZ)
+  xml='<rss><channel><item><title>No date</title><link>https://example.com/a</link></item><item><title>Future</title><link>https://example.com/b</link><pubDate>Sun, 01 Nov 2026 10:00:00 GMT</pubDate></item><item><title>A headline - Publisher</title><link>https://example.com/c</link><source>Publisher</source><pubDate>Fri, 30 Oct 2026 10:00:00 GMT</pubDate></item></channel></rss>'
+  a=parse_feed(xml,'trade',now);self.assertEqual(len(a),1);self.assertEqual(a[0]['title'],'A headline')

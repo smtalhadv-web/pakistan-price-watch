@@ -25,10 +25,11 @@ jobs:
       - name: Check supported sources
         if: github.event_name != 'push'
         run: python scripts/update.py
+      - name: Fetch daily economy business and trade briefings
+        run: python scripts/news.py
       - name: Validate and test
         run: python -m unittest discover -s tests -v
       - name: Retain daily result
-        if: github.event_name != 'push'
         run: |
           git config user.name 'price-watch-bot'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'

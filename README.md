@@ -57,3 +57,22 @@ A shared word-boundary taxonomy is applied both during the daily import and at b
 The source-coverage page distinguishes real integrations from research links. Daraz, Imtiaz, Chase Up, Krave Mart, Facebook Marketplace, Google/Meta ads and news do not have verified numeric feeds connected. Kifayah and Paklap are independent source identities. Wholesale pages retain dated official wholesale/farm-gate references and do not imply actual mandi transactions. The shares hub links to official PSX research; numeric quotes, histories and forecasts require redistribution rights and are not republished.
 
 Subcategory pages, source/type filters and a separate classified-asking hub are generated. An experimental next-day carry-forward scenario is shown only for eligible reported daily benchmarks with enough consecutive same-source history and a current observation. It displays an empirical range, small-sample one-day backtest error and limitations; no calibrated confidence, trading signal or guaranteed future price is claimed. Documentary Pakistani market photographs are attributed to their freely licensed original Commons files, rather than treated as reusable merely because Google indexes them.
+
+### Category navigation, wholesale and news
+
+The fixed desktop sidebar scrolls independently; mobile navigation opens as a drawer.
+Categories expand to subcategories and item links. Every category archive includes
+scoped search, city, subcategory, brand, source, unit/pack, condition (when present),
+price range, quote type and sorting controls. Unknown products stay in an explicitly
+unclassified group. Product photos remain; bazaar photos and source-directory pages
+are no longer published.
+
+`python scripts/news.py` refreshes three dated economy/business/trade news briefings
+from recent Google News RSS search results. Posts contain attributed headlines,
+publisher links, publication times and editorial context; article bodies are not
+copied. The existing GitHub Actions schedule runs this daily at 07:30 Pakistan time.
+Failed feeds retain prior dated posts and display an incomplete-refresh notice.
+
+Wholesale sections match explicit wholesale/farm-gate notices by normalized product,
+category, city, unit, publisher and effective date. No bulk discount is inferred from
+retail offers. Missing wholesale quotes remain unavailable.

@@ -16,6 +16,14 @@ def survey_category(name):
 
 def category_for(r):
  n=r['name'];old=r['category'];id=r['id']
+ # Classify the product itself before ingredient or retailer catch-all rules.
+ if has(r'\b(?:cat food|dog food|pet (?:food|snack)|cat litter)\b',n):return'pets'
+ if has(r'\b(?:cushion cover|runner|wall clock|planter|curtain|bed sheet|bedsheet|towel)\b',n):return'household'
+ if old=='other':
+  rules=[('apparel',r'\b(?:sweatshirt|jacket|trousers|sneakers|sweater|socks|romper|cotton pants|denim pants|joggers|co-ord|frock|knitted top|embroidered|crossbody bag|(?:fusion|essentials|ethnic).*?(?:printed|dyed))\b'),('baby',r'\b(?:diaper|molfix|pampers|baby wipes|feeding bottle)\b'),('health',r'\b(?:facewash|face wash|body spray|facial mask|razor|hair color|shampoo|palmolive|sensitive (?:maxi|ultra)|sanitary|toothpaste|lotion|serum)\b'),('household',r'\b(?:airfreshner|air freshener|detergent|dishwash|washing|cleaner|charcoal|charcoa|tissue|foil|pillow|wipes|cushion)\b'),('meat',r'\b(?:fish|snapper)\b'),('property',r'\b(?:for rent|studio fully furnished)\b'),('mobiles',r'^infinix note'),('electronics',r'\b(?:laptops?|core i5|security cameras)\b'),('furniture',r'\b(?:safas|armchairs|soled wood)\b'),('produce',r'\b(?:tomatoes|banana|apple|capsicum|gourd|potato|cucumber|onion|ginger|garlic|mango|orange|lemon|spinach|okra|grapefruit|mussammi|pomegranate|cauliflower)\b'),('grocery',r'\b(?:atta|baisan|besan|lobia|chana|nescafe|chai|kracks|peek freans|cadbury|wheatable|lays|noms|rice|flour|milk|sugar|salt|ghee|tea|biscuit|juice|chocolate|noodle|pasta|ketchup|sauce|jam|honey|coffee|water|oil|rooh afza|nectar|sharbat|sharbet|redbull|coca cola|7up|fries|samosa|kabab|paratha|tikka|croquets|yogurt|cheddar|mozz|oats|porridge|cornflakes|fajita|nuggets|kofta|patties|rusks)\b'),('electronics',r'\bwatches\b')]
+  for target,pattern in rules:
+   if has(pattern,n):return target
+ if old=='meat'and has(r'\b(?:powder|shan|masala|spice|seasoning)\b',n):return'grocery'
  if id.startswith('pbs-weekly-'):return survey_category(n)
  if id.startswith('pbs-construction-'):return'services'if has(r'^(?:painter|mason|labour|plumber|electrician)\b',n)else'construction'
  if r.get('sheet'):return old # Verified official class/grade has an explicit category.

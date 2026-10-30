@@ -8,3 +8,7 @@ def mode(r):
  return'daily'
 
 CATS['other']='Other items & gift cards'
+
+CATS['pets']='Pet food & supplies'
+
+CATS['property']='Property & rentals'
