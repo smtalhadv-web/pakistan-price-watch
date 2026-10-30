@@ -57,7 +57,7 @@
       342437
     ]
   ],
-  "checked_at": "2026-10-30T00:27:48.564841+00:00",
+  "checked_at": "2026-10-30T00:30:28.111797+00:00",
   "sources": [
     {
       "source": "PSO dated fuel archive",
@@ -67,7 +67,7 @@
     {
       "source": "Published gold and silver benchmarks",
       "status": "parsed",
-      "new_records": 1
+      "new_records": 0
     },
     {
       "source": "Published currency tables",
