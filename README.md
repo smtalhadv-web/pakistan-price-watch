@@ -45,3 +45,7 @@ The homepage leads with category icons and brand tiles, a compact daily market s
 
 ## Search-led navigation
 The homepage contains four essential market quotes and four curated multi-store model comparisons, rather than a full directory. No search-volume or popularity ranking is claimed without analytics. Full search lives at search.html (noindex/follow), category and brand archives remain crawlable, and laptops.html targets laptop/PC intent. All pages use category sidebar navigation, visible breadcrumbs and matching BreadcrumbList structured data. The homepage includes a short usage guide and factual source/update answers. SEO, AEO, AIO and GEO use useful text, crawlable links, original sources and visible-data-consistent metadata; inclusion and rankings are not guaranteed.
+
+
+## Taxonomy and image checks
+A shared word-boundary taxonomy is applied both during the daily import and at build time. Sandals cannot match construction sand; household appliances, gaming chairs, grooming devices, tools, phone accessories and handsets use subject rules. Survey prices, units, source dates and history are untouched by categorization. Product images retain their source; freely licensed representative subject photos carry file attribution and are explicitly not asserted to match an unspecified survey grade or SKU. Where no verified photograph exists, every item receives a named item illustration, labelled as such. The image registry refreshes on the existing daily workflow, preserving previous metadata on failed requests.

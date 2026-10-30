@@ -14,8 +14,9 @@ def groups_for(rows):
  return groups
 
 def photo(r,prefix=''):
- src=r.get('image')or prefix+'assets/category-'+r['category']+'.svg'
- return '<img data-category="'+r['category']+'" src="'+E(src)+'" alt="'+E(r['name']if r.get('image')else CATS[r['category']]+' · category illustration')+'" loading="lazy" referrerpolicy="no-referrer">'
+ src=r.get('image')or'assets/category-'+r['category']+'.svg'
+ if not src.startswith('https://'):src=prefix+src
+ return '<img data-category="'+r['category']+'" data-fallback-src="'+E(prefix+r.get('fallback_image','assets/category-'+r['category']+'.svg'))+'" src="'+E(src)+'" alt="'+E(r['name']+(' · representative image'if r.get('image_kind')=='representative'else' · item illustration'if r.get('image_kind')=='illustration'else''))+'" loading="lazy" referrerpolicy="no-referrer">'
 def archive(items,prefix=''):
  out='<div class="archive-grid" id="archive-grid">'
  for peers in groups_for(items).values():
@@ -51,7 +52,8 @@ def detail(r,peers,hist,rows):
  summary='PKR '+f'{min(vals):,.2f}'+(' – '+f'{max(vals):,.2f}'if min(vals)!=max(vals)else'')if vals else'قیمت دستیاب نہیں · Price unavailable'
  out='<main id="main" class="detail-layout"><div class="detail-head"><div><div class="eyebrow">'+E(CATS[r['category']])+' · Pakistan</div><h1>'+E(r['name'])+'</h1>'
  if r.get('urdu'):out+='<p class="original-urdu" lang="ur" dir="rtl">'+E(r['urdu'])+'</p>'
- out+='<p class="detail-price">'+summary+'</p><p>'+E(r['unit'])+(' · Latest source date '+latest if latest else' · No verified quote yet')+'</p></div><figure class="detail-photo">'+photo(r,'../')+'<figcaption>'+('Source-supplied product photo'if r.get('image')else'Category illustration; no verified photograph of this exact item is available.')+'</figcaption></figure></div>'
+ out+='<p class="detail-price">'+summary+'</p><p>'+E(r['unit'])+(' · Latest source date '+latest if latest else' · No verified quote yet')+'</p></div><figure class="detail-photo">'+photo(r,'../')+'<figcaption>'+('Representative '+E(r.get('image_subject','item'))+' image; exact brand, model or survey grade is not confirmed.'if r.get('image_kind')=='representative'else'Item illustration; a verified photograph of this exact item is not available.'if r.get('image_kind')=='illustration'else'Source-supplied product photo')+'</figcaption></figure></div>'
+ if r.get('image_kind')=='representative':out+='<p class="image-credit">Photo: '+E(r.get('image_credit'))+' · '+E(r.get('image_license'))+' · <a href="'+E(r.get('image_source'))+'" target="_blank" rel="noopener noreferrer">Image source and attribution ↗</a></p>'
  out+=comparison(peers,r)
  out+='<section class="detail-section"><h2>Price history by date</h2><p>Each series keeps one item, location, unit and source. Dates are observations or notification dates, not invented daily prices.</p>'
  # Show representative series first, then other sources/cities as collapsible sections.

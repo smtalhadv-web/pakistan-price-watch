@@ -69,3 +69,32 @@ class ItemArchiveTests(unittest.TestCase):
   from catalog_ui import graph
   result=graph([{'date':'2026-10-30','price':100}],'Test')
   self.assertIn('<circle',result);self.assertNotIn('<polyline',result)
+
+class TaxonomyTests(unittest.TestCase):
+ def test_whole_words_prevent_sand_sandal_collision(self):
+  from taxonomy import survey_category
+  self.assertEqual(survey_category('Ladies Sandal Bata'),'apparel')
+  self.assertEqual(survey_category('Gents Sandal Bata'),'apparel')
+  self.assertEqual(survey_category('Sand · black pit'),'construction')
+  self.assertEqual(survey_category('Energy Saver Philips 14 Watt'),'household')
+ def test_retail_subjects_and_phone_accessories(self):
+  from taxonomy import category_for
+  base=dict(id='test',category='electronics')
+  for name,category in [('Gaming Chair Black','furniture'),('Mi 23.8 Desktop Monitor','electronics'),('Mi 11 Lite','mobiles'),('Mi Cordless Screwdriver','machinery'),('Mi Electric Toothbrush','health'),('Mi Smart Kettle','household'),('Shoe rack','furniture')]:
+   self.assertEqual(category_for({**base,'name':name}),category,name)
+  self.assertEqual(category_for({**base,'category':'mobiles','name':'Xiaomi 20W Power Adapter'}),'electronics')
+  self.assertEqual(category_for({**base,'category':'mobiles','name':'Redmi 12 + Mi LCD Writing Tablet'}),'mobiles')
+ def test_full_snapshot_reclassification_preserves_quotes(self):
+  from taxonomy import normalize
+  rows=json.loads((ROOT/'data/prices.json').read_text());before={r['id']:(r['price'],r['date'],r['source'],r['unit'])for r in rows};normalize(rows)
+  for r in rows:
+   self.assertEqual(before[r['id']],(r['price'],r['date'],r['source'],r['unit']))
+   if 'Sandal Bata'in r['name']:self.assertEqual(r['category'],'apparel')
+
+class ItemImageTests(unittest.TestCase):
+ def test_subject_does_not_confuse_a_product_with_its_contents(self):
+  from item_images import subject_for,valid_subject
+  self.assertEqual(subject_for(dict(id='catalog-rice-cooker',name='Rice cooker',category='household')),'Rice cooker')
+  self.assertEqual(subject_for(dict(id='pbs-weekly-40-karachi',name='Ladies Sandal Bata',category='apparel')),"Women's sandals")
+  self.assertEqual(subject_for(dict(id='suzuki-alto',name='Suzuki Alto VXR',category='automobiles')),'')
+  self.assertFalse(valid_subject('Badminton racket',{'subject':'Racket (sports equipment)'}))

@@ -21,7 +21,7 @@ def parse_pso(raw):
  return values
 if __name__=='__main__':
  import subprocess,sys
- for name in ['collect.py','download_sources.py','ingest.py','expand_fetch.py','expand.py','commerce.py']:
+ for name in ['collect.py','download_sources.py','ingest.py','expand_fetch.py','expand.py','commerce.py','item_images.py']:
   result=subprocess.run([sys.executable,str(ROOT/'scripts'/name)],check=False)
   if result.returncode:
    print(name+' failed: existing dated quotes retained; manual review required')

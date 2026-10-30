@@ -84,6 +84,8 @@ def run():
       im=v.get('featured_image')or next(iter(p.get('images',[])),{});r['image']=im.get('src');r['brand']=p.get('vendor');r['store']=urllib.parse.urlparse(r['source']).netloc
       if fn=='makita-products':r['manufacturer_model']=v.get('sku')
       elif fn=='kamadi-products'and' | 'in p['title']:r['manufacturer_model']=p['title'].split(' | ')[0]
+ from taxonomy import normalize
+ normalize(list(rows.values()))
  (ROOT/'data/prices.json').write_text(json.dumps(list(rows.values()),ensure_ascii=False,separators=(',',':'))+'\n')
  (ROOT/'data/history.json').write_text(json.dumps(hist,ensure_ascii=False,separators=(',',':'))+'\n')
  (ROOT/'data/commerce-report.json').write_text(json.dumps({'checked_at':TODAY,'observed_offers':len(seen),'sources':logs},indent=2))

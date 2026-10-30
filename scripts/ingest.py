@@ -13,17 +13,7 @@ def date_en(s):
   except ValueError:pass
  raise ValueError('Unknown source date '+s)
 def soup(key):return BeautifulSoup((ROOT/'raw'/f'{key}.html').read_text(),'html.parser')
-def classified(name):
- n=name.lower()
- if any(x in n for x in ['beef','mutton','chicken','eggs']):return 'meat'
- if any(x in n for x in ['potato','onion','tomato','banana','garlic']):return 'produce'
- if any(x in n for x in ['cement','iron bar','bricks','bajri','sand','enamel']):return 'construction'
- if any(x in n for x in ['petrol','diesel','lpg','firewood','electricity','gas charges']):return 'fuel'
- if any(x in n for x in ['shirt','shoe','sandal','lawn','cloth','chappal','georgette']):return 'apparel'
- if any(x in n for x in ['soap','match','bulb','washing','toilet','detergent']):return 'household'
- if any(x in n for x in ['painter','mason','labour','plumber','electrician','haircut','telephone']):return 'services'
- if any(x in n for x in ['urea','dap','fertilizer']):return 'agriculture'
- return 'grocery'
+from taxonomy import survey_category as classified
 def ingest():
  records={r['id']:r for r in json.loads((ROOT/'data/prices.json').read_text())}
  hist=json.loads((ROOT/'data/history.json').read_text()) if (ROOT/'data/history.json').exists() else {}

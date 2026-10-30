@@ -1,6 +1,8 @@
 import json,pathlib,html,shutil,os,re,math,datetime,hashlib
 ROOT=pathlib.Path(__file__).resolve().parents[1]
 from model import CATS,mode
+from taxonomy import normalize
+from item_images import apply_images
 from presentation import comparison_key, store_name, enhance, item_content, ICONS
 
 def validate(rows):
@@ -20,6 +22,7 @@ from discovery_ui import chrome,home,MENU
 def build():
  priced=validate(json.loads((ROOT/'data/prices.json').read_text()));catalog=[]
  for fn in ['catalog.json','extra-catalog.json']:catalog+=json.loads((ROOT/'data'/fn).read_text())
+ normalize(priced);normalize(catalog)
  ids={r['id']for r in priced};rows=priced+[r for r in catalog if r['id']not in ids]
  for r in rows:
   r['pricing_mode']=mode(r);r['store']=store_name(r);r['family']=family(r)
@@ -29,12 +32,13 @@ def build():
  (out/'data').mkdir();shutil.copytree(ROOT/'assets',out/'assets');(out/'admin').mkdir();(out/'admin/.gitkeep').touch()
  for cat,label in CATS.items():
   (out/'assets'/('category-'+cat+'.svg')).write_text('<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300"><rect width="400" height="300" rx="24" fill="#edf4ee"/><text x="200" y="145" font-size="75" text-anchor="middle">'+ICONS[cat]+'</text><text x="200" y="210" font-family="sans-serif" font-size="17" text-anchor="middle" fill="#315b48">'+html.escape(label)+'</text><text x="200" y="250" font-family="sans-serif" font-size="12" text-anchor="middle" fill="#6c8577">CATEGORY ILLUSTRATION</text></svg>')
+ apply_images(rows,out)
  for r in priced:
   a=hist.setdefault(r['id'],[])
   if not any(p['date']==r['date']and p['price']==r['price']for p in a):
    a[:]=[p for p in a if p['date']!=r['date']];a.append(dict(date=r['date'],price=r['price'],source=r['source']));a.sort(key=lambda p:p['date'])
  (out/'data/directory.json').write_text(json.dumps(rows,ensure_ascii=False,separators=(',',':')));(out/'data/history.json').write_text(json.dumps(hist,ensure_ascii=False,separators=(',',':')))
- E=lambda x:html.escape(str(x or''),quote=True);version=hashlib.sha256((ROOT/'app.js').read_bytes()+(ROOT/'style.css').read_bytes()+(ROOT/'data/prices.json').read_bytes()+(ROOT/'data/history.json').read_bytes()+(ROOT/'scripts/catalog_ui.py').read_bytes()+(ROOT/'scripts/discovery_ui.py').read_bytes()+(ROOT/'scripts/build.py').read_bytes()).hexdigest()[:12];base=os.environ.get('SITE_URL','https://smtalhadv-web.github.io/pakistan-price-watch').rstrip('/')
+ E=lambda x:html.escape(str(x or''),quote=True);version=hashlib.sha256((ROOT/'app.js').read_bytes()+(ROOT/'style.css').read_bytes()+(ROOT/'data/prices.json').read_bytes()+(ROOT/'data/history.json').read_bytes()+(ROOT/'scripts/catalog_ui.py').read_bytes()+(ROOT/'scripts/discovery_ui.py').read_bytes()+(ROOT/'scripts/build.py').read_bytes()+(ROOT/'scripts/taxonomy.py').read_bytes()+(ROOT/'scripts/item_images.py').read_bytes()+((ROOT/'data/item-images.json').read_bytes()if(ROOT/'data/item-images.json').exists()else b'')).hexdigest()[:12];base=os.environ.get('SITE_URL','https://smtalhadv-web.github.io/pakistan-price-watch').rstrip('/')
  cities=sorted({r['city']for r in rows if r['city']!='Pakistan'})
  options='<option value="Pakistan">Pakistan · قومی قیمتیں</option><optgroup label="↳ Cities in Pakistan">'+''.join('<option value="'+E(c)+'">↳ '+E(c)+'</option>'for c in cities)+'</optgroup>'
  location='<dialog id="location-dialog" class="location-dialog"><form id="location-form"><div class="eyebrow">YOUR LOCATION</div><h2>اپنا شہر منتخب کریں</h2><div class="country-parent">🇵🇰 Pakistan <strong>✓ Parent country</strong></div><p>Any city includes Pakistan-wide prices automatically.</p><label for="location-pick">Pakistan → City / شہر</label><select id="location-pick">'+options+'</select><p id="parent-confirm" lang="ur" dir="rtl">پاکستان کی قومی قیمتیں خود بخود شامل ہیں۔</p><button class="primary" type="submit">Show prices / قیمتیں دکھائیں</button></form></dialog>'
@@ -58,7 +62,7 @@ def build():
  market=''
  for id in ['gold-24k','silver','petrol','fx-us-dollar-open-market-sell']:
   r=next((x for x in priced if x['id']==id),None)
-  if r:market+='<a class="market-mini" href="items/'+r['id']+'.html"><b>'+E(r['name'])+'</b><strong>PKR '+f'{r["price"]:,.2f}'+'</strong>'+graph(hist.get(id,[]),r['name'],True)+'<small>'+E(r['date'])+' · / '+E(r['unit'])+'</small></a>'
+  if r:market+='<a class="market-mini" href="items/'+r['id']+'.html"><span class="market-photo">'+photo(r)+'</span><b>'+E(r['name'])+'</b><strong>PKR '+f'{r["price"]:,.2f}'+'</strong>'+graph(hist.get(id,[]),r['name'],True)+'<small>'+E(r['date'])+' · / '+E(r['unit'])+'</small></a>'
  body='<main id="main" class="home-layout"><div class="home-heading"><div class="eyebrow">FIND YOUR EVERYDAY PRICE</div><h1>Prices near you. <span>Compare with confidence.</span></h1><p>Choose a category or brand, then open an item for store comparisons and dated prices.</p></div><section><h2>Browse categories</h2>'+cattiles+'</section><section><div class="section-heading"><h2>Shop by brand</h2><a href="brands.html">All brands →</a></div>'+brandtiles(limit=12)+'</section><section class="compact-market"><h2>Daily market watch</h2><div class="market-minis">'+market+'</div></section><section id="prices"><div class="section-heading"><h2>Explore items</h2><span class="current-location">Pakistan</span></div><div class="archive-filters"><input id="search" type="search" aria-label="Search items" placeholder="Search an item, model or Urdu name…"><select id="city" aria-label="Location">'+options+'</select><select id="category" aria-label="Category"><option value="">All categories</option>'+''.join('<option value="'+c+'">'+E(v)+'</option>'for c,v in CATS.items())+'</select></div><p id="count" class="muted"></p><div id="archive-host">'+archive([r for r in rows if r['city']=='Pakistan'][:36])+'</div><div class="pagination"><button id="previous">← Previous</button><span id="page-label"></span><button id="next">Next →</button></div></section></main>'
  searchbody='<main id="main" class="home-layout"><h1>Search Pakistan prices</h1><p>Choose a city and search in English or Urdu. Open an item for its sources and price comparison.</p>'+body[body.index('<section id="prices">'):]
  (out/'search.html').write_text(page('Search Pakistan prices by item, city and brand',searchbody,'search.html'))
