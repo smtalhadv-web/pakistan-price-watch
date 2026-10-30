@@ -37,6 +37,7 @@ def comparison(peers,r):
  title='Store price comparison'if mode(r)=='listed'else'Latest published rates by city'
  out='<section class="detail-section"><h2>'+title+'</h2>'
  if not priced:return out+'<p>No verified price is available. A missing price is not zero. Browse the related products below for separately identified listings.</p></section>'
+ stores=sorted({store_name(x)for x in priced});out+='<div class="source-summary"><strong>'+str(len(stores))+' verified '+('stores'if mode(r)=='listed'else'publishers')+'</strong><span>'+E(' · '.join(stores))+'</span></div>'
  out+='<p class="muted">'+('Supplier model matches can have different storage, kits, condition or warranty. Read the listed variant and dates before comparing.'if mode(r)=='listed'else'Official notifications and survey averages are separate item groups. Rates retain their actual publication dates; a new daily check does not create a new government rate.')+'</p>'
  if mode(r)=='listed'and len({store_name(x)for x in priced})<2:out+='<p>Only one store is verified for this item so far. No other-store price is assumed.</p>'
  low=min(x['price']for x in priced);high=max(x['price']for x in priced)
