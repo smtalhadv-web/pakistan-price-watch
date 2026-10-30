@@ -1,0 +1,26 @@
+{
+  "checked_at": "2026-10-30T23:01:13.817217+00:00",
+  "checks": [
+    {
+      "store": "Al-Fatah",
+      "url": "https://alfatah.pk/products.json?limit=100",
+      "quotes": 115,
+      "status": "updated",
+      "error": null
+    },
+    {
+      "store": "Shophive",
+      "url": "https://www.shophive.com/mobile-phones",
+      "quotes": 12,
+      "status": "updated",
+      "error": null
+    },
+    {
+      "store": "Mega.pk",
+      "url": "https://www.mega.pk/mobiles/",
+      "quotes": 27,
+      "status": "updated",
+      "error": null
+    }
+  ]
+}

@@ -36,7 +36,7 @@ def refresh():
  data=dict(checked_at=now.isoformat(),checks=report,posts=sorted(posts.values(),key=lambda p:(p['date'],p['topic']),reverse=True)[:90]);path.write_text(json.dumps(data,ensure_ascii=False,indent=2)+'\n');print(json.dumps(data['checks']))
 def publish(out,page,urls):
  from catalog_ui import E
- path=ROOT/'data/news.json';data=json.loads(path.read_text())if path.exists()else{'posts':[]};posts=data.get('posts',[]);(out/'blog').mkdir()
+ path=ROOT/'data/news.json';data=json.loads(path.read_text())if path.exists()else{'posts':[]};posts=data.get('posts',[]);(out/'blog').mkdir(exist_ok=True)
  def cards(a,prefix=''):
   return '<div class="hub-grid">'+''.join('<article class="hub-card"><small>'+E(TOPICS[p['topic']][0])+' · '+E(p['date'])+'</small><h2><a href="'+prefix+'blog/'+E(p['id'])+'.html">'+E(p['title'])+'</a></h2><p>'+E(p['context'])+'</p><strong>'+str(len(p['headlines']))+' linked headlines →</strong></article>'for p in a)+'</div>'
  body='<main id="main" class="home-layout"><h1>Pakistan economy, business & trade</h1><p>Daily news briefings from recent search-news results, with publisher links and publication dates. Selection reflects feed relevance and recency; it is not a measured popularity ranking. Briefings provide context, not verified product price changes.</p>'

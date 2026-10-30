@@ -76,3 +76,19 @@ Failed feeds retain prior dated posts and display an incomplete-refresh notice.
 Wholesale sections match explicit wholesale/farm-gate notices by normalized product,
 category, city, unit, publisher and effective date. No bulk discount is inferred from
 retail offers. Missing wholesale quotes remain unavailable.
+
+### Daily multi-source and city comparison
+
+Filters are collapsed until the visitor clicks **Filters**. Pakistan shows all cities;
+a selected city also includes online offers available across Pakistan. City labels do
+not use “national”.
+
+`products.py` separates product groups from exact variations. Color, capacity and pack
+choices share a product card and canonical item URL; quote tables and price histories
+filter by exact variation and city. Used listings stay separate. Duplicate source
+observations retain the newest dated quote; old item links continue via aliases.
+Different grades, quote bases, cities and pack units remain identifiable.
+
+Additional daily readers in `extra_sources.py` fetch public Al-Fatah, Shophive and
+Mega.pk listings. Source names, dates, exact quotes and extra research links appear on
+item detail pages. A research search link never counts as a verified competing price.

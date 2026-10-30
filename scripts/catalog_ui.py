@@ -29,8 +29,9 @@ def archive(items,prefix=''):
  for peers in groups_for(items).values():
   r=next((x for x in peers if x.get('image')),peers[0]);priced=[x for x in peers if x['price']is not None];vals=[x['price']for x in priced];lo=min(vals)if vals else None;hi=max(vals)if vals else None
   value=('PKR '+f'{lo:,.2f}'+(' – '+f'{hi:,.2f}'if hi!=lo else''))if vals else'قیمت دستیاب نہیں · Price unavailable'
-  out+='<article class="archive-card" data-city="'+E('|'.join(sorted({x['city']for x in peers})))+'"><a class="product-title-link" href="'+prefix+'items/'+r['id']+'.html">'+photo(r,prefix)+'<h3>'+E(r['name'])+'</h3></a>'
-  if r.get('urdu'):out+='<p class="original-urdu" lang="ur" dir="rtl">'+E(r['urdu'])+'</p>'
+  out+='<article class="archive-card" data-city="'+E('|'.join(sorted({x['city']for x in peers})))+'"><a class="product-title-link" href="'+prefix+'items/'+r.get('canonical_id',r['id'])+'.html">'+photo(r,prefix)+'<h3>'+E(r.get('product_name',r['name']))+'</h3></a>'
+  if r.get('variant_count',1)>1:out+='<small class="variant-badge">'+str(r['variant_count'])+' variations · Choose variation →</small>'
+  if r.get('urdu'):out+='<p id="product-urdu" class="original-urdu" lang="ur" dir="rtl">'+E(r['urdu'])+'</p>'
   out+=('<small class="quote-scope">'+E(r.get('condition','Condition not verified'))+'</small>'if mode(r)=='asking'else'<small class="quote-scope">Verify store area / pack before comparison</small>'if r.get('comparison_eligible')is False else'')
   out+='<small class="item-taxonomy">'+E(r.get('subcategory',''))+'</small>'
   quotes=r.get('wholesale_quotes',[])
@@ -45,35 +46,50 @@ def graph(points,label,compact=False):
  coords=' '.join(f'{L+(W-L-R)*i/(len(a)-1):.1f},{H-B-(p["price"]-lo)/span*(H-T-B):.1f}'for i,p in enumerate(a));color='#18795b'if a[-1]['price']<=a[0]['price']else'#b77833'
  return f'<svg class="history-graph" viewBox="0 0 {W} {H}" role="img" aria-label="{E(label)} recorded price history"><line x1="{L}" x2="{W-R}" y1="{H-B}" y2="{H-B}" stroke="#dce7df"/><text x="8" y="28">{hi:,.2f}</text><text x="8" y="{H-B}">{lo:,.2f}</text><polyline points="{coords}" fill="none" stroke="{color}" stroke-width="3"/>'+''.join(f'<circle cx="{L+(W-L-R)*i/(len(a)-1):.1f}" cy="{H-B-(p["price"]-lo)/span*(H-T-B):.1f}" r="3" fill="{color}"><title>{E(p["date"])} · PKR {p["price"]:,.2f}</title></circle>'for i,p in enumerate(a))+f'<text x="{L}" y="{H-7}">{E(a[0]["date"])}</text><text text-anchor="end" x="{W-R}" y="{H-7}">{E(a[-1]["date"])}</text></svg>'
 def comparison(peers,r):
- priced=[x for x in peers if x['price']is not None];priced.sort(key=lambda x:x['price'])
- title='Classified asking price'if mode(r)=='asking'else'Store price comparison'if mode(r)=='listed'else'Latest published rates by city'
- out='<section class="detail-section"><h2>'+title+'</h2>'
- if not priced:return out+'<p>No verified price is available. A missing price is not zero. Browse the related products below for separately identified listings.</p></section>'
- stores=sorted({store_name(x)for x in priced});out+='<div class="source-summary"><strong>'+str(len(stores))+' verified '+('stores'if mode(r)=='listed'else'publishers')+'</strong><span>'+E(' · '.join(stores))+'</span></div>'
- out+='<p class="muted">'+('Public seller asking price, not a completed-sale value. Condition, PTA status, storage and stock need independent confirmation.'if mode(r)=='asking'else'Supplier model matches can have different storage, kits, condition or warranty. Read the listed variant and dates before comparing.'if mode(r)=='listed'else'Official notifications and survey averages are separate item groups. Rates retain their actual publication dates; a new daily check does not create a new government rate.')+'</p>'
- if mode(r)=='listed'and len({store_name(x)for x in priced})<2:out+='<p>Only one store is verified for this item so far. No other-store price is assumed.</p>'
- low=min(x['price']for x in priced);high=max(x['price']for x in priced)
- out+='<div class="comparison-scroll"><table class="comparison-table"><thead><tr><th>Store / location</th><th>Listed item / variant</th><th>Price · PKR</th><th>Comparison</th><th>Source date</th><th>Original source</th></tr></thead><tbody>'
+ from products import exact_key
+ priced=[x for x in peers if x['price']is not None];priced.sort(key=lambda x:(x.get('variant_key',''),x['city'],x['price']))
+ out='<section class="detail-section product-comparison"><h2>Daily prices · sources & cities</h2><p class="muted">Each row keeps its exact variation, city, price basis and source date. Online offers available across Pakistan are labelled Pakistan. A daily check does not make an older quote current.</p><p id="comparison-status" class="comparison-status" aria-live="polite"></p>'
+ if not priced:return out+'<p>No verified price is available for this product yet. No competing-store price is assumed.</p></section>'
+ out+='<div class="source-summary"><strong id="source-count">'+str(len({store_name(x)for x in priced}))+' sources</strong><span id="city-count">'+str(len({x['city']for x in priced}))+' locations</span></div><div class="comparison-scroll"><table class="comparison-table"><thead><tr><th>Source / city</th><th>Exact variation / unit</th><th>Price · PKR</th><th>Price basis / availability</th><th>Quote date</th><th>Original source</th></tr></thead><tbody>'
  for x in priced:
-  v=x['price'];label='— Same price'if low==high else'↓ Lowest'if v==low else'↑ Highest'if v==high else'↔ Between';cls='lowest'if v==low else'highest'if v==high else'';width=max(5,v/high*100)
-  out+='<tr data-quote-city="'+E(x['city'])+'"><td><b>'+E(store_name(x))+'</b><small>'+E(x['city'])+'</small></td><td>'+E(x['name'])+'<small>'+E(x.get('availability')or x['kind'])+'</small><small>'+E(x.get('condition',''))+'</small></td><td class="price '+cls+'">'+f'{v:,.2f}'+'<small>/ '+E(x['unit'])+'</small></td><td><span class="'+cls+'">'+label+'</span><div class="price-bar"><i style="width:'+f'{width:.2f}'+'%"></i></div></td><td>'+E(x['date'])+'</td><td><a href="'+E(x['source'])+'" target="_blank" rel="noopener noreferrer">Visit source ↗</a></td></tr>'
+  out+='<tr data-quote-city="'+E(x['city'])+'" data-variant="'+E(x.get('variant_key',''))+'" data-price="'+str(x['price'])+'" data-store="'+E(store_name(x))+'"><td><b>'+E(store_name(x))+'</b><small>'+E(x['city'])+'</small></td><td>'+E(x['name'])+'<small>/ '+E(x['unit'])+'</small></td><td class="price">'+f'{x["price"]:,.2f}'+'</td><td>'+E(x['kind'])+'<small>'+E(x.get('availability','Check source'))+'</small>'+('<small>Branch / pack must be verified</small>'if x.get('comparison_eligible')is False else'')+'</td><td>'+E(x['date'])+'</td><td><a href="'+E(x['source'])+'" target="_blank" rel="noopener noreferrer">Visit source ↗</a></td></tr>'
  return out+'</tbody></table></div></section>'
+
+def product_controls(r,peers):
+ variants={}
+ for x in peers:variants.setdefault(x.get('variant_key',x['id']),x)
+ out='<div class="product-controls"><label for="product-variation">Choose variation<select id="product-variation"><option value="*">All variations — compare separately</option>'
+ out+=''.join('<option value="'+E(key)+'">'+E(x.get('variant_label',x['name']))+'</option>'for key,x in sorted(variants.items(),key=lambda pair:pair[1]['name']))+'</select></label><label for="comparison-city">Compare cities<select id="comparison-city"><option value="">All cities</option>'+''.join('<option value="'+E(city)+'">'+E(city)+'</option>'for city in sorted({x['city']for x in peers}))+'</select></label></div>'
+ if len(variants)>1:out+='<p class="variant-notice">Choose one variation for like-for-like prices. All-variation ranges may include different sizes, colors, storage, packs or quote bases.</p>'
+ data=[{k:x.get(k)for k in ['id','name','urdu','variant_key','wholesale_quotes','trade_stage','kind','image','image_kind','image_subject','unit','date','price','city','store','source']}for x in peers]
+ return out+'<script type="application/json" id="product-data">'+json.dumps(data,ensure_ascii=False).replace('<','\\u003c')+'</script>'
+
+def more_sources(r):
+ import urllib.parse
+ q=urllib.parse.quote(r.get('product_name',r['name']));out='<section class="detail-section source-research"><h2>Check additional price sources</h2><p>These links search for this product at other stores. They are research links, not verified competing prices. Only successfully collected exact listings appear in the comparison table above.</p><ul>'
+ sources=[('Google product search','https://www.google.com/search?q='+urllib.parse.quote(r.get('product_name',r['name'])+' price Pakistan'))]
+ if r['category']in ['mobiles','electronics','machinery']:
+  sources+=[('Shophive','https://www.shophive.com/catalogsearch/result/?q='+q),('Mega.pk','https://www.google.com/search?q='+urllib.parse.quote('site:mega.pk '+r.get('product_name',r['name']))),('Paklap','https://www.paklap.pk/catalogsearch/result/?q='+q)]
+ if r['category']in ['grocery','produce','meat','household','health','baby','pets']:
+  sources+=[('Naheed','https://www.naheed.pk/catalogsearch/result/?q='+q),('Al-Fatah','https://alfatah.pk/search?q='+q+'&type=product'),('Metro','https://www.google.com/search?q='+urllib.parse.quote('site:metro-online.pk '+r.get('product_name',r['name'])))]
+ return out+''.join('<li><a href="'+E(url)+'" target="_blank" rel="noopener noreferrer">'+E(name)+' ↗</a></li>'for name,url in sources)+'</ul></section>'
+
 def detail(r,peers,hist,rows):
  priced=[x for x in peers if x['price']is not None];vals=[x['price']for x in priced];latest=max((x['date']for x in priced),default=None)
  summary='PKR '+f'{min(vals):,.2f}'+(' – '+f'{max(vals):,.2f}'if min(vals)!=max(vals)else'')if vals else'قیمت دستیاب نہیں · Price unavailable'
- out='<main id="main" class="detail-layout"><div class="detail-head"><div><div class="eyebrow">'+E(CATS[r['category']])+' · Pakistan</div><h1>'+E(r['name'])+'</h1>'
- if r.get('urdu'):out+='<p class="original-urdu" lang="ur" dir="rtl">'+E(r['urdu'])+'</p>'
- out+='<p class="detail-price">'+summary+'</p><p>'+E(r['unit'])+(' · Latest source date '+latest if latest else' · No verified quote yet')+'</p></div><figure class="detail-photo">'+photo(r,'../')+'<figcaption>'+('Representative '+E(r.get('image_subject','item'))+' image; exact brand, model or survey grade is not confirmed.'if r.get('image_kind')=='representative'else'Item illustration; a verified photograph of this exact item is not available.'if r.get('image_kind')=='illustration'else'Source-supplied product photo')+'</figcaption></figure></div>'
+ out='<main id="main" class="detail-layout"><div class="detail-head"><div><div class="eyebrow">'+E(CATS[r['category']])+' · Pakistan</div><h1>'+E(r.get('product_name',r['name']))+'</h1>'
+ if r.get('urdu'):out+='<p id="product-urdu" class="original-urdu" lang="ur" dir="rtl">'+E(r['urdu'])+'</p>'
+ out+='<p id="product-price" class="detail-price">'+summary+'</p><p id="product-meta">'+E(r['unit'])+(' · Latest source date '+latest if latest else' · No verified quote yet')+'</p></div><figure class="detail-photo">'+photo(r,'../')+'<figcaption>'+('Representative '+E(r.get('image_subject','item'))+' image; exact brand, model or survey grade is not confirmed.'if r.get('image_kind')=='representative'else'Item illustration; a verified photograph of this exact item is not available.'if r.get('image_kind')=='illustration'else'Source-supplied product photo')+'</figcaption></figure></div>'
  if r.get('image_kind')=='representative':out+='<p class="image-credit">Photo: '+E(r.get('image_credit'))+' · '+E(r.get('image_license'))+' · <a href="'+E(r.get('image_source'))+'" target="_blank" rel="noopener noreferrer">Image source and attribution ↗</a></p>'
  if r.get('scope'):out+='<p class="quote-scope">'+E(r['scope'])+' · '+E(r.get('condition',''))+'</p>'
  from wholesale import section
- out+=comparison(peers,r)+section(r)
+ out+=product_controls(r,peers)+comparison(peers,r)+section(r)
  out+='<section class="detail-section"><h2>Price history by date</h2><p>Each series keeps one item, location, unit and source. Dates are observations or notification dates, not invented daily prices.</p>'
  # Show representative series first, then other sources/cities as collapsible sections.
  ordered=sorted(priced,key=lambda x:(x['id']!=r['id'],x['city'],store_name(x)))
  for i,x in enumerate(ordered):
   a=hist.get(x['id'],[]);heading=store_name(x)+' · '+x['city']+' · '+x['name']
-  out+='<details class="history-series"'+(' open'if i==0 else'')+'><summary>'+E(heading)+'</summary>'+graph(a,heading)
+  out+='<details data-history-city="'+E(x['city'])+'" data-variant="'+E(x.get('variant_key',''))+'" class="history-series"'+(' open'if i==0 else'')+'><summary>'+E(heading)+'</summary>'+graph(a,heading)
   out+='<table class="historytable"><thead><tr><th>Date</th><th>PKR / '+E(x['unit'])+'</th></tr></thead><tbody>'+''.join('<tr><td>'+E(p['date'])+'</td><td>'+f'{p["price"]:,.2f}'+'</td></tr>'for p in reversed(a[-90:]))+'</tbody></table></details>'
  if not ordered:out+='<p>A history and graph will appear after verified dated observations become available.</p>'
  from market_features import predictor
@@ -81,7 +97,7 @@ def detail(r,peers,hist,rows):
  if not vals:out+='<p>This catalog entry identifies a type of item, not a priced offer. An exact brand/model or grade and a current supplier quote are needed before a price can be assigned.</p>'
  if r.get('urdu'):out+='<h3>Original Urdu wording → English</h3><p lang="ur" dir="rtl" class="original-urdu">'+E(r['urdu'])+'</p><p>'+E(r['name'])+'</p>'
  if r.get('sheet'):out+='<h3>Original official notification</h3><a href="../'+E(r['sheet'])+'"><img class="detail-sheet" loading="lazy" src="../'+E(r['sheet'])+'" alt="Original official Urdu rate sheet"></a><p>The original Urdu wording is retained above; the English title describes the same grade or class. The printed notification date takes precedence.</p>'
- out+='</section><section class="detail-section"><h2>Related items</h2>'+archive([x for x in rows if x['category']==r['category']and family(x)!=family(r)][:8],'../')+'</section></main>'
+ out+='</section>'+more_sources(r)+'<section class="detail-section"><h2>Related items</h2>'+archive([x for x in rows if x['category']==r['category']and family(x)!=family(r)][:8],'../')+'</section></main>'
  data={'@context':'https://schema.org','@type':'WebPage','name':r['name']+' prices in Pakistan','about':{'@type':'Thing','name':r['name']}}
  if latest:data['dateModified']=latest
  if r.get('source'):data['citation']=r['source']

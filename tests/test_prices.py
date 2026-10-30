@@ -57,7 +57,7 @@ class ComparisonTests(unittest.TestCase):
  def test_parent_location(self):
   import subprocess
   app=(ROOT/'app.js').read_text();function=app[app.index('function localMatch'):app.index('function readLocation')]
-  result=subprocess.run(['node','-e',function+"if(!localMatch({city:'Pakistan'},'Karachi')||!localMatch({city:'Karachi'},'Karachi')||localMatch({city:'Lahore'},'Karachi')||localMatch({city:'Karachi'},'Pakistan'))process.exit(1)"],capture_output=True)
+  result=subprocess.run(['node','-e',function+"if(!localMatch({city:'Pakistan'},'Karachi')||!localMatch({city:'Karachi'},'Karachi')||localMatch({city:'Lahore'},'Karachi')||!localMatch({city:'Karachi'},'Pakistan'))process.exit(1)"],capture_output=True)
   self.assertEqual(result.returncode,0,result.stderr)
 
 class ItemArchiveTests(unittest.TestCase):
@@ -166,3 +166,52 @@ class NavigationAndTradeTests(unittest.TestCase):
   now=datetime.datetime(2026,10,31,8,tzinfo=TZ)
   xml='<rss><channel><item><title>No date</title><link>https://example.com/a</link></item><item><title>Future</title><link>https://example.com/b</link><pubDate>Sun, 01 Nov 2026 10:00:00 GMT</pubDate></item><item><title>A headline - Publisher</title><link>https://example.com/c</link><source>Publisher</source><pubDate>Fri, 30 Oct 2026 10:00:00 GMT</pubDate></item></channel></rss>'
   a=parse_feed(xml,'trade',now);self.assertEqual(len(a),1);self.assertEqual(a[0]['title'],'A headline')
+
+class ProductGroupTests(unittest.TestCase):
+ def test_capacity_choices_share_product_but_never_quote_identity(self):
+  from products import prepare
+  base=dict(id='a',name='Samsung Galaxy A56 (8GB-128GB)',category='mobiles',unit='device',price=100,source='https://shop.example/a',city='Pakistan',kind='Retailer',pricing_mode='listed')
+  a=dict(base);b={**base,'id':'b','name':'Samsung Galaxy A56 (12GB-256GB)'}
+  prepare([a,b]);self.assertEqual(a['product_key'],b['product_key']);self.assertNotEqual(a['variant_key'],b['variant_key']);self.assertEqual(a['variant_count'],2)
+ def test_plus_models_and_generations_remain_distinct(self):
+  from products import product_key
+  a=dict(id='a',name='Redmi Note 15 Pro',category='mobiles',unit='device',price=1,kind='Retailer',pricing_mode='listed')
+  self.assertNotEqual(product_key(a),product_key({**a,'name':'Redmi Note 15 Pro+'}))
+  self.assertNotEqual(product_key(a),product_key({**a,'name':'Redmi Note 14 Pro'}))
+ def test_same_store_duplicates_keep_latest_and_old_url_alias(self):
+  from products import deduplicate
+  a=dict(id='a',name='Same phone',category='mobiles',unit='device',store='Shop',price=120,source='https://shop.example/phone',city='Karachi',date='2026-10-29',kind='Retailer',pricing_mode='listed')
+  b={**a,'id':'b','price':110,'date':'2026-10-30'}
+  rows,aliases=deduplicate([a,b]);self.assertEqual(len(rows),1);self.assertEqual(rows[0]['price'],110);self.assertEqual(aliases['a'],'b')
+ def test_city_quotes_and_used_listings_stay_separate(self):
+  from products import deduplicate,product_key
+  a=dict(id='a',name='Phone 128GB',category='mobiles',unit='device',store='Shop',price=120,source='https://shop.example/phone',city='Karachi',date='2026-10-30',kind='Retailer',pricing_mode='listed')
+  rows,_=deduplicate([a,{**a,'id':'b','city':'Lahore'}]);self.assertEqual(len(rows),2)
+  self.assertNotEqual(product_key({**a,'pricing_mode':'asking'}),product_key({**a,'id':'b','pricing_mode':'asking'}))
+ def test_pack_sizes_share_card_but_remain_selectable(self):
+  from products import prepare
+  a=dict(id='a',name='Brand Milk 1L',category='grocery',unit='1L',price=1,kind='Retailer',pricing_mode='listed');b={**a,'id':'b','name':'Brand Milk 500ml','unit':'500ml'}
+  prepare([a,b]);self.assertEqual(a['product_key'],b['product_key']);self.assertNotEqual(a['variant_key'],b['variant_key'])
+ def test_subject_before_ingredient(self):
+  from taxonomy import category_for
+  for name,cat,old in [('Vatika Onion Hair Oil 100Ml','health','grocery'),('Olper Full Cream Milk 1000Ml','grocery','health'),('Gray Silicone Back Case for iPhone 15 Pro','electronics','mobiles'),('Xiaomi Multifunctional Rice Cooker 4L','household','electronics')]:self.assertEqual(category_for(dict(id='test',name=name,category=old)),cat)
+
+class ExtraSourceReaderTests(unittest.TestCase):
+ def test_shopify_selected_weight_overrides_title_range(self):
+  from extra_sources import parse
+  raw=json.dumps({'products':[{'title':'Apple (1 KG TO 250 GM)','handle':'apple','variants':[{'id':1,'title':'250 GM','price':'100'}]}]})
+  r=parse('Al-Fatah','https://alfatah.pk/products.json',raw,'2026-10-31')[0]
+  self.assertEqual(r['unit'],'250 GM');self.assertEqual(r['price'],100);self.assertEqual(r['category'],'produce')
+ def test_mega_uses_current_price_not_struck_out_price(self):
+  from extra_sources import parse
+  raw='<div class="lap_thu_box"><h3><a href="https://www.mega.pk/mobiles_products/1/phone.html">Samsung Galaxy A56 128GB</a></h3><div class="cat_price"><div class="was">120,000 - PKR</div>110,000<span> - PKR</span></div></div>'
+  r=parse('Mega.pk','https://www.mega.pk/mobiles/',raw,'2026-10-31')[0]
+  self.assertEqual(r['price'],110000);self.assertEqual(r['category'],'mobiles')
+
+class StableProductURLTests(unittest.TestCase):
+ def test_new_store_and_title_prefix_keep_product_url(self):
+  from products import prepare
+  a=dict(id='z',name='Xiaomi Redmi Note 15 Pro',category='mobiles',unit='device',price=100,kind='Retailer',pricing_mode='listed')
+  prepare([a]);canonical=a['canonical_id']
+  b={**a,'id':'a','name':'Redmi Note 15 Pro · Blue / 8GB - 256GB'}
+  prepare([a,b]);self.assertEqual(canonical,a['canonical_id']);self.assertEqual(canonical,b['canonical_id'])

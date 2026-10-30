@@ -13,7 +13,7 @@ def subgroup(r):
  'pets':[('Cat food',r'cat'),('Dog food',r'dog'),('Pet supplies',r'.')],
  'other':[('Gift cards',r'gift card'),('Mystery boxes',r'mystery box'),('Unclassified — review pending',r'.')],
  'mobiles':[('Smartphones',r'iphone|galaxy|redmi|poco|xiaomi|samsung|vivo|oppo|tecno|infinix|realme|android|smartphone'),('Feature & specialist phones',r'.')],
- 'electronics':[('Laptops & desktop PCs',r'laptop|macbook|notebook|ideapad|thinkpad|inbook|desktop computer'),('Computer parts & storage',r'ram|memory|processor|ssd|hard drive|graphics card|motherboard|casing|power suppl'),('Phone accessories',r'charger|adapter|power ?bank|mobile battery|usb cable'),('Audio & wearables',r'earbud|earphone|headphone|speaker|watch|band'),('Monitors & imaging',r'monitor|projector|camera|printer|scanner'),('Other electronics',r'.')],
+ 'electronics':[('Tablets & e-readers',r'\b(?:ipad|tablet|e-reader)\b'),('Laptops & desktop PCs',r'laptop|macbook|notebook|ideapad|thinkpad|inbook|desktop computer'),('Computer parts & storage',r'ram|memory|processor|ssd|hard drive|graphics card|motherboard|casing|power suppl'),('Phone accessories',r'charger|adapter|power ?bank|mobile battery|usb cable'),('Audio & wearables',r'earbud|earphone|headphone|speaker|watch|band'),('Monitors & imaging',r'monitor|projector|camera|printer|scanner'),('Other electronics',r'.')],
  'property':[('Rentals',r'rent|studio'),('Property listings',r'.')],
  'grocery':[('Snacks & bakery',r'cookies|biscuit|bread|rusks|kracks|lays|chocolate|cadbury|noms|wheatable|peek freans'),('Prepared & frozen food',r'samosa|kabab|kofta|nugget|paratha|fries|patty|patties|tikka|fajita|croquette|croquet'),('Drinks & beverages',r'nectar|juice|sharbat|sharbet|rooh afza|coca cola|7up|redbull|coconut water'),('Rice, flour & grains',r'rice|flour|wheat|oat|grain'),('Pulses & legumes',r'pulse|dal|daal|lentil|chickpea|gram|moong|mash|masoor'),('Cooking oil & ghee',r'oil|ghee'),('Dairy & eggs',r'milk|curd|yogurt|cheese|butter|egg'),('Spices, salt & sugar',r'salt|sugar|spice|pepper|turmeric|coriander|chilli'),('Tea, snacks & other groceries',r'.')],
  'produce':[('Vegetables',r'potato|tomato|onion|garlic|ginger|cabbage|cauliflower|carrot|radish|turnip|gourd|brinjal|eggplant|spinach|okra|cucumber|capsicum|beet|mint|coriander|chilli'),('Fruit',r'.')],
@@ -50,7 +50,7 @@ def predictor(r,points):
 def feature_pages(out,rows,page,urls,base):
  subgroups={}
  for r in rows:subgroups.setdefault(r['subcategory_slug'],[]).append(r)
- (out/'subcategories').mkdir()
+ (out/'subcategories').mkdir(exist_ok=True)
  for slug,items in subgroups.items():
   r=items[0];path='subcategories/'+slug+'.html';body='<main id="main" class="home-layout" data-archive-subcategory="'+E(slug)+'"><h1>'+E(r['subcategory'])+' prices in Pakistan</h1><p>Open an item for source dates, exact variants and separately identified retail or asking prices.</p><div id="archive-host">'+archive([x for x in items if x['city']=='Pakistan'and mode(x)!='asking'],'../')+'</div><div class="pagination"><button id="previous">← Previous</button><span id="page-label"></span><button id="next">Next →</button></div></main>'
   (out/path).write_text(page(r['subcategory']+' prices in Pakistan',body,path,'../'));urls.append(path)
