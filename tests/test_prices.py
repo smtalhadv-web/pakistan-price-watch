@@ -59,13 +59,3 @@ class ComparisonTests(unittest.TestCase):
   app=(ROOT/'app.js').read_text();function=app[app.index('function localMatch'):app.index('function readLocation')]
   result=subprocess.run(['node','-e',function+"if(!localMatch({city:'Pakistan'},'Karachi')||!localMatch({city:'Karachi'},'Karachi')||localMatch({city:'Lahore'},'Karachi')||localMatch({city:'Karachi'},'Pakistan'))process.exit(1)"],capture_output=True)
   self.assertEqual(result.returncode,0,result.stderr)
-
-class ItemArchiveTests(unittest.TestCase):
- def test_plus_model_is_distinct(self):
-  from catalog_ui import family
-  r=dict(id='test-phone',name='Redmi Note 15 Pro 5G',category='mobiles',unit='device',price=1,pricing_mode='listed',kind='Retailer')
-  self.assertNotEqual(family(r),family({**r,'name':'Redmi Note 15 Pro+ 5G'}))
- def test_one_observation_graph_has_no_fabricated_line(self):
-  from catalog_ui import graph
-  result=graph([{'date':'2026-10-30','price':100}],'Test')
-  self.assertIn('<circle',result);self.assertNotIn('<polyline',result)

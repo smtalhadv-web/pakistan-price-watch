@@ -1,6 +1,6 @@
 'use strict';
 const $=s=>document.querySelector(s),escapeHTML=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
-const rootURL=new URL('.',document.currentScript.src),url=p=>new URL(p,rootURL).href;
+const rootURL=new URL('.',document.currentScript.src),url=p=>{const target=new URL(p,rootURL);if(target.pathname.endsWith('.html'))target.searchParams.set('v',new URL(document.currentScript?.src||document.querySelector('script[src*="app.js"]').src).searchParams.get('v')||'current');return target.href;};
 let prices=[],city='Pakistan',page=0;const pageSize=36;
 function localMatch(r,selectedCity){return r.city==='Pakistan'||r.city===selectedCity;}
 function readLocation(){try{const p=JSON.parse(localStorage.getItem('ppw-location-v1'));if(p&&typeof p.city==='string'&&[...$('#location-pick').options].some(o=>o.value===p.city))return p.city;}catch{}return null;}
