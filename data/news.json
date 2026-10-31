@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-31T23:11:57.502856+05:00",
+  "checked_at": "2026-10-31T23:41:23.069458+05:00",
   "checks": [
     {
       "topic": "economy",
@@ -90,7 +90,7 @@
           "topic": "trade"
         }
       ],
-      "fetched_at": "2026-10-31T23:11:57.502856+05:00"
+      "fetched_at": "2026-10-31T23:41:23.069458+05:00"
     },
     {
       "id": "economy-2026-10-31",
@@ -148,11 +148,11 @@
           "topic": "economy"
         },
         {
-          "id": "ffbcbc52c7bced23",
-          "title": "Finance ministry sees October inflation near 10pc",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVl9WSU12dk1VQmZ2MTBTUUhTVmZkQldNNXBkVWNQVm9PTDd0WDB1TjZvSWdDb3ZXRGxKSUJjcWVRSkFEb3FiYzJjQjZWaGkwYkNZYzFqMUNpN0dROUFVMTRXTFM3WGpTQ2RkNzYtNE5MMFM0bm5jVjR2ci1LM1VHNlRWclgtMHVLTDYyOXB3U20?oc=5",
-          "publisher": "Aaj English TV",
-          "published_at": "2026-10-29T23:34:41+05:00",
+          "id": "bc37cc9c633ad802",
+          "title": "Bank of Japan confirms 2% inflation target after 13 years",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPYzFvc1BQSXJlZnV4ejdjaUlPYVpxTk05dTlkbjE3X25aUGU3OUlMUmowUzgwQ2QwbTNLZEJ3cVhYbjd0TWNFalAtYm82NENTYU5ONXNZYUxfZE1pa0xVOThJWnBjWk5ILVFfQWJuOTVUZVE2WkszOEFTTm0wbEtIVDJZS3NiZXlzNU5lZTFhcGo2WlU?oc=5",
+          "publisher": "Bol News",
+          "published_at": "2026-10-30T22:07:54+05:00",
           "topic": "economy"
         },
         {
@@ -164,7 +164,7 @@
           "topic": "economy"
         }
       ],
-      "fetched_at": "2026-10-31T23:11:57.502856+05:00"
+      "fetched_at": "2026-10-31T23:41:23.069458+05:00"
     },
     {
       "id": "business-2026-10-31",
@@ -173,6 +173,14 @@
       "title": "Business news briefing · 2026-10-31",
       "context": "Company and industry developments can affect supply, stock availability and competition. Compare dated supplier offers before making a purchase decision.",
       "headlines": [
+        {
+          "id": "d310787349312937",
+          "title": "Sri Lanka Invites Pakistani Businesses to Expo 2027",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOOXdpcVRyUzRzMlJrbHpIN2w4cFVyZVA5UXNCMlM3bVh4UGMwbWIzcjRSSkw3OUhSRDhLMFVtVk85MENtYlhVYkUtZ0lDZXlPendVUWFGY1I4Q1hGWEU0Wk41NHlsdzBmT0RyeWRnTlhNT0NjT0w4dnl1Yk0tNGprS1dBN2JRalI2V3VwY1RTTUNEUWs?oc=5",
+          "publisher": "Biz Today",
+          "published_at": "2026-10-31T23:21:37+05:00",
+          "topic": "business"
+        },
         {
           "id": "7327eb6e2ebd1ab2",
           "title": "SAZEW Competitors - Sazgar Engineering Works Ltd",
@@ -214,11 +222,11 @@
           "topic": "business"
         },
         {
-          "id": "0975d3511572d397",
-          "title": "PPL Competitors - Pakistan Petroleum Ltd",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5PSlN0c0QwM3pPSGxaVW4yX3BuMkFKTWhjRW9tY0UxYjNCdTVxYmlpbDJhbEtrOEtxbGFJQVdyeGdRRXNiLXY5d21SNFVEaV94U3JJUndodlEtQk52?oc=5",
+          "id": "28a4a6e8bfd793ff",
+          "title": "MUGHAL Company Profile - Mughal Iron and Steel Industries Ltd",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE84dS1tWW9PV3ktZ3JSZWFEYmdhWUI4ZjRJLS1Ld25mS2NCYWJCTE8xR3NwaDBoaWhjOHJlbDZYV29lWFFwTHl5MFpnTU12cWExS01fNWZzVXJkdG8?oc=5",
           "publisher": "Investify",
-          "published_at": "2026-10-31T05:52:21+05:00",
+          "published_at": "2026-10-31T02:54:45+05:00",
           "topic": "business"
         },
         {
@@ -228,17 +236,9 @@
           "publisher": "Business Recorder",
           "published_at": "2026-10-30T07:43:01+05:00",
           "topic": "business"
-        },
-        {
-          "id": "477234cf6f1a80fc",
-          "title": "Romania offers Pakistani firms help for EU market access",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSW5KNFFtenYwUzhnbE5TR3B1WHhVS2RKSVZLZEFqY3o4MWoxREh5N05tVlBFOEdyWDFPOFpfNE1jNHZhZndraTM4TzY2NFhveG9FNDkxNkxYRmZPMW9DdW5UdFdMU2dQYVRrYzM5TFZWcE5sVGdXMXJNMlpPZkdUWjd6V2tPWldwU1RQek4wRWg4NTJyQkZVYQ?oc=5",
-          "publisher": "The News Pakistan",
-          "published_at": "2026-10-30T00:00:00+05:00",
-          "topic": "business"
         }
       ],
-      "fetched_at": "2026-10-31T23:11:57.502856+05:00"
+      "fetched_at": "2026-10-31T23:41:23.069458+05:00"
     }
   ]
 }
