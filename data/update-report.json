@@ -6,15 +6,15 @@
     ],
     [
       "forex",
-      110681
+      111657
     ],
     [
       "gold",
-      111808
+      111814
     ],
     [
       "silver",
-      104719
+      104707
     ],
     [
       "pso-history",
@@ -22,7 +22,7 @@
     ],
     [
       "samsung",
-      594840
+      595096
     ],
     [
       "xiaomi",
@@ -34,7 +34,7 @@
     ],
     [
       "oppo",
-      462034
+      462040
     ],
     [
       "realme",
@@ -46,53 +46,59 @@
     ],
     [
       "tecno",
-      451937
+      451940
     ],
     [
       "appliances",
-      759462
+      770620
     ],
     [
       "pbs",
-      342817
+      342840
     ]
   ],
-  "checked_at": "2026-10-30T08:54:15.680181+00:00",
+  "checked_at": "2026-10-31T07:10:24.268296+00:00",
   "sources": [
     {
       "source": "PSO dated fuel archive",
       "status": "parsed",
+      "observed_records": 5,
       "new_records": 0
     },
     {
       "source": "Published gold and silver benchmarks",
       "status": "parsed",
+      "observed_records": 12,
       "new_records": 0
     },
     {
       "source": "Published currency tables",
       "status": "parsed",
+      "observed_records": 36,
       "new_records": 0
     },
     {
       "source": "PriceOye published listings",
       "status": "parsed",
-      "new_records": 9
+      "observed_records": 135,
+      "new_records": 5
     },
     {
       "source": "PBS weekly city prices",
       "status": "parsed",
+      "observed_records": 864,
       "new_records": 0
     },
     {
       "source": "PBS construction and labour",
       "status": "parsed",
+      "observed_records": 397,
       "new_records": 0
     },
     {
       "source": "Additional mobile, laptop, watch and audio listings",
       "status": "parsed",
-      "new_records": 10
+      "new_records": 3
     },
     {
       "source": "Furniture and power-tool variant listings",
@@ -110,7 +116,7 @@
       "new_records": 0
     }
   ],
-  "quotes": 5302,
+  "quotes": 5396,
   "manual_queue": [
     "Verify new image rates before transcribing; source sheets refresh automatically",
     "Unsupported sources retain their dated quotes"

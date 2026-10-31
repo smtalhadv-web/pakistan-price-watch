@@ -1,0 +1,739 @@
+{
+  "started_at": "2026-10-31T07:10:18.013878+00:00",
+  "completed_at": "2026-10-31T07:10:40.179678+00:00",
+  "status": "partial",
+  "timezone": "Asia/Karachi",
+  "scheduled_times": [
+    "08:30",
+    "20:30"
+  ],
+  "stages": [
+    {
+      "name": "collect.py",
+      "status": "completed",
+      "elapsed_seconds": 3.4,
+      "detail": ""
+    },
+    {
+      "name": "download_sources.py",
+      "status": "completed",
+      "elapsed_seconds": 2.1,
+      "detail": ""
+    },
+    {
+      "name": "ingest.py",
+      "status": "completed",
+      "elapsed_seconds": 0.9,
+      "detail": ""
+    },
+    {
+      "name": "expand_fetch.py",
+      "status": "completed",
+      "elapsed_seconds": 1.7,
+      "detail": ""
+    },
+    {
+      "name": "expand.py",
+      "status": "completed",
+      "elapsed_seconds": 0.9,
+      "detail": ""
+    },
+    {
+      "name": "commerce.py",
+      "status": "completed",
+      "elapsed_seconds": 7.2,
+      "detail": ""
+    },
+    {
+      "name": "partner_sources.py",
+      "status": "completed",
+      "elapsed_seconds": 4.6,
+      "detail": ""
+    },
+    {
+      "name": "extra_sources.py",
+      "status": "completed",
+      "elapsed_seconds": 1.3,
+      "detail": ""
+    }
+  ],
+  "source_checks": [
+    {
+      "source": "PSO dated fuel archive",
+      "url": null,
+      "status": "verified",
+      "detail": "parsed",
+      "quotes": 5
+    },
+    {
+      "source": "Published gold and silver benchmarks",
+      "url": null,
+      "status": "verified",
+      "detail": "parsed",
+      "quotes": 12
+    },
+    {
+      "source": "Published currency tables",
+      "url": null,
+      "status": "verified",
+      "detail": "parsed",
+      "quotes": 36
+    },
+    {
+      "source": "PriceOye published listings",
+      "url": null,
+      "status": "verified",
+      "detail": "parsed",
+      "quotes": 135
+    },
+    {
+      "source": "PBS weekly city prices",
+      "url": null,
+      "status": "verified",
+      "detail": "parsed",
+      "quotes": 864
+    },
+    {
+      "source": "PBS construction and labour",
+      "url": null,
+      "status": "verified",
+      "detail": "parsed",
+      "quotes": 397
+    },
+    {
+      "source": "Additional mobile, laptop, watch and audio listings",
+      "url": null,
+      "status": "verified",
+      "detail": "parsed",
+      "quotes": 0
+    },
+    {
+      "source": "Furniture and power-tool variant listings",
+      "url": null,
+      "status": "verified",
+      "detail": "parsed",
+      "quotes": 0
+    },
+    {
+      "source": "Suzuki manufacturer vehicles and marine engines",
+      "url": null,
+      "status": "verified",
+      "detail": "parsed",
+      "quotes": 0
+    },
+    {
+      "source": "Toyota manufacturer vehicle price configuration",
+      "url": null,
+      "status": "verified",
+      "detail": "parsed",
+      "quotes": 0
+    },
+    {
+      "source": "https://www.zahcomputers.pk/shop/",
+      "url": "https://www.zahcomputers.pk/shop/",
+      "status": "not_verified",
+      "detail": "fetch failed; previous quote retained",
+      "quotes": 0
+    },
+    {
+      "source": "https://www.galaxy.pk/laptops",
+      "url": "https://www.galaxy.pk/laptops",
+      "status": "verified",
+      "detail": "parsed",
+      "quotes": 15
+    },
+    {
+      "source": "https://priceoye.pk/mobiles/samsung?page=1",
+      "url": "https://priceoye.pk/mobiles/samsung?page=1",
+      "status": "verified",
+      "detail": "parsed",
+      "quotes": 27
+    },
+    {
+      "source": "https://priceoye.pk/mobiles/samsung?page=2",
+      "url": "https://priceoye.pk/mobiles/samsung?page=2",
+      "status": "verified",
+      "detail": "parsed",
+      "quotes": 36
+    },
+    {
+      "source": "https://priceoye.pk/mobiles/samsung?page=3",
+      "url": "https://priceoye.pk/mobiles/samsung?page=3",
+      "status": "verified",
+      "detail": "parsed",
+      "quotes": 36
+    },
+    {
+      "source": "https://priceoye.pk/mobiles/samsung?page=4",
+      "url": "https://priceoye.pk/mobiles/samsung?page=4",
+      "status": "verified",
+      "detail": "parsed",
+      "quotes": 36
+    },
+    {
+      "source": "https://priceoye.pk/mobiles/xiaomi?page=1",
+      "url": "https://priceoye.pk/mobiles/xiaomi?page=1",
+      "status": "verified",
+      "detail": "parsed",
+      "quotes": 24
+    },
+    {
+      "source": "https://priceoye.pk/mobiles/xiaomi?page=2",
+      "url": "https://priceoye.pk/mobiles/xiaomi?page=2",
+      "status": "verified",
+      "detail": "parsed",
+      "quotes": 36
+    },
+    {
+      "source": "https://priceoye.pk/mobiles/xiaomi?page=3",
+      "url": "https://priceoye.pk/mobiles/xiaomi?page=3",
+      "status": "verified",
+      "detail": "parsed",
+      "quotes": 36
+    },
+    {
+      "source": "https://priceoye.pk/mobiles/xiaomi?page=4",
+      "url": "https://priceoye.pk/mobiles/xiaomi?page=4",
+      "status": "verified",
+      "detail": "parsed",
+      "quotes": 36
+    },
+    {
+      "source": "https://priceoye.pk/mobiles/vivo?page=1",
+      "url": "https://priceoye.pk/mobiles/vivo?page=1",
+      "status": "verified",
+      "detail": "parsed",
+      "quotes": 13
+    },
+    {
+      "source": "https://priceoye.pk/mobiles/vivo?page=2",
+      "url": "https://priceoye.pk/mobiles/vivo?page=2",
+      "status": "verified",
+      "detail": "parsed",
+      "quotes": 36
+    },
+    {
+      "source": "https://priceoye.pk/mobiles/vivo?page=3",
+      "url": "https://priceoye.pk/mobiles/vivo?page=3",
+      "status": "verified",
+      "detail": "parsed",
+      "quotes": 36
+    },
+    {
+      "source": "https://priceoye.pk/mobiles/vivo?page=4",
+      "url": "https://priceoye.pk/mobiles/vivo?page=4",
+      "status": "verified",
+      "detail": "parsed",
+      "quotes": 36
+    },
+    {
+      "source": "https://priceoye.pk/mobiles/oppo?page=1",
+      "url": "https://priceoye.pk/mobiles/oppo?page=1",
+      "status": "verified",
+      "detail": "parsed",
+      "quotes": 12
+    },
+    {
+      "source": "https://priceoye.pk/mobiles/oppo?page=2",
+      "url": "https://priceoye.pk/mobiles/oppo?page=2",
+      "status": "verified",
+      "detail": "parsed",
+      "quotes": 36
+    },
+    {
+      "source": "https://priceoye.pk/mobiles/oppo?page=3",
+      "url": "https://priceoye.pk/mobiles/oppo?page=3",
+      "status": "verified",
+      "detail": "parsed",
+      "quotes": 33
+    },
+    {
+      "source": "https://priceoye.pk/mobiles/oppo?page=4",
+      "url": "https://priceoye.pk/mobiles/oppo?page=4",
+      "status": "verified",
+      "detail": "parsed",
+      "quotes": 36
+    },
+    {
+      "source": "https://priceoye.pk/mobiles/realme?page=1",
+      "url": "https://priceoye.pk/mobiles/realme?page=1",
+      "status": "verified",
+      "detail": "parsed",
+      "quotes": 10
+    },
+    {
+      "source": "https://priceoye.pk/mobiles/realme?page=2",
+      "url": "https://priceoye.pk/mobiles/realme?page=2",
+      "status": "verified",
+      "detail": "parsed",
+      "quotes": 36
+    },
+    {
+      "source": "https://priceoye.pk/mobiles/realme?page=3",
+      "url": "https://priceoye.pk/mobiles/realme?page=3",
+      "status": "verified",
+      "detail": "parsed",
+      "quotes": 36
+    },
+    {
+      "source": "https://priceoye.pk/mobiles/realme?page=4",
+      "url": "https://priceoye.pk/mobiles/realme?page=4",
+      "status": "verified",
+      "detail": "parsed",
+      "quotes": 36
+    },
+    {
+      "source": "https://priceoye.pk/mobiles/infinix?page=1",
+      "url": "https://priceoye.pk/mobiles/infinix?page=1",
+      "status": "verified",
+      "detail": "parsed",
+      "quotes": 9
+    },
+    {
+      "source": "https://priceoye.pk/mobiles/infinix?page=2",
+      "url": "https://priceoye.pk/mobiles/infinix?page=2",
+      "status": "verified",
+      "detail": "parsed",
+      "quotes": 36
+    },
+    {
+      "source": "https://priceoye.pk/mobiles/infinix?page=3",
+      "url": "https://priceoye.pk/mobiles/infinix?page=3",
+      "status": "verified",
+      "detail": "parsed",
+      "quotes": 36
+    },
+    {
+      "source": "https://priceoye.pk/mobiles/infinix?page=4",
+      "url": "https://priceoye.pk/mobiles/infinix?page=4",
+      "status": "verified",
+      "detail": "parsed",
+      "quotes": 36
+    },
+    {
+      "source": "https://priceoye.pk/mobiles/tecno?page=1",
+      "url": "https://priceoye.pk/mobiles/tecno?page=1",
+      "status": "verified",
+      "detail": "parsed",
+      "quotes": 12
+    },
+    {
+      "source": "https://priceoye.pk/mobiles/tecno?page=2",
+      "url": "https://priceoye.pk/mobiles/tecno?page=2",
+      "status": "verified",
+      "detail": "parsed",
+      "quotes": 36
+    },
+    {
+      "source": "https://priceoye.pk/mobiles/tecno?page=3",
+      "url": "https://priceoye.pk/mobiles/tecno?page=3",
+      "status": "verified",
+      "detail": "parsed",
+      "quotes": 36
+    },
+    {
+      "source": "https://priceoye.pk/mobiles/tecno?page=4",
+      "url": "https://priceoye.pk/mobiles/tecno?page=4",
+      "status": "verified",
+      "detail": "parsed",
+      "quotes": 36
+    },
+    {
+      "source": "https://priceoye.pk/mobiles/apple?page=1",
+      "url": "https://priceoye.pk/mobiles/apple?page=1",
+      "status": "verified",
+      "detail": "parsed",
+      "quotes": 9
+    },
+    {
+      "source": "https://priceoye.pk/mobiles/apple?page=2",
+      "url": "https://priceoye.pk/mobiles/apple?page=2",
+      "status": "verified",
+      "detail": "parsed",
+      "quotes": 14
+    },
+    {
+      "source": "https://priceoye.pk/mobiles/apple?page=3",
+      "url": "https://priceoye.pk/mobiles/apple?page=3",
+      "status": "not_verified",
+      "detail": "parsed",
+      "quotes": 0
+    },
+    {
+      "source": "https://priceoye.pk/mobiles/apple?page=4",
+      "url": "https://priceoye.pk/mobiles/apple?page=4",
+      "status": "not_verified",
+      "detail": "parsed",
+      "quotes": 0
+    },
+    {
+      "source": "https://priceoye.pk/laptops?page=1",
+      "url": "https://priceoye.pk/laptops?page=1",
+      "status": "verified",
+      "detail": "parsed",
+      "quotes": 36
+    },
+    {
+      "source": "https://priceoye.pk/laptops?page=2",
+      "url": "https://priceoye.pk/laptops?page=2",
+      "status": "verified",
+      "detail": "parsed",
+      "quotes": 36
+    },
+    {
+      "source": "https://priceoye.pk/laptops?page=3",
+      "url": "https://priceoye.pk/laptops?page=3",
+      "status": "verified",
+      "detail": "parsed",
+      "quotes": 36
+    },
+    {
+      "source": "https://priceoye.pk/smart-watches?page=1",
+      "url": "https://priceoye.pk/smart-watches?page=1",
+      "status": "verified",
+      "detail": "parsed",
+      "quotes": 36
+    },
+    {
+      "source": "https://priceoye.pk/smart-watches?page=2",
+      "url": "https://priceoye.pk/smart-watches?page=2",
+      "status": "verified",
+      "detail": "parsed",
+      "quotes": 36
+    },
+    {
+      "source": "https://priceoye.pk/smart-watches?page=3",
+      "url": "https://priceoye.pk/smart-watches?page=3",
+      "status": "verified",
+      "detail": "parsed",
+      "quotes": 36
+    },
+    {
+      "source": "https://priceoye.pk/wireless-earbuds?page=1",
+      "url": "https://priceoye.pk/wireless-earbuds?page=1",
+      "status": "verified",
+      "detail": "parsed",
+      "quotes": 36
+    },
+    {
+      "source": "https://priceoye.pk/wireless-earbuds?page=2",
+      "url": "https://priceoye.pk/wireless-earbuds?page=2",
+      "status": "verified",
+      "detail": "parsed",
+      "quotes": 36
+    },
+    {
+      "source": "https://priceoye.pk/wireless-earbuds?page=3",
+      "url": "https://priceoye.pk/wireless-earbuds?page=3",
+      "status": "verified",
+      "detail": "parsed",
+      "quotes": 36
+    },
+    {
+      "source": "https://priceoye.pk/tablets?page=1",
+      "url": "https://priceoye.pk/tablets?page=1",
+      "status": "verified",
+      "detail": "parsed",
+      "quotes": 36
+    },
+    {
+      "source": "https://priceoye.pk/tablets?page=2",
+      "url": "https://priceoye.pk/tablets?page=2",
+      "status": "verified",
+      "detail": "parsed",
+      "quotes": 13
+    },
+    {
+      "source": "https://priceoye.pk/tablets?page=3",
+      "url": "https://priceoye.pk/tablets?page=3",
+      "status": "not_verified",
+      "detail": "parsed",
+      "quotes": 0
+    },
+    {
+      "source": "https://priceoye.pk/power-banks?page=1",
+      "url": "https://priceoye.pk/power-banks?page=1",
+      "status": "verified",
+      "detail": "parsed",
+      "quotes": 36
+    },
+    {
+      "source": "https://priceoye.pk/power-banks?page=2",
+      "url": "https://priceoye.pk/power-banks?page=2",
+      "status": "verified",
+      "detail": "parsed",
+      "quotes": 36
+    },
+    {
+      "source": "https://priceoye.pk/power-banks?page=3",
+      "url": "https://priceoye.pk/power-banks?page=3",
+      "status": "verified",
+      "detail": "parsed",
+      "quotes": 36
+    },
+    {
+      "source": "https://priceoye.pk/trimmers-shavers?page=1",
+      "url": "https://priceoye.pk/trimmers-shavers?page=1",
+      "status": "verified",
+      "detail": "parsed",
+      "quotes": 28
+    },
+    {
+      "source": "https://priceoye.pk/trimmers-shavers?page=2",
+      "url": "https://priceoye.pk/trimmers-shavers?page=2",
+      "status": "verified",
+      "detail": "parsed",
+      "quotes": 35
+    },
+    {
+      "source": "https://priceoye.pk/trimmers-shavers?page=3",
+      "url": "https://priceoye.pk/trimmers-shavers?page=3",
+      "status": "verified",
+      "detail": "parsed",
+      "quotes": 35
+    },
+    {
+      "source": "https://priceoye.pk/speakers?page=1",
+      "url": "https://priceoye.pk/speakers?page=1",
+      "status": "not_verified",
+      "detail": "parsed",
+      "quotes": 0
+    },
+    {
+      "source": "https://priceoye.pk/speakers?page=2",
+      "url": "https://priceoye.pk/speakers?page=2",
+      "status": "not_verified",
+      "detail": "parsed",
+      "quotes": 0
+    },
+    {
+      "source": "https://priceoye.pk/speakers?page=3",
+      "url": "https://priceoye.pk/speakers?page=3",
+      "status": "not_verified",
+      "detail": "parsed",
+      "quotes": 0
+    },
+    {
+      "source": "https://mistore.pk/products.json?limit=250&page=1",
+      "url": "https://mistore.pk/products.json?limit=250&page=1",
+      "status": "verified",
+      "detail": "parsed",
+      "quotes": 393
+    },
+    {
+      "source": "https://mistore.pk/products.json?limit=250&page=2",
+      "url": "https://mistore.pk/products.json?limit=250&page=2",
+      "status": "verified",
+      "detail": "parsed",
+      "quotes": 399
+    },
+    {
+      "source": "https://mistore.pk/products.json?limit=250&page=3",
+      "url": "https://mistore.pk/products.json?limit=250&page=3",
+      "status": "verified",
+      "detail": "parsed",
+      "quotes": 196
+    },
+    {
+      "source": "https://mistore.pk/products.json?limit=250&page=4",
+      "url": "https://mistore.pk/products.json?limit=250&page=4",
+      "status": "not_verified",
+      "detail": "parsed",
+      "quotes": 0
+    },
+    {
+      "source": "https://mistore.pk/products.json?limit=250&page=5",
+      "url": "https://mistore.pk/products.json?limit=250&page=5",
+      "status": "not_verified",
+      "detail": "parsed",
+      "quotes": 0
+    },
+    {
+      "source": "https://mistore.pk/products.json?limit=250&page=6",
+      "url": "https://mistore.pk/products.json?limit=250&page=6",
+      "status": "not_verified",
+      "detail": "parsed",
+      "quotes": 0
+    },
+    {
+      "source": "https://www.galaxy.pk/desktops",
+      "url": "https://www.galaxy.pk/desktops",
+      "status": "not_verified",
+      "detail": "fetch failed; previous quote retained",
+      "quotes": 0
+    },
+    {
+      "source": "https://www.galaxy.pk/monitors",
+      "url": "https://www.galaxy.pk/monitors",
+      "status": "verified",
+      "detail": "parsed",
+      "quotes": 15
+    },
+    {
+      "source": "https://www.galaxy.pk/processors",
+      "url": "https://www.galaxy.pk/processors",
+      "status": "not_verified",
+      "detail": "fetch failed; previous quote retained",
+      "quotes": 0
+    },
+    {
+      "source": "https://www.galaxy.pk/motherboards",
+      "url": "https://www.galaxy.pk/motherboards",
+      "status": "not_verified",
+      "detail": "fetch failed; previous quote retained",
+      "quotes": 0
+    },
+    {
+      "source": "https://www.galaxy.pk/graphic-cards",
+      "url": "https://www.galaxy.pk/graphic-cards",
+      "status": "not_verified",
+      "detail": "fetch failed; previous quote retained",
+      "quotes": 0
+    },
+    {
+      "source": "https://www.galaxy.pk/memory",
+      "url": "https://www.galaxy.pk/memory",
+      "status": "not_verified",
+      "detail": "fetch failed; previous quote retained",
+      "quotes": 0
+    },
+    {
+      "source": "https://www.galaxy.pk/solid-state-drive",
+      "url": "https://www.galaxy.pk/solid-state-drive",
+      "status": "not_verified",
+      "detail": "fetch failed; previous quote retained",
+      "quotes": 0
+    },
+    {
+      "source": "https://www.galaxy.pk/printers",
+      "url": "https://www.galaxy.pk/printers",
+      "status": "verified",
+      "detail": "parsed",
+      "quotes": 15
+    },
+    {
+      "source": "Chase Value",
+      "url": "https://chasevalue.pk/products.json?limit=100&page=1",
+      "status": "verified",
+      "detail": "parsed",
+      "quotes": 839
+    },
+    {
+      "source": "Chase Value",
+      "url": "https://chasevalue.pk/products.json?limit=100&page=2",
+      "status": "verified",
+      "detail": "parsed",
+      "quotes": 662
+    },
+    {
+      "source": "Naheed",
+      "url": "https://www.naheed.pk/groceries-pets",
+      "status": "verified",
+      "detail": "parsed",
+      "quotes": 48
+    },
+    {
+      "source": "Naheed",
+      "url": "https://www.naheed.pk/groceries-pets/fresh-products/vegetables",
+      "status": "verified",
+      "detail": "parsed",
+      "quotes": 32
+    },
+    {
+      "source": "Naheed",
+      "url": "https://www.naheed.pk/groceries-pets/dairy/milk-dairy-drinks",
+      "status": "verified",
+      "detail": "parsed",
+      "quotes": 32
+    },
+    {
+      "source": "Naheed",
+      "url": "https://www.naheed.pk/groceries-pets/baking-cooking/rice",
+      "status": "verified",
+      "detail": "parsed",
+      "quotes": 23
+    },
+    {
+      "source": "Naheed",
+      "url": "https://www.naheed.pk/groceries-pets/baking-cooking/flours-meals",
+      "status": "verified",
+      "detail": "parsed",
+      "quotes": 32
+    },
+    {
+      "source": "Paklap",
+      "url": "https://www.paklap.pk/laptops-prices.html",
+      "status": "verified",
+      "detail": "parsed",
+      "quotes": 20
+    },
+    {
+      "source": "Paklap",
+      "url": "https://www.paklap.pk/daily-deals.html",
+      "status": "verified",
+      "detail": "parsed",
+      "quotes": 5
+    },
+    {
+      "source": "Metro",
+      "url": "https://metro-online.pk/",
+      "status": "verified",
+      "detail": "parsed",
+      "quotes": 253
+    },
+    {
+      "source": "Foodpanda / Kifayah",
+      "url": "https://www.foodpanda.pk/shop/a036/kifayah-supermarket-pechs",
+      "status": "verified",
+      "detail": "parsed",
+      "quotes": 90
+    },
+    {
+      "source": "OLX",
+      "url": "https://www.olx.com.pk/items/q-iphone-15",
+      "status": "verified",
+      "detail": "parsed",
+      "quotes": 33
+    },
+    {
+      "source": "OLX",
+      "url": "https://www.olx.com.pk/items/q-laptop",
+      "status": "verified",
+      "detail": "parsed",
+      "quotes": 31
+    },
+    {
+      "source": "OLX",
+      "url": "https://www.olx.com.pk/items/q-sofa",
+      "status": "verified",
+      "detail": "parsed",
+      "quotes": 33
+    },
+    {
+      "source": "Al-Fatah",
+      "url": "https://alfatah.pk/products.json?limit=100",
+      "status": "verified",
+      "detail": "updated",
+      "quotes": 123
+    },
+    {
+      "source": "Shophive",
+      "url": "https://www.shophive.com/mobile-phones",
+      "status": "verified",
+      "detail": "updated",
+      "quotes": 12
+    },
+    {
+      "source": "Mega.pk",
+      "url": "https://www.mega.pk/mobiles/",
+      "status": "verified",
+      "detail": "updated",
+      "quotes": 27
+    }
+  ],
+  "total_quotes": 8208,
+  "verified_quotes": 6866,
+  "changed_prices": 43,
+  "new_quotes": 901,
+  "retained_quotes": 1342
+}

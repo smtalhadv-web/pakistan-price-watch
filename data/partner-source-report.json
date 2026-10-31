@@ -1,18 +1,18 @@
 {
-  "checked_at": "2026-10-30T15:01:33.951110+05:00",
-  "quotes": 1765,
+  "checked_at": "2026-10-31T12:10:34.266370+05:00",
+  "quotes": 2617,
   "checks": [
     {
       "store": "Chase Value",
       "url": "https://chasevalue.pk/products.json?limit=100&page=1",
       "status": "parsed",
-      "offers": 708
+      "offers": 839
     },
     {
       "store": "Chase Value",
       "url": "https://chasevalue.pk/products.json?limit=100&page=2",
       "status": "parsed",
-      "offers": 427
+      "offers": 662
     },
     {
       "store": "Naheed",
@@ -23,6 +23,24 @@
     {
       "store": "Naheed",
       "url": "https://www.naheed.pk/groceries-pets/fresh-products/vegetables",
+      "status": "parsed",
+      "offers": 32
+    },
+    {
+      "store": "Naheed",
+      "url": "https://www.naheed.pk/groceries-pets/dairy/milk-dairy-drinks",
+      "status": "parsed",
+      "offers": 32
+    },
+    {
+      "store": "Naheed",
+      "url": "https://www.naheed.pk/groceries-pets/baking-cooking/rice",
+      "status": "parsed",
+      "offers": 23
+    },
+    {
+      "store": "Naheed",
+      "url": "https://www.naheed.pk/groceries-pets/baking-cooking/flours-meals",
       "status": "parsed",
       "offers": 32
     },
@@ -42,7 +60,13 @@
       "store": "Metro",
       "url": "https://metro-online.pk/",
       "status": "parsed",
-      "offers": 251
+      "offers": 253
+    },
+    {
+      "store": "Foodpanda / Kifayah",
+      "url": "https://www.foodpanda.pk/shop/a036/kifayah-supermarket-pechs",
+      "status": "parsed",
+      "offers": 90
     },
     {
       "store": "OLX",
@@ -54,37 +78,13 @@
       "store": "OLX",
       "url": "https://www.olx.com.pk/items/q-laptop",
       "status": "parsed",
-      "offers": 33
+      "offers": 31
     },
     {
       "store": "OLX",
       "url": "https://www.olx.com.pk/items/q-sofa",
       "status": "parsed",
       "offers": 33
-    },
-    {
-      "store": "Foodpanda / Kifayah",
-      "url": "https://www.foodpanda.pk/shop/a036/kifayah-supermarket-pechs",
-      "status": "parsed",
-      "offers": 90
-    },
-    {
-      "store": "Naheed",
-      "url": "https://www.naheed.pk/groceries-pets/dairy/milk-dairy-drinks",
-      "status": "parsed",
-      "offers": 32
-    },
-    {
-      "store": "Naheed",
-      "url": "https://www.naheed.pk/groceries-pets/baking-cooking/rice",
-      "status": "parsed",
-      "offers": 23
-    },
-    {
-      "store": "Naheed",
-      "url": "https://www.naheed.pk/groceries-pets/baking-cooking/flours-meals",
-      "status": "parsed",
-      "offers": 32
     }
   ]
 }
