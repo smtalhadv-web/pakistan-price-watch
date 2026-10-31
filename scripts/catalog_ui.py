@@ -1,5 +1,6 @@
 import collections,html,json,re,hashlib
 from model import CATS,mode
+from freshness import badge,group_badge
 from presentation import ICONS,store_name
 E=lambda x:html.escape(str(x or''),quote=True)
 def family(r):
@@ -36,7 +37,7 @@ def archive(items,prefix=''):
   out+='<small class="item-taxonomy">'+E(r.get('subcategory',''))+'</small>'
   quotes=r.get('wholesale_quotes',[])
   if quotes:out+='<small class="wholesale-badge">Wholesale from PKR '+f'{min(q["price"]for q in quotes):,.2f}'+' / '+E(r['unit'])+'</small>'
-  out+='<strong class="range-price">'+value+'</strong><p>'+E(r['unit'])+' · '+('Latest source '+max(x['date']for x in priced)if priced else'Exact specification / quote needed')+'</p></article>'
+  out+='<strong class="range-price">'+value+'</strong>'+group_badge(peers)+'<p>'+E(r['unit'])+' · '+('Latest source '+max(x['date']for x in priced)if priced else'Exact specification / quote needed')+'</p></article>'
  return out+'</div>'
 def graph(points,label,compact=False):
  if not points:return '<div class="history-pending">No dated price observation is available yet.</div>'
@@ -50,9 +51,9 @@ def comparison(peers,r):
  priced=[x for x in peers if x['price']is not None];priced.sort(key=lambda x:(x.get('variant_key',''),x['city'],x['price']))
  out='<section class="detail-section product-comparison"><h2>Daily prices · sources & cities</h2><p class="muted">Each row keeps its exact variation, city, price basis and source date. Online offers available across Pakistan are labelled Pakistan. A daily check does not make an older quote current.</p><p id="comparison-status" class="comparison-status" aria-live="polite"></p>'
  if not priced:return out+'<p>No verified price is available for this product yet. No competing-store price is assumed.</p></section>'
- out+='<div class="source-summary"><strong id="source-count">'+str(len({store_name(x)for x in priced}))+' sources</strong><span id="city-count">'+str(len({x['city']for x in priced}))+' locations</span></div><div class="comparison-scroll"><table class="comparison-table"><thead><tr><th>Source / city</th><th>Exact variation / unit</th><th>Price · PKR</th><th>Price basis / availability</th><th>Quote date</th><th>Original source</th></tr></thead><tbody>'
+ out+='<div class="source-summary"><strong id="source-count">'+str(len({store_name(x)for x in priced}))+' sources</strong><span id="city-count">'+str(len({x['city']for x in priced}))+' locations</span></div><div class="comparison-scroll"><table class="comparison-table"><thead><tr><th>Source / city</th><th>Exact variation / unit</th><th>Price · PKR</th><th>Price basis / availability</th><th>Quote date / source check</th><th>Original source</th></tr></thead><tbody>'
  for x in priced:
-  out+='<tr data-quote-city="'+E(x['city'])+'" data-variant="'+E(x.get('variant_key',''))+'" data-price="'+str(x['price'])+'" data-store="'+E(store_name(x))+'"><td><b>'+E(store_name(x))+'</b><small>'+E(x['city'])+'</small></td><td>'+E(x['name'])+'<small>/ '+E(x['unit'])+'</small></td><td class="price">'+f'{x["price"]:,.2f}'+'</td><td>'+E(x['kind'])+'<small>'+E(x.get('availability','Check source'))+'</small>'+('<small>Branch / pack must be verified</small>'if x.get('comparison_eligible')is False else'')+'</td><td>'+E(x['date'])+'</td><td><a href="'+E(x['source'])+'" target="_blank" rel="noopener noreferrer">Visit source ↗</a></td></tr>'
+  out+='<tr data-quote-city="'+E(x['city'])+'" data-variant="'+E(x.get('variant_key',''))+'" data-price="'+str(x['price'])+'" data-store="'+E(store_name(x))+'"><td><b>'+E(store_name(x))+'</b><small>'+E(x['city'])+'</small></td><td>'+E(x['name'])+'<small>/ '+E(x['unit'])+'</small></td><td class="price">'+f'{x["price"]:,.2f}'+'</td><td>'+E(x['kind'])+'<small>'+E(x.get('availability','Check source'))+'</small>'+('<small>Branch / pack must be verified</small>'if x.get('comparison_eligible')is False else'')+'</td><td>'+E(x['date'])+badge(x)+'</td><td><a href="'+E(x['source'])+'" target="_blank" rel="noopener noreferrer">Visit source ↗</a></td></tr>'
  return out+'</tbody></table></div></section>'
 
 def product_controls(r,peers):
@@ -61,7 +62,7 @@ def product_controls(r,peers):
  out='<div class="product-controls"><label for="product-variation">Choose variation<select id="product-variation"><option value="*">All variations — compare separately</option>'
  out+=''.join('<option value="'+E(key)+'">'+E(x.get('variant_label',x['name']))+'</option>'for key,x in sorted(variants.items(),key=lambda pair:pair[1]['name']))+'</select></label><label for="comparison-city">Compare cities<select id="comparison-city"><option value="">All cities</option>'+''.join('<option value="'+E(city)+'">'+E(city)+'</option>'for city in sorted({x['city']for x in peers}))+'</select></label></div>'
  if len(variants)>1:out+='<p class="variant-notice">Choose one variation for like-for-like prices. All-variation ranges may include different sizes, colors, storage, packs or quote bases.</p>'
- data=[{k:x.get(k)for k in ['id','name','urdu','variant_key','wholesale_quotes','trade_stage','kind','image','image_kind','image_subject','unit','date','price','city','store','source']}for x in peers]
+ data=[{k:x.get(k)for k in ['id','name','urdu','variant_key','wholesale_quotes','trade_stage','kind','image','image_kind','image_subject','unit','date','price','city','store','source','last_checked_at','verification_state']}for x in peers]
  return out+'<script type="application/json" id="product-data">'+json.dumps(data,ensure_ascii=False).replace('<','\\u003c')+'</script>'
 
 def more_sources(r):

@@ -9,7 +9,7 @@ def expand():
   if price is None or price<=0:
    if id not in rows:pending[id]=dict(id=id,name=name,category=category,price=None,source=source,unit=unit,date=None,city='Pakistan',kind='Catalog · price unavailable',pricing_mode='unpriced',**kw)
    return
-  pending.pop(id,None);r=dict(id=id,name=name,category=category,price=price,source=source,unit=unit,date=TODAY,city='Pakistan',kind='Published listing · observed',pricing_mode='listed',**kw);rows[id]=r
+  pending.pop(id,None);r=dict(id=id,name=name,category=category,price=price,source=source,unit=unit,date=TODAY,city='Pakistan',kind='Published listing · observed',pricing_mode='listed',**kw);r['last_checked_at']=datetime.datetime.now(datetime.timezone.utc).isoformat();rows[id]=r
   a={p['date']:p for p in history.get(id,[])};a[TODAY]={'date':TODAY,'price':price,'source':source};history[id]=sorted(a.values(),key=lambda p:p['date'])[-400:]
  def attempt(name,fn):
   try:n=len(rows);fn();status.append(dict(source=name,status='parsed',new_records=len(rows)-n))

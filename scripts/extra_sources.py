@@ -13,7 +13,7 @@ def parse(store,url,raw,today):
   if not 0<price<1e10 or not source.startswith('https://'):return
   id='extra-'+hashlib.sha256((store+'|'+source+'|'+str(variant)).encode()).hexdigest()[:20];unit,known=package(name,cat)
   if unit_override:unit,known=unit_override
-  rows.append(dict(id=id,name=name.strip(),price=price,category=cat,source=source,store=store,city='Pakistan',country='Pakistan',date=today,observed_on=today,unit=unit,kind='Retailer listing · observed',pricing_mode='listed',comparison_eligible=known,scope='Public online listing; confirm delivery area, exact variant, warranty, tax and stock',availability='Check original listing',specification=spec[:1200],image=image or'',image_kind='listing'))
+  rows.append(dict(id=id,name=name.strip(),price=price,category=cat,source=source,store=store,city='Pakistan',country='Pakistan',date=today,observed_on=today,last_checked_at=datetime.datetime.now(datetime.timezone.utc).isoformat(),unit=unit,kind='Retailer listing · observed',pricing_mode='listed',comparison_eligible=known,scope='Public online listing; confirm delivery area, exact variant, warranty, tax and stock',availability='Check original listing',specification=spec[:1200],image=image or'',image_kind='listing'))
  if store=='Al-Fatah':
   for p in json.loads(raw).get('products',[]):
    for v in p.get('variants',[]):

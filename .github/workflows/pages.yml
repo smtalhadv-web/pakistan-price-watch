@@ -3,7 +3,8 @@ on:
   push:
     branches: [main]
   schedule:
-    - cron: '30 2 * * *'
+    # 08:30 and 20:30 Asia/Karachi (UTC+5). GitHub may delay scheduled jobs.
+    - cron: '30 3,15 * * *'
   workflow_dispatch:
 permissions:
   contents: write
@@ -15,6 +16,7 @@ concurrency:
 jobs:
   build:
     runs-on: ubuntu-latest
+    timeout-minutes: 35
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -22,9 +24,15 @@ jobs:
           python-version: '3.12'
       - name: Install source readers
         run: python -m pip install -r requirements.txt
-      - name: Check supported sources
-        if: github.event_name != 'push'
+      - name: Fetch current prices and retain verified observations
         run: python scripts/update.py
+      - name: Retain refresh diagnostics
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: price-refresh-status
+          path: data/refresh-status.json
+          retention-days: 14
       - name: Fetch daily economy business and trade briefings
         run: python scripts/news.py
       - name: Validate and test

@@ -1,4 +1,4 @@
-"""Fail closed: update only a supported dated PSO table; retain other quotes."""
+"""Dated source parser plus the entry point for scheduled live source refreshes."""
 import json,re,datetime,urllib.request,pathlib
 from html.parser import HTMLParser
 ROOT=pathlib.Path(__file__).resolve().parents[1]
@@ -20,8 +20,7 @@ def parse_pso(raw):
   values[key]=(value,date.isoformat())
  return values
 if __name__=='__main__':
- import subprocess,sys
- for name in ['collect.py','download_sources.py','ingest.py','expand_fetch.py','expand.py','commerce.py','partner_sources.py','extra_sources.py','item_images.py']:
-  result=subprocess.run([sys.executable,str(ROOT/'scripts'/name)],check=False)
-  if result.returncode:
-   print(name+' failed: existing dated quotes retained; manual review required')
+ from refresh import run
+ import sys
+ report=run()
+ sys.exit(1 if report['status']=='failed' else 0)

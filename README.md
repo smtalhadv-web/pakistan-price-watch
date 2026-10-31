@@ -92,3 +92,23 @@ Different grades, quote bases, cities and pack units remain identifiable.
 Additional daily readers in `extra_sources.py` fetch public Al-Fatah, Shophive and
 Mega.pk listings. Source names, dates, exact quotes and extra research links appear on
 item detail pages. A research search link never counts as a verified competing price.
+
+### Twice-daily live source refresh
+
+The Pages workflow now fetches current source data on scheduled runs, manual runs and
+code pushes. Schedule: **08:30 and 20:30 Asia/Karachi** (`30 3,15 * * *` UTC).
+GitHub may delay a scheduled start. A separate scheduled guard checks missed/failed
+refreshes and can retrigger the existing push workflow without creating duplicate runs.
+
+`update.py` runs `refresh.py`: bounded stages, retained valid data on failure, and a
+machine-readable `data/refresh-status.json`. A run with zero freshly verified quotes
+fails rather than reporting success. Partial source availability is explicit.
+
+`last_checked_at` records a successfully parsed source observation; `date` retains
+the source publication/effective date or the actual retailer observation date.
+Reimporting manual transcriptions does not certify a newer notice. Source dates
+are never advanced merely because a build or scheduled check ran.
+
+The website shows the last completed price check, verification/retention counts and
+per-offer verification timestamps. Open tabs check for a newly published refresh
+about every five minutes and when returning to the tab, then reload the new data.

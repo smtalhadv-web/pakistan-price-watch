@@ -19,6 +19,7 @@ def run():
   id=old['id']if old else'offer-'+hashlib.sha256(url.encode()).hexdigest()[:18]
   r=dict(id=id,name=name,price=price,source=url,store=store,category=category,city='Pakistan',country='Pakistan',date=TODAY,unit=unit,kind='Retailer listing · observed',pricing_mode='listed',availability=availability,note='Advertised listing, observed on the date shown. Confirm exact variant, warranty, taxes, delivery and stock at the retailer.')
   if old:r={**old,**r}
+  r['last_checked_at']=datetime.datetime.now(datetime.timezone.utc).isoformat()
   if image and image.startswith('https://'):r['image']=image
   if brand:r['brand']=brand
   if description:r['specification']=description[:1600]

@@ -1,5 +1,5 @@
 """Parse fetched public data. Preserve source date, market type and units."""
-import json,re,pathlib,datetime,hashlib
+import json,re,pathlib,datetime,hashlib,os
 from bs4 import BeautifulSoup
 from openpyxl import load_workbook
 from collect import ROOT,URLS
@@ -17,15 +17,21 @@ from taxonomy import survey_category as classified
 def ingest():
  records={r['id']:r for r in json.loads((ROOT/'data/prices.json').read_text())}
  hist=json.loads((ROOT/'data/history.json').read_text()) if (ROOT/'data/history.json').exists() else {}
- statuses=[]
+ statuses=[];observed=set();check_time=datetime.datetime.now(datetime.timezone.utc).isoformat()
  def add(id,name,category,price,unit,date,source,city='Pakistan',kind='Retailer listing',**kw):
   if not isinstance(price,(int,float)) or not 0<price<1e10 or date>TODAY:return
   r=dict(id=id,name=name,category=category,price=round(price,4),unit=unit,date=date,source=source,city=city,kind=kind,**kw)
   old=records.get(id)
-  if not old or date>=old['date']:records[id]=r
+  if not old or date>=old['date']:
+   fresh=not kw.get('sheet')
+   if id.startswith('pbs-'):
+    file=ROOT/'raw'/('weekly.xlsx'if id.startswith('pbs-weekly-')else'construction.xlsx')
+    fresh=file.exists()and datetime.datetime.fromtimestamp(file.stat().st_mtime,datetime.timezone.utc).isoformat()>=os.environ.get('PPW_REFRESH_STARTED_AT',check_time)
+   if fresh:r['last_checked_at']=check_time;observed.add(id)
+   records[id]={**(old or{}),**r}
   pts={x['date']:x for x in hist.get(id,[])};pts[date]={'date':date,'price':r['price'],'source':source};hist[id]=sorted(pts.values(),key=lambda x:x['date'])[-400:]
  def attempt(name,fn):
-  try:before=len(records);fn();statuses.append({'source':name,'status':'parsed','new_records':len(records)-before})
+  try:before=len(records);seen_before=len(observed);fn();statuses.append({'source':name,'status':'parsed'if len(observed)>seen_before else'no freshly verified quotes','observed_records':len(observed)-seen_before,'new_records':len(records)-before})
   except Exception as e:statuses.append({'source':name,'status':'manual_required','reason':str(e)})
  def fuel():
   ss=soup('pso-history')

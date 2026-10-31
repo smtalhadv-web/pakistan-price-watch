@@ -61,6 +61,7 @@ def parse(store,url,text):
   identity=store+'|'+source+'|'+str(variant);id='partner-'+hashlib.sha256(identity.encode()).hexdigest()[:20]
   r=dict(id=id,name=name,category=cat,price=price,unit=unit,date=TODAY,observed_on=TODAY,source=source,store=store,city=city,country='Pakistan',pricing_mode='asking'if asking else'listed',kind='Classified asking price · observed'if asking else'Retailer listing · observed',condition=('Seller states new'if re.search(r'\bnew\b',name,re.I)else'Seller states used'if re.search(r'\bused\b',name,re.I)else'Condition not verified')if asking else'Check source',scope=scope,comparison_eligible=False if asking else known if eligible is None else eligible,availability='Check original listing',note='Date is the observation date, not the publication date. '+scope+'. '+('Seller asking price, not a completed-sale value. PTA/JV, battery, storage and condition claims are unverified. No seller identity/contact details are collected.'if asking else'Confirm exact pack, stock, warranty, delivery, taxes and applicable branch before buying.'))
   if image and image.startswith('https://'):r['image']=image;r['image_kind']='listing'
+  r['last_checked_at']=datetime.datetime.now(datetime.timezone.utc).isoformat()
   offers.append(r)
  if store=='Chase Value':
   q=json.loads(text)

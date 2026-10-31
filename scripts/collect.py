@@ -5,7 +5,7 @@ def fetch(pair):
  k,u=pair
  (ROOT/'raw').mkdir(exist_ok=True)
  try:
-  req=urllib.request.Request(u,headers={'User-Agent':'PakistanPriceWatch/1.0 (public price reference)'})
+  req=urllib.request.Request(u,headers={'User-Agent':'PakistanPriceWatch/1.5 (twice daily public price reference)','Cache-Control':'no-cache'})
   with urllib.request.urlopen(req,timeout=30) as r:b=r.read(6000000)
   (ROOT/'raw'/f'{k}.html').write_bytes(b)
   return k,len(b)

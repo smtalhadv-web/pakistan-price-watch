@@ -215,3 +215,39 @@ class StableProductURLTests(unittest.TestCase):
   prepare([a]);canonical=a['canonical_id']
   b={**a,'id':'a','name':'Redmi Note 15 Pro · Blue / 8GB - 256GB'}
   prepare([a,b]);self.assertEqual(canonical,a['canonical_id']);self.assertEqual(canonical,b['canonical_id'])
+
+class RefreshFreshnessTests(unittest.TestCase):
+ def test_verified_older_notification_keeps_its_publication_date(self):
+  from freshness import annotate
+  row={'id':'fuel','price':300,'date':'2026-10-29','last_checked_at':'2026-10-31T03:45:00+00:00'}
+  annotate([row],{'started_at':'2026-10-31T03:30:00+00:00'})
+  self.assertEqual(row['verification_state'],'checked');self.assertEqual(row['date'],'2026-10-29')
+ def test_retained_and_manual_quotes_are_not_claimed_as_fresh(self):
+  from freshness import annotate
+  old={'price':100,'last_checked_at':'2026-10-30T03:30:00+00:00'};manual={'price':100,'sheet':'assets/notice.jpg','last_checked_at':'2026-10-31T04:00:00+00:00'}
+  annotate([old,manual],{'started_at':'2026-10-31T03:30:00+00:00'})
+  self.assertEqual(old['verification_state'],'retained');self.assertEqual(manual['verification_state'],'manual')
+ def test_two_daily_slots_and_next_day_rollover(self):
+  from freshness import next_slot,TZ
+  import datetime
+  self.assertEqual(next_slot(datetime.datetime(2026,10,31,8,0,tzinfo=TZ)),'2026-10-31T08:30:00+05:00')
+  self.assertEqual(next_slot(datetime.datetime(2026,10,31,8,30,tzinfo=TZ)),'2026-10-31T20:30:00+05:00')
+  self.assertEqual(next_slot(datetime.datetime(2026,10,31,21,0,tzinfo=TZ)),'2026-11-01T08:30:00+05:00')
+ def test_failed_writer_restores_last_valid_prices(self):
+  import tempfile,pathlib,subprocess
+  from unittest.mock import patch
+  import refresh
+  with tempfile.TemporaryDirectory()as d:
+   root=pathlib.Path(d);(root/'data').mkdir();(root/'scripts').mkdir();p=root/'data/prices.json';original=[dict(id='x',price=100,date='2020-01-01',source='https://example.com/item')];p.write_text(json.dumps(original))
+   def corrupt(*args,**kw):p.write_text('{bad');return subprocess.CompletedProcess([],1,'','source failed')
+   with patch.object(refresh,'ROOT',root),patch.object(refresh,'STAGES',[('fake.py',1)]),patch.object(refresh.subprocess,'run',side_effect=corrupt):report=refresh.run()
+   self.assertEqual(json.loads(p.read_text()),original);self.assertEqual(report['status'],'failed');self.assertEqual(report['verified_quotes'],0)
+ def test_successful_same_price_fetch_counts_as_verified_not_changed(self):
+  import tempfile,pathlib,subprocess
+  from unittest.mock import patch
+  import refresh
+  with tempfile.TemporaryDirectory()as d:
+   root=pathlib.Path(d);(root/'data').mkdir();(root/'scripts').mkdir();p=root/'data/prices.json';row=dict(id='x',price=100,date='2020-01-01',source='https://example.com/item');p.write_text(json.dumps([row]))
+   def observe(*args,**kw):p.write_text(json.dumps([{**row,'last_checked_at':refresh.now()}]));return subprocess.CompletedProcess([],0,'','')
+   with patch.object(refresh,'ROOT',root),patch.object(refresh,'STAGES',[('fake.py',1)]),patch.object(refresh.subprocess,'run',side_effect=observe):report=refresh.run()
+   self.assertEqual(report['verified_quotes'],1);self.assertEqual(report['changed_prices'],0);self.assertEqual(json.loads(p.read_text())[0]['date'],'2020-01-01')

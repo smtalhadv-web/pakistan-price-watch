@@ -48,7 +48,7 @@ def deduplicate(rows):
   if key not in chosen:chosen[key]=r;continue
   old=chosen[key]
   # Latest source observation wins; keep aliases so old URLs continue to work.
-  if (r.get('date')or'',bool(r.get('image')),r['id'])>(old.get('date')or'',bool(old.get('image')),old['id']):aliases[old['id']]=r['id'];chosen[key]=r
+  if (r.get('date')or'',r.get('last_checked_at',''),bool(r.get('image')),r['id'])>(old.get('date')or'',old.get('last_checked_at',''),bool(old.get('image')),old['id']):aliases[old['id']]=r['id'];chosen[key]=r
   else:aliases[r['id']]=old['id']
  for key in aliases:
   while aliases[key]in aliases:aliases[key]=aliases[aliases[key]]
