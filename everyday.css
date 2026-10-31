@@ -37,7 +37,7 @@ body:not([data-catalog-view=grid]) .archive-card>.wholesale-badge,body:not([data
 /* Keep the title as a real focusable link with a visible click target in list mode. */
 body:not([data-catalog-view=grid]) .archive-card{position:relative;min-height:110px}
 body:not([data-catalog-view=grid]) .product-title-link{display:block;grid-column:2/4;grid-row:1;min-width:0}
-body:not([data-catalog-view=grid]) .product-title-link img{position:absolute;left:18px;top:18px;margin:0}
+body:not([data-catalog-view=grid]) .product-title-link img{position:absolute;grid-column:auto;grid-row:auto;left:18px;top:18px;margin:0}
 @media(max-width:600px){body:not([data-catalog-view=grid]) .product-title-link img{left:12px;top:15px}}
 /* Use the same Everyday app navigation on desktops, laptops and phones. */
 @media(min-width:901px){
