@@ -18,11 +18,11 @@
     ],
     [
       "pso-history",
-      232378
+      232379
     ],
     [
       "samsung",
-      595096
+      595090
     ],
     [
       "xiaomi",
@@ -34,7 +34,7 @@
     ],
     [
       "oppo",
-      462040
+      462037
     ],
     [
       "realme",
@@ -57,7 +57,7 @@
       342840
     ]
   ],
-  "checked_at": "2026-10-31T16:14:21.050514+00:00",
+  "checked_at": "2026-10-31T18:11:36.499468+00:00",
   "sources": [
     {
       "source": "PSO dated fuel archive",
@@ -81,7 +81,7 @@
       "source": "PriceOye published listings",
       "status": "parsed",
       "observed_records": 136,
-      "new_records": 3
+      "new_records": 0
     },
     {
       "source": "PBS weekly city prices",
@@ -98,12 +98,12 @@
     {
       "source": "Additional mobile, laptop, watch and audio listings",
       "status": "parsed",
-      "new_records": 2
+      "new_records": 0
     },
     {
       "source": "Furniture and power-tool variant listings",
       "status": "parsed",
-      "new_records": 3
+      "new_records": 0
     },
     {
       "source": "Suzuki manufacturer vehicles and marine engines",
@@ -116,7 +116,7 @@
       "new_records": 0
     }
   ],
-  "quotes": 5418,
+  "quotes": 5488,
   "manual_queue": [
     "Verify new image rates before transcribing; source sheets refresh automatically",
     "Unsupported sources retain their dated quotes"

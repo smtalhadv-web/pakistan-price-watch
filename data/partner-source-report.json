@@ -1,6 +1,6 @@
 {
-  "checked_at": "2026-10-31T21:14:32.180709+05:00",
-  "quotes": 3090,
+  "checked_at": "2026-10-31T23:11:49.126222+05:00",
+  "quotes": 3179,
   "checks": [
     {
       "store": "Chase Value",
@@ -60,7 +60,7 @@
       "store": "Metro",
       "url": "https://metro-online.pk/",
       "status": "parsed",
-      "offers": 253
+      "offers": 254
     },
     {
       "store": "Foodpanda / Kifayah",
@@ -78,7 +78,7 @@
       "store": "OLX",
       "url": "https://www.olx.com.pk/items/q-laptop",
       "status": "parsed",
-      "offers": 32
+      "offers": 33
     },
     {
       "store": "OLX",

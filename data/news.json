@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-31T21:14:40.560935+05:00",
+  "checked_at": "2026-10-31T23:11:57.502856+05:00",
   "checks": [
     {
       "topic": "economy",
@@ -7,12 +7,12 @@
       "headlines": 8
     },
     {
-      "topic": "trade",
+      "topic": "business",
       "status": "updated",
       "headlines": 8
     },
     {
-      "topic": "business",
+      "topic": "trade",
       "status": "updated",
       "headlines": 8
     }
@@ -26,14 +26,6 @@
       "context": "Trade and customs developments can affect landed costs and delivery times. Check the original notification, effective date and product classification before applying a reported change to an item.",
       "headlines": [
         {
-          "id": "351de1fe6ebbbba5",
-          "title": "Tackling Informal Economy With AI—Part II",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQTDQwYmVBdGtYNFpaMTdyUzVGelFDRk9LV3p3VmNoZ0dwMDM0bnBPeUNxWXc3TkVqSVJhTFhyQ0pQR3lXNk5CT2szeFAyNHdMNmFXd0NaSm0xaV9SVXVBZFRyVDc4SmhreWRrUERnMHJNYk5hR0xlNDJ1M3dzVUt2RDVmbkx1UQ?oc=5",
-          "publisher": "The Friday Times",
-          "published_at": "2026-10-31T14:59:00+05:00",
-          "topic": "trade"
-        },
-        {
           "id": "8ad293cb06cb78a5",
           "title": "China green channel",
           "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1CMWh1bDJOazBqV3NxaWNSZjNTNG5tNnNrQzFUcVZ4Z1lqaHN2V3E3VXVZd3RUT3B1T3FkVF9mMUhKRHNjQ1paYw?oc=5",
@@ -42,19 +34,19 @@
           "topic": "trade"
         },
         {
-          "id": "14a5ad820d834bbc",
-          "title": "Textile, leather, other products: FBR revises duty drawback rates on exports",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1ZeGdvVEtYSHhDaVNfdFh5ZEs5U2wyQW95aHVkOF9wbjFUZ1lNd2pwMS15SUIxUTlKSnVtZEI2eVpLUU9NbENabW84cWM2MF910gFWQVVfeXFMUGxUdV93Slc2RTJIWFZCano1b0htVjlQMllUNy1DbGdBLVFQclpyQkFuM2YxQ0xpcFhGUzdtQ2ZPNXFjMEVTNGFxX2xrTkh3SmNoNXFoZVE?oc=5",
-          "publisher": "Business Recorder",
-          "published_at": "2026-10-30T05:43:52+05:00",
+          "id": "351de1fe6ebbbba5",
+          "title": "Tackling Informal Economy With AI—Part II",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQTDQwYmVBdGtYNFpaMTdyUzVGelFDRk9LV3p3VmNoZ0dwMDM0bnBPeUNxWXc3TkVqSVJhTFhyQ0pQR3lXNk5CT2szeFAyNHdMNmFXd0NaSm0xaV9SVXVBZFRyVDc4SmhreWRrUERnMHJNYk5hR0xlNDJ1M3dzVUt2RDVmbkx1UQ?oc=5",
+          "publisher": "The Friday Times",
+          "published_at": "2026-10-31T14:59:00+05:00",
           "topic": "trade"
         },
         {
-          "id": "18496b88431f0fa4",
-          "title": "FBR revises customs values of artificial flowers, decorative items imported from China",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQLXJmVjFTUUkyWU9mZjhqcXF1Zkw1b211MGVVYVhqWklycGJUamhmLXBLN2FHZFBpYmc5azJZdEVvWVdKWXpPZ0o0OXhGc2xFeUdQNFo3SFlKdFoxb0ZEUXAwd2M5aG1Pd1VUa2x2ZkpfcmpPZFplMUphLUpfRHNOaE9XNGp5R3RXTDB6Z19EYXphZDhRVVp6Z2xGWXB3ODhqWUFPRWUyYXMtOW81R3Z4ajdINi1rZ2VrcS1uQ1hMbG5JOUdaSG5R?oc=5",
-          "publisher": "Investify",
-          "published_at": "2026-10-31T09:45:00+05:00",
+          "id": "8913cfc0dc1665ab",
+          "title": "Textile, leather, other products: FBR revises duty drawback rates on exports",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRTRDZUZVZlNPZHUtaHpuUHZkSVMwNmVKOVVfcUlERWtwdnFhNkZ2eDI1bXFEOU5qbkk5S2Nvd0FmV3FGeHE4R2s5cHhsRlFyRGhQZWVqRG9GT3dHeGtibEliQmdUQjliYWtEaDBRdXljZlZXZGtQTzlGZVJmZGV4TE1FaGQtbXIyUTlBRjBNSFd6UGVHT0JremV1REg0eWhoQXNFb2FFVXpDQm5vMmVsT1dFWdIBVkFVX3lxTFBsVHVfd0pXNkUySFhWQmp6NW9IbVY5UDJZVDctQ2xnQS1RUHJackJBbjNmMUNMaXBYRlM3bUNmTzVxYzBFUzRhcV9sa05Id0pjaDVxaGVR?oc=5",
+          "publisher": "Business Recorder",
+          "published_at": "2026-10-30T05:43:52+05:00",
           "topic": "trade"
         },
         {
@@ -63,6 +55,14 @@
           "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0wa29LcXBqeUZORzNtWk52N3h3OXZFcks1UUtzSHFJY0gyMTlhbGF1NDcyaGFid01KWVRNcFVYRC1xZDY1d25QTVRadEhXSTR4TThaSDJGcTFuU3Y4LUI4clZTUlVuRFp3UXp5LV9rc244M0pHdUhwdHcwZzRETHM?oc=5",
           "publisher": "Asia News Network",
           "published_at": "2026-10-30T09:35:51+05:00",
+          "topic": "trade"
+        },
+        {
+          "id": "0c30818671352694",
+          "title": "China: Steel exports decline 2.6% in Jan-Sept'26 as trade flows shift across regions",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOYUhCNGVac3F1RVNhSjFLSzM5MkpYUG9IbWcwX1pWYjZ4OHRBbDFuQ0FWc3hvcDJUSzd6UVhsbjBWY3V0UG1QaE4tSktaV0JuSGxCQ00zY016aE10eXU5T1o1V1JwM1JqRkRnWHVKMzgtTXA3VzE0akpPd2Q3alpuNHpudHVHQ0o2MEhPLTJRX0IwTUR5bkJaZGNZMnpZdi05STJ5U1dfaU96UEF5SDdOcE5KTmRsakdFRHNvbUhWeVB1SlBCS3c?oc=5",
+          "publisher": "BigMint",
+          "published_at": "2026-10-31T10:01:19+05:00",
           "topic": "trade"
         },
         {
@@ -82,15 +82,15 @@
           "topic": "trade"
         },
         {
-          "id": "e0187e1f30434c24",
-          "title": "EU’s 2027 China import curbs could reshape India’s chemical industry export opportunities",
-          "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQT3prWGJYemNRMHdKeEFocW9RandXbUUyMnNqQ1k1NFk1Sm9HaWxCWDl1NlM4bEdjcC1zbUYtZ2w5eVNQSW9GMklDNXByQXdMdmFXdzB6aVc3aVhPbDFnTGs2VWVpR19rU0tjUmV2VkV0M3A5cjVFOFI3ZElsTGFzNzVYQzhOVXU5NVZIS0NVVWFRZUk5WWJJVVEySkJsLTlrUlZvdmRBcjEwUFZPZHNrRmRpbVJtV1BaWjZoTGFZZjBCUVljMUxVNlc0eDJVRkFYWDNDbHMtTDlmd2xCekRPcVdHYUllQUI4LVppZXhpZHY1QnJUeWhxYjJDbklSa20z0gGEAkFVX3lxTE1BTmMzNEtKVU5rbVA5b0NDWE50THpaSFZ3LUtFOUM5RERTRVNhV3lZRVBvcjVtWUt1R3lkazlkOEdxS0owcEJVbm93NUhxVy1kbXFpLTJIZ1hzSnJseWhIVnJoZWlaOGVweGJKaVR1djFaTVZMRk93SnhqbE0wQk5taVFqSFl2dVVHSS04dTFrZHZPdWViOVZ3MFNwVG41X2x3cHFMLXJFcWxnT3VnalNWa2Q0ZGx5Qmk0WE42NWhVYWl2OERteUd1RWxiVXVmMW9CcFRYdTZwdkFUNWVyaE56RHhCUzlPN19GbThCSkJ5eUhScEpEckNCeXNCdGdnUkpXdmRC?oc=5",
-          "publisher": "Indiatimes",
-          "published_at": "2026-10-30T10:30:18+05:00",
+          "id": "e13d4fa3a338c3cf",
+          "title": "India extends cotton import duty exemption till December 31",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNV2J2VDUwMmd1d1lVRVRENEM2LXBmOWlYMURWOHlLTFQzb05hUk12d1I1bDdsVUlKYm1pUEkxYXJoNUpOMnltd3NUeWRhN3lIeHF4QzB3dHhRaTdGSFM3TlkxRi1hckRYekRUUm5rNmpqNWhFUUlqMTd2bUR6QkdEbWFfbWVQVzBMTjFyQ1ZLT3NXZmxUNkNsVE1fSDM2VmswSVVlQXZnREVjeFhTNjJuV01LU0tib081ZFMwV0d0ZTZmbzJvemp1Q3FRSVVEYlRhd3dMZ1JmRdIB3AFBVV95cUxOakU0LVRLbFZMM296WEcyQ2RENzRnNEhtVGpiUmllcFBJQmM0LW1zeUk5eTZGLVZVeHE0TlVjRHduaWhUQ01kZUJBcW1JbXJ5T0Z5REphUkViRnd0dVBVb3h1OGxJay1fQ1NiSERPQlJsNEkyN1NJVE9Wcl9KSG1MY2VaTUVRY0pDYko2SENJdV95TUxPRFZlWDJTdUtyS2R4VDY3YWQyVmtiWHVQNGFBTl9ORmpWT3lyYjNzTkJiUXVFenY2N2ZXZGVjODdSLTAwNzJtNGsyekVlSGlh?oc=5",
+          "publisher": "The Economic Times",
+          "published_at": "2026-10-31T17:10:40+05:00",
           "topic": "trade"
         }
       ],
-      "fetched_at": "2026-10-31T21:14:40.560935+05:00"
+      "fetched_at": "2026-10-31T23:11:57.502856+05:00"
     },
     {
       "id": "economy-2026-10-31",
@@ -116,14 +116,6 @@
           "topic": "economy"
         },
         {
-          "id": "741b5d79917ca76d",
-          "title": "Rising interest payments, uplift spending strained Pakistan's fiscal position in early FY27: ministry",
-          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5hd0YybHZmRlBfY0hBYmlXZnQ4ek5PNWwxbGxnX0hDOThNQUFmWW9IRGRuRzc1X2o5c3ZFVl9tWXJqb01EdFgwWA?oc=5",
-          "publisher": "Dawn",
-          "published_at": "2026-10-29T21:35:18+05:00",
-          "topic": "economy"
-        },
-        {
           "id": "acf77a43ec45c168",
           "title": "SBP reserves rise $33m to $21.52b",
           "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE93SGxveVZCLXNwN0xUTjFXaENvUVpCVTQ1ZzJ2N1g2X21nSnYtVU1qSU05QzRXTkdMMWwzN1RubDdhRVloZm9yc25FaTEzMzM4SjJBN3pzS1BJT0oxVGtSeFBCZlBoSFdoZmx3Yy1vaUpUcWtBT0HSAX5BVV95cUxQNHhRUURhOWNHWE0zR3lDdkR3enpWbzFIYnNlUW5lY3pOazRfZ014djJsTmwzU2UwU2p4a2FJV1BZX0xjX1dRaHpQajRCRGZWckJwb3V5VlNKY3hCcFdIMllhMzRBYjFJazlWZnp2X0E0YjdaMzdRVGlKbkN4RUE?oc=5",
@@ -140,19 +132,27 @@
           "topic": "economy"
         },
         {
-          "id": "5e9884c2567a1fe5",
-          "title": "Gold prices fall by Rs10,800 per tola in Pakistan",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSzd5VFJTLUJFX0QtN1Q2aXJXb0Yzd1BEN0hJN2VTS3UxX3dEcnVsM2h2bDdZeGxsYUdHUnR1U3gtWHdiQVVQdk55a0pGN3JqaTBRME9BX0ozS3JQOWhHb2JEczVJR1AtZ0dfTk1XbnZsZkJONmFuOWtwaDc5Vkl3VmJmczlrUQ?oc=5",
-          "publisher": "Hum News English",
-          "published_at": "2026-10-31T16:27:48+05:00",
-          "topic": "economy"
-        },
-        {
           "id": "49f01386fd4c5d29",
           "title": "Pakistan’s urgent need for structural reform",
           "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE15Ulo2ZG9mRElvLUs0S09hcXJIWTNxVzBaaUdsZ0VvT1NTV2NXZ1BmT0hiMmtMR3ppUXRUVDYzTnBtTHZnUEZ0ZkRBMzZxQW9ucmp0TkNGZ1V3SFhOVVhpRjFzY3FqbmpvOGxDYmJwUS1mQTdudjFV?oc=5",
           "publisher": "Pakistan Observer",
           "published_at": "2026-10-31T19:18:21+05:00",
+          "topic": "economy"
+        },
+        {
+          "id": "5e9884c2567a1fe5",
+          "title": "Gold prices fall by Rs10,800 per tola in Pakistan",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSzd5VFJTLUJFX0QtN1Q2aXJXb0Yzd1BEN0hJN2VTS3UxX3dEcnVsM2h2bDdZeGxsYUdHUnR1U3gtWHdiQVVQdk55a0pGN3JqaTBRME9BX0ozS3JQOWhHb2JEczVJR1AtZ0dfTk1XbnZsZkJONmFuOWtwaDc5Vkl3VmJmczlrUQ?oc=5",
+          "publisher": "Hum News English",
+          "published_at": "2026-10-31T11:29:23+05:00",
+          "topic": "economy"
+        },
+        {
+          "id": "ffbcbc52c7bced23",
+          "title": "Finance ministry sees October inflation near 10pc",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVl9WSU12dk1VQmZ2MTBTUUhTVmZkQldNNXBkVWNQVm9PTDd0WDB1TjZvSWdDb3ZXRGxKSUJjcWVRSkFEb3FiYzJjQjZWaGkwYkNZYzFqMUNpN0dROUFVMTRXTFM3WGpTQ2RkNzYtNE5MMFM0bm5jVjR2ci1LM1VHNlRWclgtMHVLTDYyOXB3U20?oc=5",
+          "publisher": "Aaj English TV",
+          "published_at": "2026-10-29T23:34:41+05:00",
           "topic": "economy"
         },
         {
@@ -164,7 +164,7 @@
           "topic": "economy"
         }
       ],
-      "fetched_at": "2026-10-31T21:14:40.560935+05:00"
+      "fetched_at": "2026-10-31T23:11:57.502856+05:00"
     },
     {
       "id": "business-2026-10-31",
@@ -174,11 +174,11 @@
       "context": "Company and industry developments can affect supply, stock availability and competition. Compare dated supplier offers before making a purchase decision.",
       "headlines": [
         {
-          "id": "0975d3511572d397",
-          "title": "PPL Competitors - Pakistan Petroleum Ltd",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5PSlN0c0QwM3pPSGxaVW4yX3BuMkFKTWhjRW9tY0UxYjNCdTVxYmlpbDJhbEtrOEtxbGFJQVdyeGdRRXNiLXY5d21SNFVEaV94U3JJUndodlEtQk52?oc=5",
+          "id": "7327eb6e2ebd1ab2",
+          "title": "SAZEW Competitors - Sazgar Engineering Works Ltd",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5MbE1jTzBNTk9PMWJ4N2liaHAxLTV2SHphcFlWN3Q3RUhhV3ZVSks3RnpzaXdyNGRudkVRdnR3UWN5OEQ2eEpRNW1jNWczYkF1UXh1dlZIdjFScnFZNzVR?oc=5",
           "publisher": "Investify",
-          "published_at": "2026-10-31T05:52:21+05:00",
+          "published_at": "2026-10-31T08:51:07+05:00",
           "topic": "business"
         },
         {
@@ -214,6 +214,14 @@
           "topic": "business"
         },
         {
+          "id": "0975d3511572d397",
+          "title": "PPL Competitors - Pakistan Petroleum Ltd",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5PSlN0c0QwM3pPSGxaVW4yX3BuMkFKTWhjRW9tY0UxYjNCdTVxYmlpbDJhbEtrOEtxbGFJQVdyeGdRRXNiLXY5d21SNFVEaV94U3JJUndodlEtQk52?oc=5",
+          "publisher": "Investify",
+          "published_at": "2026-10-31T05:52:21+05:00",
+          "topic": "business"
+        },
+        {
           "id": "c2435b401bcfdd49",
           "title": "Makkah Pact: BD’s inclusion could expand regional reach, trade ties: Dy HC",
           "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQ3VFNDNDaTBKSERISm9vYzN3MzdtNkJqTjhmSkxRNzEtOWNOUzdNdnE4Y0o0NnozT0lMUnV5Sm11ZWlUS0RkM3cxd0RlSWtrT010cmV0QThEV2pzWndMbzMyMU10clJvMGkxSFpXNlFYSFNwMzRlSWpieTBqT0RZQ3NxVzBDbFRQM3RaTWl1WENsQ3hYNW9Lek0zQ3VnZ1JnLVhRcUl2dDg0RUM2Vkx30gFWQVVfeXFMT01WT2N0OVc1NHktY2lFUUtFT0FGVURDdGtyZUZibVJkYTQyWVhLYUp2U3p5X0RLNlU5b0tKMWkxTWZfMWhDVzhuTS1NcFExd2ZEQzFBVmc?oc=5",
@@ -228,17 +236,9 @@
           "publisher": "The News Pakistan",
           "published_at": "2026-10-30T00:00:00+05:00",
           "topic": "business"
-        },
-        {
-          "id": "28a4a6e8bfd793ff",
-          "title": "MUGHAL Company Profile - Mughal Iron and Steel Industries Ltd",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE84dS1tWW9PV3ktZ3JSZWFEYmdhWUI4ZjRJLS1Ld25mS2NCYWJCTE8xR3NwaDBoaWhjOHJlbDZYV29lWFFwTHl5MFpnTU12cWExS01fNWZzVXJkdG8?oc=5",
-          "publisher": "Investify",
-          "published_at": "2026-10-31T02:54:45+05:00",
-          "topic": "business"
         }
       ],
-      "fetched_at": "2026-10-31T21:14:40.560935+05:00"
+      "fetched_at": "2026-10-31T23:11:57.502856+05:00"
     }
   ]
 }
