@@ -1,6 +1,11 @@
 {
-  "checked_at": "2026-10-31T12:10:41.522265+05:00",
+  "checked_at": "2026-10-31T12:13:01.253445+05:00",
   "checks": [
+    {
+      "topic": "business",
+      "status": "updated",
+      "headlines": 8
+    },
     {
       "topic": "economy",
       "status": "updated",
@@ -8,11 +13,6 @@
     },
     {
       "topic": "trade",
-      "status": "updated",
-      "headlines": 8
-    },
-    {
-      "topic": "business",
       "status": "updated",
       "headlines": 8
     }
@@ -90,7 +90,7 @@
           "topic": "trade"
         }
       ],
-      "fetched_at": "2026-10-31T12:10:41.522265+05:00"
+      "fetched_at": "2026-10-31T12:13:01.253445+05:00"
     },
     {
       "id": "economy-2026-10-31",
@@ -100,11 +100,11 @@
       "context": "Watch how inflation, currency movements and borrowing costs may affect household budgets and import costs. A headline alone does not establish that a retail price has changed.",
       "headlines": [
         {
-          "id": "2b859cbccc2ccf13",
-          "title": "Indian rupee posts best month in eight on RBI measures to curb dollar demand",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPOFFWVFA2OVNNNE9yVGZlQk14WGtTd2NlTFhyVkJDVm5BRWI1ZExYRHpSZ2pBRThMZEVVc3JoMUtMY0JDYmlXYmZfUlRYVzBBdExMNjR6RW5TOUh1cmwwTVdFUGRMOG0wR3BxdGtmRURyRWFhM1F5NFBJYWRxV05OeWdKZzEtZzIwMFpGMjM0WmJ4NTBDSFB1Z04xbEo3MWc3MXVLRVlNRkZlNzRWdm80SXlzR0VFLTDSAVZBVV95cUxOTTIzazVCVk9fZDVQd011LXpia0RQSElfNnNiQjNhODNWN2U1eHhRM2tkY2kzZmFsYlNsV1hLTmFNVlZsaVZCVkk5WTZmMkNKaTd0Y1ZSQQ?oc=5",
+          "id": "aeffcc03b6e192ed",
+          "title": "Rupee records gain against US dollar",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZ0UyallIME1XZXdiNVNYY0QyLWdadEs1Nnh0cmJJZzhydVpPSDBUX3ZneEl3ZEZ4VXlHRmhxYnAzbEZVWUw4cWk5MDlNZmlqaXpBeWlCQWdfSGRGRTM0MHlnUzZuNU9sNXdHYWhUQkpvaFA0R0xraGlUNXlZWE1zVDZ0MHhvdmZoR0wyZ2lIS29PbEJqNjAtVdIBVkFVX3lxTE5iWXlRLWpmS1VNdFEtbWJUUlhaZGJtLUNUYkMySUhNRy1DSFlNTzRybzFzWjhUaktSRXpJaWlYUHNzS3JkMW45dUhTY29OTDJ2TjVTdHJB?oc=5",
           "publisher": "Business Recorder",
-          "published_at": "2026-10-30T15:48:58+05:00",
+          "published_at": "2026-10-30T15:55:57+05:00",
           "topic": "economy"
         },
         {
@@ -132,17 +132,9 @@
           "topic": "economy"
         },
         {
-          "id": "aeffcc03b6e192ed",
-          "title": "Rupee records gain against US dollar",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZ0UyallIME1XZXdiNVNYY0QyLWdadEs1Nnh0cmJJZzhydVpPSDBUX3ZneEl3ZEZ4VXlHRmhxYnAzbEZVWUw4cWk5MDlNZmlqaXpBeWlCQWdfSGRGRTM0MHlnUzZuNU9sNXdHYWhUQkpvaFA0R0xraGlUNXlZWE1zVDZ0MHhvdmZoR0wyZ2lIS29PbEJqNjAtVdIBVkFVX3lxTE5iWXlRLWpmS1VNdFEtbWJUUlhaZGJtLUNUYkMySUhNRy1DSFlNTzRybzFzWjhUaktSRXpJaWlYUHNzS3JkMW45dUhTY29OTDJ2TjVTdHJB?oc=5",
-          "publisher": "Business Recorder",
-          "published_at": "2026-10-30T15:55:57+05:00",
-          "topic": "economy"
-        },
-        {
-          "id": "c812d0043a93afd2",
+          "id": "d723b294137736fd",
           "title": "AED to PKR Forecast 2026-2030",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBSVnBYNzR6bktnOV9Db1Y4VzI5RGFremRVa1BiRmpreDd0QmVtRi00ZUpIak1iZzdvZ25vU0pia1BFYmQ4Qk9CVjc3MV9BY0plVVY1YV9VbDZZN2FGR1ZrVTB1N1Bpdw?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1EQmlsNmU0NzRuX1hyQXFiTi0yWUIxVXd6Q1pfV2IyeHM0UHROTWRmOXFrN3I1YmRhQlMyMnBkS190enFTTXZSY2RKd0ZPZ3hGa2lkU1JLclpxWnFhYl90Slh3?oc=5",
           "publisher": "Markets.com",
           "published_at": "2026-10-29T21:03:00+05:00",
           "topic": "economy"
@@ -156,15 +148,23 @@
           "topic": "economy"
         },
         {
-          "id": "bc37cc9c633ad802",
-          "title": "Bank of Japan confirms 2% inflation target after 13 years",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPYzFvc1BQSXJlZnV4ejdjaUlPYVpxTk05dTlkbjE3X25aUGU3OUlMUmowUzgwQ2QwbTNLZEJ3cVhYbjd0TWNFalAtYm82NENTYU5ONXNZYUxfZE1pa0xVOThJWnBjWk5ILVFfQWJuOTVUZVE2WkszOEFTTm0wbEtIVDJZS3NiZXlzNU5lZTFhcGo2WlU?oc=5",
-          "publisher": "Bol News",
-          "published_at": "2026-10-30T22:07:54+05:00",
+          "id": "fcb25f2aac411f09",
+          "title": "Pakistan inflation reading projected in range of 9.5-10.5% for October 2026",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE55OXBBR19KRHhxUHFYTGYtOTZKY1B1czhyWVVxa2dDTWxWRHhESmVvRWpHVEJ1ZVpqUGE0czJqOG1pa09tVWtRREl3c2Vial9U0gFWQVVfeXFMTko5YTl6aHpfV0NNWkNhUkEyMjl2aldNNGN2Q0VVVkxBTXF3MDBGVTdiTnB0UHFDcThZMmNJR1NlU21uUHU3MHpnQk03MUZHMUFSRXZlR3c?oc=5",
+          "publisher": "Business Recorder",
+          "published_at": "2026-10-29T22:24:57+05:00",
+          "topic": "economy"
+        },
+        {
+          "id": "2b859cbccc2ccf13",
+          "title": "Indian rupee posts best month in eight on RBI measures to curb dollar demand",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPOFFWVFA2OVNNNE9yVGZlQk14WGtTd2NlTFhyVkJDVm5BRWI1ZExYRHpSZ2pBRThMZEVVc3JoMUtMY0JDYmlXYmZfUlRYVzBBdExMNjR6RW5TOUh1cmwwTVdFUGRMOG0wR3BxdGtmRURyRWFhM1F5NFBJYWRxV05OeWdKZzEtZzIwMFpGMjM0WmJ4NTBDSFB1Z04xbEo3MWc3MXVLRVlNRkZlNzRWdm80SXlzR0VFLTDSAVZBVV95cUxOTTIzazVCVk9fZDVQd011LXpia0RQSElfNnNiQjNhODNWN2U1eHhRM2tkY2kzZmFsYlNsV1hLTmFNVlZsaVZCVkk5WTZmMkNKaTd0Y1ZSQQ?oc=5",
+          "publisher": "Business Recorder",
+          "published_at": "2026-10-30T15:48:58+05:00",
           "topic": "economy"
         }
       ],
-      "fetched_at": "2026-10-31T12:10:41.522265+05:00"
+      "fetched_at": "2026-10-31T12:13:01.253445+05:00"
     },
     {
       "id": "business-2026-10-31",
@@ -174,27 +174,11 @@
       "context": "Company and industry developments can affect supply, stock availability and competition. Compare dated supplier offers before making a purchase decision.",
       "headlines": [
         {
-          "id": "7327eb6e2ebd1ab2",
-          "title": "SAZEW Competitors - Sazgar Engineering Works Ltd",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5MbE1jTzBNTk9PMWJ4N2liaHAxLTV2SHphcFlWN3Q3RUhhV3ZVSks3RnpzaXdyNGRudkVRdnR3UWN5OEQ2eEpRNW1jNWczYkF1UXh1dlZIdjFScnFZNzVR?oc=5",
-          "publisher": "Investify",
-          "published_at": "2026-10-31T08:51:07+05:00",
-          "topic": "business"
-        },
-        {
           "id": "2bc60239e5a93c11",
           "title": "CM launches Rs2 trillion PIVOT initiative to boost industry, exports",
           "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB4OW1UNkphRW9LSmljVXNQOWJydmRwdkpxWXF3aWh1TGZCVGtGSmcweFdIM2tPUURGQlhIeUFfRE5WQ0hJdUg3Yw?oc=5",
           "publisher": "Dawn",
           "published_at": "2026-10-31T04:19:05+05:00",
-          "topic": "business"
-        },
-        {
-          "id": "28a4a6e8bfd793ff",
-          "title": "MUGHAL Company Profile - Mughal Iron and Steel Industries Ltd",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE84dS1tWW9PV3ktZ3JSZWFEYmdhWUI4ZjRJLS1Ld25mS2NCYWJCTE8xR3NwaDBoaWhjOHJlbDZYV29lWFFwTHl5MFpnTU12cWExS01fNWZzVXJkdG8?oc=5",
-          "publisher": "Investify",
-          "published_at": "2026-10-31T02:54:45+05:00",
           "topic": "business"
         },
         {
@@ -206,6 +190,22 @@
           "topic": "business"
         },
         {
+          "id": "6274c6d8818a4952",
+          "title": "NETSOL Company Profile - NetSol Technologies Ltd",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9BZ0N0ckxZR2x6eFkzZW9kV2kwTTFoLVlWQ1BjVGNCcFVHa09mSi1KX2tjTVhuaVlUcDc2ZlJaVXlKWjJqaWlQdi1JUFA5NGJvWjFMaXlUeVNMTms?oc=5",
+          "publisher": "Investify",
+          "published_at": "2026-10-30T17:52:13+05:00",
+          "topic": "business"
+        },
+        {
+          "id": "8740dea4cea3ff7f",
+          "title": "Pakistan flags investment hurdles despite identifying over $40 billion potential projects",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMlNaUkpmbkdHQTdZTkhUa1lZVHJ5QUp2ZDZVN3NBLW9IY3hya1Z3dTBqcUx3Y0JDUVZ1eU5qX3NoQTlPVWl3aS1zVGM3eDl5V3YtT0ROelRzMXc2OXhja3BqRDlRazJYM1JsS0sybkhoTmpkeE1YaWhHdGF6SDM0SEhjZ1hIVFZrbEtDakhRejRtN1RWZWw1cTR6WUpNenhmN3dHQkxpdVZidDVIZnlCc2sxSzhlWjY1aHVfNWZjcVNWZWxKRjVhWg?oc=5",
+          "publisher": "Arab News PK",
+          "published_at": "2026-10-29T19:12:32+05:00",
+          "topic": "business"
+        },
+        {
           "id": "0aa9007f18e1f04d",
           "title": "'Regulatory maze blocks investment'",
           "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9LLTRXV3NybnhkWUJtdHRqZjc3OG5kNTVINDNDWjRTajJXMTF3Z3FqbHVHUl9Sdk5hd0t4ejdodnhJZjlXM00xU25yOEVsRDdCM0pzU0dIQks2T056dHZrbW1yLUJpYU9DVVhBc1ZIMk5MQ0FkLWZkYnJ30gGCAUFVX3lxTE1EUW1MS1hjY1N3NWR0WWxGMnRSQlNRakhfZGxEeG9OeVowUU1ZRUpiUlhKbVNmSldwQldLVkYxMEVnTWRfb1BYSEZtOGJFQm9XRzl5d084djV0bkRaM2VtYTAwZnluWFc0bGtUM1BVUFNyazVHT2NaNnBIcHVxMVBHaGc?oc=5",
@@ -214,31 +214,31 @@
           "topic": "business"
         },
         {
-          "id": "aec5e91d9ce1b345",
-          "title": "Pakistan, Singapore discuss possible resumption of direct flights: Ishaq Dar",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORHdPbTB4dkgzQkhua2RqOTlhMjM5X2pNV2s2YUJScWRIWTg2NzlOc0JMRE1MZGlweDdNbEFzNEIycmNmQjBYanViVTFGQXUxWEh3dFctcHhmLUF0S2VEbk1vYnUzWndIdlV3OEktZUlKblE0bUpibHIyT2tVT2N4VG1Tck0zdl9UMjc3UjZGQ1lnNW9QNVFXMzZBc1loS1pzeXZXMVlKVUxtMlI2d0R2U1hWLW5LS0HSAVZBVV95cUxOWGYtNllKQWItMENVTnFOMXVlZVI1Tjk0UDFYcFY4VHBhU2JzUVI2NlhlSFhGUDNSWHBkSnRGaFFvMEx4MHVvbmNTdWZZYkxIaVNXMkhqdw?oc=5",
+          "id": "c2435b401bcfdd49",
+          "title": "Makkah Pact: BD’s inclusion could expand regional reach, trade ties: Dy HC",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQ3VFNDNDaTBKSERISm9vYzN3MzdtNkJqTjhmSkxRNzEtOWNOUzdNdnE4Y0o0NnozT0lMUnV5Sm11ZWlUS0RkM3cxd0RlSWtrT010cmV0QThEV2pzWndMbzMyMU10clJvMGkxSFpXNlFYSFNwMzRlSWpieTBqT0RZQ3NxVzBDbFRQM3RaTWl1WENsQ3hYNW9Lek0zQ3VnZ1JnLVhRcUl2dDg0RUM2Vkx30gFWQVVfeXFMT01WT2N0OVc1NHktY2lFUUtFT0FGVURDdGtyZUZibVJkYTQyWVhLYUp2U3p5X0RLNlU5b0tKMWkxTWZfMWhDVzhuTS1NcFExd2ZEQzFBVmc?oc=5",
           "publisher": "Business Recorder",
-          "published_at": "2026-10-30T12:36:51+05:00",
+          "published_at": "2026-10-30T07:43:01+05:00",
           "topic": "business"
         },
         {
-          "id": "477234cf6f1a80fc",
-          "title": "Romania offers Pakistani firms help for EU market access",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSW5KNFFtenYwUzhnbE5TR3B1WHhVS2RKSVZLZEFqY3o4MWoxREh5N05tVlBFOEdyWDFPOFpfNE1jNHZhZndraTM4TzY2NFhveG9FNDkxNkxYRmZPMW9DdW5UdFdMU2dQYVRrYzM5TFZWcE5sVGdXMXJNMlpPZkdUWjd6V2tPWldwU1RQek4wRWg4NTJyQkZVYQ?oc=5",
-          "publisher": "The News Pakistan",
-          "published_at": "2026-10-30T00:00:00+05:00",
-          "topic": "business"
-        },
-        {
-          "id": "d9dc25765a3c4603",
-          "title": "AHCL Company Profile - Arif Habib Corporation Ltd",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5SOGFvNVNsaU1XcnBmV1QwN1htWTd1MnZ4bGpTckpnRjM3YVhmcDhCUDdCSUdrcGpJeV9RN2JhYXhOUDA1QjVfTWZZSnNvekZoQ2ViLXhsMzc?oc=5",
+          "id": "951b4caf2d6a3652",
+          "title": "Local businessmen demand level playing field",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNdEJZLVZPNWFfNGxXLU40cUlMZ3VuY3M1OEFMLTcyWWxjb1FyU0hzV2NoMUxpcU52QjhZZTdUVzdoLVotVEtiYkNfbzhIc083OTVXT1U3d0UySjVCeGZTQ0Q3eFZzeGg0ZW8wd3dIbUpvVWdmd1Y2WGtiN1FkS3FFaWQtVVVRZXN2YVlyMzA3LTc?oc=5",
           "publisher": "Investify",
-          "published_at": "2026-10-30T23:15:26+05:00",
+          "published_at": "2026-10-31T07:29:43+05:00",
+          "topic": "business"
+        },
+        {
+          "id": "e10e2768de23f7d0",
+          "title": "Pakistan offers Saudi Arabia tax-free oil storage to boost energy trade, diversify supply routes",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOUUtGTDNpTndObUZESmc3UUJ4eHBZTURJa1dGeVpkeXVzQkZ1d3BlRTNtSzkxZXdvamxBNU1wLVMyM2dWa2lkaTFRTm5OWjdOdUpLSlZDbTJKem9ReDhLaEJwa2pwU1FUMjB2LV9XeFNfNkRIdXlXTEpYTS1YenZrWXpZUko2VVVwU2ZDLXl4ZmhaWGpVWjZvb2FfaDJnSnlaNFdZaWJfX3haRlQzSUd4Y3kzZ3M2SVZQZ0tIaUVIUC11OGtnZDZBWjJHSTFqdy1sc0E?oc=5",
+          "publisher": "Arab News PK",
+          "published_at": "2026-10-30T16:18:35+05:00",
           "topic": "business"
         }
       ],
-      "fetched_at": "2026-10-31T12:10:41.522265+05:00"
+      "fetched_at": "2026-10-31T12:13:01.253445+05:00"
     }
   ]
 }
