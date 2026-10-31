@@ -39,3 +39,20 @@ body:not([data-catalog-view=grid]) .archive-card{position:relative;min-height:11
 body:not([data-catalog-view=grid]) .product-title-link{display:block;grid-column:2/4;grid-row:1;min-width:0}
 body:not([data-catalog-view=grid]) .product-title-link img{position:absolute;left:18px;top:18px;margin:0}
 @media(max-width:600px){body:not([data-catalog-view=grid]) .product-title-link img{left:12px;top:15px}}
+/* Use the same Everyday app navigation on desktops, laptops and phones. */
+@media(min-width:901px){
+ header{grid-template-columns:1fr auto;gap:12px;padding:16px max(24px,calc((100vw - 1080px)/2));min-height:80px}
+ header nav{grid-column:2;grid-row:1;width:auto}header nav>a,header nav>a:nth-child(-n+2){display:none}
+ .app-search{grid-column:1/3;grid-row:2;max-width:none}.app-search input{font-size:16px}
+ body:has(.focused-home) header .app-search{display:none}
+ .discovery-layout{display:block;max-width:1144px;margin:auto}.discovery-content{grid-column:auto}
+ .category-toggle{display:none}.category-sidebar{display:none;position:fixed;left:0;top:var(--header-height);bottom:0;width:min(360px,88vw);padding:24px 18px 100px;background:#fff;z-index:60;box-shadow:4px 0 24px #0002}
+ .category-sidebar.is-open{display:block}.sidebar-close{display:block;min-width:44px;min-height:44px;border:0;background:transparent;color:var(--ink);font-size:25px;border-radius:8px}
+ .sidebar-backdrop:not([hidden]){display:block;position:fixed;inset:var(--header-height) 0 0;background:#0006;z-index:55;border:0;border-radius:0}
+ .menu-open{overflow:hidden}
+ .app-bottom-nav{position:fixed;bottom:0;left:0;right:0;z-index:51;display:grid;grid-template-columns:repeat(4,minmax(0,180px));justify-content:center;gap:8px;background:#fff;border-top:1px solid var(--line);box-shadow:0 -4px 20px #17334408;padding:8px 16px calc(8px + env(safe-area-inset-bottom));font-size:12px}
+ .app-bottom-nav a,.app-bottom-nav button{font:inherit;border:0;background:transparent;color:var(--muted);display:flex;flex-direction:column;align-items:center;justify-content:center;gap:2px;min-height:49px;min-width:0;padding:3px 12px;border-radius:10px}
+ .app-bottom-nav span{font-size:22px;line-height:1.2}.app-bottom-nav [aria-current],.app-bottom-nav [aria-expanded=true]{color:var(--green);background:#edf5f0;font-weight:600}.app-bottom-nav a:hover{text-decoration:none;background:#f4f8f6}
+ .home-layout,.detail-layout{max-width:1144px;padding:26px 32px 48px}.refresh-banner{margin:18px 32px 0}.breadcrumbs{padding:20px 32px 0}
+ footer{padding-bottom:110px}.focused-home .archive-grid{grid-template-columns:repeat(3,minmax(0,1fr))}
+}
