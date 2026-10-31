@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-31T23:41:23.069458+05:00",
+  "checked_at": "2026-10-31T23:47:45.085803+05:00",
   "checks": [
     {
       "topic": "economy",
@@ -90,7 +90,7 @@
           "topic": "trade"
         }
       ],
-      "fetched_at": "2026-10-31T23:41:23.069458+05:00"
+      "fetched_at": "2026-10-31T23:47:45.085803+05:00"
     },
     {
       "id": "economy-2026-10-31",
@@ -164,7 +164,7 @@
           "topic": "economy"
         }
       ],
-      "fetched_at": "2026-10-31T23:41:23.069458+05:00"
+      "fetched_at": "2026-10-31T23:47:45.085803+05:00"
     },
     {
       "id": "business-2026-10-31",
@@ -179,14 +179,6 @@
           "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOOXdpcVRyUzRzMlJrbHpIN2w4cFVyZVA5UXNCMlM3bVh4UGMwbWIzcjRSSkw3OUhSRDhLMFVtVk85MENtYlhVYkUtZ0lDZXlPendVUWFGY1I4Q1hGWEU0Wk41NHlsdzBmT0RyeWRnTlhNT0NjT0w4dnl1Yk0tNGprS1dBN2JRalI2V3VwY1RTTUNEUWs?oc=5",
           "publisher": "Biz Today",
           "published_at": "2026-10-31T23:21:37+05:00",
-          "topic": "business"
-        },
-        {
-          "id": "7327eb6e2ebd1ab2",
-          "title": "SAZEW Competitors - Sazgar Engineering Works Ltd",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5MbE1jTzBNTk9PMWJ4N2liaHAxLTV2SHphcFlWN3Q3RUhhV3ZVSks3RnpzaXdyNGRudkVRdnR3UWN5OEQ2eEpRNW1jNWczYkF1UXh1dlZIdjFScnFZNzVR?oc=5",
-          "publisher": "Investify",
-          "published_at": "2026-10-31T08:51:07+05:00",
           "topic": "business"
         },
         {
@@ -206,6 +198,14 @@
           "topic": "business"
         },
         {
+          "id": "7327eb6e2ebd1ab2",
+          "title": "SAZEW Competitors - Sazgar Engineering Works Ltd",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5MbE1jTzBNTk9PMWJ4N2liaHAxLTV2SHphcFlWN3Q3RUhhV3ZVSks3RnpzaXdyNGRudkVRdnR3UWN5OEQ2eEpRNW1jNWczYkF1UXh1dlZIdjFScnFZNzVR?oc=5",
+          "publisher": "Investify",
+          "published_at": "2026-10-31T08:51:07+05:00",
+          "topic": "business"
+        },
+        {
           "id": "1a1fe8ad3cc01158",
           "title": "Weir Minerals Explores Investment and Partnership Opportunities in Pakistan’s Mining Sector",
           "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNb2RnaTR1SHFJVm1CNFBNLUhoZ2txc3E5UDBSeEFzNzlqejBTT0dNYk1pZVZzNmhGeE9jLXV1RHhrUTNMY0s4V2tNclNkN0JMVWJVdF9seTlvY1lmTndDWnVTS1pwTER4RHBTc2dTcnBtb3d3UzF0WXpUVjZKMXFjVUdKam8xakRMQ0dxaEVDbjNWdlZKX0hpZGx2NnNkUkN6ZlhrTFhZMVp0c2R0YmVMN3JwU084emZmdFVVekF1Znc?oc=5",
@@ -222,11 +222,11 @@
           "topic": "business"
         },
         {
-          "id": "28a4a6e8bfd793ff",
-          "title": "MUGHAL Company Profile - Mughal Iron and Steel Industries Ltd",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE84dS1tWW9PV3ktZ3JSZWFEYmdhWUI4ZjRJLS1Ld25mS2NCYWJCTE8xR3NwaDBoaWhjOHJlbDZYV29lWFFwTHl5MFpnTU12cWExS01fNWZzVXJkdG8?oc=5",
-          "publisher": "Investify",
-          "published_at": "2026-10-31T02:54:45+05:00",
+          "id": "e10e2768de23f7d0",
+          "title": "Pakistan offers Saudi Arabia tax-free oil storage to boost energy trade, diversify supply routes",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOUUtGTDNpTndObUZESmc3UUJ4eHBZTURJa1dGeVpkeXVzQkZ1d3BlRTNtSzkxZXdvamxBNU1wLVMyM2dWa2lkaTFRTm5OWjdOdUpLSlZDbTJKem9ReDhLaEJwa2pwU1FUMjB2LV9XeFNfNkRIdXlXTEpYTS1YenZrWXpZUko2VVVwU2ZDLXl4ZmhaWGpVWjZvb2FfaDJnSnlaNFdZaWJfX3haRlQzSUd4Y3kzZ3M2SVZQZ0tIaUVIUC11OGtnZDZBWjJHSTFqdy1sc0E?oc=5",
+          "publisher": "Arab News PK",
+          "published_at": "2026-10-30T16:18:35+05:00",
           "topic": "business"
         },
         {
@@ -238,7 +238,7 @@
           "topic": "business"
         }
       ],
-      "fetched_at": "2026-10-31T23:41:23.069458+05:00"
+      "fetched_at": "2026-10-31T23:47:45.085803+05:00"
     }
   ]
 }

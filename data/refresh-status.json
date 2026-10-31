@@ -1,6 +1,6 @@
 {
-  "started_at": "2026-10-31T18:40:59.243325+00:00",
-  "completed_at": "2026-10-31T18:41:21.897575+00:00",
+  "started_at": "2026-10-31T18:47:22.527131+00:00",
+  "completed_at": "2026-10-31T18:47:44.108204+00:00",
   "status": "partial",
   "timezone": "Asia/Karachi",
   "scheduled_times": [
@@ -11,7 +11,7 @@
     {
       "name": "collect.py",
       "status": "completed",
-      "elapsed_seconds": 3.3,
+      "elapsed_seconds": 3.0,
       "detail": ""
     },
     {
@@ -29,7 +29,7 @@
     {
       "name": "expand_fetch.py",
       "status": "completed",
-      "elapsed_seconds": 1.9,
+      "elapsed_seconds": 2.0,
       "detail": ""
     },
     {
@@ -47,13 +47,13 @@
     {
       "name": "partner_sources.py",
       "status": "completed",
-      "elapsed_seconds": 5.4,
+      "elapsed_seconds": 4.5,
       "detail": ""
     },
     {
       "name": "extra_sources.py",
       "status": "completed",
-      "elapsed_seconds": 1.0,
+      "elapsed_seconds": 1.1,
       "detail": ""
     }
   ],
@@ -731,9 +731,9 @@
       "quotes": 27
     }
   ],
-  "total_quotes": 8932,
-  "verified_quotes": 6828,
+  "total_quotes": 8960,
+  "verified_quotes": 6829,
   "changed_prices": 0,
-  "new_quotes": 68,
-  "retained_quotes": 2104
+  "new_quotes": 28,
+  "retained_quotes": 2131
 }
