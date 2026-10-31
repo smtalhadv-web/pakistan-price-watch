@@ -1,6 +1,6 @@
 {
-  "started_at": "2026-10-31T18:55:57.406019+00:00",
-  "completed_at": "2026-10-31T18:56:28.314699+00:00",
+  "started_at": "2026-10-31T19:26:01.200575+00:00",
+  "completed_at": "2026-10-31T19:26:23.709989+00:00",
   "status": "partial",
   "timezone": "Asia/Karachi",
   "scheduled_times": [
@@ -11,49 +11,49 @@
     {
       "name": "collect.py",
       "status": "completed",
-      "elapsed_seconds": 6.4,
+      "elapsed_seconds": 3.3,
       "detail": ""
     },
     {
       "name": "download_sources.py",
       "status": "completed",
-      "elapsed_seconds": 2.9,
+      "elapsed_seconds": 2.3,
       "detail": ""
     },
     {
       "name": "ingest.py",
       "status": "completed",
-      "elapsed_seconds": 1.0,
+      "elapsed_seconds": 0.8,
       "detail": ""
     },
     {
       "name": "expand_fetch.py",
       "status": "completed",
-      "elapsed_seconds": 2.1,
+      "elapsed_seconds": 1.7,
       "detail": ""
     },
     {
       "name": "expand.py",
       "status": "completed",
-      "elapsed_seconds": 1.0,
+      "elapsed_seconds": 0.7,
       "detail": ""
     },
     {
       "name": "commerce.py",
       "status": "completed",
-      "elapsed_seconds": 9.7,
+      "elapsed_seconds": 6.8,
       "detail": ""
     },
     {
       "name": "partner_sources.py",
       "status": "completed",
-      "elapsed_seconds": 6.3,
+      "elapsed_seconds": 5.5,
       "detail": ""
     },
     {
       "name": "extra_sources.py",
       "status": "completed",
-      "elapsed_seconds": 1.4,
+      "elapsed_seconds": 1.3,
       "detail": ""
     }
   ],
@@ -77,7 +77,7 @@
       "url": null,
       "status": "verified",
       "detail": "parsed",
-      "quotes": 36
+      "quotes": 26
     },
     {
       "source": "PriceOye published listings",
@@ -658,7 +658,7 @@
       "url": "https://www.naheed.pk/groceries-pets/baking-cooking/flours-meals",
       "status": "verified",
       "detail": "parsed",
-      "quotes": 31
+      "quotes": 32
     },
     {
       "source": "Paklap",
@@ -731,9 +731,9 @@
       "quotes": 27
     }
   ],
-  "total_quotes": 8988,
-  "verified_quotes": 6829,
-  "changed_prices": 1,
-  "new_quotes": 28,
-  "retained_quotes": 2159
+  "total_quotes": 9068,
+  "verified_quotes": 6820,
+  "changed_prices": 17,
+  "new_quotes": 80,
+  "retained_quotes": 2248
 }
