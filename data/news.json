@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-31T23:47:45.085803+05:00",
+  "checked_at": "2026-10-31T23:56:29.519311+05:00",
   "checks": [
     {
       "topic": "economy",
@@ -7,12 +7,12 @@
       "headlines": 8
     },
     {
-      "topic": "business",
+      "topic": "trade",
       "status": "updated",
       "headlines": 8
     },
     {
-      "topic": "trade",
+      "topic": "business",
       "status": "updated",
       "headlines": 8
     }
@@ -90,7 +90,7 @@
           "topic": "trade"
         }
       ],
-      "fetched_at": "2026-10-31T23:47:45.085803+05:00"
+      "fetched_at": "2026-10-31T23:56:29.519311+05:00"
     },
     {
       "id": "economy-2026-10-31",
@@ -156,15 +156,15 @@
           "topic": "economy"
         },
         {
-          "id": "43863b813f744ffb",
-          "title": "U.S. Fed holds rates steady, signals more hikes possible as inflation remains elevated",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOOXNMMGVtQzNSb0NIN3MwVmUyc3QtaC1SM3dnZGtyODNndzZBMHUybWYySjNUbUZKUExVS24wbFR0REVzVXZuNjY5VVdhSmVYaEVTZ2hGNFk0SUZXS2cwTGFZQU5ZUDQ2d3FBWlN3YV83Y05XdXNicjd4Yk1xZFh4dmE3WF9qS3FUbUtKdVRqX1pRb1pfRGdIcnNEM2NUR05wdFJWWmNETDdRY0JQYUJPYno1cw?oc=5",
-          "publisher": "Bol News",
-          "published_at": "2026-10-31T00:14:50+05:00",
+          "id": "7e76a26159c8e4d8",
+          "title": "US Fed Holds Rates — What It Means for Pakistan",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxORWppbmZCNHlGYTBkQmdmN1hiSkVDa2ZfSUZEbnlweFBtNERaRG96R01uSHd4cXdiNWd2bGhONTNXelQ1WG5US3hqbHoxMGJ3LWIzRzk5YV9QclRleHpNWU5GdDBfaV9CY0hVM191SUxwUHdnZ3RTNUVzUEs3NFdmRkhKZw?oc=5",
+          "publisher": "Bloom Pakistan",
+          "published_at": "2026-10-30T00:06:57+05:00",
           "topic": "economy"
         }
       ],
-      "fetched_at": "2026-10-31T23:47:45.085803+05:00"
+      "fetched_at": "2026-10-31T23:56:29.519311+05:00"
     },
     {
       "id": "business-2026-10-31",
@@ -178,7 +178,15 @@
           "title": "Sri Lanka Invites Pakistani Businesses to Expo 2027",
           "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOOXdpcVRyUzRzMlJrbHpIN2w4cFVyZVA5UXNCMlM3bVh4UGMwbWIzcjRSSkw3OUhSRDhLMFVtVk85MENtYlhVYkUtZ0lDZXlPendVUWFGY1I4Q1hGWEU0Wk41NHlsdzBmT0RyeWRnTlhNT0NjT0w4dnl1Yk0tNGprS1dBN2JRalI2V3VwY1RTTUNEUWs?oc=5",
           "publisher": "Biz Today",
-          "published_at": "2026-10-31T23:21:37+05:00",
+          "published_at": "2026-10-31T23:45:00+05:00",
+          "topic": "business"
+        },
+        {
+          "id": "7327eb6e2ebd1ab2",
+          "title": "SAZEW Competitors - Sazgar Engineering Works Ltd",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5MbE1jTzBNTk9PMWJ4N2liaHAxLTV2SHphcFlWN3Q3RUhhV3ZVSks3RnpzaXdyNGRudkVRdnR3UWN5OEQ2eEpRNW1jNWczYkF1UXh1dlZIdjFScnFZNzVR?oc=5",
+          "publisher": "Investify",
+          "published_at": "2026-10-31T08:51:07+05:00",
           "topic": "business"
         },
         {
@@ -198,19 +206,19 @@
           "topic": "business"
         },
         {
-          "id": "7327eb6e2ebd1ab2",
-          "title": "SAZEW Competitors - Sazgar Engineering Works Ltd",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5MbE1jTzBNTk9PMWJ4N2liaHAxLTV2SHphcFlWN3Q3RUhhV3ZVSks3RnpzaXdyNGRudkVRdnR3UWN5OEQ2eEpRNW1jNWczYkF1UXh1dlZIdjFScnFZNzVR?oc=5",
-          "publisher": "Investify",
-          "published_at": "2026-10-31T08:51:07+05:00",
-          "topic": "business"
-        },
-        {
           "id": "1a1fe8ad3cc01158",
           "title": "Weir Minerals Explores Investment and Partnership Opportunities in Pakistan’s Mining Sector",
           "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNb2RnaTR1SHFJVm1CNFBNLUhoZ2txc3E5UDBSeEFzNzlqejBTT0dNYk1pZVZzNmhGeE9jLXV1RHhrUTNMY0s4V2tNclNkN0JMVWJVdF9seTlvY1lmTndDWnVTS1pwTER4RHBTc2dTcnBtb3d3UzF0WXpUVjZKMXFjVUdKam8xakRMQ0dxaEVDbjNWdlZKX0hpZGx2NnNkUkN6ZlhrTFhZMVp0c2R0YmVMN3JwU084emZmdFVVekF1Znc?oc=5",
           "publisher": "Energy Update",
           "published_at": "2026-10-30T12:07:07+05:00",
+          "topic": "business"
+        },
+        {
+          "id": "0975d3511572d397",
+          "title": "PPL Competitors - Pakistan Petroleum Ltd",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5PSlN0c0QwM3pPSGxaVW4yX3BuMkFKTWhjRW9tY0UxYjNCdTVxYmlpbDJhbEtrOEtxbGFJQVdyeGdRRXNiLXY5d21SNFVEaV94U3JJUndodlEtQk52?oc=5",
+          "publisher": "Investify",
+          "published_at": "2026-10-31T05:52:21+05:00",
           "topic": "business"
         },
         {
@@ -222,14 +230,6 @@
           "topic": "business"
         },
         {
-          "id": "e10e2768de23f7d0",
-          "title": "Pakistan offers Saudi Arabia tax-free oil storage to boost energy trade, diversify supply routes",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOUUtGTDNpTndObUZESmc3UUJ4eHBZTURJa1dGeVpkeXVzQkZ1d3BlRTNtSzkxZXdvamxBNU1wLVMyM2dWa2lkaTFRTm5OWjdOdUpLSlZDbTJKem9ReDhLaEJwa2pwU1FUMjB2LV9XeFNfNkRIdXlXTEpYTS1YenZrWXpZUko2VVVwU2ZDLXl4ZmhaWGpVWjZvb2FfaDJnSnlaNFdZaWJfX3haRlQzSUd4Y3kzZ3M2SVZQZ0tIaUVIUC11OGtnZDZBWjJHSTFqdy1sc0E?oc=5",
-          "publisher": "Arab News PK",
-          "published_at": "2026-10-30T16:18:35+05:00",
-          "topic": "business"
-        },
-        {
           "id": "c2435b401bcfdd49",
           "title": "Makkah Pact: BD’s inclusion could expand regional reach, trade ties: Dy HC",
           "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQ3VFNDNDaTBKSERISm9vYzN3MzdtNkJqTjhmSkxRNzEtOWNOUzdNdnE4Y0o0NnozT0lMUnV5Sm11ZWlUS0RkM3cxd0RlSWtrT010cmV0QThEV2pzWndMbzMyMU10clJvMGkxSFpXNlFYSFNwMzRlSWpieTBqT0RZQ3NxVzBDbFRQM3RaTWl1WENsQ3hYNW9Lek0zQ3VnZ1JnLVhRcUl2dDg0RUM2Vkx30gFWQVVfeXFMT01WT2N0OVc1NHktY2lFUUtFT0FGVURDdGtyZUZibVJkYTQyWVhLYUp2U3p5X0RLNlU5b0tKMWkxTWZfMWhDVzhuTS1NcFExd2ZEQzFBVmc?oc=5",
@@ -238,7 +238,7 @@
           "topic": "business"
         }
       ],
-      "fetched_at": "2026-10-31T23:47:45.085803+05:00"
+      "fetched_at": "2026-10-31T23:56:29.519311+05:00"
     }
   ]
 }

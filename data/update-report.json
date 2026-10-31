@@ -57,7 +57,7 @@
       342840
     ]
   ],
-  "checked_at": "2026-10-31T18:47:28.029779+00:00",
+  "checked_at": "2026-10-31T18:56:07.638698+00:00",
   "sources": [
     {
       "source": "PSO dated fuel archive",
@@ -81,7 +81,7 @@
       "source": "PriceOye published listings",
       "status": "parsed",
       "observed_records": 136,
-      "new_records": 1
+      "new_records": 0
     },
     {
       "source": "PBS weekly city prices",
@@ -116,7 +116,7 @@
       "new_records": 0
     }
   ],
-  "quotes": 5506,
+  "quotes": 5508,
   "manual_queue": [
     "Verify new image rates before transcribing; source sheets refresh automatically",
     "Unsupported sources retain their dated quotes"
