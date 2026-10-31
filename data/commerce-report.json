@@ -1,6 +1,6 @@
 {
   "checked_at": "2026-10-31",
-  "observed_offers": 2495,
+  "observed_offers": 2497,
   "sources": [
     {
       "url": "https://www.zahcomputers.pk/shop/",
@@ -224,7 +224,7 @@
     {
       "url": "https://priceoye.pk/tablets?page=2",
       "status": "parsed",
-      "observed_offers": 13
+      "observed_offers": 14
     },
     {
       "url": "https://priceoye.pk/tablets?page=3",
@@ -249,7 +249,7 @@
     {
       "url": "https://priceoye.pk/trimmers-shavers?page=1",
       "status": "parsed",
-      "observed_offers": 28
+      "observed_offers": 29
     },
     {
       "url": "https://priceoye.pk/trimmers-shavers?page=2",
@@ -259,7 +259,7 @@
     {
       "url": "https://priceoye.pk/trimmers-shavers?page=3",
       "status": "parsed",
-      "observed_offers": 35
+      "observed_offers": 36
     },
     {
       "url": "https://priceoye.pk/speakers?page=1",
@@ -289,7 +289,7 @@
     {
       "url": "https://mistore.pk/products.json?limit=250&page=3",
       "status": "parsed",
-      "observed_offers": 196
+      "observed_offers": 195
     },
     {
       "url": "https://mistore.pk/products.json?limit=250&page=4",
