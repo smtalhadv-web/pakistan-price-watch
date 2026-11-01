@@ -6,7 +6,7 @@
     ],
     [
       "forex",
-      111674
+      110572
     ],
     [
       "gold",
@@ -50,14 +50,14 @@
     ],
     [
       "appliances",
-      754351
+      747364
     ],
     [
       "pbs",
       342840
     ]
   ],
-  "checked_at": "2026-11-01T16:19:09.410391+00:00",
+  "checked_at": "2026-11-01T19:50:52.656580+00:00",
   "sources": [
     {
       "source": "PSO dated fuel archive",
@@ -74,14 +74,14 @@
     {
       "source": "Published currency tables",
       "status": "parsed",
-      "observed_records": 36,
+      "observed_records": 26,
       "new_records": 0
     },
     {
       "source": "PriceOye published listings",
       "status": "parsed",
       "observed_records": 136,
-      "new_records": 0
+      "new_records": 2
     },
     {
       "source": "PBS weekly city prices",
@@ -116,7 +116,7 @@
       "new_records": 0
     }
   ],
-  "quotes": 5526,
+  "quotes": 5536,
   "manual_queue": [
     "Verify new image rates before transcribing; source sheets refresh automatically",
     "Unsupported sources retain their dated quotes"
