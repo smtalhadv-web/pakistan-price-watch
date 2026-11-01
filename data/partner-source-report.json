@@ -1,6 +1,6 @@
 {
-  "checked_at": "2026-11-01T09:12:55.579222+05:00",
-  "quotes": 3375,
+  "checked_at": "2026-11-01T15:43:02.551583+05:00",
+  "quotes": 3453,
   "checks": [
     {
       "store": "Chase Value",
@@ -36,7 +36,7 @@
       "store": "Naheed",
       "url": "https://www.naheed.pk/groceries-pets/baking-cooking/rice",
       "status": "parsed",
-      "offers": 23
+      "offers": 22
     },
     {
       "store": "Naheed",
@@ -60,31 +60,31 @@
       "store": "Metro",
       "url": "https://metro-online.pk/",
       "status": "parsed",
-      "offers": 254
+      "offers": 255
     },
     {
       "store": "Foodpanda / Kifayah",
       "url": "https://www.foodpanda.pk/shop/a036/kifayah-supermarket-pechs",
-      "status": "no verified quotes",
-      "offers": 0
+      "status": "parsed",
+      "offers": 90
     },
     {
       "store": "OLX",
       "url": "https://www.olx.com.pk/items/q-iphone-15",
-      "status": "fetch failed; dated offers retained",
-      "error": "HTTP Error 403: Forbidden"
+      "status": "parsed",
+      "offers": 33
     },
     {
       "store": "OLX",
       "url": "https://www.olx.com.pk/items/q-laptop",
-      "status": "fetch failed; dated offers retained",
-      "error": "HTTP Error 403: Forbidden"
+      "status": "parsed",
+      "offers": 33
     },
     {
       "store": "OLX",
       "url": "https://www.olx.com.pk/items/q-sofa",
-      "status": "fetch failed; dated offers retained",
-      "error": "HTTP Error 403: Forbidden"
+      "status": "parsed",
+      "offers": 33
     }
   ]
 }

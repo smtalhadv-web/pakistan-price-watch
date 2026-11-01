@@ -37,10 +37,10 @@
   },
   {
     "id": "fruit",
-    "title": "Fruit 30/10/2026",
-    "source": "https://commissionerkarachi.gos.pk/uploads/pricelist/1793342519_e3060a9c850a7a2c3ba8.jpg",
-    "file": "assets/fruit-1868cf422b.jpg",
-    "date": "2026-10-30",
+    "title": "Fruit 01/11/2026",
+    "source": "https://commissionerkarachi.gos.pk/uploads/pricelist/1793528367_93e009bc15d2dd2cbde8.jpg",
+    "file": "assets/fruit-2b6c0b7efb.jpg",
+    "date": "2026-11-01",
     "city": "Karachi",
     "note": "Official source image. Read date and units printed on the sheet; website index dates can differ."
   },
@@ -82,10 +82,10 @@
   },
   {
     "id": "chicken",
-    "title": "Chicken 30/10/2026",
-    "source": "https://commissionerkarachi.gos.pk/uploads/pricelist/1793342547_574a0fc865b838ac6c34.jpg",
-    "file": "assets/chicken-305ae8e4ab.jpg",
-    "date": "2026-10-30",
+    "title": "Chicken 01/11/2026",
+    "source": "https://commissionerkarachi.gos.pk/uploads/pricelist/1793528387_661a8b0efa70610e04da.jpg",
+    "file": "assets/chicken-bbb460e3af.jpg",
+    "date": "2026-11-01",
     "city": "Karachi",
     "note": "Official source image. Read date and units printed on the sheet; website index dates can differ."
   },
@@ -100,10 +100,10 @@
   },
   {
     "id": "vegetable",
-    "title": "Vegetable 30/10/2026",
-    "source": "https://commissionerkarachi.gos.pk/uploads/pricelist/1793342481_10e890e155cdf0eadec4.jpg",
-    "file": "assets/vegetable-7b1607cfb3.jpg",
-    "date": "2026-10-30",
+    "title": "Vegetable 01/11/2026",
+    "source": "https://commissionerkarachi.gos.pk/uploads/pricelist/1793528184_171d0192c80534f2a576.jpg",
+    "file": "assets/vegetable-2d47728ada.jpg",
+    "date": "2026-11-01",
     "city": "Karachi",
     "note": "Official source image. Read date and units printed on the sheet; website index dates can differ."
   }

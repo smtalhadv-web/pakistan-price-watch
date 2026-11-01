@@ -22,19 +22,19 @@
     ],
     [
       "samsung",
-      595090
+      595092
     ],
     [
       "xiaomi",
-      522096
+      522098
     ],
     [
       "vivo",
-      438127
+      438129
     ],
     [
       "oppo",
-      462037
+      462039
     ],
     [
       "realme",
@@ -42,7 +42,7 @@
     ],
     [
       "infinix",
-      446826
+      446828
     ],
     [
       "tecno",
@@ -50,14 +50,14 @@
     ],
     [
       "appliances",
-      779478
+      761536
     ],
     [
       "pbs",
       342840
     ]
   ],
-  "checked_at": "2026-11-01T04:12:45.337932+00:00",
+  "checked_at": "2026-11-01T10:42:49.648187+00:00",
   "sources": [
     {
       "source": "PSO dated fuel archive",
@@ -80,8 +80,8 @@
     {
       "source": "PriceOye published listings",
       "status": "parsed",
-      "observed_records": 134,
-      "new_records": 2
+      "observed_records": 136,
+      "new_records": 0
     },
     {
       "source": "PBS weekly city prices",
@@ -98,7 +98,7 @@
     {
       "source": "Additional mobile, laptop, watch and audio listings",
       "status": "parsed",
-      "new_records": 1
+      "new_records": 0
     },
     {
       "source": "Furniture and power-tool variant listings",
@@ -116,7 +116,7 @@
       "new_records": 0
     }
   ],
-  "quotes": 5513,
+  "quotes": 5519,
   "manual_queue": [
     "Verify new image rates before transcribing; source sheets refresh automatically",
     "Unsupported sources retain their dated quotes"
