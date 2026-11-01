@@ -50,14 +50,14 @@
     ],
     [
       "appliances",
-      761536
+      754351
     ],
     [
       "pbs",
       342840
     ]
   ],
-  "checked_at": "2026-11-01T10:42:49.648187+00:00",
+  "checked_at": "2026-11-01T16:19:09.410391+00:00",
   "sources": [
     {
       "source": "PSO dated fuel archive",
@@ -98,7 +98,7 @@
     {
       "source": "Additional mobile, laptop, watch and audio listings",
       "status": "parsed",
-      "new_records": 0
+      "new_records": 1
     },
     {
       "source": "Furniture and power-tool variant listings",
@@ -116,7 +116,7 @@
       "new_records": 0
     }
   ],
-  "quotes": 5519,
+  "quotes": 5526,
   "manual_queue": [
     "Verify new image rates before transcribing; source sheets refresh automatically",
     "Unsupported sources retain their dated quotes"
