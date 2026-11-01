@@ -1,18 +1,18 @@
 {
-  "checked_at": "2026-11-01T00:26:25.024190+05:00",
+  "checked_at": "2026-11-01T09:13:02.059808+05:00",
   "checks": [
     {
       "topic": "economy",
+      "status": "updated",
+      "headlines": 7
+    },
+    {
+      "topic": "trade",
       "status": "updated",
       "headlines": 8
     },
     {
       "topic": "business",
-      "status": "updated",
-      "headlines": 8
-    },
-    {
-      "topic": "trade",
       "status": "updated",
       "headlines": 8
     }
@@ -26,11 +26,19 @@
       "context": "Trade and customs developments can affect landed costs and delivery times. Check the original notification, effective date and product classification before applying a reported change to an item.",
       "headlines": [
         {
-          "id": "8ad293cb06cb78a5",
-          "title": "China green channel",
-          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1CMWh1bDJOazBqV3NxaWNSZjNTNG5tNnNrQzFUcVZ4Z1lqaHN2V3E3VXVZd3RUT3B1T3FkVF9mMUhKRHNjQ1paYw?oc=5",
-          "publisher": "Dawn",
-          "published_at": "2026-10-31T04:18:44+05:00",
+          "id": "82dc76d482125153",
+          "title": "Chinese park courts Pakistani pine nuts, rice",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSTU0Zlg0S2xESnFXcWVPV0pmbF84UU45cXhTQjVXRVIzRjBBaGo3Rm04Y2t3dWdrcWxfZGVzUWd6UWJWS0Vxd3RnMlVjempxa2c4aFVEWFZUdTRRcWZGNnRWdklkaVdFVnNmOWRYUVgtX21lT0dFMnZrZ2QwQjdQVFdaOTBrVE4t0gGQAUFVX3lxTE1FUlUyZi1jWGNBS2pGZjJDd0I0ZXZfRzRyaHJueDMwc0oyMk5odFpzUnJ0YWc5S21MQzYySmRVSFAxYTZ4OE5IYmFqaXV0dngwN2tPNzBoaTZRbWJ5aDRRdUMzMEZmYkktdEJPN19BVy1zMFFNS21Dbmd1c2MxZ0FCZHZyMDF6YUFzcEFaMUhHMw?oc=5",
+          "publisher": "The Express Tribune",
+          "published_at": "2026-11-01T02:56:55+05:00",
+          "topic": "trade"
+        },
+        {
+          "id": "3f8429fc083d2ebd",
+          "title": "PD revises petrol pricing mechanism",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1aUGJReFJpVDFVeGxpOEZLcllpVW05VGRVOC0wRjJPNWtDaWxWZ1BEaEVWYU8tV3NCeXlyalk2NzNCNVFPamVESlowbV8xQ1Vq0gFWQVVfeXFMT2FQZFlDckwwVldaTHZpUlR1aTJTNWliVVZzN1dfTzdVc01STW5kcEEzMWRNQ29Kc0ctdWdMYTJCOEJTaVVLSVB2cmR0Tnc2WEpHQW01X0E?oc=5",
+          "publisher": "Business Recorder",
+          "published_at": "2026-11-01T02:31:09+05:00",
           "topic": "trade"
         },
         {
@@ -42,11 +50,19 @@
           "topic": "trade"
         },
         {
-          "id": "8913cfc0dc1665ab",
-          "title": "Textile, leather, other products: FBR revises duty drawback rates on exports",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRTRDZUZVZlNPZHUtaHpuUHZkSVMwNmVKOVVfcUlERWtwdnFhNkZ2eDI1bXFEOU5qbkk5S2Nvd0FmV3FGeHE4R2s5cHhsRlFyRGhQZWVqRG9GT3dHeGtibEliQmdUQjliYWtEaDBRdXljZlZXZGtQTzlGZVJmZGV4TE1FaGQtbXIyUTlBRjBNSFd6UGVHT0JremV1REg0eWhoQXNFb2FFVXpDQm5vMmVsT1dFWdIBVkFVX3lxTFBsVHVfd0pXNkUySFhWQmp6NW9IbVY5UDJZVDctQ2xnQS1RUHJackJBbjNmMUNMaXBYRlM3bUNmTzVxYzBFUzRhcV9sa05Id0pjaDVxaGVR?oc=5",
-          "publisher": "Business Recorder",
-          "published_at": "2026-10-30T05:43:52+05:00",
+          "id": "d1d6fb409b957cee",
+          "title": "Dhaka to press Islamabad on trade barriers",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSG8tWFBfdUxuWlZiSUMwdklVNmh5R2kyRHhZX1lzanZwelpnYnphLUtLc2xRR0NwZ2VUcl9EZ0duWHI0TjJIX0toRTAweENiUUtKUmF6QjIwSVJzNGN6ZG5wSW1MVmp3ZFZJQ0hNMlRjUEh5MHZxN1NyNkpuNzRBVXRieFhqYm5pcUhWYnR5LU9VQkxiUDBwMlB5ZGlNN2VEcEtyWHVmNkNNMTljd1hUQ0FYY9IBswFBVV95cUxNSG8tWFBfdUxuWlZiSUMwdklVNmh5R2kyRHhZX1lzanZwelpnYnphLUtLc2xRR0NwZ2VUcl9EZ0duWHI0TjJIX0toRTAweENiUUtKUmF6QjIwSVJzNGN6ZG5wSW1MVmp3ZFZJQ0hNMlRjUEh5MHZxN1NyNkpuNzRBVXRieFhqYm5pcUhWYnR5LU9VQkxiUDBwMlB5ZGlNN2VEcEtyWHVmNkNNMTljd1hUQ0FYYw?oc=5",
+          "publisher": "The Financial Express",
+          "published_at": "2026-10-31T23:00:00+05:00",
+          "topic": "trade"
+        },
+        {
+          "id": "98f2acb67df62e1b",
+          "title": "PSX sheds 3,560 points in October",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAtdEhvNUYtQk56QkRjQjJqNjNhaExrMXJ4Sm0zajhpVUxramhJd2VEMWhzM3dGSU9VanZOR2FQRGt6Z0JwbUlTSnNGcUZpaWVUNTNsV19XbmZzdVptQm5VLXEwNnMwcm1KRzlBRjNaTDlpWGNxTTd2SNIBgAFBVV95cUxNeXp2NE5tSW1WNE02T3F5N0lGeE1hQXh5S2NBVjcwLVdISF9ZemhUNXoyQ3JiQXVNY0xOeS1KUHUtVFNpTDRJYkNkWEZkeG9icU53VTAwTVZnbllTdmlpMzFuSXB4TU9oRDE4Rk5KcUo1SVM1TUF1bkJMdWlta0c5Ug?oc=5",
+          "publisher": "The Express Tribune",
+          "published_at": "2026-11-01T03:09:00+05:00",
           "topic": "trade"
         },
         {
@@ -66,31 +82,15 @@
           "topic": "trade"
         },
         {
-          "id": "957c84ef387c7c06",
-          "title": "Sesame Market Update: India’s Export Slump, Cheaper China, Tighter Pakistan & Brazil — CMB News",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQYnlxZmRsWHNzWEFZcWF5Z2I1bWxUaXRCcXBsVkJCekk5aFNZTUhJNWtDc1Y1bmpXcHA4NHBLMkFEVFFlYXh5ZWNDbmNOaTRvZ1JpTmxEaWhsZVpVR2JQc0RCNTJ4YjlEektuM19OR251VFFMOTgteFkyMnk4ZTQ1YzNyR2VIR3prdTFGVmpkZFE5MkxkYkItYWZYTGJqX0E?oc=5",
-          "publisher": "CMB News",
-          "published_at": "2026-10-30T11:10:11+05:00",
-          "topic": "trade"
-        },
-        {
-          "id": "ae3a990adf171b16",
-          "title": "Trade deficit widens 29% in first two months of FY27",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNaW9FeVhiME1vZlRQbFNQOVdwZ2JkWWh2QU9qSzB5bk8xTDl5YlpfZFlhYTRLeVB2VEh3WnAzVUY4aHNwNjZucmVQbGVTUGZybkwtSFoxbHBjRl8tOFpCVWozdHFtcGI0c29SZ1ZxZHhBSGd6MXhBOVJNWkh5QUJoYXNYLWRCM0F5VklxM2xR?oc=5",
-          "publisher": "The Business Standard",
-          "published_at": "2026-10-30T08:11:25+05:00",
-          "topic": "trade"
-        },
-        {
-          "id": "e13d4fa3a338c3cf",
-          "title": "India extends cotton import duty exemption till December 31",
-          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNV2J2VDUwMmd1d1lVRVRENEM2LXBmOWlYMURWOHlLTFQzb05hUk12d1I1bDdsVUlKYm1pUEkxYXJoNUpOMnltd3NUeWRhN3lIeHF4QzB3dHhRaTdGSFM3TlkxRi1hckRYekRUUm5rNmpqNWhFUUlqMTd2bUR6QkdEbWFfbWVQVzBMTjFyQ1ZLT3NXZmxUNkNsVE1fSDM2VmswSVVlQXZnREVjeFhTNjJuV01LU0tib081ZFMwV0d0ZTZmbzJvemp1Q3FRSVVEYlRhd3dMZ1JmRdIB3AFBVV95cUxOakU0LVRLbFZMM296WEcyQ2RENzRnNEhtVGpiUmllcFBJQmM0LW1zeUk5eTZGLVZVeHE0TlVjRHduaWhUQ01kZUJBcW1JbXJ5T0Z5REphUkViRnd0dVBVb3h1OGxJay1fQ1NiSERPQlJsNEkyN1NJVE9Wcl9KSG1MY2VaTUVRY0pDYko2SENJdV95TUxPRFZlWDJTdUtyS2R4VDY3YWQyVmtiWHVQNGFBTl9ORmpWT3lyYjNzTkJiUXVFenY2N2ZXZGVjODdSLTAwNzJtNGsyekVlSGlh?oc=5",
-          "publisher": "The Economic Times",
-          "published_at": "2026-10-31T17:10:40+05:00",
+          "id": "dee80cba81b9afa8",
+          "title": "SIMA hails extension of cotton import duty exemption till Dec 31",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQQ3EtVXN0d25WYTRGTUpNejBwUUVwWjJ0VDllSVAwcEhOSGlaeFNYNDV5Sno5ZnlVS09fOWZOb19hQ2IxSExObnlyQ3B6UFY5UnhfeE9FdzZaUGR5eGRvaktMRmJBNV9oa0NqbWVRMDcyYlNhMGlBa3RIdXJVUGtpZkt0TGFNX1NyR05yTEoxNlBwMFNqRDRNcGIwbk91dkloTTFEN1pZQXFNaVF2TFhTNkZqUC14bnJ0UTZMcmtLb2VDbENCMHY3blBtUmdNX2tkWEtFU3FFZm5tUdIB3wFBVV95cUxQV1dzeGI4UVZDMFdXOVJWci1IV2tUdjhrcW9UZnFhSGtHaWJqdFczOGZrRjdyOG9TUndqYkNLQVdBWm9EQW9XaDV5ZWdPcW9zZ0hEN2RTb09JNFdzRjRvVUkzUVhCTUtQR1k5d3dGa3hIZ19lOU9iTGw3WUF0d2x3WE9UOTdkUVQxSnJuNUVqVV93bEJ4cGI5X3NUTGlNelVycURXc0hJMTRWV3EwSHIyY1N1WnVtLUQ4VTR5VGcwdk5sVGR3aTl6Vk94TGRjN0pSS1Y1X3lDUnh1LTc4clBV?oc=5",
+          "publisher": "The Times of India",
+          "published_at": "2026-10-31T18:46:00+05:00",
           "topic": "trade"
         }
       ],
-      "fetched_at": "2026-11-01T00:26:25.024190+05:00"
+      "fetched_at": "2026-11-01T09:13:02.059808+05:00"
     },
     {
       "id": "economy-2026-11-01",
@@ -108,22 +108,6 @@
           "topic": "economy"
         },
         {
-          "id": "39be3b11b49c6138",
-          "title": "FD’s update: Oct inflation projected to stay elevated at 9.5-10.5pc",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0yWGY5cDFPcTJLVEpCbHUyMkNVd1k1SDlOQWhreHhudDFPRE9hb1F6Umh2aGwtTDhKZjY4d0tTN3FpVGZNNVJ4NXpxeU9RRGds0gFWQVVfeXFMUHBBXzQ2TDNycV96cWRkeTBiTTRsQ3liX2xlaFZpc2VMVnlVLUg2cTVfUTZkazA0eldyOHFMMm1TWTJhazB2bW9xRmdvMnMydW00QmltUUE?oc=5",
-          "publisher": "Business Recorder",
-          "published_at": "2026-10-30T05:43:52+05:00",
-          "topic": "economy"
-        },
-        {
-          "id": "acf77a43ec45c168",
-          "title": "SBP reserves rise $33m to $21.52b",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE93SGxveVZCLXNwN0xUTjFXaENvUVpCVTQ1ZzJ2N1g2X21nSnYtVU1qSU05QzRXTkdMMWwzN1RubDdhRVloZm9yc25FaTEzMzM4SjJBN3pzS1BJT0oxVGtSeFBCZlBoSFdoZmx3Yy1vaUpUcWtBT0HSAX5BVV95cUxQNHhRUURhOWNHWE0zR3lDdkR3enpWbzFIYnNlUW5lY3pOazRfZ014djJsTmwzU2UwU2p4a2FJV1BZX0xjX1dRaHpQajRCRGZWckJwb3V5VlNKY3hCcFdIMllhMzRBYjFJazlWZnp2X0E0YjdaMzdRVGlKbkN4RUE?oc=5",
-          "publisher": "The Express Tribune",
-          "published_at": "2026-10-30T03:04:10+05:00",
-          "topic": "economy"
-        },
-        {
           "id": "2b859cbccc2ccf13",
           "title": "Indian rupee posts best month in eight on RBI measures to curb dollar demand",
           "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPOFFWVFA2OVNNNE9yVGZlQk14WGtTd2NlTFhyVkJDVm5BRWI1ZExYRHpSZ2pBRThMZEVVc3JoMUtMY0JDYmlXYmZfUlRYVzBBdExMNjR6RW5TOUh1cmwwTVdFUGRMOG0wR3BxdGtmRURyRWFhM1F5NFBJYWRxV05OeWdKZzEtZzIwMFpGMjM0WmJ4NTBDSFB1Z04xbEo3MWc3MXVLRVlNRkZlNzRWdm80SXlzR0VFLTDSAVZBVV95cUxOTTIzazVCVk9fZDVQd011LXpia0RQSElfNnNiQjNhODNWN2U1eHhRM2tkY2kzZmFsYlNsV1hLTmFNVlZsaVZCVkk5WTZmMkNKaTd0Y1ZSQQ?oc=5",
@@ -132,19 +116,11 @@
           "topic": "economy"
         },
         {
-          "id": "49f01386fd4c5d29",
-          "title": "Pakistan’s urgent need for structural reform",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE15Ulo2ZG9mRElvLUs0S09hcXJIWTNxVzBaaUdsZ0VvT1NTV2NXZ1BmT0hiMmtMR3ppUXRUVDYzTnBtTHZnUEZ0ZkRBMzZxQW9ucmp0TkNGZ1V3SFhOVVhpRjFzY3FqbmpvOGxDYmJwUS1mQTdudjFV?oc=5",
-          "publisher": "Pakistan Observer",
-          "published_at": "2026-10-31T19:18:21+05:00",
-          "topic": "economy"
-        },
-        {
-          "id": "5e9884c2567a1fe5",
-          "title": "Gold prices fall by Rs10,800 per tola in Pakistan",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSzd5VFJTLUJFX0QtN1Q2aXJXb0Yzd1BEN0hJN2VTS3UxX3dEcnVsM2h2bDdZeGxsYUdHUnR1U3gtWHdiQVVQdk55a0pGN3JqaTBRME9BX0ozS3JQOWhHb2JEczVJR1AtZ0dfTk1XbnZsZkJONmFuOWtwaDc5Vkl3VmJmczlrUQ?oc=5",
-          "publisher": "Hum News English",
-          "published_at": "2026-10-31T11:29:23+05:00",
+          "id": "60f40ffb71e36355",
+          "title": "Gold price plunges Rs 9,900 as silver drops Rs 360 per tola in a week",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOc0FFYUNQNm1lcV9adzFLYlJ0dVBTQlg5TmtGTEZ0ejJNY2FfdDVJQm1FSXBjN0s5bXF1SUY4R1IxZmVfcXpuUV9paHQzOFZneG11bEdYM0Q0azNCeXF0OXllYkZBbzI4RzFydUswYXY4TXhSdkJfM0ZVVjJ5R2RON3ZmQVRCaENKU0F5U1JramVhU1hwdG9wRXYtQkRxV0JxVEpkN3oxMEtXWkZRbElQRXJNZXFNbUcyWWR3cndwdzQ?oc=5",
+          "publisher": "myRepublica",
+          "published_at": "2026-10-31T16:55:00+05:00",
           "topic": "economy"
         },
         {
@@ -156,15 +132,31 @@
           "topic": "economy"
         },
         {
+          "id": "49f01386fd4c5d29",
+          "title": "Pakistan’s urgent need for structural reform",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE15Ulo2ZG9mRElvLUs0S09hcXJIWTNxVzBaaUdsZ0VvT1NTV2NXZ1BmT0hiMmtMR3ppUXRUVDYzTnBtTHZnUEZ0ZkRBMzZxQW9ucmp0TkNGZ1V3SFhOVVhpRjFzY3FqbmpvOGxDYmJwUS1mQTdudjFV?oc=5",
+          "publisher": "Pakistan Observer",
+          "published_at": "2026-10-31T19:18:21+05:00",
+          "topic": "economy"
+        },
+        {
           "id": "43863b813f744ffb",
           "title": "U.S. Fed holds rates steady, signals more hikes possible as inflation remains elevated",
           "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOOXNMMGVtQzNSb0NIN3MwVmUyc3QtaC1SM3dnZGtyODNndzZBMHUybWYySjNUbUZKUExVS24wbFR0REVzVXZuNjY5VVdhSmVYaEVTZ2hGNFk0SUZXS2cwTGFZQU5ZUDQ2d3FBWlN3YV83Y05XdXNicjd4Yk1xZFh4dmE3WF9qS3FUbUtKdVRqX1pRb1pfRGdIcnNEM2NUR05wdFJWWmNETDdRY0JQYUJPYno1cw?oc=5",
           "publisher": "Bol News",
           "published_at": "2026-10-31T00:14:50+05:00",
           "topic": "economy"
+        },
+        {
+          "id": "c773a6bb81decb24",
+          "title": "Inflation Remains in High Trajectory of 9.5–10.5pc in Oct: Finance Ministry",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONkJDMEF6aTZpVGlLcFVvcnJBR2xQM0dMQ04yVUEwZGJWbGdiTWtrdktIcHdoUzJBOGlaek5TVWZOTVZCdkVXT1pnV21EdmVGOVVhbTR0c2ZrbUQtWHhab2dhQU5BUHM0am1kUXJjZGF3T09ScERVOXBXN1VLaFVrbEN3NWQydGhHSmNuSXFUZlZYRVhsZkIyam9SaG1ENjQxLTg0?oc=5",
+          "publisher": "Bloom Pakistan",
+          "published_at": "2026-10-30T10:33:03+05:00",
+          "topic": "economy"
         }
       ],
-      "fetched_at": "2026-11-01T00:26:25.024190+05:00"
+      "fetched_at": "2026-11-01T09:13:02.059808+05:00"
     },
     {
       "id": "business-2026-11-01",
@@ -178,15 +170,39 @@
           "title": "Sri Lanka Invites Pakistani Businesses to Expo 2027",
           "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOOXdpcVRyUzRzMlJrbHpIN2w4cFVyZVA5UXNCMlM3bVh4UGMwbWIzcjRSSkw3OUhSRDhLMFVtVk85MENtYlhVYkUtZ0lDZXlPendVUWFGY1I4Q1hGWEU0Wk41NHlsdzBmT0RyeWRnTlhNT0NjT0w4dnl1Yk0tNGprS1dBN2JRalI2V3VwY1RTTUNEUWs?oc=5",
           "publisher": "Biz Today",
-          "published_at": "2026-10-31T23:45:00+05:00",
+          "published_at": "2026-10-31T23:46:04+05:00",
           "topic": "business"
         },
         {
-          "id": "0975d3511572d397",
-          "title": "PPL Competitors - Pakistan Petroleum Ltd",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5PSlN0c0QwM3pPSGxaVW4yX3BuMkFKTWhjRW9tY0UxYjNCdTVxYmlpbDJhbEtrOEtxbGFJQVdyeGdRRXNiLXY5d21SNFVEaV94U3JJUndodlEtQk52?oc=5",
+          "id": "5877e61fd8ce110a",
+          "title": "Sri Lankan HC calls for stronger trade ties with Pakistan",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1vZjh5SzY0ejM1NDBOY3o4UHB1aVhrRTRkNmcwVmZON3JjQUtpbHFzNGcyOEpRTlZSYXdUY3hIZnFxeVNLNnJHaENNZ1Z5UXlLcHp2X3hB0gFWQVVfeXFMTW9mOHlLNjR6MzU0ME5jejhQcHVpWGtFNGQ2ZzBWZk43cmNBS2lscXM0ZzI4SlFOVlJhd1RjeEhmcXF5U0s2ckdoQ01nVnlReUtwenZfeEE?oc=5",
+          "publisher": "Business Recorder",
+          "published_at": "2026-11-01T02:31:09+05:00",
+          "topic": "business"
+        },
+        {
+          "id": "cce5b40da6f0505c",
+          "title": "Pakistan, Sri Lanka urged to strengthen trade, investment ties",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPenJTSzBuOVlhdHR1U05WWnFNSlFCTm5TSGVGQjljQ0JudHZyZmNiLXVkUXFMMGFJRVVWbVRSUnlfV1hUN2FkRzc0SUdxWW4yTjlJYTNFV0hKei1GNThET29sVk4xR1kxT29PMl9CU05SbklnbXN3S1JBdFA2UWVSN2lCWXBvemxWMlo0ZGQ3ZzFCaVZ4VGJyX0hrRGdzZw?oc=5",
+          "publisher": "The News Pakistan",
+          "published_at": "2026-11-01T00:00:00+05:00",
+          "topic": "business"
+        },
+        {
+          "id": "87fb881b56538bcb",
+          "title": "Exhibitions, trade delegations proposed with Sri Lanka",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNT1BVeHNoM3hxTF9na1M1bDFvRDU2ekVsNV9rTFdNZWFnRzAxV1NVY0JNU1FXbWRnMEZNXzJOWV91WlNwVGF2dmdhM1pvS1dxbHFXVGR6bG40RFBrUWNVdllGa1pRT3J6dkZIUkxkZ0RqdkpmOXZhWWxXODh6OWhrTExLWEJJaFlMQ1VxTEhaYU9sa3VW0gGcAUFVX3lxTE1HOFR2Q05fWlVPSVk1Z1JDaDlRR05PeE91Z2lVZGRnZWhLc3BibGxFMndLX19wMXM4SWR0N3ZTWW9yaFczUXBEMUt3TXVPX05hRk9ncVZGQ1M5WFEweWJOM1lhODFGbE5sXzlWWno3X01nUlFZMy1hM3dIUmpXVkRmeTZydDJXSUoxZmpGV1Q2Q3ZJdGFra3VIVVN3Xw?oc=5",
+          "publisher": "The Express Tribune",
+          "published_at": "2026-11-01T02:46:10+05:00",
+          "topic": "business"
+        },
+        {
+          "id": "d9dc25765a3c4603",
+          "title": "AHCL Company Profile - Arif Habib Corporation Ltd",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5SOGFvNVNsaU1XcnBmV1QwN1htWTd1MnZ4bGpTckpnRjM3YVhmcDhCUDdCSUdrcGpJeV9RN2JhYXhOUDA1QjVfTWZZSnNvekZoQ2ViLXhsMzc?oc=5",
           "publisher": "Investify",
-          "published_at": "2026-10-31T05:52:21+05:00",
+          "published_at": "2026-10-30T23:15:26+05:00",
           "topic": "business"
         },
         {
@@ -198,14 +214,6 @@
           "topic": "business"
         },
         {
-          "id": "b7b42735181e7ec7",
-          "title": "French ambassador calls on CM Punjab, discusses trade, investment cooperation",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWUlBZ1VPUTdGRTdDY2sxRjZySFNBZGhPc2hRbkRTdjIyc2RUdVRHNU5YSFFJeGxuZi1qWEhyZVAycmZPUm94YUJRQmpJU2g4MUpTQWthanJXRnhkS01ZXzY5WDd6d2FwZVZIdVVVMklILTI4Qzdya0t5TmFRVURIYjhjOGxLcFY1ZEp5RUpNaWdRMTd5U2FhYjV0YWdhUjdOQmpicmhJTEUxRTA2Z2Rj?oc=5",
-          "publisher": "The Nation (Pakistan )",
-          "published_at": "2026-10-31T14:09:27+05:00",
-          "topic": "business"
-        },
-        {
           "id": "1a1fe8ad3cc01158",
           "title": "Weir Minerals Explores Investment and Partnership Opportunities in Pakistan’s Mining Sector",
           "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNb2RnaTR1SHFJVm1CNFBNLUhoZ2txc3E5UDBSeEFzNzlqejBTT0dNYk1pZVZzNmhGeE9jLXV1RHhrUTNMY0s4V2tNclNkN0JMVWJVdF9seTlvY1lmTndDWnVTS1pwTER4RHBTc2dTcnBtb3d3UzF0WXpUVjZKMXFjVUdKam8xakRMQ0dxaEVDbjNWdlZKX0hpZGx2NnNkUkN6ZlhrTFhZMVp0c2R0YmVMN3JwU084emZmdFVVekF1Znc?oc=5",
@@ -214,31 +222,15 @@
           "topic": "business"
         },
         {
-          "id": "0aa9007f18e1f04d",
-          "title": "'Regulatory maze blocks investment'",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9LLTRXV3NybnhkWUJtdHRqZjc3OG5kNTVINDNDWjRTajJXMTF3Z3FqbHVHUl9Sdk5hd0t4ejdodnhJZjlXM00xU25yOEVsRDdCM0pzU0dIQks2T056dHZrbW1yLUJpYU9DVVhBc1ZIMk5MQ0FkLWZkYnJ30gGCAUFVX3lxTE1EUW1MS1hjY1N3NWR0WWxGMnRSQlNRakhfZGxEeG9OeVowUU1ZRUpiUlhKbVNmSldwQldLVkYxMEVnTWRfb1BYSEZtOGJFQm9XRzl5d084djV0bkRaM2VtYTAwZnluWFc0bGtUM1BVUFNyazVHT2NaNnBIcHVxMVBHaGc?oc=5",
-          "publisher": "The Express Tribune",
-          "published_at": "2026-10-30T03:19:35+05:00",
-          "topic": "business"
-        },
-        {
-          "id": "c2435b401bcfdd49",
-          "title": "Makkah Pact: BD’s inclusion could expand regional reach, trade ties: Dy HC",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQ3VFNDNDaTBKSERISm9vYzN3MzdtNkJqTjhmSkxRNzEtOWNOUzdNdnE4Y0o0NnozT0lMUnV5Sm11ZWlUS0RkM3cxd0RlSWtrT010cmV0QThEV2pzWndMbzMyMU10clJvMGkxSFpXNlFYSFNwMzRlSWpieTBqT0RZQ3NxVzBDbFRQM3RaTWl1WENsQ3hYNW9Lek0zQ3VnZ1JnLVhRcUl2dDg0RUM2Vkx30gFWQVVfeXFMT01WT2N0OVc1NHktY2lFUUtFT0FGVURDdGtyZUZibVJkYTQyWVhLYUp2U3p5X0RLNlU5b0tKMWkxTWZfMWhDVzhuTS1NcFExd2ZEQzFBVmc?oc=5",
-          "publisher": "Business Recorder",
-          "published_at": "2026-10-30T07:43:01+05:00",
-          "topic": "business"
-        },
-        {
-          "id": "23753b301fda9a55",
-          "title": "Pakistan plans to privatise three DISCOs in first quarter of 2027: adviser",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1UUmRITWpINTBoaWNFTUl3ek8yeWFXNUloeVBza2JVNUpqdVA3LTd2T3RwcHRhQTQ5VmhiQmt6MktEdFBGbHJfNjdsZVVBQ2pNMnhWU3NR0gFWQVVfeXFMTVRSZEhNakg1MGhpY0VNSXd6TzJ5YVc1SWh5UHNrYlU1Smp1UDctN3ZPdHBwdGFBNDlWaGJCa3oyS0R0UEZscl82N2xlVUFDak0yeFZTc1E?oc=5",
-          "publisher": "Business Recorder",
-          "published_at": "2026-10-31T21:56:08+05:00",
+          "id": "0975d3511572d397",
+          "title": "PPL Competitors - Pakistan Petroleum Ltd",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5PSlN0c0QwM3pPSGxaVW4yX3BuMkFKTWhjRW9tY0UxYjNCdTVxYmlpbDJhbEtrOEtxbGFJQVdyeGdRRXNiLXY5d21SNFVEaV94U3JJUndodlEtQk52?oc=5",
+          "publisher": "Investify",
+          "published_at": "2026-10-31T05:52:21+05:00",
           "topic": "business"
         }
       ],
-      "fetched_at": "2026-11-01T00:26:25.024190+05:00"
+      "fetched_at": "2026-11-01T09:13:02.059808+05:00"
     },
     {
       "id": "trade-2026-10-31",

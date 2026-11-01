@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-01T00:26:16.898226+05:00",
+  "checked_at": "2026-11-01T09:12:55.579222+05:00",
   "quotes": 3375,
   "checks": [
     {
@@ -65,26 +65,26 @@
     {
       "store": "Foodpanda / Kifayah",
       "url": "https://www.foodpanda.pk/shop/a036/kifayah-supermarket-pechs",
-      "status": "parsed",
-      "offers": 90
+      "status": "no verified quotes",
+      "offers": 0
     },
     {
       "store": "OLX",
       "url": "https://www.olx.com.pk/items/q-iphone-15",
-      "status": "parsed",
-      "offers": 33
+      "status": "fetch failed; dated offers retained",
+      "error": "HTTP Error 403: Forbidden"
     },
     {
       "store": "OLX",
       "url": "https://www.olx.com.pk/items/q-laptop",
-      "status": "parsed",
-      "offers": 33
+      "status": "fetch failed; dated offers retained",
+      "error": "HTTP Error 403: Forbidden"
     },
     {
       "store": "OLX",
       "url": "https://www.olx.com.pk/items/q-sofa",
-      "status": "parsed",
-      "offers": 33
+      "status": "fetch failed; dated offers retained",
+      "error": "HTTP Error 403: Forbidden"
     }
   ]
 }
