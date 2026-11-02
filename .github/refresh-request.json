@@ -1,4 +1,4 @@
 {
-  "reason": "Fallback: latest due 2026-11-01 20:30 Asia/Karachi price refresh missing; public report completed at 10:43 UTC predates slot; no queued or running Pages refresh found. Request source verification and deployment.",
-  "requested_at": "2026-11-01T16:18:41Z"
+  "reason": "Fallback: latest due 2026-11-02 08:30 Asia/Karachi price refresh missing; published price verification completed 2026-11-01T19:51:10Z predates slot. No queued or running Pages refresh found. Request existing source verification and deployment.",
+  "requested_at": "2026-11-02T04:16:46Z"
 }
