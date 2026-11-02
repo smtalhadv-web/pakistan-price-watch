@@ -1,6 +1,6 @@
 {
-  "started_at": "2026-11-02T11:31:56.685335+00:00",
-  "completed_at": "2026-11-02T11:32:23.444267+00:00",
+  "started_at": "2026-11-02T16:14:28.633272+00:00",
+  "completed_at": "2026-11-02T16:14:59.313626+00:00",
   "status": "partial",
   "timezone": "Asia/Karachi",
   "scheduled_times": [
@@ -11,37 +11,37 @@
     {
       "name": "collect.py",
       "status": "completed",
-      "elapsed_seconds": 3.3,
+      "elapsed_seconds": 10.8,
       "detail": ""
     },
     {
       "name": "download_sources.py",
       "status": "completed",
-      "elapsed_seconds": 3.6,
+      "elapsed_seconds": 2.0,
       "detail": ""
     },
     {
       "name": "ingest.py",
       "status": "completed",
-      "elapsed_seconds": 1.3,
+      "elapsed_seconds": 0.8,
       "detail": ""
     },
     {
       "name": "expand_fetch.py",
       "status": "completed",
-      "elapsed_seconds": 2.2,
+      "elapsed_seconds": 1.7,
       "detail": ""
     },
     {
       "name": "expand.py",
       "status": "completed",
-      "elapsed_seconds": 1.3,
+      "elapsed_seconds": 0.8,
       "detail": ""
     },
     {
       "name": "commerce.py",
       "status": "completed",
-      "elapsed_seconds": 8.8,
+      "elapsed_seconds": 8.6,
       "detail": ""
     },
     {
@@ -53,7 +53,7 @@
     {
       "name": "extra_sources.py",
       "status": "completed",
-      "elapsed_seconds": 1.0,
+      "elapsed_seconds": 0.8,
       "detail": ""
     }
   ],
@@ -616,14 +616,14 @@
       "url": "https://chasevalue.pk/products.json?limit=100&page=1",
       "status": "verified",
       "detail": "parsed",
-      "quotes": 910
+      "quotes": 643
     },
     {
       "source": "Chase Value",
       "url": "https://chasevalue.pk/products.json?limit=100&page=2",
       "status": "verified",
       "detail": "parsed",
-      "quotes": 719
+      "quotes": 815
     },
     {
       "source": "Naheed",
@@ -679,42 +679,42 @@
       "url": "https://metro-online.pk/",
       "status": "verified",
       "detail": "parsed",
-      "quotes": 229
+      "quotes": 230
     },
     {
       "source": "Foodpanda / Kifayah",
       "url": "https://www.foodpanda.pk/shop/a036/kifayah-supermarket-pechs",
-      "status": "verified",
-      "detail": "parsed",
-      "quotes": 90
+      "status": "not_verified",
+      "detail": "no verified quotes",
+      "quotes": 0
     },
     {
       "source": "OLX",
       "url": "https://www.olx.com.pk/items/q-iphone-15",
-      "status": "verified",
-      "detail": "parsed",
-      "quotes": 33
+      "status": "not_verified",
+      "detail": "fetch failed; dated offers retained",
+      "quotes": 0
     },
     {
       "source": "OLX",
       "url": "https://www.olx.com.pk/items/q-laptop",
-      "status": "verified",
-      "detail": "parsed",
-      "quotes": 33
+      "status": "not_verified",
+      "detail": "fetch failed; dated offers retained",
+      "quotes": 0
     },
     {
       "source": "OLX",
       "url": "https://www.olx.com.pk/items/q-sofa",
-      "status": "verified",
-      "detail": "parsed",
-      "quotes": 33
+      "status": "not_verified",
+      "detail": "fetch failed; dated offers retained",
+      "quotes": 0
     },
     {
       "source": "Al-Fatah",
       "url": "https://alfatah.pk/products.json?limit=100",
       "status": "verified",
       "detail": "updated",
-      "quotes": 172
+      "quotes": 99
     },
     {
       "source": "Shophive",
@@ -731,9 +731,9 @@
       "quotes": 27
     }
   ],
-  "total_quotes": 9846,
-  "verified_quotes": 7018,
-  "changed_prices": 150,
-  "new_quotes": 435,
-  "retained_quotes": 2828
+  "total_quotes": 10099,
+  "verified_quotes": 6589,
+  "changed_prices": 25,
+  "new_quotes": 253,
+  "retained_quotes": 3510
 }

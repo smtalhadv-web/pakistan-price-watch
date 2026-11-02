@@ -1,6 +1,11 @@
 {
-  "checked_at": "2026-11-02T16:32:24.514481+05:00",
+  "checked_at": "2026-11-02T21:15:00.248581+05:00",
   "checks": [
+    {
+      "topic": "business",
+      "status": "updated",
+      "headlines": 8
+    },
     {
       "topic": "trade",
       "status": "updated",
@@ -8,11 +13,6 @@
     },
     {
       "topic": "economy",
-      "status": "updated",
-      "headlines": 8
-    },
-    {
-      "topic": "business",
       "status": "updated",
       "headlines": 8
     }
@@ -26,14 +26,6 @@
       "context": "Trade and customs developments can affect landed costs and delivery times. Check the original notification, effective date and product classification before applying a reported change to an item.",
       "headlines": [
         {
-          "id": "167645a937c3816b",
-          "title": "Weekly Cotton Review: A downward trend continues in the market",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9pbEoxM3lfNmRNRmxVeloya011bFdkTmREcTRGRVJOa09EMnVBb1BHRWhBTk5GUURTeWtsSV9ieHJPcHl5NTFCM2FwRmZBVTFKdHVRcUt30gFWQVVfeXFMT2lsSjEzeV82ZE1GbFV6WjJrTXVsV2ROZERxNEZFUk5rT0QydUFvUEdFaEFOTkZRRFN5a2xJX2J4ck9weXk1MUIzYXBGZkFVMUp0dVFxS3c?oc=5",
-          "publisher": "Business Recorder",
-          "published_at": "2026-11-02T05:01:43+05:00",
-          "topic": "trade"
-        },
-        {
           "id": "6cb4aeca998a01b6",
           "title": "EU cement trade contracts as Türkiye’s import share rises",
           "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdzJ2Vm15dFpoY1Y3eXp3SzA4YmZPYURyTHZCUXV3MzdFZkNyTWJ5QlRzNTJLNjFxaDRNbDNkRzZlYlRKQ296V25SaHlJNzR4ejZIM2xJVy1zMEJpWFl5c3FSUkY3OE5qTTgzbHhabWo2WnlGSHhteDNwdVIyV0VJNE0wa1NOY2NlczhlQUdMLXZUdUNSaUY1VzFpd3lldXg1RG5obUJR?oc=5",
@@ -42,27 +34,11 @@
           "topic": "trade"
         },
         {
-          "id": "82dc76d482125153",
-          "title": "Chinese park courts Pakistani pine nuts, rice",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSTU0Zlg0S2xESnFXcWVPV0pmbF84UU45cXhTQjVXRVIzRjBBaGo3Rm04Y2t3dWdrcWxfZGVzUWd6UWJWS0Vxd3RnMlVjempxa2c4aFVEWFZUdTRRcWZGNnRWdklkaVdFVnNmOWRYUVgtX21lT0dFMnZrZ2QwQjdQVFdaOTBrVE4t0gGQAUFVX3lxTE1FUlUyZi1jWGNBS2pGZjJDd0I0ZXZfRzRyaHJueDMwc0oyMk5odFpzUnJ0YWc5S21MQzYySmRVSFAxYTZ4OE5IYmFqaXV0dngwN2tPNzBoaTZRbWJ5aDRRdUMzMEZmYkktdEJPN19BVy1zMFFNS21Dbmd1c2MxZ0FCZHZyMDF6YUFzcEFaMUhHMw?oc=5",
-          "publisher": "The Express Tribune",
-          "published_at": "2026-11-01T02:56:55+05:00",
-          "topic": "trade"
-        },
-        {
-          "id": "a7c5ceeaca485b6a",
-          "title": "Chinese park courts Pakistani pine nuts, rice",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNY0I0VE56NEhpcWgxUHE4MG5uSXQzMkpYcm1zMk1CcnJudWJqUzFwdHlNNTV5WnExRXRVOFJWbm5TWG1pTTNTSV8yaE1LYlhrX2ZxaXpodnpoa2FsZXZxWmNrYkprX0laNXRXTzRwVDhxeTJsNWo3ZjQwb1MtdWd0RllyOThBa1A2V0NlcHNZMWQ?oc=5",
-          "publisher": "Investify",
-          "published_at": "2026-11-01T02:10:25+05:00",
-          "topic": "trade"
-        },
-        {
-          "id": "b5abed84980245e4",
-          "title": "US-backed consortium proposes $4.4bn LNG project",
-          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5vWW5BXzRocGQ3WHhmb1JZamFNRWQ2SFVrNlB2cks1alhwQThkYlNIeEJWeWJMZnVFLXl0X3c3bHk5bV9LM0hqVg?oc=5",
-          "publisher": "Dawn",
-          "published_at": "2026-11-02T06:07:18+05:00",
+          "id": "f02c4eb56412429d",
+          "title": "Pakistan suffered $40 billion in economic losses due to suspension of trade with India: PIBC chief",
+          "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNOUIzWlhLNnJ3aWZpRXg2dDZLYXliU3FlRUx1ajBUaWlGZXFERHNaNW9tSE9hcm5RZC1jUzktMXJJc1ZVMVJ1SGVfZkU1dHdncWJBeVpZdmRFX1NIYi1KYlgyUjF5TW5EcVVoUkN3aU5kbzgweHpLbGtETWc3WWxlekdySlpWZmlKWkgzVTEyZ3JLUzJiTXNMbUQ0RVhtdU10SGZLczFDSzhiTjRTdWZtTUNUM1NFMHJNR2JUck05VlBKUTdyRm80cjE4XzNKQ24wUlNJWmJFVmxDZ0x3QnJ3b2taX20wYUtmU0lVOGUxVmM0NVJYWlV4UWxXSXVUYXhteXJOZjlhdHTSAY4CQVVfeXFMTTE0TDdOeWM0MFM2Tk9PdGpxczZrbkVpRWh4emZyN29qeXpuQ2V6bk5wamh0cEJaMXB4bW9sZUdkOWhETk5IV1JibXM4QUFVMmlBYlg3QzYtYXd0ZG5LTWJxYTNyNjdQV0FjVVN4OGZ0WVRISE9RUU1US1lIYlhYM3NQaVRNTmN5MUxpNF9rZF9mbVhuT3U2S0FKemFtRkIzU2szUk1rajVPUUNHR25NbWhOVnM1T0dleVRNMVhxY2pwSmVzYUpMSlhMY1ZWaGcwUmJwemRwNkNBeWNjempfNU10SEVSRzNnUGVOUkZkSFVKeGxNRGljYW85VExxc1ozR1ltNXJuMmlzeVZIQzB3?oc=5",
+          "publisher": "The Economic Times",
+          "published_at": "2026-11-02T19:43:40+05:00",
           "topic": "trade"
         },
         {
@@ -74,11 +50,19 @@
           "topic": "trade"
         },
         {
-          "id": "32d371c99f74f59d",
-          "title": "India, EU discuss FTA implementation, customs cooperation and market access in Brussels",
-          "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPOVRRdTNRaVF0dXBWN3MxZjQ3UTMxbHhtRzNXSzZXakxzeXc5Z2o4alJLcWVMUkVGdjl5dnlMenR6U0ptQ09TWVZ3WWh3Skdmc2lKUFo0YkxHRlRwcWo2M2FoTFJ5WHEyQ0ZHVTdQejhpbWlESWZlZzdnYWRaSXJySXR5aUVpdjd0TWt1VUhuOTVXRnVFVGtKbkVhWG9iTGk1T2tpYnJHZHA3cWltdDRyajlxTXJyRUtsNWVGQk9fYnBuYzN4aEtibldqTXY1cVMxSUVyUjVqaFFZdkFPMXY4UW93emFVODVXSl9XejhQLVpBcElvUXNDOU930gH_AUFVX3lxTE4yb1dGZllRak1ZM00wZ3d4bFM3S2tUZXl3OVVrWXBtcDFOUzY0QW5CaUFIeGxzWDlxWl9oNzBmS2FVSm5BWHEyV3J1enlBYjRMX2d2U1ZRc19jckFVU1JxZXpuQW94MVYtdHNuVGR4dkdoeVRWM2pqcmJIZUpDQWFlU2JqYXB0T3R0M1N3dFRPSk9abGE1NE1QVGtkd2liLWY4cHBRMVYwQV9RbmhqZVEtMERnTG5zQkhXNTlYeUhnMXlYNWFORXJzeFdoR29YS2tSaVprbHIwZ1VlNE1nNEtYcHRyQjcxcDBVUnVZT1dYQVNoVllNcGVkcmFscnRZcw?oc=5",
-          "publisher": "The Economic Times",
-          "published_at": "2026-11-02T11:45:05+05:00",
+          "id": "b5abed84980245e4",
+          "title": "US-backed consortium proposes $4.4bn LNG project",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5vWW5BXzRocGQ3WHhmb1JZamFNRWQ2SFVrNlB2cks1alhwQThkYlNIeEJWeWJMZnVFLXl0X3c3bHk5bV9LM0hqVg?oc=5",
+          "publisher": "Dawn",
+          "published_at": "2026-11-02T06:07:18+05:00",
+          "topic": "trade"
+        },
+        {
+          "id": "60e860f3fe3e050b",
+          "title": "Has the Pakistani military bought 30 Z-10ME attack helicopters from China?",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOb2tBUlJ1eXc1dnJVRnNSbFpYQUdEbGVDRW5BUy1ISmNfT1FXbGczdWM5YWo4MzRlb1Z2a0pkcTc1Z2lTdk00eXN3ZXkwM3ZRMlg0SGhzeEdKeHRKS1F4RE5CT0p4TE9Mb0QxOFhFUTBIX29Kc3lUYmZUa01FYVZMdHQ0Q1lYQ1VjSDFoZXp3WGhTaE8zYmN5WG1UMTl5QUtORVB0SWRDNzlxZDJPM2c2aS0wZXB1NGpzeFhSZm1qeEI2NHU1ak9oclBzZW0?oc=5",
+          "publisher": "South China Morning Post",
+          "published_at": "2026-11-02T18:05:03+05:00",
           "topic": "trade"
         },
         {
@@ -88,9 +72,25 @@
           "publisher": "Business Standard",
           "published_at": "2026-11-02T15:06:56+05:00",
           "topic": "trade"
+        },
+        {
+          "id": "82dc76d482125153",
+          "title": "Chinese park courts Pakistani pine nuts, rice",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSTU0Zlg0S2xESnFXcWVPV0pmbF84UU45cXhTQjVXRVIzRjBBaGo3Rm04Y2t3dWdrcWxfZGVzUWd6UWJWS0Vxd3RnMlVjempxa2c4aFVEWFZUdTRRcWZGNnRWdklkaVdFVnNmOWRYUVgtX21lT0dFMnZrZ2QwQjdQVFdaOTBrVE4t0gGQAUFVX3lxTE1FUlUyZi1jWGNBS2pGZjJDd0I0ZXZfRzRyaHJueDMwc0oyMk5odFpzUnJ0YWc5S21MQzYySmRVSFAxYTZ4OE5IYmFqaXV0dngwN2tPNzBoaTZRbWJ5aDRRdUMzMEZmYkktdEJPN19BVy1zMFFNS21Dbmd1c2MxZ0FCZHZyMDF6YUFzcEFaMUhHMw?oc=5",
+          "publisher": "The Express Tribune",
+          "published_at": "2026-11-01T02:56:55+05:00",
+          "topic": "trade"
+        },
+        {
+          "id": "d1d6fb409b957cee",
+          "title": "Dhaka to press Islamabad on trade barriers",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSG8tWFBfdUxuWlZiSUMwdklVNmh5R2kyRHhZX1lzanZwelpnYnphLUtLc2xRR0NwZ2VUcl9EZ0duWHI0TjJIX0toRTAweENiUUtKUmF6QjIwSVJzNGN6ZG5wSW1MVmp3ZFZJQ0hNMlRjUEh5MHZxN1NyNkpuNzRBVXRieFhqYm5pcUhWYnR5LU9VQkxiUDBwMlB5ZGlNN2VEcEtyWHVmNkNNMTljd1hUQ0FYY9IBswFBVV95cUxNSG8tWFBfdUxuWlZiSUMwdklVNmh5R2kyRHhZX1lzanZwelpnYnphLUtLc2xRR0NwZ2VUcl9EZ0duWHI0TjJIX0toRTAweENiUUtKUmF6QjIwSVJzNGN6ZG5wSW1MVmp3ZFZJQ0hNMlRjUEh5MHZxN1NyNkpuNzRBVXRieFhqYm5pcUhWYnR5LU9VQkxiUDBwMlB5ZGlNN2VEcEtyWHVmNkNNMTljd1hUQ0FYYw?oc=5",
+          "publisher": "The Financial Express",
+          "published_at": "2026-10-31T23:00:00+05:00",
+          "topic": "trade"
         }
       ],
-      "fetched_at": "2026-11-02T16:32:24.514481+05:00"
+      "fetched_at": "2026-11-02T21:15:00.248581+05:00"
     },
     {
       "id": "economy-2026-11-02",
@@ -111,7 +111,7 @@
           "id": "6dd91b993da19150",
           "title": "India’s Consumers Are Back, Its Stocks Aren’t",
           "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSWh5U3FLMDNHaUZYcWhfQlNSenN0Y0wyaC00SmRDT1YyTzJLcUkyTnFSc095YnZhS1MtQ05xYVhVM2tGazl4azQweWlMaGh2MXpOUXpXRGw0UVFlRTZITWVWc2FneXNZUDhLZlhXVlU2VWdWdG9KODVIX2dBSkJseEkzbFlZbHJHZnA4c05FT1JzNEFxdmdUYk14ZzhSY29FeXotOWJPMzNrZEJWT0xr?oc=5",
-          "publisher": "Bloomberg",
+          "publisher": "Bloomberg.com",
           "published_at": "2026-11-02T01:00:00+05:00",
           "topic": "economy"
         },
@@ -124,19 +124,19 @@
           "topic": "economy"
         },
         {
+          "id": "66ac00bf050c6e92",
+          "title": "Gold price prediction today: Gold down for 3rd consecutive day. Check outlook for November 2",
+          "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxQcFFrLTk4ZndaTWxzMXJKaGNOT05UUjNYaUhvdWRnSHByYnJCSGlNUVpCZmZJcm5QM1RyZzZQczRGdnAwandJZk1WeGFhRXlSQlNOU0RORkQ0TWtxNUxtdlo4eU9zNWhvZENkWTA0VURvUWJJQnFkbnBPUFdsNU5UUVB5SUJEcGNNTHYtX1ZrejgtWEM2WnV0YmZTWnZUNnRRRDljUzItX3RNeFB1RkN6c3NleGlTSFVZemY4U3lEME1EeWRyUzJfOGJVb1ZUZktBanNtSk1JQkpwRlVtcHUtLVVsb0tyNElGYVU0MmZ5UlFfZko3ZEMta0VDLThPZzFpcF84WGpEWUZvMndRVkRyRldteXNUTExYOWNKQTdxNm5wR3pDWDgw0gGsAkFVX3lxTE1lSnFrdzBBTTNScDFMWG9mYzUxQ1A2WF9OM0JuODYxWTRIbmFod3FVeWk4SHVDU2U1b19CR3J1S0dIVzV2VXIzcC13LUM0TVR3eFJGRUN4NWJ3R0puTlo1RjBzbTlYMjBld0NjVVlvYXB4T01PMUtDQTlyUThJMDZ0TkJSN0ZXTDdzY2g0Y3R4bkpKU05tMDhzUUtRVTlhS21fNHdFVmlTcWRtaUFuN3dTY1VVYVY5VGNCemZOMlI2N1EyM3dtX3RIX25ZOE1nckVpWGhoNDNDM3lmbk9nbXlyR0h3cGxUcmM3SzVRekhBdVNuMmp0Tk5aWjk0SVo1UTNVeFEyNW5ndHgyX3QxaG9ONlRIU0t2ZmdTTERQVkZjM2hseTdTXzBINWJ3Qw?oc=5",
+          "publisher": "The Economic Times",
+          "published_at": "2026-11-02T10:10:43+05:00",
+          "topic": "economy"
+        },
+        {
           "id": "fa455d632cf4c4af",
           "title": "Charting the global economy: Central banks hold rates steady",
           "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQWERpbVhfRE9iYmxnRGcyUXh2ZGQ0QmFTakxqSWxEZUM0Z2hXUmJzNkx4bFhBRjFGR1FOVzFkemphUUlJcXRrVFJ5SFlFVW5pNmk2RWhlVzJjbjN4aXY5MnRod3pfY3lhbExrbHNPd3JFRGxOOVdpYUdfQ3dsVjFkeHRYTEpTT0MwdS1SR1pzZ253UFRSZkR6enduZkc1eVY1OGRRbERxdTFncm5aWVlwS1BFeVNyMk8tMVNFVm9sU0lyMXRMT0hQS3RwZTFyNExNaFl4ckhPc0prSmVjWm1J0gHkAUFVX3lxTE5JYjZpZ2YzbXAzM1FDRjN6NTFZYTBESGJlNDNVMmt6bnRUMHhtWVlqQmpBcFNhaXZXWE4ycjdVSjVOamR6cDlBTTk0Mm9VNzdDS2ZvYUFFeXNwY0dwSXhFNUN1M0R4UWVwMkFqT0ZLdGszeEFwRFpGVGttRTFoa0NVWFJzb0RmeFFzVUNpSm1feXVJSTJzUEp2WExjMGN6ckJ6Q3hsXzdibnF3YkExUnhOazZkSjZEb0lWYmZrRFZOYnhITTMxQ0FiMXZKTFR4V0lwQ1hUc2VvUmtTd1NBSzlfU0RhMQ?oc=5",
           "publisher": "The Economic Times",
           "published_at": "2026-11-01T10:46:56+05:00",
-          "topic": "economy"
-        },
-        {
-          "id": "60f40ffb71e36355",
-          "title": "Gold price plunges Rs 9,900 as silver drops Rs 360 per tola in a week",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOc0FFYUNQNm1lcV9adzFLYlJ0dVBTQlg5TmtGTEZ0ejJNY2FfdDVJQm1FSXBjN0s5bXF1SUY4R1IxZmVfcXpuUV9paHQzOFZneG11bEdYM0Q0azNCeXF0OXllYkZBbzI4RzFydUswYXY4TXhSdkJfM0ZVVjJ5R2RON3ZmQVRCaENKU0F5U1JramVhU1hwdG9wRXYtQkRxV0JxVEpkN3oxMEtXWkZRbElQRXJNZXFNbUcyWWR3cndwdzQ?oc=5",
-          "publisher": "myRepublica",
-          "published_at": "2026-10-31T16:55:00+05:00",
           "topic": "economy"
         },
         {
@@ -148,9 +148,9 @@
           "topic": "economy"
         },
         {
-          "id": "2d56ee8ee434ed9e",
+          "id": "cc78a080c9971972",
           "title": "Pizza Hut, KFC India operator's Q2 loss naarrows sharply on strong same-store sales growth",
-          "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNYWlVbFJPMk5nS0NVbjY5V3djbEE2OXZ4cmpVRDNVMG5vWERSb1RyZ0xoOXZLU2RWZlljbGpnMC1ZUHNvaUN1U0YzMXM5RmVSa3NXLWRKY2EyUG55LVE1Zkt2djhialJ4NGNCX0U1eWxfcU1seldLUk5KbmNTRG11X2p2VHdKTlRuTWZvMzRSbFRrVk0zeXZsTzhXbkoxR0pzLUtVeVVTTkI0a1YxY1Uyc3BDdnRST3V5NXhickM4N00yUE1ZRXF0cHd4T2FhV2FjNlczbzBha3BMTmxMazNPYU14YVpjbW9ZUGZZcHNtSnpfZEU4SURHcmp3?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNYWlVbFJPMk5nS0NVbjY5V3djbEE2OXZ4cmpVRDNVMG5vWERSb1RyZ0xoOXZLU2RWZlljbGpnMC1ZUHNvaUN1U0YzMXM5RmVSa3NXLWRKY2EyUG55LVE1Zkt2djhialJ4NGNCX0U1eWxfcU1seldLUk5KbmNTRG11X2p2VHdKTlRuTWZvMzRSbFRrVk0zeXZsTzhXbkoxR0pzLUtVeVVTTkI0a1YxY1Uyc3BDdnRST3V5NXhickM4N00yUE1ZRXF0cHd4T2FhV2FjNlczbzBha3BMTmxMazNPYU14YVpjbW9ZUGZZcHNtSnpfZEU4SURHcmp30gH_AUFVX3lxTE5NeHFrN2hWZDhvR1ZwcHlHbUQtVDQ1bnFNakxDYmgwZjZxbk5lTGhUQmloYUVvOW5DR3kxWHVqaHA1SkVoSHQ3V3V3RkoyX1NwVUszUzlKTzN3VW9tUnpVdnNPVFowU1ZLVWpUamdVMWpGaGZRcng4bE9RYTRnVlU5b1ZTZ3hVY1ZpN2lWYTMyOFVycjBQYmlUUGIxcERjZU5QTnNiSk9mNmd1YWNoeFhORXFjYmMycVJ0eWRSVXFZMDMtV3VUdnRJblA2eVlrWGJkOFhYTE4yYXFxRHhIUXNzTUUtNFBRcUVxU1lpYTQzSm9ma2VPRElTODNzSW1qaw?oc=5",
           "publisher": "The Economic Times",
           "published_at": "2026-11-02T12:21:36+05:00",
           "topic": "economy"
@@ -164,7 +164,7 @@
           "topic": "economy"
         }
       ],
-      "fetched_at": "2026-11-02T16:32:24.514481+05:00"
+      "fetched_at": "2026-11-02T21:15:00.248581+05:00"
     },
     {
       "id": "business-2026-11-02",
@@ -214,11 +214,11 @@
           "topic": "business"
         },
         {
-          "id": "afdbfd5dd2af44ca",
-          "title": "CM Maryam Nawaz Seeks French Investment",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1qSmNFeDc1bzBvZl82WEJsSVB0MVR3NFM0Ui1fdldKMzU1Yzdybmg3anpNMk9yVnZJTHRROVpGSld3UzhNWHVHOF9HRVZrZXNWeHZyYjF2R1lmU2M5YmlYZ2FiYzhsZ2g5X1RxR3hJeGplN2RIanc?oc=5",
-          "publisher": "Digital Pakistan",
-          "published_at": "2026-11-02T11:00:04+05:00",
+          "id": "b5f3dea29b69e112",
+          "title": "Pakistan lost USD 40 billion after India trade suspension, business body says",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSzg5UVVCNkh0WHMyQ2g4Q3RBdXpoZTZnczNsb2t4Nl9tcU1MMXprdFJWbnJ2bm50eWxudi1LQk1XRGo5ZnJFVzNuenA1bzlKcUExSzdZRm56dEJzakhHdGMwUW9rdmp5dXI2UHpjQ0lxSWJsQUJqS0ZuaTQ3aXdyTUhVV1pjdWZJT25OQzJjdzZ6WDBoMWladnJueC0xbTRPOHR1R0Vzd3lrdXM4WVA3NnhTQmczQ24wT3ROMHZzd9IBxAFBVV95cUxPdFhONzlUQmFmeDJXUGYyY2xJSEVKWDAxaU1QYkxPTlhEUHpoMXhFN1JRU002VXBjTEYydzJjMmZsbWVvVUR0M1RUWjQ4RDdvdEdNd2JHRGsyYmZscGFJVEdacjRacW84aXdsRHpqSW5HQ0dWTEJsWHdsQzVJX0haYzJyS0RTLTJEZGJlbmdfTWFVRVFBNVMwejBfcndmbHRVaGxYSm9waWc2UXdGSXBqRjFJS19TMUg4N2pwTmYwUmZXZjFu?oc=5",
+          "publisher": "India Today",
+          "published_at": "2026-11-02T16:32:23+05:00",
           "topic": "business"
         },
         {
@@ -230,15 +230,15 @@
           "topic": "business"
         },
         {
-          "id": "ada9b4e198f24668",
-          "title": "CPEC And The Promise Of A More Connected And Prosperous Region – OpEd",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTzE1c1FCY3l2d2g3NUdhczZjU0R2NTNFTmxCWnA0TG9NT1ZEUE50QW51a1ZldkFHSnFIY3psNlpUUERuT1cyVTNSZ1V4RllMdGloMUhsSk1nc05KZ2pyQ000OW5QNXh0LU9LakdtNVJHRmM4THo0WkNQMFRKc0h2T0MxdGlMRmJiSEUtRElsa3FWVFJ3b0o0NFBuMndQSnBxRHJhRVZMbnVVS2M?oc=5",
-          "publisher": "Eurasia Review",
-          "published_at": "2026-11-02T04:49:52+05:00",
+          "id": "d5eef521f54f3907",
+          "title": "Uzbekistan and Pakistan Discuss Joint Investment Projects",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPN1RMRlQ4bGVEWV9TNjlyVUxaU25BV0lzOEpuMDNXWmtZZXN2TkV4MmhZaXJsdnRlRkZ3NERRR1dkMzJKUjB0QUJxYzFDeXlNUmQ1cHY5OHQyVTRzcU5KQzMzMU9EMEFJbzdDUkxaOGtvYURmR0J0U2lJdjhZMHFJQzYycnNUc01ENUJ0cg?oc=5",
+          "publisher": "UzDaily.uz",
+          "published_at": "2026-11-02T18:06:50+05:00",
           "topic": "business"
         }
       ],
-      "fetched_at": "2026-11-02T16:32:24.514481+05:00"
+      "fetched_at": "2026-11-02T21:15:00.248581+05:00"
     },
     {
       "id": "trade-2026-11-01",
