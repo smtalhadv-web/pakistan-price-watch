@@ -1,6 +1,6 @@
 {
-  "checked_at": "2026-11-03T21:17:35.354943+05:00",
-  "quotes": 4626,
+  "checked_at": "2026-11-04T02:11:34.128026+05:00",
+  "quotes": 4686,
   "checks": [
     {
       "store": "Chase Value",
@@ -60,13 +60,13 @@
       "store": "Metro",
       "url": "https://metro-online.pk/",
       "status": "parsed",
-      "offers": 222
+      "offers": 223
     },
     {
       "store": "Foodpanda / Kifayah",
       "url": "https://www.foodpanda.pk/shop/a036/kifayah-supermarket-pechs",
-      "status": "parsed",
-      "offers": 90
+      "status": "no verified quotes",
+      "offers": 0
     },
     {
       "store": "OLX",
@@ -84,7 +84,7 @@
       "store": "OLX",
       "url": "https://www.olx.com.pk/items/q-sofa",
       "status": "parsed",
-      "offers": 31
+      "offers": 33
     }
   ]
 }

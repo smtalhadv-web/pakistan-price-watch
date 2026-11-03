@@ -6,23 +6,23 @@
     ],
     [
       "forex",
-      111776
+      110802
     ],
     [
       "gold",
-      111431
+      111711
     ],
     [
       "silver",
-      104249
+      104518
     ],
     [
       "pso-history",
-      232379
+      232381
     ],
     [
       "samsung",
-      594971
+      595255
     ],
     [
       "xiaomi",
@@ -38,11 +38,11 @@
     ],
     [
       "realme",
-      459773
+      464990
     ],
     [
       "infinix",
-      446825
+      446829
     ],
     [
       "tecno",
@@ -50,14 +50,14 @@
     ],
     [
       "appliances",
-      751704
+      755096
     ],
     [
       "pbs",
       343661
     ]
   ],
-  "checked_at": "2026-11-03T16:17:23.331673+00:00",
+  "checked_at": "2026-11-03T21:11:22.133363+00:00",
   "sources": [
     {
       "source": "PSO dated fuel archive",
@@ -80,8 +80,8 @@
     {
       "source": "PriceOye published listings",
       "status": "parsed",
-      "observed_records": 136,
-      "new_records": 0
+      "observed_records": 137,
+      "new_records": 3
     },
     {
       "source": "PBS weekly city prices",
@@ -103,7 +103,7 @@
     {
       "source": "Furniture and power-tool variant listings",
       "status": "parsed",
-      "new_records": 2
+      "new_records": 0
     },
     {
       "source": "Suzuki manufacturer vehicles and marine engines",
@@ -116,7 +116,7 @@
       "new_records": 0
     }
   ],
-  "quotes": 5602,
+  "quotes": 5613,
   "manual_queue": [
     "Verify new image rates before transcribing; source sheets refresh automatically",
     "Unsupported sources retain their dated quotes"
