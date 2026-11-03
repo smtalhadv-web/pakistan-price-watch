@@ -1,6 +1,6 @@
 {
-  "started_at": "2026-11-03T11:11:31.229713+00:00",
-  "completed_at": "2026-11-03T11:12:00.907918+00:00",
+  "started_at": "2026-11-03T16:17:15.318431+00:00",
+  "completed_at": "2026-11-03T16:17:41.931891+00:00",
   "status": "partial",
   "timezone": "Asia/Karachi",
   "scheduled_times": [
@@ -11,13 +11,13 @@
     {
       "name": "collect.py",
       "status": "completed",
-      "elapsed_seconds": 6.6,
+      "elapsed_seconds": 4.3,
       "detail": ""
     },
     {
       "name": "download_sources.py",
       "status": "completed",
-      "elapsed_seconds": 3.1,
+      "elapsed_seconds": 2.6,
       "detail": ""
     },
     {
@@ -41,19 +41,19 @@
     {
       "name": "commerce.py",
       "status": "completed",
-      "elapsed_seconds": 8.6,
+      "elapsed_seconds": 9.0,
       "detail": ""
     },
     {
       "name": "partner_sources.py",
       "status": "completed",
-      "elapsed_seconds": 5.8,
+      "elapsed_seconds": 5.6,
       "detail": ""
     },
     {
       "name": "extra_sources.py",
       "status": "completed",
-      "elapsed_seconds": 1.5,
+      "elapsed_seconds": 1.0,
       "detail": ""
     }
   ],
@@ -259,7 +259,7 @@
       "url": "https://priceoye.pk/mobiles/realme?page=1",
       "status": "verified",
       "detail": "parsed",
-      "quotes": 10
+      "quotes": 11
     },
     {
       "source": "https://priceoye.pk/mobiles/realme?page=2",
@@ -483,7 +483,7 @@
       "url": "https://priceoye.pk/trimmers-shavers?page=2",
       "status": "verified",
       "detail": "parsed",
-      "quotes": 35
+      "quotes": 36
     },
     {
       "source": "https://priceoye.pk/trimmers-shavers?page=3",
@@ -616,14 +616,14 @@
       "url": "https://chasevalue.pk/products.json?limit=100&page=1",
       "status": "verified",
       "detail": "parsed",
-      "quotes": 407
+      "quotes": 597
     },
     {
       "source": "Chase Value",
       "url": "https://chasevalue.pk/products.json?limit=100&page=2",
       "status": "verified",
       "detail": "parsed",
-      "quotes": 923
+      "quotes": 896
     },
     {
       "source": "Naheed",
@@ -651,7 +651,7 @@
       "url": "https://www.naheed.pk/groceries-pets/baking-cooking/rice",
       "status": "verified",
       "detail": "parsed",
-      "quotes": 19
+      "quotes": 22
     },
     {
       "source": "Naheed",
@@ -679,7 +679,7 @@
       "url": "https://metro-online.pk/",
       "status": "verified",
       "detail": "parsed",
-      "quotes": 223
+      "quotes": 222
     },
     {
       "source": "Foodpanda / Kifayah",
@@ -700,21 +700,21 @@
       "url": "https://www.olx.com.pk/items/q-laptop",
       "status": "verified",
       "detail": "parsed",
-      "quotes": 33
+      "quotes": 32
     },
     {
       "source": "OLX",
       "url": "https://www.olx.com.pk/items/q-sofa",
       "status": "verified",
       "detail": "parsed",
-      "quotes": 33
+      "quotes": 31
     },
     {
       "source": "Al-Fatah",
       "url": "https://alfatah.pk/products.json?limit=100",
       "status": "verified",
       "detail": "updated",
-      "quotes": 223
+      "quotes": 222
     },
     {
       "source": "Shophive",
@@ -731,9 +731,9 @@
       "quotes": 29
     }
   ],
-  "total_quotes": 10588,
-  "verified_quotes": 6767,
-  "changed_prices": 153,
-  "new_quotes": 348,
-  "retained_quotes": 3821
+  "total_quotes": 10900,
+  "verified_quotes": 6930,
+  "changed_prices": 25,
+  "new_quotes": 312,
+  "retained_quotes": 3970
 }
