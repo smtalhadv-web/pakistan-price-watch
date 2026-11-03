@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-03T04:11:23.481262+05:00",
+  "checked_at": "2026-11-03T09:17:16.904491+05:00",
   "checks": [
     {
       "topic": "economy",
@@ -26,6 +26,14 @@
       "context": "Trade and customs developments can affect landed costs and delivery times. Check the original notification, effective date and product classification before applying a reported change to an item.",
       "headlines": [
         {
+          "id": "37c8ddb7f327d5e1",
+          "title": "Used cars’ import: MoC removes 5-year age restriction",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOa1Ric21XMXp0VUtubW55cnA0a2J4czY5SHdiVlBMeVB5YUoxNTVkS2pxYnMtRHJicDNDNVI3cGJaUll2alUzWGFVZ0Q1cGNuMnRWVUNyNFdnUk13Y1NaQ3ZzZUxqLWxJME5xdnBUSlU2NUpqaDA2THhnUm9kMWlEd0xjR0RsMTl5RzZmN0VUNkNRaHg1ZXfSAVZBVV95cUxPMk1WeE9hMF9DUWtVR3g5YlBNMmVEZVAyRUxESjZNYlRrQnNvLUt1S1JLV1V5R0FQUTRiRldFU0owZ2VqMjc3cGRVMldmMG50ZmlfTHExdw?oc=5",
+          "publisher": "Business Recorder",
+          "published_at": "2026-11-03T05:12:26+05:00",
+          "topic": "trade"
+        },
+        {
           "id": "f02c4eb56412429d",
           "title": "Pakistan suffered $40 billion in economic losses due to suspension of trade with India: PIBC chief",
           "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNOUIzWlhLNnJ3aWZpRXg2dDZLYXliU3FlRUx1ajBUaWlGZXFERHNaNW9tSE9hcm5RZC1jUzktMXJJc1ZVMVJ1SGVfZkU1dHdncWJBeVpZdmRFX1NIYi1KYlgyUjF5TW5EcVVoUkN3aU5kbzgweHpLbGtETWc3WWxlekdySlpWZmlKWkgzVTEyZ3JLUzJiTXNMbUQ0RVhtdU10SGZLczFDSzhiTjRTdWZtTUNUM1NFMHJNR2JUck05VlBKUTdyRm80cjE4XzNKQ24wUlNJWmJFVmxDZ0x3QnJ3b2taX20wYUtmU0lVOGUxVmM0NVJYWlV4UWxXSXVUYXhteXJOZjlhdHTSAY4CQVVfeXFMTTE0TDdOeWM0MFM2Tk9PdGpxczZrbkVpRWh4emZyN29qeXpuQ2V6bk5wamh0cEJaMXB4bW9sZUdkOWhETk5IV1JibXM4QUFVMmlBYlg3QzYtYXd0ZG5LTWJxYTNyNjdQV0FjVVN4OGZ0WVRISE9RUU1US1lIYlhYM3NQaVRNTmN5MUxpNF9rZF9mbVhuT3U2S0FKemFtRkIzU2szUk1rajVPUUNHR25NbWhOVnM1T0dleVRNMVhxY2pwSmVzYUpMSlhMY1ZWaGcwUmJwemRwNkNBeWNjempfNU10SEVSRzNnUGVOUkZkSFVKeGxNRGljYW85VExxc1ozR1ltNXJuMmlzeVZIQzB3?oc=5",
@@ -42,19 +50,19 @@
           "topic": "trade"
         },
         {
-          "id": "c39a2eb1f5e9a59f",
-          "title": "Has the Pakistani military bought 30 Z-10ME attack helicopters from China?",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOb2tBUlJ1eXc1dnJVRnNSbFpYQUdEbGVDRW5BUy1ISmNfT1FXbGczdWM5YWo4MzRlb1Z2a0pkcTc1Z2lTdk00eXN3ZXkwM3ZRMlg0SGhzeEdKeHRKS1F4RE5CT0p4TE9Mb0QxOFhFUTBIX29Kc3lUYmZUa01FYVZMdHQ0Q1lYQ1VjSDFoZXp3WGhTaE8zYmN5WG1UMTl5QUtORVB0SWRDNzlxZDJPM2c2aS0wZXB1NGpzeFhSZm1qeEI2NHU1ak9oclBzZW3SAcwBQVVfeXFMUE9VaFJOWEZWaFdWdVFiYWRVZXV1WFNIYVVzUlJrM2hmNmprbjRPSHRId2x2T0s5a2t3NVF4U3Ewdkk4Qll4bUU3MmJhazhBMlgyalAtQ3g1cTlHeVViUmZvYmg3Q0FtbHI5NGJnT3pLMjZxRC1HT1RBTDFDdWpxakFtbUgwYmNNbC1RYTV5X21FR0h3YWlyV3M5bFFwcUJONFN1ZExRelBhclVLVmtaWFAtYkcyN0YyZ29rMGtDSHczYUpZNmNURXhMNWJB?oc=5",
-          "publisher": "South China Morning Post",
-          "published_at": "2026-11-02T18:05:03+05:00",
-          "topic": "trade"
-        },
-        {
           "id": "b5abed84980245e4",
           "title": "US-backed consortium proposes $4.4bn LNG project",
           "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5vWW5BXzRocGQ3WHhmb1JZamFNRWQ2SFVrNlB2cks1alhwQThkYlNIeEJWeWJMZnVFLXl0X3c3bHk5bV9LM0hqVg?oc=5",
           "publisher": "Dawn",
           "published_at": "2026-11-02T06:07:18+05:00",
+          "topic": "trade"
+        },
+        {
+          "id": "c39a2eb1f5e9a59f",
+          "title": "Has the Pakistani military bought 30 Z-10ME attack helicopters from China?",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOb2tBUlJ1eXc1dnJVRnNSbFpYQUdEbGVDRW5BUy1ISmNfT1FXbGczdWM5YWo4MzRlb1Z2a0pkcTc1Z2lTdk00eXN3ZXkwM3ZRMlg0SGhzeEdKeHRKS1F4RE5CT0p4TE9Mb0QxOFhFUTBIX29Kc3lUYmZUa01FYVZMdHQ0Q1lYQ1VjSDFoZXp3WGhTaE8zYmN5WG1UMTl5QUtORVB0SWRDNzlxZDJPM2c2aS0wZXB1NGpzeFhSZm1qeEI2NHU1ak9oclBzZW3SAcwBQVVfeXFMUE9VaFJOWEZWaFdWdVFiYWRVZXV1WFNIYVVzUlJrM2hmNmprbjRPSHRId2x2T0s5a2t3NVF4U3Ewdkk4Qll4bUU3MmJhazhBMlgyalAtQ3g1cTlHeVViUmZvYmg3Q0FtbHI5NGJnT3pLMjZxRC1HT1RBTDFDdWpxakFtbUgwYmNNbC1RYTV5X21FR0h3YWlyV3M5bFFwcUJONFN1ZExRelBhclVLVmtaWFAtYkcyN0YyZ29rMGtDSHczYUpZNmNURXhMNWJB?oc=5",
+          "publisher": "South China Morning Post",
+          "published_at": "2026-11-02T18:05:03+05:00",
           "topic": "trade"
         },
         {
@@ -74,23 +82,15 @@
           "topic": "trade"
         },
         {
-          "id": "32d371c99f74f59d",
-          "title": "India, EU discuss FTA implementation, customs cooperation and market access in Brussels",
-          "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPOVRRdTNRaVF0dXBWN3MxZjQ3UTMxbHhtRzNXSzZXakxzeXc5Z2o4alJLcWVMUkVGdjl5dnlMenR6U0ptQ09TWVZ3WWh3Skdmc2lKUFo0YkxHRlRwcWo2M2FoTFJ5WHEyQ0ZHVTdQejhpbWlESWZlZzdnYWRaSXJySXR5aUVpdjd0TWt1VUhuOTVXRnVFVGtKbkVhWG9iTGk1T2tpYnJHZHA3cWltdDRyajlxTXJyRUtsNWVGQk9fYnBuYzN4aEtibldqTXY1cVMxSUVyUjVqaFFZdkFPMXY4UW93emFVODVXSl9XejhQLVpBcElvUXNDOU930gH_AUFVX3lxTE4yb1dGZllRak1ZM00wZ3d4bFM3S2tUZXl3OVVrWXBtcDFOUzY0QW5CaUFIeGxzWDlxWl9oNzBmS2FVSm5BWHEyV3J1enlBYjRMX2d2U1ZRc19jckFVU1JxZXpuQW94MVYtdHNuVGR4dkdoeVRWM2pqcmJIZUpDQWFlU2JqYXB0T3R0M1N3dFRPSk9abGE1NE1QVGtkd2liLWY4cHBRMVYwQV9RbmhqZVEtMERnTG5zQkhXNTlYeUhnMXlYNWFORXJzeFdoR29YS2tSaVprbHIwZ1VlNE1nNEtYcHRyQjcxcDBVUnVZT1dYQVNoVllNcGVkcmFscnRZcw?oc=5",
-          "publisher": "The Economic Times",
-          "published_at": "2026-11-02T11:45:05+05:00",
-          "topic": "trade"
-        },
-        {
-          "id": "85c78dfa30418db7",
-          "title": "China’s 5,000-ton digging machines are a trade war risk to India",
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNaHZMYTlUR25SaWdQd0Q4eVl0ZlhzSDJ6NUxkU0V3dVg4YmVMY0ZsRHhvRlUzVjVWMnNfZTdJcnhYd2xPU3hLNzRTaHh5UmlYUlhEVW1CR3h6NmpKS2hzSDJYNW1VSnZEYmllcTBpam4wMnVRR0NhYlFOdThZNVRBM0wydnN5bUJBTk9sZXlieHA0MW1hRlNpRW1nbnpfbkFpcGdIcXdZX0E3MjhMSVVZY0NmUGNJN2E1akhqN0N1dFdudW5qZ3FzTEtSeHlPV243MG52cmJzcjQyU0HSAeABQVVfeXFMT2h2TFZYQjQ3bGNhOTh4eExNQXZ2RmVsdjNnTzNnWElhSmhPZVhnVEU2d1VQRHFNWWE5Sm9MU1pNUFAycVhqNXNnSlE2QjhhdGRRZ1NkNG1RYVJxVmFNNDVyUG9VdXhGYi0wODF2REdnbFRwR3VKRHlReVFzcmpCLU03ODJPWmtLbzlCRkEtR3BCWnphbGg5OGhYUVlJLVczbmlJc0tBYkZ5YmJyVnUyRW8wSkd2T2ZkUjZaXzZ5dG1CWDVfS2ExQ2ZEMXpGTGc1ZUFUSUdvWHNRTm1SNmFlekg?oc=5",
-          "publisher": "The Economic Times",
-          "published_at": "2026-11-02T08:45:33+05:00",
+          "id": "eabb1bab2fd65b7a",
+          "title": "6.18 Lakh Crore Scotch Whisky Market in Focus as India’s Tariff Probe Rattles Global Liquor Giants",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQ2pQZFpBU3d3T0pSZ1FTN0VtaVhqYmh5V3ktQnFiWXVraUxHb3U5UnFXc2tNVnZFazdsQy1rMmV6ck43ejV4Vm9pVFpXbjgxdG5kREV6eXg4VUhKVVRYTFdSTUJGWWFHWW1CcVRnZDA1SnpTMm1KVWZteDhoRXV2ZFFLLVFUVVpLa3p6SXU2c3lEak1yTnJHczNoVVVaNWVCWS16RVhYNjBDaE1VQ1pkU1hReUhMWWJ4ZlA2NDNoblFvdk0?oc=5",
+          "publisher": "The 420.in",
+          "published_at": "2026-11-02T15:41:53+05:00",
           "topic": "trade"
         }
       ],
-      "fetched_at": "2026-11-03T04:11:23.481262+05:00"
+      "fetched_at": "2026-11-03T09:17:16.904491+05:00"
     },
     {
       "id": "economy-2026-11-03",
@@ -100,6 +100,14 @@
       "context": "Watch how inflation, currency movements and borrowing costs may affect household budgets and import costs. A headline alone does not establish that a retail price has changed.",
       "headlines": [
         {
+          "id": "d64ed496f252d83c",
+          "title": "Pakistan’s Rebound Masks Deeper Problems Weighing on Economy",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUHFSdFVCbGVzcFY0X2IyQUdUbTVqNzZlcjVVQnBNUzJETTlSczhra1hVb3JJVVZWS2l3MXdvRE91WDU5Ui1GZUpnYzF2VVlDM0IyTnhnRFdqaWtLdG1rTkdRZkJTNDVLWUlmZzBLeWhCREhZY0tnNDFjbno1ZW5SU1F3TWUtYVZodGd6bFVhbFRDSDBfYURBYzV5NGVBWEZkWm9YZjJjNnh2Q1h0aU9Heg?oc=5",
+          "publisher": "Bloomberg.com",
+          "published_at": "2026-11-03T08:31:00+05:00",
+          "topic": "economy"
+        },
+        {
           "id": "1c0abb48de0d8ae0",
           "title": "The missing link",
           "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9sYTRlenl4UElpWnlCbjBFWEI1SzJTaW9UQ0ZUVTNneEx3TUFpbDZWZDNhTnh5UlRjN1Z1QVR3U21qU3ljckQ0cXE0S3pUbHN0aU5kTG1rVFdUeVJuR1g5UmJ3RmxsWk1oRW5ZQzk1U3Nuek1VUlpUQW5B?oc=5",
@@ -108,11 +116,19 @@
           "topic": "economy"
         },
         {
-          "id": "6dd91b993da19150",
-          "title": "India’s Consumers Are Back, Its Stocks Aren’t",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSWh5U3FLMDNHaUZYcWhfQlNSenN0Y0wyaC00SmRDT1YyTzJLcUkyTnFSc095YnZhS1MtQ05xYVhVM2tGazl4azQweWlMaGh2MXpOUXpXRGw0UVFlRTZITWVWc2FneXNZUDhLZlhXVlU2VWdWdG9KODVIX2dBSkJseEkzbFlZbHJHZnA4c05FT1JzNEFxdmdUYk14ZzhSY29FeXotOWJPMzNrZEJWT0xr?oc=5",
-          "publisher": "Bloomberg.com",
-          "published_at": "2026-11-02T01:00:00+05:00",
+          "id": "6c40484866f7f762",
+          "title": "India will become the world’s largest economy by end of the century, predicts top economist Jeffrey D Sach",
+          "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOMlhpczJWLVBwdUtRZzJENEs0RkpoMG1TNWVmR0NIMFN0RHQ3UkRSVEdJeXFtbmtiS1JLamRSTHlPSk5KRmhtOFFOYTZCVGJUUTZTYXg2T29lcnRHa2lZX1VYOWp4Z3U0c2ZzaHczbXY3UjZIdWRGZU94V0R0V19McFFxT2VOcmVEa1JpdndDRzlvaV96dTVlSTVXNlUwYXlFZmdocmtKTGxtNnRjT2ktNl9LRVJieWl6OGROdkkwUWJCOWdUbUdpV2RQMldBMl9XTFoydEF6ZmZUZ3RvNFk5R01PcFJobGtCeXBqaWphTXhUcWRKdGVaa3A5OG1XZlJRdjFFRm9kYl9sQjNZbmp5NdIBlgJBVV95cUxPWjVfbkJTWjI2cUpnc1JyQ29teVhNRnZEY3duVlpUcmFwY0J3UGVCdUpaZm9Da3BIOXpWNGN4WFdhZ2JTdjJJVHFrWVFIRHkxZERId25YaFA0Nm1BMmdNYUxLaDQ2NHFpcjRncWJBX3VQVVM5WDZCbW12UXFGaWVBeUNFUE1BRFNYWXllQzVCR3A3a2R3RkVzUE5RUThKODUyeGYzV1JpUEhwMEhYRWlhS2h3SzcwTVJ0SHpQbmxZV3pyM2prLWNlbEowaW1kRDU4Wk91SU1iYkVSNEJSZmR6SDEtWWhoOUtQUngtZXJkQWZGM25VaG4yVXN6Z3AxZkxFZHh4Wnd1UWdkUWZxdXVCZTRLZGh6UQ?oc=5",
+          "publisher": "The Economic Times",
+          "published_at": "2026-11-03T08:36:13+05:00",
+          "topic": "economy"
+        },
+        {
+          "id": "073a9c411b7cd4de",
+          "title": "ETMarkets Smart Talk | Bond markets have priced in nearly four rate hikes. Where should investors invest n",
+          "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQd3ZvaFI4YlBjRW1kekJ1RVRFVGZhLUl2enBmcFFCdEk4YzdrTGhIcXRXR1RwOFZWTmV4VmxmWHJmVms1c25iYVpCRGNUR3Bzc0JVaFFwa0xPb0FRbzc2VGpTeW9nZnFSTnYxZkxMa0NqejZObkRtVXpHTkNwZUVKcWZuQU5DcVV6WVZCaE1GMGdqaW43YzZNNHprbkVmZGFja2JvODhDVFhfSkN4a0FWOGhkSHdPeDlhTHFxbWR2UEIyYzc1NjFORkdLcUZrZFp4Nm9kcEZLNF9wc0RSeFZkQUZLU2xhUjZNZXJHa0dvRE1vbk1xYjZrbUdjRFpzMklWTE1R0gGIAkFVX3lxTE8za0hrZ2tXbHdxZDlaakR6ZzhZX3Q5cDFWdUo4N1FENldhUkpQdUd4N2liQmhYaWlqbVB6NVBMb28tSFhuNGx6VUhicjU4WUdyTWMzaXp3N3lHcnZVdVhSQmYzMlVUY2dqc1E5bjBwWjQyQ3MxVlkyb0R6MWdSTkJDVElHSXkwdnVqNWsyUm02MWtvbGFqZUtBczlZc2hFcVNYVzRCQUpTRms3X3lyeFkxX2tDWGZuY3hBMW9vTW9QRHlINXlqTktNSFpsS2x3QzBBX1Q2dlpSdkVreGR1Q0NWQWRpaDZKRFo3LVV2TkVnSVhTRjN0M0tBdk5kZjNBTDBkLV8zUWVvMw?oc=5",
+          "publisher": "The Economic Times",
+          "published_at": "2026-11-03T08:19:24+05:00",
           "topic": "economy"
         },
         {
@@ -146,25 +162,9 @@
           "publisher": "The Economic Times",
           "published_at": "2026-11-02T12:21:36+05:00",
           "topic": "economy"
-        },
-        {
-          "id": "f9a14c77f6ea791c",
-          "title": "Energy Shocks and Inflation",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBYQWhFVzFMSlJZLWtsSmY0T1NhcllweDgteXNZbk5VUnROTnRMYkk2LVQ3UVp4YlFlRmttajhfc3J1eXRoNTVpOHNlOXlzcjlhOV96V0hFYVVEekt2X1dyTkJFZG1jVmgwNTh3QUg0U3g?oc=5",
-          "publisher": "Minute Mirror",
-          "published_at": "2026-11-02T15:05:31+05:00",
-          "topic": "economy"
-        },
-        {
-          "id": "cadf60286638369f",
-          "title": "State of Pakistan’s economy 2024–2026",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5hdDNKaThpSi1vZFR6NmRzTElWZTlpTFRtLTBfa0VYTk9GLXhwRFNVRVVTQ0l3NklIV3U1TGdMc1ppX19yQWlhT1BLUFloOWFIdVJseDJzMHFVeHJSTXpZNUxTQ0NQazUzaWl1X1MzQUdyRGFfRmJhRVQ5VTc?oc=5",
-          "publisher": "Minute Mirror",
-          "published_at": "2026-11-02T16:04:21+05:00",
-          "topic": "economy"
         }
       ],
-      "fetched_at": "2026-11-03T04:11:23.481262+05:00"
+      "fetched_at": "2026-11-03T09:17:16.904491+05:00"
     },
     {
       "id": "business-2026-11-03",
@@ -174,19 +174,19 @@
       "context": "Company and industry developments can affect supply, stock availability and competition. Compare dated supplier offers before making a purchase decision.",
       "headlines": [
         {
-          "id": "5bd0b6d6f4a0865e",
-          "title": "CWHC Company Profile - Crestwell Healthcare Ltd",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBxMUFrckVlaS1GeGlfcS1RcWE4WlZXRXNBbktRZ0xmOGQwdXR5UlJRd3I0Qk1BUkw4blRKNlZlT19sUXNJMWpLYXNYM0thdTdrSXRiMC1GajY?oc=5",
-          "publisher": "Investify",
-          "published_at": "2026-11-03T00:49:50+05:00",
-          "topic": "business"
-        },
-        {
           "id": "80d835f7b517f161",
           "title": "UK helps Pakistani climate businesses seek US$51 million in investment",
           "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbFhqbXl0MmZPcVhQOGx1aUx4VXkyd29tZG5yOWVLdG54cHlNSGVKTFBoZXFsN1VmbE5zRG5Gc3o5c3RyRWMyUy1kQndVVlpZcHVyZmc0eTRodHpoRlpQT3hiYkMzQWtDcFVIdkQwa0FYTW53dy1yclZXNk9CeWVSUG5GRTc4aVFJS1RxbzhxeDB5M3d6VlpodmlTd2hKNHlYbmdrMkpuRQ?oc=5",
           "publisher": "GOV.UK",
           "published_at": "2026-11-02T16:14:19+05:00",
+          "topic": "business"
+        },
+        {
+          "id": "2a71e8368eb43251",
+          "title": "PPEPCA elects its office-bearers",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBUenYwRFUzcVpIWUhidGNQRTdpY2NTU2xDZExDdmdGZ2ZGSDF4bVRpbEhNV1JPc2E2N3dZZ1E1dzFTSldFSjFFWnFUMTBlTGlYdHQ4SHZR0gFWQVVfeXFMUFR6djBEVTNxWkhZSGJ0Y1BFN2ljY1NTbENkTEN2Z0ZnZkZIMXhtVGlsSE1XUk9zYTY3d1lnUTV3MVNKV0VKMUVacVQxMGVMaVh0dDhIdlE?oc=5",
+          "publisher": "Business Recorder",
+          "published_at": "2026-11-03T05:12:26+05:00",
           "topic": "business"
         },
         {
@@ -198,19 +198,27 @@
           "topic": "business"
         },
         {
-          "id": "1321fbe6bf1713a2",
-          "title": "Gen Z and millennials fresh hope for stock exchange?",
-          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9ZaU5rU01tRGdrUWMzWEVuUUY1b1lOWGtNR01ONlNSVjlQb3gtNW95dUZ0QkhmRUpOTFFOaTNPNzlEZWZKeG1HVw?oc=5",
-          "publisher": "Dawn",
-          "published_at": "2026-11-02T06:19:28+05:00",
+          "id": "f4a77d63aea166fc",
+          "title": "PPEPCA elects OGDC chief Ahmed Hayat Lak as chairperson",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPc3J1b3pRX3FGSmtpMXdzQjlURTI1Um5Kb0N5X1Rvb2tPc1lSemlfQXFMbTZzQ1p5X3hiSmlzXy1uQ0FpNmpoMklwNVVZanZXRDE4T2g1U3p3V2dsS09GdWNZSnl2eEplcHZGMV9NOS1LeldZaVdKWHFPR1JKNHMtWll2R1BvOUR3YW5lV0pzNHI1WGdaZDdN?oc=5",
+          "publisher": "The News Pakistan",
+          "published_at": "2026-11-03T00:00:00+05:00",
           "topic": "business"
         },
         {
-          "id": "afdbfd5dd2af44ca",
-          "title": "CM Maryam Nawaz Seeks French Investment",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1qSmNFeDc1bzBvZl82WEJsSVB0MVR3NFM0Ui1fdldKMzU1Yzdybmg3anpNMk9yVnZJTHRROVpGSld3UzhNWHVHOF9HRVZrZXNWeHZyYjF2R1lmU2M5YmlYZ2FiYzhsZ2g5X1RxR3hJeGplN2RIanc?oc=5",
-          "publisher": "Digital Pakistan",
-          "published_at": "2026-11-02T11:00:04+05:00",
+          "id": "569def95e0bb8b7e",
+          "title": "Unified crypto industry body in Pakistan proposed",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMFU5SVZhbV9CLUdXMW5aUWlwTWlKY2hXQUxWM3RUTkZ3Uk9MNXgxYWxvWVVHOG96MnpCN2tKdmZFX1B3VDVBdWs5ZWo4OFVxNENoQmo2cjZCdkJ3X3Fvb3FiOURWczltRW92ak42bWpzRWYxQWJMOE83Vm9YMTZqTU9aY2pkY3pSLTlja2dEX1U3a0MycjVN?oc=5",
+          "publisher": "Investify",
+          "published_at": "2026-11-02T08:22:23+05:00",
+          "topic": "business"
+        },
+        {
+          "id": "240a90d13c5d6290",
+          "title": "Pakistan suffered USD 40 bn in economic losses due to suspension of trade with India: PIBC chief",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQUXVvcnFpdFFMMVdmNjdkNHd5SXR2ZkpiNlNkdVFpSW0tMVFQLTFsSEpod09QVTNjcHY3VmRsN21zTDBreHNnSkZRRGJYVUQ0SmFfR0h3dlZIVlBxQjBub0RHZ3Q0VTRXd0lxaDliUGZoaFF3MXphNXFNd1E3dTdfa3M5SGp2b0RsMW1RRWtJZ19taUtaSjJyc3dNZWFDbGJJVF96S25CMlFQMjB3NWJyTFp6N3pmc0NYWUx4S09INTlSS0NmdTd6NDN30gHKAUFVX3lxTFBRdW9ycWl0UUwxV2Y2N2Q0d3lJdHZmSmI2U2R1UWlJbS0xUVAtMWxISmh3T1BVM2NwdjdWZGw3bXNMMGt4c2dKRlFEYlhVRDRKYV9HSHd2VkhWUHFCMG5vREdndDRVNFd3SXFoOWJQZmhoUXcxemE1cU13UTd1N19rczlIanZvRGwxbVFFa0lnX21pS1pKMnJzd01lYUNsYklUX3pLbkIyUVAyMHc1YnJMWno3emZzQ1hZTHhLT0g1OVJLQ2Z1N3o0M3c?oc=5",
+          "publisher": "Daily Excelsior",
+          "published_at": "2026-11-03T03:33:39+05:00",
           "topic": "business"
         },
         {
@@ -222,23 +230,15 @@
           "topic": "business"
         },
         {
-          "id": "bad2816d6b5b8778",
-          "title": "The real bull market",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBfU1U5cmpSenBUZnFKdktEVTMyZDFPQnR2X2V5bU1nOV9pTjFmWm9oclJ4UmxaRG4yblB3elFlZFVveGxVd2xtOWRXMGxIbl91QVhMLTBKNVhBMDF6TFpCUkRNbTUxeUhCNWowZldqc0ZBVHBVZ21wVVVpZHQyV2s?oc=5",
-          "publisher": "The News Pakistan",
-          "published_at": "2026-11-02T05:46:12+05:00",
-          "topic": "business"
-        },
-        {
-          "id": "f02c4eb56412429d",
-          "title": "Pakistan suffered $40 billion in economic losses due to suspension of trade with India: PIBC chief",
-          "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNOUIzWlhLNnJ3aWZpRXg2dDZLYXliU3FlRUx1ajBUaWlGZXFERHNaNW9tSE9hcm5RZC1jUzktMXJJc1ZVMVJ1SGVfZkU1dHdncWJBeVpZdmRFX1NIYi1KYlgyUjF5TW5EcVVoUkN3aU5kbzgweHpLbGtETWc3WWxlekdySlpWZmlKWkgzVTEyZ3JLUzJiTXNMbUQ0RVhtdU10SGZLczFDSzhiTjRTdWZtTUNUM1NFMHJNR2JUck05VlBKUTdyRm80cjE4XzNKQ24wUlNJWmJFVmxDZ0x3QnJ3b2taX20wYUtmU0lVOGUxVmM0NVJYWlV4UWxXSXVUYXhteXJOZjlhdHTSAY4CQVVfeXFMTTE0TDdOeWM0MFM2Tk9PdGpxczZrbkVpRWh4emZyN29qeXpuQ2V6bk5wamh0cEJaMXB4bW9sZUdkOWhETk5IV1JibXM4QUFVMmlBYlg3QzYtYXd0ZG5LTWJxYTNyNjdQV0FjVVN4OGZ0WVRISE9RUU1US1lIYlhYM3NQaVRNTmN5MUxpNF9rZF9mbVhuT3U2S0FKemFtRkIzU2szUk1rajVPUUNHR25NbWhOVnM1T0dleVRNMVhxY2pwSmVzYUpMSlhMY1ZWaGcwUmJwemRwNkNBeWNjempfNU10SEVSRzNnUGVOUkZkSFVKeGxNRGljYW85VExxc1ozR1ltNXJuMmlzeVZIQzB3?oc=5",
-          "publisher": "The Economic Times",
-          "published_at": "2026-11-02T19:43:40+05:00",
+          "id": "afdbfd5dd2af44ca",
+          "title": "CM Maryam Nawaz Seeks French Investment",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1qSmNFeDc1bzBvZl82WEJsSVB0MVR3NFM0Ui1fdldKMzU1Yzdybmg3anpNMk9yVnZJTHRROVpGSld3UzhNWHVHOF9HRVZrZXNWeHZyYjF2R1lmU2M5YmlYZ2FiYzhsZ2g5X1RxR3hJeGplN2RIanc?oc=5",
+          "publisher": "Digital Pakistan",
+          "published_at": "2026-11-02T11:00:04+05:00",
           "topic": "business"
         }
       ],
-      "fetched_at": "2026-11-03T04:11:23.481262+05:00"
+      "fetched_at": "2026-11-03T09:17:16.904491+05:00"
     },
     {
       "id": "trade-2026-11-02",

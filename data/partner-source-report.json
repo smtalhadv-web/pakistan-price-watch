@@ -1,6 +1,6 @@
 {
-  "checked_at": "2026-11-03T04:11:14.711310+05:00",
-  "quotes": 4121,
+  "checked_at": "2026-11-03T09:17:08.807772+05:00",
+  "quotes": 4184,
   "checks": [
     {
       "store": "Chase Value",
@@ -78,7 +78,7 @@
       "store": "OLX",
       "url": "https://www.olx.com.pk/items/q-laptop",
       "status": "parsed",
-      "offers": 33
+      "offers": 31
     },
     {
       "store": "OLX",
