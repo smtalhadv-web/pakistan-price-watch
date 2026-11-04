@@ -50,14 +50,14 @@
     ],
     [
       "appliances",
-      755096
+      794082
     ],
     [
       "pbs",
       343661
     ]
   ],
-  "checked_at": "2026-11-03T21:11:22.133363+00:00",
+  "checked_at": "2026-11-04T04:20:18.993464+00:00",
   "sources": [
     {
       "source": "PSO dated fuel archive",
@@ -80,8 +80,8 @@
     {
       "source": "PriceOye published listings",
       "status": "parsed",
-      "observed_records": 137,
-      "new_records": 3
+      "observed_records": 132,
+      "new_records": 0
     },
     {
       "source": "PBS weekly city prices",
@@ -98,7 +98,7 @@
     {
       "source": "Additional mobile, laptop, watch and audio listings",
       "status": "parsed",
-      "new_records": 2
+      "new_records": 1
     },
     {
       "source": "Furniture and power-tool variant listings",
@@ -116,7 +116,7 @@
       "new_records": 0
     }
   ],
-  "quotes": 5613,
+  "quotes": 5621,
   "manual_queue": [
     "Verify new image rates before transcribing; source sheets refresh automatically",
     "Unsupported sources retain their dated quotes"
