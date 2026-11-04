@@ -10,11 +10,11 @@
     ],
     [
       "gold",
-      110790
+      110792
     ],
     [
       "silver",
-      104247
+      104246
     ],
     [
       "pso-history",
@@ -50,14 +50,14 @@
     ],
     [
       "appliances",
-      759064
+      753441
     ],
     [
       "pbs",
       343661
     ]
   ],
-  "checked_at": "2026-11-04T11:21:58.629524+00:00",
+  "checked_at": "2026-11-04T16:16:02.124639+00:00",
   "sources": [
     {
       "source": "PSO dated fuel archive",
@@ -98,7 +98,7 @@
     {
       "source": "Additional mobile, laptop, watch and audio listings",
       "status": "parsed",
-      "new_records": 0
+      "new_records": 4
     },
     {
       "source": "Furniture and power-tool variant listings",
@@ -116,7 +116,7 @@
       "new_records": 0
     }
   ],
-  "quotes": 5623,
+  "quotes": 5627,
   "manual_queue": [
     "Verify new image rates before transcribing; source sheets refresh automatically",
     "Unsupported sources retain their dated quotes"
