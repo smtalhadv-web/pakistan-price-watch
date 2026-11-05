@@ -1,10 +1,10 @@
 {
-  "checked_at": "2026-11-05T21:21:32.830241+05:00",
+  "checked_at": "2026-11-06T02:31:03.969623+05:00",
   "checks": [
     {
       "topic": "economy",
       "status": "updated",
-      "headlines": 7
+      "headlines": 6
     },
     {
       "topic": "business",
@@ -18,6 +18,212 @@
     }
   ],
   "posts": [
+    {
+      "id": "trade-2026-11-06",
+      "topic": "trade",
+      "date": "2026-11-06",
+      "title": "Trade news briefing · 2026-11-06",
+      "context": "Trade and customs developments can affect landed costs and delivery times. Check the original notification, effective date and product classification before applying a reported change to an item.",
+      "headlines": [
+        {
+          "id": "e6e2f2e6eb53d0d3",
+          "title": "Government to simplify machinery import rules for exporters under EFS",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMnM5NEhVVFI1SUROdGdpNlBkckZnT2lJQzk4Yjhyak1kM2lPOWhndEZObTI1dXFoMzdUajNUVE9aOFFIRWpBM25seDJVMDNweGRUTWNyaDVIMnlydmhYMkFkSVRsN1pUenBJcnlkaWZHNDZJT29ab2hsbDk3VEJtSVQtU2ZlaEVQRnFSaVFaa0ZFU3AtaVNtT1dMczhGVDRSSi05QjFwS21iRXhQcFZWRmxB?oc=5",
+          "publisher": "Investify",
+          "published_at": "2026-11-04T13:10:00+05:00",
+          "topic": "trade"
+        },
+        {
+          "id": "349fbbd2f5ca804e",
+          "title": "Import surge widens trade deficit to $7.47b in Q1",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaE5xRUx1VXVDcDlRTUVxMXpFMi1sa2pNWDY1ZFhSdkhXSG1mNGE4dTBPcjlOeVJTMV9HNzdIRl9iNGcydWJKeTJPOS1CSnNQdFlPbEdtbUNHQkJnWV9uUlhkUWZrVVFJWkNZRDZZajllSm9sdS1VNjFrNGtSOG9yRE1jNjZfUmVP?oc=5",
+          "publisher": "The Business Standard",
+          "published_at": "2026-11-05T20:20:00+05:00",
+          "topic": "trade"
+        },
+        {
+          "id": "33ad7c54f3e35b03",
+          "title": "| Pakistan's $1 bn textile trade gain: Can it last beyond FY2026?",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOd2VkXzl1VVBUQTQ1UGVEU2duTVVfcFdBNGJOWkJDMGJITzZHaFdGYXB5MnNxeEJtNXJwRTNMSXVpZXZWbTM2NHRpb2taV0ZMb3FUanRjeUhPSGVMRTByaTlhM0dNaW9KZ3NmMnZ5VnlCZEtuUXFXbTBsTGVRWFlMNERqbTZBUTJINHpxQzdWc0dUa1lYZWRMSTJiZEVUVkxrdTdkQUNjMENHLWtuSHVKNk9fWlMzY193MXg4VHlrTmNYR3poSlJPZXZMajBRTkVHYzFlVTRhdGNQdHotYlZj?oc=5",
+          "publisher": "Fibre2Fashion",
+          "published_at": "2026-11-04T18:42:52+05:00",
+          "topic": "trade"
+        },
+        {
+          "id": "24d17ea1b191612a",
+          "title": "China’s Largest Import Expo Opens in Shanghai Amid Record Trade Imbalances",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQekhKbGFFY0hwVm9WWm1Tb2FnWUplMEx1eFYwU0l0bUlQdzRLYTVLcV9PV29ac25IYWRpR2xueThCV2hwQXlFUWFZd0sxMDJBLVkwMGU4M05tbVJPaHhldWFVWGVnaXgzYjhIVlVfYjFrQzk5Q25Hb0dBZnZ0U2pBRTRLX1JwSGdYYXUwUA?oc=5",
+          "publisher": "The China-Global South Project",
+          "published_at": "2026-11-05T10:30:07+05:00",
+          "topic": "trade"
+        },
+        {
+          "id": "8532f8dfbe2f15a5",
+          "title": "Devaluation – The Pakistani Predicament",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQaDR3ckREMlRzRTkyYVZnMGhzQkhFMmpDWWQzbzktTERVazg4SlNNbUdhZTRPdWRKcjhQbTh6a3Z3SmNTMUxqUWRabzBqSGZpQm9xcXFXNWdjRGJ1YUFrVk1iRENWWlpNYnRFQ1AxX1dGMW1kM1hNTndHME0zUEI4U1FB?oc=5",
+          "publisher": "The Friday Times",
+          "published_at": "2026-11-04T15:00:00+05:00",
+          "topic": "trade"
+        },
+        {
+          "id": "42dfc76b0d8f9ed2",
+          "title": "Customs uncover Rs277m import fraud",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPa2FfbGtsNWtuRHhCSk1pQ2o5Nk95dVlqbjZzb1dmREtXVUFYY1BhLThsdmZvWEF2UzNQSW9uSThvTGZXMDBCWUJtMUY4dGRzTC0xeWM4UDF1ckJOUXVheWxmODZoVGNUWkVSR2pvajVVS3VMbjJfU3I1d3V2VEZxaUtqVmjSAYQBQVVfeXFMT2thX2xrbDVrbkR4QkpNaUNqOTZPeXVZam42c29XZkRLV1VBWGNQYS04bHZmb1hBdlMzUElvbkk4b0xmVzAwQllCbTFGOHRkc0wtMXljOFAxdXJCTlF1YXlsZjg2aFRjVFpFUkdqb2o1VUt1TG4yX1NyNXd1dlRGcWlLalZo?oc=5",
+          "publisher": "The Express Tribune",
+          "published_at": "2026-11-05T08:08:23+05:00",
+          "topic": "trade"
+        },
+        {
+          "id": "4eed2c5cf578bda0",
+          "title": "Bangladesh’s trade deficit widens 31% as fuel import bill doubles",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOR1NIYmtldzlvVlV0QmFlZER2QTdMcVlEbmhyZWFCVllvSE1JS183dktERnFkMmJfZGlQZGozQngxTGJHcFpVRUtGLTdyVFVIWk05NW9lNUxxaEJUZzFva1Frb296MjhNOTZ4MnVPX05tRkc5NFBwRkd6ZVJWaUhvX0k4ZUFOWHd3cW9oVTNVZFk2QzAwM0duSGRFYmlGMlFtUURZR1JLUWdWdEZLZE03UA?oc=5",
+          "publisher": "The Daily Star",
+          "published_at": "2026-11-05T20:40:13+05:00",
+          "topic": "trade"
+        },
+        {
+          "id": "390681b00eecc985",
+          "title": "Pakistan’s missing graduation plan",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ENXZxLXBzb0lVbHRKR2drc1dXbEdpZldsSWxFWVdEYmhOV1oyandnZW4xVTVWRzMzcHU3Nm4xVDFDQlNTblNmengyS0NZdkd0aG5LVVFB0gFWQVVfeXFMT0Q1dnEtcHNvSVVsdEpHZ2tzV1dsR2lmV2xJbEVZV0RiaE5XWjJqd2dlbjFVNVZHMzNwdTc2bjFUMUNCU1NuU2Z6eDJLQ1l2R3RobktVUUE?oc=5",
+          "publisher": "Business Recorder",
+          "published_at": "2026-11-04T05:25:10+05:00",
+          "topic": "trade"
+        }
+      ],
+      "fetched_at": "2026-11-06T02:31:03.969623+05:00"
+    },
+    {
+      "id": "economy-2026-11-06",
+      "topic": "economy",
+      "date": "2026-11-06",
+      "title": "Economy news briefing · 2026-11-06",
+      "context": "Watch how inflation, currency movements and borrowing costs may affect household budgets and import costs. A headline alone does not establish that a retail price has changed.",
+      "headlines": [
+        {
+          "id": "8532f8dfbe2f15a5",
+          "title": "Devaluation – The Pakistani Predicament",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQaDR3ckREMlRzRTkyYVZnMGhzQkhFMmpDWWQzbzktTERVazg4SlNNbUdhZTRPdWRKcjhQbTh6a3Z3SmNTMUxqUWRabzBqSGZpQm9xcXFXNWdjRGJ1YUFrVk1iRENWWlpNYnRFQ1AxX1dGMW1kM1hNTndHME0zUEI4U1FB?oc=5",
+          "publisher": "The Friday Times",
+          "published_at": "2026-11-04T15:00:00+05:00",
+          "topic": "economy"
+        },
+        {
+          "id": "9cbd665687052ca1",
+          "title": "Pakistan’s rebound masks deeper problems weighing on economy: Bloomberg",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQzdpa1dOVTVSZHU3b0JEZE9qb29VSDhuUEc5elFoVExRRE1nWV9mbWl1ekFTWTFHck1hQ043VGlaS3NDcF9VbGtKeXAtdnVlU2xDTGRHdWNxdUpyUk1fSlZpSEx6Y2k5ampYdWhTXzBlTmJxU25sWkRjSmxXMUZobzN6cjZJYTBxZWhyV24zWVRlY0s0cWp2TlAzRlVzY3hSSGxhTWZ6dVZkSEp1WGN2cmp3UQ?oc=5",
+          "publisher": "Investify",
+          "published_at": "2026-11-04T07:44:26+05:00",
+          "topic": "economy"
+        },
+        {
+          "id": "45eb4feb3f4b18a3",
+          "title": "Democrats’ win sparks hopes of economic relief",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOQjVOUUxqY2F5RGh1R3QwOW1WYllJTFRWMUE4V2JCTVM3cmFpZXdjUlFiOWJqazJGOXRIZVZOUTliaDI2VDZfb0pPekMwMW9nbVMyN05qUU5YVXh0WllLY0w2ZXFTY2ZwVlVCU0lVNkNlY3lySldyY2VkRjNhSzI3V3R2cUZnVWhrVHc?oc=5",
+          "publisher": "The News Pakistan",
+          "published_at": "2026-11-05T00:00:00+05:00",
+          "topic": "economy"
+        },
+        {
+          "id": "bc950c855ed79910",
+          "title": "Pakistan’s Car Investment Bubble Is Facing a Reality Check",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPS2YwNmp6bDFxZElDZ0RxVVpxQmIzM3NFX293UVlTdkJRNHhNckNIeWJOLVJERHVtTktzVlNxZllJVFcwb0wzY0FBTEVDNmRycVV4SkswaUdUZWdvTjMxbU5BUFdGNlcyWHhHYk4zTkJBZS1xNkJRaVZNYUhRLVdQUVZvNGZVWmgxMmRhMXZYc2JxOEk?oc=5",
+          "publisher": "Pakwheels",
+          "published_at": "2026-11-05T17:55:17+05:00",
+          "topic": "economy"
+        },
+        {
+          "id": "b60d34c6773a2285",
+          "title": "Pakistan’s rebound masks deeper problems weighing on economy: Bloomberg",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRFVTdWlvRUNoV2pISHdlUnNaX09XaVhEMHRXazJNR1hvUWx0Z3FPVGlOamk4c2wtNTRwUjlyNl8xUzdielNIeGMtbE96dU9fSFo1d3Q0d2FNVk9nampGRXRrcFVkekZYWU5wV2o2RGxTaVJXclZsd3o5THFNLVNrTXZhcFFweVIxQU00R3VsSVFKN3hYN1dlR25GQWFwN09WWjg2Nmt5REUzdzNvVkkwTmc4dVN4NUk?oc=5",
+          "publisher": "Profit by Pakistan Today",
+          "published_at": "2026-11-04T07:45:55+05:00",
+          "topic": "economy"
+        },
+        {
+          "id": "15d3963e803374fb",
+          "title": "Business Community Rejects SBP Interest Rate Hike, Warns of Industrial Crisis",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNT2tyc1JHODhTdzIyQ3BKbEJjVExLSlJqd2tSUHUxSldrRzR6WE9GcXBVYWtDNC15OGg1TnIxTTU3dEI3MmJhT2U5Z2NZWVdhcE1QNkVZVG04ZERuVEtrdnhQQmVYYnFIdG54T0Y2RTN0YjFvOVBTX0NHUmxsb2FOa2lxX0tPYkd2SGZ1UmJCLUljS3JMU1kzanJTMGlTWUtrek14NA?oc=5",
+          "publisher": "TechJuice",
+          "published_at": "2026-11-04T22:51:23+05:00",
+          "topic": "economy"
+        }
+      ],
+      "fetched_at": "2026-11-06T02:31:03.969623+05:00"
+    },
+    {
+      "id": "business-2026-11-06",
+      "topic": "business",
+      "date": "2026-11-06",
+      "title": "Business news briefing · 2026-11-06",
+      "context": "Company and industry developments can affect supply, stock availability and competition. Compare dated supplier offers before making a purchase decision.",
+      "headlines": [
+        {
+          "id": "b82d80b6faae6da5",
+          "title": "Pakistan eyes increased trade, investment cooperation with Saudi Arabia, Egypt at Istanbul economic talks",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNS0MyYnV2eC1IaFVBRWtwQ3VZRkxPWXk4YjBFOE1wT1JjWjJPZnkzZ1ozbDhCZHFwSTRHVjZILXBid2RSb2dvVTVpcmdWQnk4ODFSOUFjbUlrRFZHZTVSRndnd21YWHNTTVd5QXhzeDlaOENmLUNaOTVKTFFKY0dud1pCYWRlX1hmRklhV2dtWWRFbW1xRk1DZ2ZWcUp0MUlQSG1hZzBxQzZTYlU1a204MUZXODl5SnQxWDg5dFNVWVZldGlJalJ3WXpiRlV3UmptZ2ZuMEpDWHVHRUhC?oc=5",
+          "publisher": "Arab News PK",
+          "published_at": "2026-11-05T11:31:09+05:00",
+          "topic": "business"
+        },
+        {
+          "id": "25f83b77fee7d4f0",
+          "title": "Pakistan, China’s Xinjiang explore joint investment opportunities",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQRmcwZDVXSGNPMnY0WnJfd1gtellSU1BvcUJESzF0S3V0ZW8telJCdmRQeXRWYzNEQ1ZGQ3h4UUhLZ2ZyVFp5OWE3Y2liYm5JUUp0RllmUkJxbTloNTR1eEdPSDhkNzZvUWxLVHBZeWY3SXhCeW9IMEt3U2FEekpTX0d6ZTg0MVRtSElPTHlR?oc=5",
+          "publisher": "https://cpecinfo.com/",
+          "published_at": "2026-11-05T10:06:49+05:00",
+          "topic": "business"
+        },
+        {
+          "id": "d7ca91c48d475a55",
+          "title": "Pakistan and Xinjiang Explore Joint Investment Opportunities",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOOWtsdjdycWpuSENnMmdNV1VYa3pJR0dOLXh6OW1GREJEQWtROG55Y1dNMkk0dElnN2s4aWYtVDVsaTU2eGx3dU5VTEZ6UXBpVnhvdFFxQXFudmRxWnlGQTVEbWExTFE1OTdvdzltWjRsakdYMWVSSTRhRlVSdmNyY19pamNaalBfUElOekxoMA?oc=5",
+          "publisher": "The Daily CPEC",
+          "published_at": "2026-11-05T13:30:29+05:00",
+          "topic": "business"
+        },
+        {
+          "id": "7c95798c80219e0e",
+          "title": "Airlink launches AirV, enters Pakistan’s EV industry",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNbWktZ0lLTlhVeEtFQ2pwSm9pdG5VQ29xQ2t0UmhsTi1rWUNvMHNWTVl0em1MaXNfclU2ODRtc3h4REtfcUNwMXgwSkhZLXc3WmZsRjRCTFhiUjdsQlRvYXp3M251S0ZvVWYzTG55bXQyOTN0azZnN0hsbmYyVXd6R19hZjBoZG0xaDJuYkptaDZUTTBK0gFWQVVfeXFMTVNpbVlCLWpMQ09UVG1ZQmpwdU5nLWo4a0tYVE1BTUpLbTFid0t0ZC1RYks2THRJZG8xempTdWxPRkpsanBpa3JjOHRoMGs1XzlkSmRQQVE?oc=5",
+          "publisher": "Business Recorder",
+          "published_at": "2026-11-05T11:41:05+05:00",
+          "topic": "business"
+        },
+        {
+          "id": "9b77dd70e2df7f59",
+          "title": "Airlink launches AirV, enters Pakistan’s EV industry",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOY2ZtczZyeG1qTGVXcUhOOUQ2X3JiWnRwYTQzUGE1UmhBUFQ4bUxua0E4b1p1cjMtWGNpVzZGd2xhZmpOcy1sTnpNTkU0OHctWW1LOEtSX2U3QlYyVHdiTDBnU2plRG9UeHE0cWx5OFdwUmFhUmJqeGpUVUhUR09ZS2liMFotRzdNbjlHbHI0THlTTjIyV3VhWXJR?oc=5",
+          "publisher": "Investify",
+          "published_at": "2026-11-05T11:41:05+05:00",
+          "topic": "business"
+        },
+        {
+          "id": "6b19f9a9f9b8951c",
+          "title": "Sudanese and Pakistani business federations sign MOU to deepen trade and investment ties",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNcFZ6UHNFNkpwVTlEREJ1alNqWERsRGptbnIyVlJJTnJwdkFpaVlzVFpQZ0xuSGx2cU1teGZGdEhJb1BMQUNlZVVTVC04dk5meWVFWnJBcldLVjRDU0NMRGhPQ05fblhyYzl2RjNZZ2VaUzFZRDVERmdjS3FjT1I4bVlKaHliNng0MVR3c0ZuVU1WN3VNSmRRQXgySXhTZC15V1ZXZnlhbjlTT2puVWRDUHJpdjgxanR6b0lMUEQ4M1RwMEJHOFE?oc=5",
+          "publisher": "United Nations Development Programme",
+          "published_at": "2026-11-04T13:00:00+05:00",
+          "topic": "business"
+        },
+        {
+          "id": "6bb5a242fccbd87e",
+          "title": "Ethiopia invites Pakistani investors",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5ScWJQelYtWnZoMmxzS3Bjd3NYMFdKb3RxcjM3d0VucVliRDNFbENyNVdza1JiNkRIRmp5dlJMWTg3M25vY1B0ZVZtTE5mUDhIOE9ENGV4U0VZRFRvelpUYXgzeExxTFJwT2xGZUZtR0EtYVdBbHBzYW9TOFUwQdIBhgFBVV95cUxNdGdKR29hZXFpT0FabDZfOE10WFFEOTJ5NFQ0d3h4M2lxb1BxUTByVEpYaTlmVV9QLWhJc25QbzRWa0hIYnNwUjlwaFA3UEJTYWhDNlhIQml3czFmWl9Ec3UtVm5nc01rZmo2cTBKcnBLVGluX3lhY1M5czNtdm5JY3JsRERTdw?oc=5",
+          "publisher": "The Express Tribune",
+          "published_at": "2026-11-05T03:48:52+05:00",
+          "topic": "business"
+        },
+        {
+          "id": "98f0a44b19489cbc",
+          "title": "Ethiopia invites Pakistani investors",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQWEJFbWV0dkJzZU5NdFhZZ0lkQU9DWlVnSnIwZUk3ZTZLakJWdXg2cVlaWElQTXFRRUlueUxhT2F2dnB5YXp6aUZPZXl4aGwzclJ6MlprSHY2bGZvR193UlNXLVJUNk5kOV9UeTBRZnZSa3h3X2NudkNhTTlFSFM0RFpPcnhOZw?oc=5",
+          "publisher": "Investify",
+          "published_at": "2026-11-05T02:40:33+05:00",
+          "topic": "business"
+        }
+      ],
+      "fetched_at": "2026-11-06T02:31:03.969623+05:00"
+    },
     {
       "id": "trade-2026-11-05",
       "topic": "trade",
