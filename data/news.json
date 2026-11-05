@@ -1,10 +1,10 @@
 {
-  "checked_at": "2026-11-05T09:12:50.462546+05:00",
+  "checked_at": "2026-11-05T16:20:02.264574+05:00",
   "checks": [
     {
       "topic": "economy",
       "status": "updated",
-      "headlines": 7
+      "headlines": 4
     },
     {
       "topic": "business",
@@ -42,6 +42,14 @@
           "topic": "trade"
         },
         {
+          "id": "42dfc76b0d8f9ed2",
+          "title": "Customs uncover Rs277m import fraud",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPa2FfbGtsNWtuRHhCSk1pQ2o5Nk95dVlqbjZzb1dmREtXVUFYY1BhLThsdmZvWEF2UzNQSW9uSThvTGZXMDBCWUJtMUY4dGRzTC0xeWM4UDF1ckJOUXVheWxmODZoVGNUWkVSR2pvajVVS3VMbjJfU3I1d3V2VEZxaUtqVmjSAYQBQVVfeXFMT2thX2xrbDVrbkR4QkpNaUNqOTZPeXVZam42c29XZkRLV1VBWGNQYS04bHZmb1hBdlMzUElvbkk4b0xmVzAwQllCbTFGOHRkc0wtMXljOFAxdXJCTlF1YXlsZjg2aFRjVFpFUkdqb2o1VUt1TG4yX1NyNXd1dlRGcWlLalZo?oc=5",
+          "publisher": "The Express Tribune",
+          "published_at": "2026-11-05T08:08:23+05:00",
+          "topic": "trade"
+        },
+        {
           "id": "8532f8dfbe2f15a5",
           "title": "Devaluation – The Pakistani Predicament",
           "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQaDR3ckREMlRzRTkyYVZnMGhzQkhFMmpDWWQzbzktTERVazg4SlNNbUdhZTRPdWRKcjhQbTh6a3Z3SmNTMUxqUWRabzBqSGZpQm9xcXFXNWdjRGJ1YUFrVk1iRENWWlpNYnRFQ1AxX1dGMW1kM1hNTndHME0zUEI4U1FB?oc=5",
@@ -50,47 +58,39 @@
           "topic": "trade"
         },
         {
-          "id": "fc533fedc2207fcb",
-          "title": "Customs uncover Rs277m import fraud",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1Fckk4WXRkQU90SlpwTmZYMHJxOUI2RktKdXo1eTBPWXVlQlJxNXRoU1AyVmU0RFR6UnAzZFVnZGRLS3NvWWt3elNaZDFJckxxZWpOZDVmbThsdmphSnFKYXdScTB0N1UwRDROLUlvVmdfZU1rMzc4c0tESE7SAYQBQVVfeXFMT2thX2xrbDVrbkR4QkpNaUNqOTZPeXVZam42c29XZkRLV1VBWGNQYS04bHZmb1hBdlMzUElvbkk4b0xmVzAwQllCbTFGOHRkc0wtMXljOFAxdXJCTlF1YXlsZjg2aFRjVFpFUkdqb2o1VUt1TG4yX1NyNXd1dlRGcWlLalZo?oc=5",
-          "publisher": "The Express Tribune",
-          "published_at": "2026-11-05T08:06:40+05:00",
-          "topic": "trade"
-        },
-        {
-          "id": "c97a9e17e44701de",
-          "title": "Pakistan seeks to expand export financing through EXIM Bank, digital platforms",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPX3U1ODlHZXg4eFYyUkpCLXVJOFNHbFFTX0l4angxc1JXLTdGWUwzSGNBQ2ZTTTZGeE1rU0JqYTQ3c0J5WHp6REx6WEJaTGE0dTU2emFkXzdpOE91cVl5ZGlBSHNDMDFYQkxtNVdMdmVlaUVEQnlDRW9IYTNKY3hEX3RUZ2RqNEw2N0FkaHg5MDhWTzBDTnJsRDZqQnZMMWdDVWd3cThDbzZXNkhLSFpaSEtkSVY1MkhL0gFWQVVfeXFMUEgzdXNEVFptMlFzMmV5S21wenlwSC01NDVrUHpOV0JCYVdRTHJIRTVVN1dSeDdjVjk2Q2NpT1hRYzRGaktoWm9TVm4zVlRBM0N1b1gzb2c?oc=5",
+          "id": "390681b00eecc985",
+          "title": "Pakistan’s missing graduation plan",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ENXZxLXBzb0lVbHRKR2drc1dXbEdpZldsSWxFWVdEYmhOV1oyandnZW4xVTVWRzMzcHU3Nm4xVDFDQlNTblNmengyS0NZdkd0aG5LVVFB0gFWQVVfeXFMT0Q1dnEtcHNvSVVsdEpHZ2tzV1dsR2lmV2xJbEVZV0RiaE5XWjJqd2dlbjFVNVZHMzNwdTc2bjFUMUNCU1NuU2Z6eDJLQ1l2R3RobktVUUE?oc=5",
           "publisher": "Business Recorder",
-          "published_at": "2026-11-03T10:37:02+05:00",
+          "published_at": "2026-11-04T05:25:10+05:00",
           "topic": "trade"
         },
         {
-          "id": "734d2bbdd9bf706e",
-          "title": "Jam Kamal urges OIC countries to strengthen trade financing and digital cooperation",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQV0RKelVJMFJ5VENuNDYxTlYyR0syblRybm5oSktSa182ZHZZcEQwSV9YdkVuMmt2b2pmRjlNUGdUYkVmMkVXN1VLc3VxWXMtMm9SaXNTcGw0MFZ6M2lhbThVQ3VFVnByeDNTcTBvWjV6MUk1dllETHlMSHAzR1o1YURFTDBUSGNWMHJRaHVUWURUR0dSZ0FJZUVpOElyWHFXbXJqVkpGYi05dUI0eFNJUmtoZnY?oc=5",
-          "publisher": "The Nation (Pakistan )",
-          "published_at": "2026-11-03T12:29:40+05:00",
+          "id": "c1f3172918d69c5c",
+          "title": "Govt unveils LPG policy as power costs set to rise",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5VMjNmVVp3VlNWSm1rNXJoWXpRMS1aeUk4aXpkblpVOGQwdTAzd1BRT0tOanFpR2c3MlpYUzFUUkdYdm94UURObA?oc=5",
+          "publisher": "Dawn",
+          "published_at": "2026-11-04T07:00:06+05:00",
           "topic": "trade"
         },
         {
-          "id": "4526ca8481ad8a41",
-          "title": "| Pakistan's $1 bn textile trade gain: Can it last beyond FY2026?",
-          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOR0o4U3BsNWlBdnZvUUVVWlhtY2lnczFqcWNXbC12TThuMy00OXNYVDB2dHZIcnkzWVpmODA3SjBhWHg5ZHVPTjctdXJHbTdHMGRmRFJRVmhCY1BpOEtEZ3BNTnM1eVRfUHFZZThPMW11U29XWDFWRjhacGVPZXJvMkU3VWhvNjJ1X1pUSkYzd056d3ZzNVFwajh6UF9vaXhZNFpKR19OeldDOWdqTk00OXREakx4SnBtZ2RDQkpGdmhZci05d1pBX1JCODBWSmU4QUdQQi0zaW1VN2p1bS1CQ29WbTVacVVla0l5OTg4dE1nM0ZnV2diVw?oc=5",
-          "publisher": "Fibre2Fashion",
-          "published_at": "2026-11-04T15:14:47+05:00",
+          "id": "3d640856d44cd0b6",
+          "title": "Thatta Cement enters EV business with plans to import affordable Chinese vehicles",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNGRZMERzNFNKM2pHQ0k2RWdDVU5fMGJUMnFaNUg2RUNKWDZTM19peDVOUEQtWWF3d1Y3MWZDX2RXbTdWaHR2alFGVldXTi1qR2tFUzJiYUEzVXppMm5YbHZ6dTlabkV6QzA4Z2pqdktTamlqcDVqQTR5Z1o0c21iSHFLVXE0SGtWMTNtRFBsZGhFRjNmd3hqUF9qNFpUMXF0Wjh0OW44LWtYc25mZTA4eFZWOWxaMEJGbE5XVEp3bFNRZw?oc=5",
+          "publisher": "Investify",
+          "published_at": "2026-11-05T13:10:00+05:00",
           "topic": "trade"
         },
         {
-          "id": "7f7b192ecef70226",
-          "title": "Have U.S. trade policies worked?",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5naTdFa2s3M24wLXRXdjltckxRcmVVZ3VYazBKZWlWaUlGUUQ1ZVd1bkt6VU9jZnRRWWxJcnJ3MDhQN0hLZDY1TzBHSWdYalphTWpXdjl5Z1V0elkydmtUMjlYSGNJNHlYYTUtb1RERHpXOWs?oc=5",
-          "publisher": "RSM Us LLP",
-          "published_at": "2026-11-03T16:54:22+05:00",
+          "id": "3be6f2f573db165c",
+          "title": "U.S. Mid-Term Rout Unlikely to Change Trump’s Trade Policy",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPWXhYSzRLdldFbjhsSHUwcU05QVJXa3BuLTB0b1Z1WHFiX2h2dFBwQ28yQWVESGNLMnU5dzd2ejlxTnZZb2o5WVRrZXUxWWE1OEtMXy1HMGpqRHJtZWhLd280Q3BxemtWamR4aWtfc1hoXzc0SGJkM1Vva3l3eTBQZ3hDbk1NZmJ5VHd5YUpkQlBiYVhXUnZCSFJyWXNyaFhjSk80UjlJWklyb1lfTWhaYloyR21peXpFakRkR3BYaF9VNl9lTVBKQ0dDOU1XM1R1QWtjTA?oc=5",
+          "publisher": "SupplyChainBrain",
+          "published_at": "2026-11-05T10:03:56+05:00",
           "topic": "trade"
         }
       ],
-      "fetched_at": "2026-11-05T09:12:50.462546+05:00"
+      "fetched_at": "2026-11-05T16:20:02.264574+05:00"
     },
     {
       "id": "economy-2026-11-05",
@@ -108,11 +108,11 @@
           "topic": "economy"
         },
         {
-          "id": "fdb197066c0a470c",
-          "title": "Pakistan's Economy Improves On Paper, But Risks Persist Beneath The Surface",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRHN4RlNwZDZCM2JVREU5Y3BObmdhdzBDSlRzSlV1MTRaZTBzWC1fUS04YWN5YmFzWjg2RmJMaFBsUDQ0RjgtYzU3aVpWZHpuTTNSdktKYWNtWjc5Q2k0ZkNZaldmUVBEdVMtdC05RjdfazdoZ0RWSjF6YnpobEhCXzdzVEc4UWVWSS1TTURDMnlBMXFYUDNjUFNhNXh0dkZrbUdXR2RtTXBvWVY2WDdZcTNJVF_SAbwBQVVfeXFMUEdoLUFRMTI5QTlwQjg4dlpRdG91RG9uUVZtWTJVQlRUbEtCcVNSLXEyWC04T3o5OExubUJCUWR5MEI3V3JWakhWM1JmQTkzX08xc0I5cDhWenpsa1Zyb1hSVDFGYzhrcWZTV1lrdUR2a2lsdkFzb29wT0VOdHhrU01TUG1KUXJ4bGdzWS1fek54b21YaFd2RW5MWFdPcjItQ0VCc0FUaGRpTy1oR25IY0pZejBfUmlNNTVBUl8?oc=5",
-          "publisher": "NDTV",
-          "published_at": "2026-11-03T12:53:14+05:00",
+          "id": "45eb4feb3f4b18a3",
+          "title": "Democrats’ win sparks hopes of economic relief",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOQjVOUUxqY2F5RGh1R3QwOW1WYllJTFRWMUE4V2JCTVM3cmFpZXdjUlFiOWJqazJGOXRIZVZOUTliaDI2VDZfb0pPekMwMW9nbVMyN05qUU5YVXh0WllLY0w2ZXFTY2ZwVlVCU0lVNkNlY3lySldyY2VkRjNhSzI3V3R2cUZnVWhrVHc?oc=5",
+          "publisher": "The News Pakistan",
+          "published_at": "2026-11-05T00:00:00+05:00",
           "topic": "economy"
         },
         {
@@ -124,39 +124,15 @@
           "topic": "economy"
         },
         {
-          "id": "45eb4feb3f4b18a3",
-          "title": "Democrats’ win sparks hopes of economic relief",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOQjVOUUxqY2F5RGh1R3QwOW1WYllJTFRWMUE4V2JCTVM3cmFpZXdjUlFiOWJqazJGOXRIZVZOUTliaDI2VDZfb0pPekMwMW9nbVMyN05qUU5YVXh0WllLY0w2ZXFTY2ZwVlVCU0lVNkNlY3lySldyY2VkRjNhSzI3V3R2cUZnVWhrVHc?oc=5",
-          "publisher": "The News Pakistan",
-          "published_at": "2026-11-05T00:00:00+05:00",
-          "topic": "economy"
-        },
-        {
-          "id": "817d50105a1da4d8",
-          "title": "‘Fuel of the poor’ LPG soars in Pakistan, forcing rickshaw drivers to cut meals",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcFBSN1QtdEhNV3hoNHRpR010Z0dPcVVkV0xOZjhPb0w1VTJxbkFfaXZfNDk4a1ctSXdRWU11VldOVU1xblVGMTBHc3NnZ3hGUWdDSGduNF9vM3VGdFZCUEpISkNHbW5KenVvZ1hsSUJ3UlFnd0xoTzZWaGNMZ1FvWjd4VkhIaVdhWVplc1hPSVNqUEg5VWRDVjRKNnllRHBLZDYtOFJlLXh0TGgyUHE4?oc=5",
-          "publisher": "The Straits Times",
-          "published_at": "2026-11-03T13:12:00+05:00",
-          "topic": "economy"
-        },
-        {
-          "id": "9b557e83d296b5cc",
-          "title": "From grains to chicken and milk, India faces prolonged food inflation",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZXFXc0xXWFR4NmlfVER5MjBYN0g0WmlQR3RLZVRrd1c1eURIMjh0Qm5fZFdPT21qeVZoTkdFVmxtR1R6NGZVRlhseDFqYW5YYjM2NmlwVnFGUERQRnFzcENrTWJ3c1VSQ21wNEVDTXhrZnFxRDJfYmpad1AwcDBfNlo2VEEzSWxyS0duSWJIdWE3UDI5ZlpTSl9WSlZNbzdaMFlzeERrT2FmOWU2QUxfRUR2RC1QQQ?oc=5",
+          "id": "b60d34c6773a2285",
+          "title": "Pakistan’s rebound masks deeper problems weighing on economy: Bloomberg",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRFVTdWlvRUNoV2pISHdlUnNaX09XaVhEMHRXazJNR1hvUWx0Z3FPVGlOamk4c2wtNTRwUjlyNl8xUzdielNIeGMtbE96dU9fSFo1d3Q0d2FNVk9nampGRXRrcFVkekZYWU5wV2o2RGxTaVJXclZsd3o5THFNLVNrTXZhcFFweVIxQU00R3VsSVFKN3hYN1dlR25GQWFwN09WWjg2Nmt5REUzdzNvVkkwTmc4dVN4NUk?oc=5",
           "publisher": "Profit by Pakistan Today",
-          "published_at": "2026-11-03T14:15:02+05:00",
-          "topic": "economy"
-        },
-        {
-          "id": "5eac7ac240917391",
-          "title": "From grains to chicken and milk, India faces prolonged food inflation",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE81eDU0YTduRThVQTFRdk50VVAwOUVjU3hubmpWV25LWnVQSUdZSTUyclBpeWZJY29kMTYyOG9PdzNJTDByUHpqN2czZEJ3dmdDdjdr?oc=5",
-          "publisher": "Aaj English TV",
-          "published_at": "2026-11-03T15:32:40+05:00",
+          "published_at": "2026-11-04T07:45:55+05:00",
           "topic": "economy"
         }
       ],
-      "fetched_at": "2026-11-05T09:12:50.462546+05:00"
+      "fetched_at": "2026-11-05T16:20:02.264574+05:00"
     },
     {
       "id": "business-2026-11-05",
@@ -166,19 +142,43 @@
       "context": "Company and industry developments can affect supply, stock availability and competition. Compare dated supplier offers before making a purchase decision.",
       "headlines": [
         {
-          "id": "98f0a44b19489cbc",
-          "title": "Ethiopia invites Pakistani investors",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQWEJFbWV0dkJzZU5NdFhZZ0lkQU9DWlVnSnIwZUk3ZTZLakJWdXg2cVlaWElQTXFRRUlueUxhT2F2dnB5YXp6aUZPZXl4aGwzclJ6MlprSHY2bGZvR193UlNXLVJUNk5kOV9UeTBRZnZSa3h3X2NudkNhTTlFSFM0RFpPcnhOZw?oc=5",
-          "publisher": "Investify",
-          "published_at": "2026-11-05T07:32:43+05:00",
+          "id": "b82d80b6faae6da5",
+          "title": "Pakistan eyes increased trade, investment cooperation with Saudi Arabia, Egypt at Istanbul economic talks",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNS0MyYnV2eC1IaFVBRWtwQ3VZRkxPWXk4YjBFOE1wT1JjWjJPZnkzZ1ozbDhCZHFwSTRHVjZILXBid2RSb2dvVTVpcmdWQnk4ODFSOUFjbUlrRFZHZTVSRndnd21YWHNTTVd5QXhzeDlaOENmLUNaOTVKTFFKY0dud1pCYWRlX1hmRklhV2dtWWRFbW1xRk1DZ2ZWcUp0MUlQSG1hZzBxQzZTYlU1a204MUZXODl5SnQxWDg5dFNVWVZldGlJalJ3WXpiRlV3UmptZ2ZuMEpDWHVHRUhC?oc=5",
+          "publisher": "Arab News PK",
+          "published_at": "2026-11-05T11:31:09+05:00",
           "topic": "business"
         },
         {
-          "id": "33d4608cc95a8bfb",
+          "id": "25f83b77fee7d4f0",
           "title": "Pakistan, China’s Xinjiang explore joint investment opportunities",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE92ejVURUZnVFB2YU1iYV94R0xHVFNrLXhBcFNLcTBZcnV1MzlIRTJXaTIzUDFNNFAtVVFzRk5SYXVVSUhJTUxPaUlqQ0I5cXQx0gFWQVVfeXFMT2EyN0xQdm53bmRMMnJnZXNhQURMMzZOZy1JcERDS0VXWEVLNzFVWWkwNmRWdkpvV2hOZ3ZRNWFTYldRZzBIdlN4TnhhUTEwU3ZRODVQMVE?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQRmcwZDVXSGNPMnY0WnJfd1gtellSU1BvcUJESzF0S3V0ZW8telJCdmRQeXRWYzNEQ1ZGQ3h4UUhLZ2ZyVFp5OWE3Y2liYm5JUUp0RllmUkJxbTloNTR1eEdPSDhkNzZvUWxLVHBZeWY3SXhCeW9IMEt3U2FEekpTX0d6ZTg0MVRtSElPTHlR?oc=5",
+          "publisher": "https://cpecinfo.com/",
+          "published_at": "2026-11-05T10:06:49+05:00",
+          "topic": "business"
+        },
+        {
+          "id": "d7ca91c48d475a55",
+          "title": "Pakistan and Xinjiang Explore Joint Investment Opportunities",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOOWtsdjdycWpuSENnMmdNV1VYa3pJR0dOLXh6OW1GREJEQWtROG55Y1dNMkk0dElnN2s4aWYtVDVsaTU2eGx3dU5VTEZ6UXBpVnhvdFFxQXFudmRxWnlGQTVEbWExTFE1OTdvdzltWjRsakdYMWVSSTRhRlVSdmNyY19pamNaalBfUElOekxoMA?oc=5",
+          "publisher": "The Daily CPEC",
+          "published_at": "2026-11-05T13:30:29+05:00",
+          "topic": "business"
+        },
+        {
+          "id": "9b77dd70e2df7f59",
+          "title": "Airlink launches AirV, enters Pakistan’s EV industry",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOY2ZtczZyeG1qTGVXcUhOOUQ2X3JiWnRwYTQzUGE1UmhBUFQ4bUxua0E4b1p1cjMtWGNpVzZGd2xhZmpOcy1sTnpNTkU0OHctWW1LOEtSX2U3QlYyVHdiTDBnU2plRG9UeHE0cWx5OFdwUmFhUmJqeGpUVUhUR09ZS2liMFotRzdNbjlHbHI0THlTTjIyV3VhWXJR?oc=5",
+          "publisher": "Investify",
+          "published_at": "2026-11-05T11:41:05+05:00",
+          "topic": "business"
+        },
+        {
+          "id": "7c95798c80219e0e",
+          "title": "Airlink launches AirV, enters Pakistan’s EV industry",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNbWktZ0lLTlhVeEtFQ2pwSm9pdG5VQ29xQ2t0UmhsTi1rWUNvMHNWTVl0em1MaXNfclU2ODRtc3h4REtfcUNwMXgwSkhZLXc3WmZsRjRCTFhiUjdsQlRvYXp3M251S0ZvVWYzTG55bXQyOTN0azZnN0hsbmYyVXd6R19hZjBoZG0xaDJuYkptaDZUTTBK0gFWQVVfeXFMTVNpbVlCLWpMQ09UVG1ZQmpwdU5nLWo4a0tYVE1BTUpLbTFid0t0ZC1RYks2THRJZG8xempTdWxPRkpsanBpa3JjOHRoMGs1XzlkSmRQQVE?oc=5",
           "publisher": "Business Recorder",
-          "published_at": "2026-11-05T05:31:29+05:00",
+          "published_at": "2026-11-05T11:41:05+05:00",
           "topic": "business"
         },
         {
@@ -190,47 +190,23 @@
           "topic": "business"
         },
         {
-          "id": "8624ded01d081d6c",
-          "title": "Pakistan Completes First-Ever SPAC Transaction as Ningbo Green Light Energy Joins PSX Main Board",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZWpnd1ZTTEhDQXQyWGZGWFYtRktSZlQya3Z4bjh5M1p4TmUwWnpmZmhPZGZqV250dHc3dFdpWU1LVnJXcmZhNjZBbEgtRl9FcVg0WFFFd2lBZHNaRmRvbXVwRnM2eENFQkRxTFN0aHdDUHBJVXV2NnBJTG9qNXBMeDNsVUJEVG1RT1JfZEtyLXFKS3hIV2hpLXhWN1NYOTJDeVRieHdZdXp1QjNlenlEQ25CWTBnRTI3dE1Yc0J3VUtJaXFxM092Rg?oc=5",
+          "id": "889bc7409f0b49cf",
+          "title": "Thatta Cement Enters Pakistan’s Mass-Market EV Segment",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZHUxai1qUkF1VTFSSktMRmhFSVpGWS16VWF5U2NMWE52dGwzdFpQQUtWaDdhaDJPQkR2VlU0cTVHc29OaHhLMHB1S2xYcFVzVDdnZ2k2aEVjWTd1WlItOXNkODM5V093dlNnVk5PYUFOWm1lcktvbFZWeml2Wl9RSzhyN1NqQy14enp0aE5JSQ?oc=5",
           "publisher": "Energy Update",
-          "published_at": "2026-11-04T13:42:55+05:00",
+          "published_at": "2026-11-05T14:57:06+05:00",
           "topic": "business"
         },
         {
-          "id": "adbd55dbd5f52aaf",
-          "title": "Pakistan calls for better data to unlock trade opportunities among OIC nations",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOOXFsSlpxQXpkZDZodjJ5QlhqZUpxRHZIcUsyMjRRb2d5c1ljVEF5MkpkSHNoeWFVNHdKelU5SjlFNjQtMWFfaTJtbE1IUE9OR2Q5aHpFdWpjTTdjTTNaT2dOTl95ckV1THE0OC0tUUVaejNYX2ZxY09VZkhCeHFodHVrdEJWLVRjenhHNWxDeG9tR3RtVWxkTlZHYlhObDE3QVRiS3E1WmNkcE5hazBaa080N3BZSm1HY0NJ?oc=5",
-          "publisher": "Arab News PK",
-          "published_at": "2026-11-04T19:44:33+05:00",
-          "topic": "business"
-        },
-        {
-          "id": "dea29b95921dcfa6",
-          "title": "MCB Competitors - MCB Bank Ltd",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE95SGxjX0tDVUluYi1ZVmNhRlJoTEUzRXlBcmhVZHhqRUFYU3VLOVZTVVMwbHFfYVRfUTIwV25VMVBRZEk1UUh1T3kwRFdqd01uZlVhT0xRU3ZoWFE2?oc=5",
+          "id": "98f0a44b19489cbc",
+          "title": "Ethiopia invites Pakistani investors",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQWEJFbWV0dkJzZU5NdFhZZ0lkQU9DWlVnSnIwZUk3ZTZLakJWdXg2cVlaWElQTXFRRUlueUxhT2F2dnB5YXp6aUZPZXl4aGwzclJ6MlprSHY2bGZvR193UlNXLVJUNk5kOV9UeTBRZnZSa3h3X2NudkNhTTlFSFM0RFpPcnhOZw?oc=5",
           "publisher": "Investify",
-          "published_at": "2026-11-04T17:33:05+05:00",
-          "topic": "business"
-        },
-        {
-          "id": "47fe0f1193080496",
-          "title": "Air pollution costs 6.5% of GDP",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1sQ3d4S1h1NXRfSmJfbTJVaDBjMHZhZmhtVk5UckwwVEJid2pKd1NEYkxKbXFVLWVqODVteG5pQlktZEg2clhSVU1UUGVlUmRkREJXYXlYSlRJUVFhQm9JQVBGUmlHLWo2bmVJZGYta1ZNSkdB0gF8QVVfeXFMT2RrVnZoSVllcDJvQmRsOHlBUDJCdm92WDE5d2NnZE9NT1p4TUpuNkxBUXlxU3dmOTFBSVl5MUw1ZUN1QVo1MFBTOUVsRi1jeHpxbkJDR1RPOWQxcU0tOGo4UzRhdk9qcTREY2l3UUlodlptVnFXeGpyZDJ6WA?oc=5",
-          "publisher": "The Express Tribune",
-          "published_at": "2026-11-05T03:18:25+05:00",
-          "topic": "business"
-        },
-        {
-          "id": "3d4399154f4677e8",
-          "title": "The circus",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5MdkxZZ3o0N2xoTE9kbzE2azhMeFNPYTcycThrUjVIU0JqQmdXenhQQlB0Z1psRENrU3Q0OE43YkJjbktfS09pZWRyeWJIeDBCWWRGWHBn0gFWQVVfeXFMTkx2TFlnejQ3bGhMT2RvMTZrOEx4U09hNzJxOGtSNUhTQmpCZ1d6eFBCUHRnWmxEQ2tTdDQ4TjdiQmNuS19LT2llZHJ5Ykh4MEJZZEZYcGc?oc=5",
-          "publisher": "Business Recorder",
-          "published_at": "2026-11-04T05:25:11+05:00",
+          "published_at": "2026-11-05T02:40:33+05:00",
           "topic": "business"
         }
       ],
-      "fetched_at": "2026-11-05T09:12:50.462546+05:00"
+      "fetched_at": "2026-11-05T16:20:02.264574+05:00"
     },
     {
       "id": "trade-2026-11-04",
