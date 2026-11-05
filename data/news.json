@@ -1,10 +1,10 @@
 {
-  "checked_at": "2026-11-05T16:20:02.264574+05:00",
+  "checked_at": "2026-11-05T21:21:32.830241+05:00",
   "checks": [
     {
       "topic": "economy",
       "status": "updated",
-      "headlines": 4
+      "headlines": 7
     },
     {
       "topic": "business",
@@ -31,6 +31,22 @@
           "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMnM5NEhVVFI1SUROdGdpNlBkckZnT2lJQzk4Yjhyak1kM2lPOWhndEZObTI1dXFoMzdUajNUVE9aOFFIRWpBM25seDJVMDNweGRUTWNyaDVIMnlydmhYMkFkSVRsN1pUenBJcnlkaWZHNDZJT29ab2hsbDk3VEJtSVQtU2ZlaEVQRnFSaVFaa0ZFU3AtaVNtT1dMczhGVDRSSi05QjFwS21iRXhQcFZWRmxB?oc=5",
           "publisher": "Investify",
           "published_at": "2026-11-04T13:10:00+05:00",
+          "topic": "trade"
+        },
+        {
+          "id": "349fbbd2f5ca804e",
+          "title": "Import surge widens trade deficit to $7.47b in Q1",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaE5xRUx1VXVDcDlRTUVxMXpFMi1sa2pNWDY1ZFhSdkhXSG1mNGE4dTBPcjlOeVJTMV9HNzdIRl9iNGcydWJKeTJPOS1CSnNQdFlPbEdtbUNHQkJnWV9uUlhkUWZrVVFJWkNZRDZZajllSm9sdS1VNjFrNGtSOG9yRE1jNjZfUmVP?oc=5",
+          "publisher": "The Business Standard",
+          "published_at": "2026-11-05T20:30:11+05:00",
+          "topic": "trade"
+        },
+        {
+          "id": "24d17ea1b191612a",
+          "title": "China’s Largest Import Expo Opens in Shanghai Amid Record Trade Imbalances",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQekhKbGFFY0hwVm9WWm1Tb2FnWUplMEx1eFYwU0l0bUlQdzRLYTVLcV9PV29ac25IYWRpR2xueThCV2hwQXlFUWFZd0sxMDJBLVkwMGU4M05tbVJPaHhldWFVWGVnaXgzYjhIVlVfYjFrQzk5Q25Hb0dBZnZ0U2pBRTRLX1JwSGdYYXUwUA?oc=5",
+          "publisher": "The China-Global South Project",
+          "published_at": "2026-11-05T10:30:07+05:00",
           "topic": "trade"
         },
         {
@@ -66,31 +82,15 @@
           "topic": "trade"
         },
         {
-          "id": "c1f3172918d69c5c",
-          "title": "Govt unveils LPG policy as power costs set to rise",
-          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5VMjNmVVp3VlNWSm1rNXJoWXpRMS1aeUk4aXpkblpVOGQwdTAzd1BRT0tOanFpR2c3MlpYUzFUUkdYdm94UURObA?oc=5",
-          "publisher": "Dawn",
-          "published_at": "2026-11-04T07:00:06+05:00",
-          "topic": "trade"
-        },
-        {
           "id": "3d640856d44cd0b6",
           "title": "Thatta Cement enters EV business with plans to import affordable Chinese vehicles",
           "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNGRZMERzNFNKM2pHQ0k2RWdDVU5fMGJUMnFaNUg2RUNKWDZTM19peDVOUEQtWWF3d1Y3MWZDX2RXbTdWaHR2alFGVldXTi1qR2tFUzJiYUEzVXppMm5YbHZ6dTlabkV6QzA4Z2pqdktTamlqcDVqQTR5Z1o0c21iSHFLVXE0SGtWMTNtRFBsZGhFRjNmd3hqUF9qNFpUMXF0Wjh0OW44LWtYc25mZTA4eFZWOWxaMEJGbE5XVEp3bFNRZw?oc=5",
           "publisher": "Investify",
           "published_at": "2026-11-05T13:10:00+05:00",
           "topic": "trade"
-        },
-        {
-          "id": "3be6f2f573db165c",
-          "title": "U.S. Mid-Term Rout Unlikely to Change Trump’s Trade Policy",
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPWXhYSzRLdldFbjhsSHUwcU05QVJXa3BuLTB0b1Z1WHFiX2h2dFBwQ28yQWVESGNLMnU5dzd2ejlxTnZZb2o5WVRrZXUxWWE1OEtMXy1HMGpqRHJtZWhLd280Q3BxemtWamR4aWtfc1hoXzc0SGJkM1Vva3l3eTBQZ3hDbk1NZmJ5VHd5YUpkQlBiYVhXUnZCSFJyWXNyaFhjSk80UjlJWklyb1lfTWhaYloyR21peXpFakRkR3BYaF9VNl9lTVBKQ0dDOU1XM1R1QWtjTA?oc=5",
-          "publisher": "SupplyChainBrain",
-          "published_at": "2026-11-05T10:03:56+05:00",
-          "topic": "trade"
         }
       ],
-      "fetched_at": "2026-11-05T16:20:02.264574+05:00"
+      "fetched_at": "2026-11-05T21:21:32.830241+05:00"
     },
     {
       "id": "economy-2026-11-05",
@@ -105,6 +105,14 @@
           "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQaDR3ckREMlRzRTkyYVZnMGhzQkhFMmpDWWQzbzktTERVazg4SlNNbUdhZTRPdWRKcjhQbTh6a3Z3SmNTMUxqUWRabzBqSGZpQm9xcXFXNWdjRGJ1YUFrVk1iRENWWlpNYnRFQ1AxX1dGMW1kM1hNTndHME0zUEI4U1FB?oc=5",
           "publisher": "The Friday Times",
           "published_at": "2026-11-04T15:00:00+05:00",
+          "topic": "economy"
+        },
+        {
+          "id": "c03a7a116920705c",
+          "title": "Live Gold Prices | Gold News And Analysis | Mining News | KITCO",
+          "url": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE1MSHpVaXo3MDFUeWJjUmJ0NlB6NkktRGxIcDBqMW1vaVlSc3pUbmJ6OTl3cUgzTHUtemc?oc=5",
+          "publisher": "Kitco",
+          "published_at": "2026-11-05T14:41:52+05:00",
           "topic": "economy"
         },
         {
@@ -124,15 +132,31 @@
           "topic": "economy"
         },
         {
+          "id": "bc950c855ed79910",
+          "title": "Pakistan’s Car Investment Bubble Is Facing a Reality Check",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPS2YwNmp6bDFxZElDZ0RxVVpxQmIzM3NFX293UVlTdkJRNHhNckNIeWJOLVJERHVtTktzVlNxZllJVFcwb0wzY0FBTEVDNmRycVV4SkswaUdUZWdvTjMxbU5BUFdGNlcyWHhHYk4zTkJBZS1xNkJRaVZNYUhRLVdQUVZvNGZVWmgxMmRhMXZYc2JxOEk?oc=5",
+          "publisher": "Pakwheels",
+          "published_at": "2026-11-05T17:55:17+05:00",
+          "topic": "economy"
+        },
+        {
           "id": "b60d34c6773a2285",
           "title": "Pakistan’s rebound masks deeper problems weighing on economy: Bloomberg",
           "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRFVTdWlvRUNoV2pISHdlUnNaX09XaVhEMHRXazJNR1hvUWx0Z3FPVGlOamk4c2wtNTRwUjlyNl8xUzdielNIeGMtbE96dU9fSFo1d3Q0d2FNVk9nampGRXRrcFVkekZYWU5wV2o2RGxTaVJXclZsd3o5THFNLVNrTXZhcFFweVIxQU00R3VsSVFKN3hYN1dlR25GQWFwN09WWjg2Nmt5REUzdzNvVkkwTmc4dVN4NUk?oc=5",
           "publisher": "Profit by Pakistan Today",
           "published_at": "2026-11-04T07:45:55+05:00",
           "topic": "economy"
+        },
+        {
+          "id": "15d3963e803374fb",
+          "title": "Business Community Rejects SBP Interest Rate Hike, Warns of Industrial Crisis",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNT2tyc1JHODhTdzIyQ3BKbEJjVExLSlJqd2tSUHUxSldrRzR6WE9GcXBVYWtDNC15OGg1TnIxTTU3dEI3MmJhT2U5Z2NZWVdhcE1QNkVZVG04ZERuVEtrdnhQQmVYYnFIdG54T0Y2RTN0YjFvOVBTX0NHUmxsb2FOa2lxX0tPYkd2SGZ1UmJCLUljS3JMU1kzanJTMGlTWUtrek14NA?oc=5",
+          "publisher": "TechJuice",
+          "published_at": "2026-11-04T22:51:23+05:00",
+          "topic": "economy"
         }
       ],
-      "fetched_at": "2026-11-05T16:20:02.264574+05:00"
+      "fetched_at": "2026-11-05T21:21:32.830241+05:00"
     },
     {
       "id": "business-2026-11-05",
@@ -147,6 +171,14 @@
           "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNS0MyYnV2eC1IaFVBRWtwQ3VZRkxPWXk4YjBFOE1wT1JjWjJPZnkzZ1ozbDhCZHFwSTRHVjZILXBid2RSb2dvVTVpcmdWQnk4ODFSOUFjbUlrRFZHZTVSRndnd21YWHNTTVd5QXhzeDlaOENmLUNaOTVKTFFKY0dud1pCYWRlX1hmRklhV2dtWWRFbW1xRk1DZ2ZWcUp0MUlQSG1hZzBxQzZTYlU1a204MUZXODl5SnQxWDg5dFNVWVZldGlJalJ3WXpiRlV3UmptZ2ZuMEpDWHVHRUhC?oc=5",
           "publisher": "Arab News PK",
           "published_at": "2026-11-05T11:31:09+05:00",
+          "topic": "business"
+        },
+        {
+          "id": "49c3dd99d09c1e52",
+          "title": "Egypt offers Pakistan manufacturing hub to access US market",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5CVk9ST3hjQWNVa1lCenUzT0ZRaTk0dlJHUU8yR1o1cnpKaXNWbWwwdVo2TzBJcEUzb3JsdzdaT2NfaDlLWW5CMEtHTnh2MHJq0gFWQVVfeXFMTmVCbUx3X2Nxc21RZzFRdXFOM0FBWVNuWlRiUXRBWWdKVklhdVlWbWF2RlF0M001UWh5bEZodkx1NldoOTJlWTlwV1YybV9NVlRKb1pXX1E?oc=5",
+          "publisher": "Business Recorder",
+          "published_at": "2026-11-05T10:19:57+05:00",
           "topic": "business"
         },
         {
@@ -166,19 +198,11 @@
           "topic": "business"
         },
         {
-          "id": "9b77dd70e2df7f59",
-          "title": "Airlink launches AirV, enters Pakistan’s EV industry",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOY2ZtczZyeG1qTGVXcUhOOUQ2X3JiWnRwYTQzUGE1UmhBUFQ4bUxua0E4b1p1cjMtWGNpVzZGd2xhZmpOcy1sTnpNTkU0OHctWW1LOEtSX2U3QlYyVHdiTDBnU2plRG9UeHE0cWx5OFdwUmFhUmJqeGpUVUhUR09ZS2liMFotRzdNbjlHbHI0THlTTjIyV3VhWXJR?oc=5",
+          "id": "98f0a44b19489cbc",
+          "title": "Ethiopia invites Pakistani investors",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQWEJFbWV0dkJzZU5NdFhZZ0lkQU9DWlVnSnIwZUk3ZTZLakJWdXg2cVlaWElQTXFRRUlueUxhT2F2dnB5YXp6aUZPZXl4aGwzclJ6MlprSHY2bGZvR193UlNXLVJUNk5kOV9UeTBRZnZSa3h3X2NudkNhTTlFSFM0RFpPcnhOZw?oc=5",
           "publisher": "Investify",
-          "published_at": "2026-11-05T11:41:05+05:00",
-          "topic": "business"
-        },
-        {
-          "id": "7c95798c80219e0e",
-          "title": "Airlink launches AirV, enters Pakistan’s EV industry",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNbWktZ0lLTlhVeEtFQ2pwSm9pdG5VQ29xQ2t0UmhsTi1rWUNvMHNWTVl0em1MaXNfclU2ODRtc3h4REtfcUNwMXgwSkhZLXc3WmZsRjRCTFhiUjdsQlRvYXp3M251S0ZvVWYzTG55bXQyOTN0azZnN0hsbmYyVXd6R19hZjBoZG0xaDJuYkptaDZUTTBK0gFWQVVfeXFMTVNpbVlCLWpMQ09UVG1ZQmpwdU5nLWo4a0tYVE1BTUpLbTFid0t0ZC1RYks2THRJZG8xempTdWxPRkpsanBpa3JjOHRoMGs1XzlkSmRQQVE?oc=5",
-          "publisher": "Business Recorder",
-          "published_at": "2026-11-05T11:41:05+05:00",
+          "published_at": "2026-11-05T02:40:33+05:00",
           "topic": "business"
         },
         {
@@ -190,23 +214,23 @@
           "topic": "business"
         },
         {
-          "id": "889bc7409f0b49cf",
-          "title": "Thatta Cement Enters Pakistan’s Mass-Market EV Segment",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZHUxai1qUkF1VTFSSktMRmhFSVpGWS16VWF5U2NMWE52dGwzdFpQQUtWaDdhaDJPQkR2VlU0cTVHc29OaHhLMHB1S2xYcFVzVDdnZ2k2aEVjWTd1WlItOXNkODM5V093dlNnVk5PYUFOWm1lcktvbFZWeml2Wl9RSzhyN1NqQy14enp0aE5JSQ?oc=5",
-          "publisher": "Energy Update",
-          "published_at": "2026-11-05T14:57:06+05:00",
+          "id": "6b19f9a9f9b8951c",
+          "title": "Sudanese and Pakistani business federations sign MOU to deepen trade and investment ties",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNcFZ6UHNFNkpwVTlEREJ1alNqWERsRGptbnIyVlJJTnJwdkFpaVlzVFpQZ0xuSGx2cU1teGZGdEhJb1BMQUNlZVVTVC04dk5meWVFWnJBcldLVjRDU0NMRGhPQ05fblhyYzl2RjNZZ2VaUzFZRDVERmdjS3FjT1I4bVlKaHliNng0MVR3c0ZuVU1WN3VNSmRRQXgySXhTZC15V1ZXZnlhbjlTT2puVWRDUHJpdjgxanR6b0lMUEQ4M1RwMEJHOFE?oc=5",
+          "publisher": "United Nations Development Programme",
+          "published_at": "2026-11-04T13:00:00+05:00",
           "topic": "business"
         },
         {
-          "id": "98f0a44b19489cbc",
-          "title": "Ethiopia invites Pakistani investors",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQWEJFbWV0dkJzZU5NdFhZZ0lkQU9DWlVnSnIwZUk3ZTZLakJWdXg2cVlaWElQTXFRRUlueUxhT2F2dnB5YXp6aUZPZXl4aGwzclJ6MlprSHY2bGZvR193UlNXLVJUNk5kOV9UeTBRZnZSa3h3X2NudkNhTTlFSFM0RFpPcnhOZw?oc=5",
-          "publisher": "Investify",
-          "published_at": "2026-11-05T02:40:33+05:00",
+          "id": "7c95798c80219e0e",
+          "title": "Airlink launches AirV, enters Pakistan’s EV industry",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNbWktZ0lLTlhVeEtFQ2pwSm9pdG5VQ29xQ2t0UmhsTi1rWUNvMHNWTVl0em1MaXNfclU2ODRtc3h4REtfcUNwMXgwSkhZLXc3WmZsRjRCTFhiUjdsQlRvYXp3M251S0ZvVWYzTG55bXQyOTN0azZnN0hsbmYyVXd6R19hZjBoZG0xaDJuYkptaDZUTTBK0gFWQVVfeXFMTVNpbVlCLWpMQ09UVG1ZQmpwdU5nLWo4a0tYVE1BTUpLbTFid0t0ZC1RYks2THRJZG8xempTdWxPRkpsanBpa3JjOHRoMGs1XzlkSmRQQVE?oc=5",
+          "publisher": "Business Recorder",
+          "published_at": "2026-11-05T11:41:05+05:00",
           "topic": "business"
         }
       ],
-      "fetched_at": "2026-11-05T16:20:02.264574+05:00"
+      "fetched_at": "2026-11-05T21:21:32.830241+05:00"
     },
     {
       "id": "trade-2026-11-04",
