@@ -50,14 +50,14 @@
     ],
     [
       "appliances",
-      749661
+      778994
     ],
     [
       "pbs",
       343661
     ]
   ],
-  "checked_at": "2026-11-04T21:23:24.223847+00:00",
+  "checked_at": "2026-11-05T04:12:25.625630+00:00",
   "sources": [
     {
       "source": "PSO dated fuel archive",
@@ -80,7 +80,7 @@
     {
       "source": "PriceOye published listings",
       "status": "parsed",
-      "observed_records": 137,
+      "observed_records": 135,
       "new_records": 0
     },
     {
@@ -98,7 +98,7 @@
     {
       "source": "Additional mobile, laptop, watch and audio listings",
       "status": "parsed",
-      "new_records": 2
+      "new_records": 0
     },
     {
       "source": "Furniture and power-tool variant listings",
@@ -116,7 +116,7 @@
       "new_records": 0
     }
   ],
-  "quotes": 5633,
+  "quotes": 5635,
   "manual_queue": [
     "Verify new image rates before transcribing; source sheets refresh automatically",
     "Unsupported sources retain their dated quotes"
