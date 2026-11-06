@@ -6,15 +6,15 @@
     ],
     [
       "forex",
-      111785
+      110685
     ],
     [
       "gold",
-      111084
+      111299
     ],
     [
       "silver",
-      104322
+      104590
     ],
     [
       "pso-history",
@@ -26,15 +26,15 @@
     ],
     [
       "xiaomi",
-      504176
+      504462
     ],
     [
       "vivo",
-      438373
+      442727
     ],
     [
       "oppo",
-      462199
+      462344
     ],
     [
       "realme",
@@ -42,7 +42,7 @@
     ],
     [
       "infinix",
-      446828
+      446831
     ],
     [
       "tecno",
@@ -50,14 +50,14 @@
     ],
     [
       "appliances",
-      755881
+      748429
     ],
     [
       "pbs",
       344039
     ]
   ],
-  "checked_at": "2026-11-06T16:12:35.022841+00:00",
+  "checked_at": "2026-11-06T20:59:04.571837+00:00",
   "sources": [
     {
       "source": "PSO dated fuel archive",
@@ -74,14 +74,14 @@
     {
       "source": "Published currency tables",
       "status": "parsed",
-      "observed_records": 36,
+      "observed_records": 26,
       "new_records": 0
     },
     {
       "source": "PriceOye published listings",
       "status": "parsed",
-      "observed_records": 134,
-      "new_records": 0
+      "observed_records": 135,
+      "new_records": 1
     },
     {
       "source": "PBS weekly city prices",
@@ -98,7 +98,7 @@
     {
       "source": "Additional mobile, laptop, watch and audio listings",
       "status": "parsed",
-      "new_records": 2
+      "new_records": 3
     },
     {
       "source": "Furniture and power-tool variant listings",
@@ -116,7 +116,7 @@
       "new_records": 0
     }
   ],
-  "quotes": 5661,
+  "quotes": 5667,
   "manual_queue": [
     "Verify new image rates before transcribing; source sheets refresh automatically",
     "Unsupported sources retain their dated quotes"

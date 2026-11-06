@@ -1,6 +1,6 @@
 {
-  "checked_at": "2026-11-06",
-  "observed_offers": 2505,
+  "checked_at": "2026-11-07",
+  "observed_offers": 2509,
   "sources": [
     {
       "url": "https://www.zahcomputers.pk/shop/",
@@ -69,7 +69,7 @@
     {
       "url": "https://priceoye.pk/mobiles/vivo?page=4",
       "status": "parsed",
-      "observed_offers": 35
+      "observed_offers": 36
     },
     {
       "url": "https://priceoye.pk/mobiles/oppo?page=1",
@@ -279,7 +279,7 @@
     {
       "url": "https://mistore.pk/products.json?limit=250&page=1",
       "status": "parsed",
-      "observed_offers": 393
+      "observed_offers": 395
     },
     {
       "url": "https://mistore.pk/products.json?limit=250&page=2",
@@ -289,7 +289,7 @@
     {
       "url": "https://mistore.pk/products.json?limit=250&page=3",
       "status": "parsed",
-      "observed_offers": 205
+      "observed_offers": 206
     },
     {
       "url": "https://mistore.pk/products.json?limit=250&page=4",
