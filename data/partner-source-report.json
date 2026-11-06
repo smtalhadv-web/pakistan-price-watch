@@ -1,18 +1,18 @@
 {
-  "checked_at": "2026-11-06T09:18:14.776733+05:00",
-  "quotes": 5907,
+  "checked_at": "2026-11-06T16:17:24.584363+05:00",
+  "quotes": 5996,
   "checks": [
     {
       "store": "Chase Value",
       "url": "https://chasevalue.pk/products.json?limit=100&page=1",
       "status": "parsed",
-      "offers": 513
+      "offers": 411
     },
     {
       "store": "Chase Value",
       "url": "https://chasevalue.pk/products.json?limit=100&page=2",
       "status": "parsed",
-      "offers": 550
+      "offers": 563
     },
     {
       "store": "Naheed",
