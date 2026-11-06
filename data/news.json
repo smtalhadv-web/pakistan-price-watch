@@ -1,15 +1,15 @@
 {
-  "checked_at": "2026-11-06T16:17:33.531860+05:00",
+  "checked_at": "2026-11-06T21:12:55.013100+05:00",
   "checks": [
-    {
-      "topic": "economy",
-      "status": "updated",
-      "headlines": 5
-    },
     {
       "topic": "business",
       "status": "updated",
       "headlines": 8
+    },
+    {
+      "topic": "economy",
+      "status": "updated",
+      "headlines": 5
     },
     {
       "topic": "trade",
@@ -58,19 +58,11 @@
           "topic": "trade"
         },
         {
-          "id": "33ad7c54f3e35b03",
-          "title": "| Pakistan's $1 bn textile trade gain: Can it last beyond FY2026?",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOd2VkXzl1VVBUQTQ1UGVEU2duTVVfcFdBNGJOWkJDMGJITzZHaFdGYXB5MnNxeEJtNXJwRTNMSXVpZXZWbTM2NHRpb2taV0ZMb3FUanRjeUhPSGVMRTByaTlhM0dNaW9KZ3NmMnZ5VnlCZEtuUXFXbTBsTGVRWFlMNERqbTZBUTJINHpxQzdWc0dUa1lYZWRMSTJiZEVUVkxrdTdkQUNjMENHLWtuSHVKNk9fWlMzY193MXg4VHlrTmNYR3poSlJPZXZMajBRTkVHYzFlVTRhdGNQdHotYlZj?oc=5",
-          "publisher": "Fibre2Fashion",
-          "published_at": "2026-11-04T18:42:52+05:00",
-          "topic": "trade"
-        },
-        {
-          "id": "349fbbd2f5ca804e",
-          "title": "Import surge widens trade deficit to $7.47b in Q1",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaE5xRUx1VXVDcDlRTUVxMXpFMi1sa2pNWDY1ZFhSdkhXSG1mNGE4dTBPcjlOeVJTMV9HNzdIRl9iNGcydWJKeTJPOS1CSnNQdFlPbEdtbUNHQkJnWV9uUlhkUWZrVVFJWkNZRDZZajllSm9sdS1VNjFrNGtSOG9yRE1jNjZfUmVP?oc=5",
-          "publisher": "The Business Standard",
-          "published_at": "2026-11-05T20:20:00+05:00",
+          "id": "4089b46817c714b2",
+          "title": "FBR’s masterclass in policy uncertainty",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBpVGllT1AxRmhLQnozaTA4Ui1VelNpc0hZOXA1OTFKT0c3dHRROHZzVDhmNDU0N1A1RmJSVUs4OS1wOHBkTlVrcDVfQ3FJYUNC0gFWQVVfeXFMTmo0YW0yQWZVS21kS0wzNjVsalVmUVNqWGx3S0kydUlFamk5clNLM1JzSDBSQnFXZDhzSWJGTTVzQ1RBMm4wMWt5VnBFOVcwcVFQME1rc1E?oc=5",
+          "publisher": "Business Recorder",
+          "published_at": "2026-11-06T05:47:12+05:00",
           "topic": "trade"
         },
         {
@@ -82,15 +74,23 @@
           "topic": "trade"
         },
         {
-          "id": "42dfc76b0d8f9ed2",
-          "title": "Customs uncover Rs277m import fraud",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPa2FfbGtsNWtuRHhCSk1pQ2o5Nk95dVlqbjZzb1dmREtXVUFYY1BhLThsdmZvWEF2UzNQSW9uSThvTGZXMDBCWUJtMUY4dGRzTC0xeWM4UDF1ckJOUXVheWxmODZoVGNUWkVSR2pvajVVS3VMbjJfU3I1d3V2VEZxaUtqVmjSAYQBQVVfeXFMT2thX2xrbDVrbkR4QkpNaUNqOTZPeXVZam42c29XZkRLV1VBWGNQYS04bHZmb1hBdlMzUElvbkk4b0xmVzAwQllCbTFGOHRkc0wtMXljOFAxdXJCTlF1YXlsZjg2aFRjVFpFUkdqb2o1VUt1TG4yX1NyNXd1dlRGcWlLalZo?oc=5",
-          "publisher": "The Express Tribune",
-          "published_at": "2026-11-05T08:08:23+05:00",
+          "id": "349fbbd2f5ca804e",
+          "title": "Import surge widens trade deficit to $7.47b in Q1",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaE5xRUx1VXVDcDlRTUVxMXpFMi1sa2pNWDY1ZFhSdkhXSG1mNGE4dTBPcjlOeVJTMV9HNzdIRl9iNGcydWJKeTJPOS1CSnNQdFlPbEdtbUNHQkJnWV9uUlhkUWZrVVFJWkNZRDZZajllSm9sdS1VNjFrNGtSOG9yRE1jNjZfUmVP?oc=5",
+          "publisher": "The Business Standard",
+          "published_at": "2026-11-05T20:20:00+05:00",
+          "topic": "trade"
+        },
+        {
+          "id": "c6cc19f910d8154d",
+          "title": "EU charges TikTok over harmful algorithmic 'rabbit hole' effects",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQN2ZOS3gtRmFzUXFqTFVJM2l4bVJHWmpqR3c2eWtfNW5aVWdNUmVsakVjZTdVV1FZYkR3VjZ3X25yd0o3VmI5RzM1OVVFYWJxV2Z2MkZIdWw4Rk1zNDFlaF9QQU1lUF81VG54d3NHT1VJUG5ZWnFrd29peGNMVnRJNThNemt3RS1HdTZmVWNWUHBfd3dDWW8zbnByVDFYeDVmUm9waNIBVkFVX3lxTE44dWxyTktfQnlZTDJhRmVyRklGVmNyVkprWTUxRVFmMHRueXU2MjZtNWp6THRGQWYwUW9QeUtLTHZqRHRSelMtSE15S0FITkRaZHRkaDdn?oc=5",
+          "publisher": "Business Recorder",
+          "published_at": "2026-11-06T16:29:07+05:00",
           "topic": "trade"
         }
       ],
-      "fetched_at": "2026-11-06T16:17:33.531860+05:00"
+      "fetched_at": "2026-11-06T21:12:55.013100+05:00"
     },
     {
       "id": "economy-2026-11-06",
@@ -116,19 +116,19 @@
           "topic": "economy"
         },
         {
-          "id": "ddacdd0005859855",
-          "title": "MCX gold prices dip Rs 2,400/10g; silver falls Rs 3,400/kg on Dhanteras as rate hike bets rise again. Buy,",
-          "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNOElOM3psSzdWdFZUNlNEVjRSR1UwRnU2WGxxRVBsaHhZSllmVk9tTk95b2NZWmFCQlF0dzJGNkt3d1ZjeTREN0dubnVhRU9CNUhoU09Oc05xX3RsaUU5WlZJRVNGckROUmp4NVFMSGVmVFNQWE80TXBXY3htY29hNWtPblIwZFRJLUxKMldjd2lvX2FiaDdNaDVlSFBKRDVlZUJWbEd5aFA1VXhkMUZxbm9jcXltQmtYSXJkemVXQUVEUE0tYzc2dXdNV29sdUFTclZBWXBid205UzRiN2xFSzBwSWIwQ1k1cmNrTnhPSXFrME9JWXJPRFBDTWtLWl9QSFJIQVlQa3EzdzdyZUxVT2cxUGlRTjZVVU5yZl9zR0ZjSTDSAaMCQVVfeXFMTThJTjN6bEs3VnRWVDZTRFY0UkdVMEZ1NlhscUVQbGh4WUpZZlZPbU5PeW9jWVphQkJRdHcyRjZLd3dWY3k0RDdHbm51YUVPQjVIaFNPTnNOcV90bGlFOVpWSUVTRnJETlJqeDVRTEhlZlRTUFhPNE1wV2N4bWNvYTVrT25SMGRUSS1MSjJXY3dpb19hYmg3TWg1ZUhQSkQ1ZWVCVmxHeWhQNVV4ZDFGcW5vY3F5bUJrWElyZHplV0FFRFBNLWM3NnV3TVdvbHVBU3JWQVlwYndtOVM0YjdsRUswcEliMENZNXJja054T0lxazBPSVlyT0RQQ01rS1pfUEhSSEFZUGtxM3c3cmVMVU9nMVBpUU42VVVOcmZfc0dGY0kw?oc=5",
-          "publisher": "The Economic Times",
-          "published_at": "2026-11-06T10:03:00+05:00",
-          "topic": "economy"
-        },
-        {
           "id": "bc950c855ed79910",
           "title": "Pakistan’s Car Investment Bubble Is Facing a Reality Check",
           "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPS2YwNmp6bDFxZElDZ0RxVVpxQmIzM3NFX293UVlTdkJRNHhNckNIeWJOLVJERHVtTktzVlNxZllJVFcwb0wzY0FBTEVDNmRycVV4SkswaUdUZWdvTjMxbU5BUFdGNlcyWHhHYk4zTkJBZS1xNkJRaVZNYUhRLVdQUVZvNGZVWmgxMmRhMXZYc2JxOEk?oc=5",
           "publisher": "Pakwheels",
           "published_at": "2026-11-05T17:55:17+05:00",
+          "topic": "economy"
+        },
+        {
+          "id": "b866472969ccb6c8",
+          "title": "Kirloskar Industries' Q2 profit slips nearly 4 pc to Rs 51 crore",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSW9aV2NWbFlWOUk3WnREV2tYbzZOTEtsSnRPLXNBZ2p5Yi1fS25aU0VVQXpJMVdvZlJKWGptTk5iUENTNlBXbVJ2M2I2NERFM1E3WFhtVkU4MGFIY1duNllSS05tVEhSUzQ4SG53bS1DNTZvTHRabm1Walk2czhTd254TjRxLWZZcU9YUW90TDRUNE85Mk16Ni1BLTdqckM1b3RlMWE1M3ZIclcxVkVfVW5n?oc=5",
+          "publisher": "The Hawk",
+          "published_at": "2026-11-06T16:44:39+05:00",
           "topic": "economy"
         },
         {
@@ -140,7 +140,7 @@
           "topic": "economy"
         }
       ],
-      "fetched_at": "2026-11-06T16:17:33.531860+05:00"
+      "fetched_at": "2026-11-06T21:12:55.013100+05:00"
     },
     {
       "id": "business-2026-11-06",
@@ -150,11 +150,11 @@
       "context": "Company and industry developments can affect supply, stock availability and competition. Compare dated supplier offers before making a purchase decision.",
       "headlines": [
         {
-          "id": "e5cd1173a85b65b8",
-          "title": "Egypt offers access to US market",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9mNlYxakN6MjdkblBUNUFLTTh1SHNZdmc5RWVobDJUcm1wbGVUVHp6QzV5QXlpRTdPOFp3Ty1IQ3JNV3FBNno4TWN0dDFlMFlTV1J5RzBVaXJJQmU1aGR3N0l2SzhtdUh1WGZlNFZ5M2k5R2pvVUVEQ9IBgAFBVV95cUxNeWswdTJiRlJJZ0RhVWhNTXlQZy11WFJIWjF4bFVCMnNyd2g3bVJ6SlFkZnQtYjg5NmgxNkFZQk10WTlyOUpsNi1TYk9JNFdXRGVpVUdNWmlGb25vZU1xVUFSd1hWaEpoMGthQUl1Tm9RSEdXaWx2VFNrVzVqOXY3eA?oc=5",
-          "publisher": "The Express Tribune",
-          "published_at": "2026-11-06T03:16:35+05:00",
+          "id": "99b3f4685c226c83",
+          "title": "LUMS and American Business Forum Host “From Stabilisation to Growth: Pakistan’s Long-Term Reform Agenda”",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOckpYOEk3N2ZBbU5rNVVXVTZPU0hCV01JZGp5MXRYLWN5SS1TRjRhZG9aTDE2eElPQ0xUdUc1VXE0UklZSXFrVTRrS1c1YUVfMzJlNl9OOXh0V0lQdnJGLXo3aGdEYW1mTDM3S3B4bHdabWtUbGJtXzFqOGItOHNGWml1RXNNemRYZDVZNVZTOVdMcTNwU0FZX3hQX19yVFhZbTNmTGtTanlHcDFXaUJLcllSb3lPYWps?oc=5",
+          "publisher": "LUMS",
+          "published_at": "2026-11-06T14:36:20+05:00",
           "topic": "business"
         },
         {
@@ -166,11 +166,11 @@
           "topic": "business"
         },
         {
-          "id": "7e8145955be0ecee",
-          "title": "Russia agrees to advance bilateral technology cooperation",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBGd0k0SDlaU0ZvUzE2aHdES2h6LVBHaW5GXzNGckFGajlkSU1laFJpejZqMURyY2JTM2x3U284eFFtSm5hVXk4TXBsU2NPYWV3bi1WMThB0gFWQVVfeXFMUEZ3STRIOVpTRm9TMTZod0RLaHotUEdpbkZfM0ZyQUZqOWRJTWVoUml6NmoxRHJjYlMzbHdTbzh4UW1KbmFVeThNcGxTY09hZXduLVYxOEE?oc=5",
-          "publisher": "Business Recorder",
-          "published_at": "2026-11-06T07:49:35+05:00",
+          "id": "e5cd1173a85b65b8",
+          "title": "Egypt offers access to US market",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9mNlYxakN6MjdkblBUNUFLTTh1SHNZdmc5RWVobDJUcm1wbGVUVHp6QzV5QXlpRTdPOFp3Ty1IQ3JNV3FBNno4TWN0dDFlMFlTV1J5RzBVaXJJQmU1aGR3N0l2SzhtdUh1WGZlNFZ5M2k5R2pvVUVEQ9IBgAFBVV95cUxNeWswdTJiRlJJZ0RhVWhNTXlQZy11WFJIWjF4bFVCMnNyd2g3bVJ6SlFkZnQtYjg5NmgxNkFZQk10WTlyOUpsNi1TYk9JNFdXRGVpVUdNWmlGb25vZU1xVUFSd1hWaEpoMGthQUl1Tm9RSEdXaWx2VFNrVzVqOXY3eA?oc=5",
+          "publisher": "The Express Tribune",
+          "published_at": "2026-11-06T03:16:35+05:00",
           "topic": "business"
         },
         {
@@ -179,6 +179,14 @@
           "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNS0MyYnV2eC1IaFVBRWtwQ3VZRkxPWXk4YjBFOE1wT1JjWjJPZnkzZ1ozbDhCZHFwSTRHVjZILXBid2RSb2dvVTVpcmdWQnk4ODFSOUFjbUlrRFZHZTVSRndnd21YWHNTTVd5QXhzeDlaOENmLUNaOTVKTFFKY0dud1pCYWRlX1hmRklhV2dtWWRFbW1xRk1DZ2ZWcUp0MUlQSG1hZzBxQzZTYlU1a204MUZXODl5SnQxWDg5dFNVWVZldGlJalJ3WXpiRlV3UmptZ2ZuMEpDWHVHRUhC?oc=5",
           "publisher": "Arab News PK",
           "published_at": "2026-11-05T11:31:09+05:00",
+          "topic": "business"
+        },
+        {
+          "id": "7e8145955be0ecee",
+          "title": "Russia agrees to advance bilateral technology cooperation",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBGd0k0SDlaU0ZvUzE2aHdES2h6LVBHaW5GXzNGckFGajlkSU1laFJpejZqMURyY2JTM2x3U284eFFtSm5hVXk4TXBsU2NPYWV3bi1WMThB0gFWQVVfeXFMUEZ3STRIOVpTRm9TMTZod0RLaHotUEdpbkZfM0ZyQUZqOWRJTWVoUml6NmoxRHJjYlMzbHdTbzh4UW1KbmFVeThNcGxTY09hZXduLVYxOEE?oc=5",
+          "publisher": "Business Recorder",
+          "published_at": "2026-11-06T07:49:35+05:00",
           "topic": "business"
         },
         {
@@ -204,17 +212,9 @@
           "publisher": "Investify",
           "published_at": "2026-11-05T11:41:05+05:00",
           "topic": "business"
-        },
-        {
-          "id": "889bc7409f0b49cf",
-          "title": "Thatta Cement Enters Pakistan’s Mass-Market EV Segment",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZHUxai1qUkF1VTFSSktMRmhFSVpGWS16VWF5U2NMWE52dGwzdFpQQUtWaDdhaDJPQkR2VlU0cTVHc29OaHhLMHB1S2xYcFVzVDdnZ2k2aEVjWTd1WlItOXNkODM5V093dlNnVk5PYUFOWm1lcktvbFZWeml2Wl9RSzhyN1NqQy14enp0aE5JSQ?oc=5",
-          "publisher": "Energy Update",
-          "published_at": "2026-11-05T14:57:06+05:00",
-          "topic": "business"
         }
       ],
-      "fetched_at": "2026-11-06T16:17:33.531860+05:00"
+      "fetched_at": "2026-11-06T21:12:55.013100+05:00"
     },
     {
       "id": "trade-2026-11-05",

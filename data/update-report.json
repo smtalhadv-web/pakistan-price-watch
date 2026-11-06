@@ -14,11 +14,11 @@
     ],
     [
       "silver",
-      104321
+      104322
     ],
     [
       "pso-history",
-      232380
+      230565
     ],
     [
       "samsung",
@@ -50,14 +50,14 @@
     ],
     [
       "appliances",
-      757132
+      755881
     ],
     [
       "pbs",
       344039
     ]
   ],
-  "checked_at": "2026-11-06T11:17:12.339066+00:00",
+  "checked_at": "2026-11-06T16:12:35.022841+00:00",
   "sources": [
     {
       "source": "PSO dated fuel archive",
@@ -98,7 +98,7 @@
     {
       "source": "Additional mobile, laptop, watch and audio listings",
       "status": "parsed",
-      "new_records": 1
+      "new_records": 2
     },
     {
       "source": "Furniture and power-tool variant listings",
@@ -116,7 +116,7 @@
       "new_records": 0
     }
   ],
-  "quotes": 5658,
+  "quotes": 5661,
   "manual_queue": [
     "Verify new image rates before transcribing; source sheets refresh automatically",
     "Unsupported sources retain their dated quotes"
