@@ -1,6 +1,6 @@
 {
-  "started_at": "2026-11-07T10:31:37.120393+00:00",
-  "completed_at": "2026-11-07T10:32:32.084310+00:00",
+  "started_at": "2026-11-07T16:15:45.118669+00:00",
+  "completed_at": "2026-11-07T16:16:32.600191+00:00",
   "status": "partial",
   "timezone": "Asia/Karachi",
   "scheduled_times": [
@@ -11,13 +11,13 @@
     {
       "name": "collect.py",
       "status": "completed",
-      "elapsed_seconds": 3.2,
+      "elapsed_seconds": 4.0,
       "detail": ""
     },
     {
       "name": "download_sources.py",
       "status": "completed",
-      "elapsed_seconds": 1.9,
+      "elapsed_seconds": 3.2,
       "detail": ""
     },
     {
@@ -29,7 +29,7 @@
     {
       "name": "expand_fetch.py",
       "status": "completed",
-      "elapsed_seconds": 30.4,
+      "elapsed_seconds": 1.6,
       "detail": ""
     },
     {
@@ -41,19 +41,19 @@
     {
       "name": "commerce.py",
       "status": "completed",
-      "elapsed_seconds": 9.1,
+      "elapsed_seconds": 28.1,
       "detail": ""
     },
     {
       "name": "partner_sources.py",
       "status": "completed",
-      "elapsed_seconds": 6.1,
+      "elapsed_seconds": 6.9,
       "detail": ""
     },
     {
       "name": "extra_sources.py",
       "status": "completed",
-      "elapsed_seconds": 1.6,
+      "elapsed_seconds": 1.0,
       "detail": ""
     }
   ],
@@ -84,7 +84,7 @@
       "url": null,
       "status": "verified",
       "detail": "parsed",
-      "quotes": 134
+      "quotes": 135
     },
     {
       "source": "PBS weekly city prices",
@@ -124,16 +124,16 @@
     {
       "source": "Toyota manufacturer vehicle price configuration",
       "url": null,
-      "status": "not_verified",
-      "detail": "manual_required",
+      "status": "verified",
+      "detail": "parsed",
       "quotes": 0
     },
     {
       "source": "https://www.zahcomputers.pk/shop/",
       "url": "https://www.zahcomputers.pk/shop/",
-      "status": "not_verified",
-      "detail": "fetch failed; previous quote retained",
-      "quotes": 0
+      "status": "verified",
+      "detail": "parsed",
+      "quotes": 24
     },
     {
       "source": "https://www.galaxy.pk/laptops",
@@ -476,7 +476,7 @@
       "url": "https://priceoye.pk/trimmers-shavers?page=1",
       "status": "verified",
       "detail": "parsed",
-      "quotes": 28
+      "quotes": 29
     },
     {
       "source": "https://priceoye.pk/trimmers-shavers?page=2",
@@ -556,6 +556,286 @@
       "quotes": 0
     },
     {
+      "source": "https://www.zahcomputers.pk/category/apple-accessories",
+      "url": "https://www.zahcomputers.pk/category/apple-accessories",
+      "status": "verified",
+      "detail": "parsed",
+      "quotes": 20
+    },
+    {
+      "source": "https://www.zahcomputers.pk/category/cables",
+      "url": "https://www.zahcomputers.pk/category/cables",
+      "status": "verified",
+      "detail": "parsed",
+      "quotes": 24
+    },
+    {
+      "source": "https://www.zahcomputers.pk/category/casing",
+      "url": "https://www.zahcomputers.pk/category/casing",
+      "status": "verified",
+      "detail": "parsed",
+      "quotes": 21
+    },
+    {
+      "source": "https://www.zahcomputers.pk/category/cooling-solutions",
+      "url": "https://www.zahcomputers.pk/category/cooling-solutions",
+      "status": "verified",
+      "detail": "parsed",
+      "quotes": 23
+    },
+    {
+      "source": "https://www.zahcomputers.pk/category/cooling-solutions/air-cooler",
+      "url": "https://www.zahcomputers.pk/category/cooling-solutions/air-cooler",
+      "status": "verified",
+      "detail": "parsed",
+      "quotes": 12
+    },
+    {
+      "source": "https://www.zahcomputers.pk/category/cooling-solutions/cooling-fans",
+      "url": "https://www.zahcomputers.pk/category/cooling-solutions/cooling-fans",
+      "status": "verified",
+      "detail": "parsed",
+      "quotes": 23
+    },
+    {
+      "source": "https://www.zahcomputers.pk/category/cooling-solutions/liquid-cooler-aio",
+      "url": "https://www.zahcomputers.pk/category/cooling-solutions/liquid-cooler-aio",
+      "status": "verified",
+      "detail": "parsed",
+      "quotes": 18
+    },
+    {
+      "source": "https://www.zahcomputers.pk/category/cooling-solutions/thermal-paste-pads",
+      "url": "https://www.zahcomputers.pk/category/cooling-solutions/thermal-paste-pads",
+      "status": "verified",
+      "detail": "parsed",
+      "quotes": 15
+    },
+    {
+      "source": "https://www.zahcomputers.pk/category/gaming-chairs",
+      "url": "https://www.zahcomputers.pk/category/gaming-chairs",
+      "status": "verified",
+      "detail": "parsed",
+      "quotes": 23
+    },
+    {
+      "source": "https://www.zahcomputers.pk/category/gaming-console",
+      "url": "https://www.zahcomputers.pk/category/gaming-console",
+      "status": "verified",
+      "detail": "parsed",
+      "quotes": 7
+    },
+    {
+      "source": "https://www.zahcomputers.pk/category/gaming-controllers",
+      "url": "https://www.zahcomputers.pk/category/gaming-controllers",
+      "status": "verified",
+      "detail": "parsed",
+      "quotes": 24
+    },
+    {
+      "source": "https://www.zahcomputers.pk/category/gaming-desks",
+      "url": "https://www.zahcomputers.pk/category/gaming-desks",
+      "status": "verified",
+      "detail": "parsed",
+      "quotes": 6
+    },
+    {
+      "source": "https://www.zahcomputers.pk/category/gaming-vr-headsets",
+      "url": "https://www.zahcomputers.pk/category/gaming-vr-headsets",
+      "status": "not_verified",
+      "detail": "parsed",
+      "quotes": 0
+    },
+    {
+      "source": "https://www.zahcomputers.pk/category/graphics-cards",
+      "url": "https://www.zahcomputers.pk/category/graphics-cards",
+      "status": "verified",
+      "detail": "parsed",
+      "quotes": 23
+    },
+    {
+      "source": "https://www.zahcomputers.pk/category/graphics-cards-refurb",
+      "url": "https://www.zahcomputers.pk/category/graphics-cards-refurb",
+      "status": "verified",
+      "detail": "parsed",
+      "quotes": 1
+    },
+    {
+      "source": "https://www.zahcomputers.pk/category/graphics-tablet",
+      "url": "https://www.zahcomputers.pk/category/graphics-tablet",
+      "status": "not_verified",
+      "detail": "parsed",
+      "quotes": 0
+    },
+    {
+      "source": "https://www.zahcomputers.pk/category/headphones-earphones",
+      "url": "https://www.zahcomputers.pk/category/headphones-earphones",
+      "status": "verified",
+      "detail": "parsed",
+      "quotes": 24
+    },
+    {
+      "source": "https://www.zahcomputers.pk/category/imac",
+      "url": "https://www.zahcomputers.pk/category/imac",
+      "status": "verified",
+      "detail": "parsed",
+      "quotes": 6
+    },
+    {
+      "source": "https://www.zahcomputers.pk/category/ipad",
+      "url": "https://www.zahcomputers.pk/category/ipad",
+      "status": "verified",
+      "detail": "parsed",
+      "quotes": 3
+    },
+    {
+      "source": "https://www.zahcomputers.pk/category/keyboards",
+      "url": "https://www.zahcomputers.pk/category/keyboards",
+      "status": "verified",
+      "detail": "parsed",
+      "quotes": 24
+    },
+    {
+      "source": "https://www.zahcomputers.pk/category/laptop",
+      "url": "https://www.zahcomputers.pk/category/laptop",
+      "status": "verified",
+      "detail": "parsed",
+      "quotes": 22
+    },
+    {
+      "source": "https://www.zahcomputers.pk/category/laptop-bags",
+      "url": "https://www.zahcomputers.pk/category/laptop-bags",
+      "status": "verified",
+      "detail": "parsed",
+      "quotes": 16
+    },
+    {
+      "source": "https://www.zahcomputers.pk/category/laptop/laptop-coolers",
+      "url": "https://www.zahcomputers.pk/category/laptop/laptop-coolers",
+      "status": "verified",
+      "detail": "parsed",
+      "quotes": 3
+    },
+    {
+      "source": "https://www.zahcomputers.pk/category/laptop/laptop-refurb",
+      "url": "https://www.zahcomputers.pk/category/laptop/laptop-refurb",
+      "status": "verified",
+      "detail": "parsed",
+      "quotes": 3
+    },
+    {
+      "source": "https://www.zahcomputers.pk/category/laptop/new-laptop",
+      "url": "https://www.zahcomputers.pk/category/laptop/new-laptop",
+      "status": "verified",
+      "detail": "parsed",
+      "quotes": 2
+    },
+    {
+      "source": "https://www.zahcomputers.pk/category/laptop/used-laptop",
+      "url": "https://www.zahcomputers.pk/category/laptop/used-laptop",
+      "status": "verified",
+      "detail": "parsed",
+      "quotes": 3
+    },
+    {
+      "source": "https://www.zahcomputers.pk/category/macbook",
+      "url": "https://www.zahcomputers.pk/category/macbook",
+      "status": "verified",
+      "detail": "parsed",
+      "quotes": 24
+    },
+    {
+      "source": "https://www.zahcomputers.pk/category/memory-module-ram",
+      "url": "https://www.zahcomputers.pk/category/memory-module-ram",
+      "status": "verified",
+      "detail": "parsed",
+      "quotes": 22
+    },
+    {
+      "source": "https://www.zahcomputers.pk/category/microphone",
+      "url": "https://www.zahcomputers.pk/category/microphone",
+      "status": "verified",
+      "detail": "parsed",
+      "quotes": 24
+    },
+    {
+      "source": "https://www.zahcomputers.pk/category/mini-pc",
+      "url": "https://www.zahcomputers.pk/category/mini-pc",
+      "status": "not_verified",
+      "detail": "parsed",
+      "quotes": 0
+    },
+    {
+      "source": "https://www.zahcomputers.pk/category/monitor-arms",
+      "url": "https://www.zahcomputers.pk/category/monitor-arms",
+      "status": "verified",
+      "detail": "parsed",
+      "quotes": 16
+    },
+    {
+      "source": "https://www.zahcomputers.pk/category/monitors",
+      "url": "https://www.zahcomputers.pk/category/monitors",
+      "status": "verified",
+      "detail": "parsed",
+      "quotes": 22
+    },
+    {
+      "source": "https://www.zahcomputers.pk/category/monitors-open-box",
+      "url": "https://www.zahcomputers.pk/category/monitors-open-box",
+      "status": "verified",
+      "detail": "parsed",
+      "quotes": 5
+    },
+    {
+      "source": "https://www.zahcomputers.pk/category/motherboard-chipset",
+      "url": "https://www.zahcomputers.pk/category/motherboard-chipset",
+      "status": "verified",
+      "detail": "parsed",
+      "quotes": 23
+    },
+    {
+      "source": "https://www.zahcomputers.pk/category/mouse",
+      "url": "https://www.zahcomputers.pk/category/mouse",
+      "status": "verified",
+      "detail": "parsed",
+      "quotes": 15
+    },
+    {
+      "source": "https://www.zahcomputers.pk/category/mouse-pad",
+      "url": "https://www.zahcomputers.pk/category/mouse-pad",
+      "status": "verified",
+      "detail": "parsed",
+      "quotes": 24
+    },
+    {
+      "source": "https://www.zahcomputers.pk/category/new-laptop",
+      "url": "https://www.zahcomputers.pk/category/new-laptop",
+      "status": "not_verified",
+      "detail": "parsed",
+      "quotes": 0
+    },
+    {
+      "source": "https://www.zahcomputers.pk/category/portable-bluetooth-speakers",
+      "url": "https://www.zahcomputers.pk/category/portable-bluetooth-speakers",
+      "status": "verified",
+      "detail": "parsed",
+      "quotes": 24
+    },
+    {
+      "source": "https://www.zahcomputers.pk/category/power-supplies",
+      "url": "https://www.zahcomputers.pk/category/power-supplies",
+      "status": "verified",
+      "detail": "parsed",
+      "quotes": 24
+    },
+    {
+      "source": "https://www.zahcomputers.pk/category/pre-builds",
+      "url": "https://www.zahcomputers.pk/category/pre-builds",
+      "status": "verified",
+      "detail": "parsed",
+      "quotes": 7
+    },
+    {
       "source": "https://www.galaxy.pk/desktops",
       "url": "https://www.galaxy.pk/desktops",
       "status": "not_verified",
@@ -616,14 +896,14 @@
       "url": "https://chasevalue.pk/products.json?limit=100&page=1",
       "status": "verified",
       "detail": "parsed",
-      "quotes": 430
+      "quotes": 465
     },
     {
       "source": "Chase Value",
       "url": "https://chasevalue.pk/products.json?limit=100&page=2",
       "status": "verified",
       "detail": "parsed",
-      "quotes": 713
+      "quotes": 459
     },
     {
       "source": "Naheed",
@@ -658,7 +938,7 @@
       "url": "https://www.naheed.pk/groceries-pets/baking-cooking/flours-meals",
       "status": "verified",
       "detail": "parsed",
-      "quotes": 32
+      "quotes": 31
     },
     {
       "source": "Paklap",
@@ -679,7 +959,7 @@
       "url": "https://metro-online.pk/",
       "status": "verified",
       "detail": "parsed",
-      "quotes": 226
+      "quotes": 225
     },
     {
       "source": "Foodpanda / Kifayah",
@@ -731,9 +1011,9 @@
       "quotes": 29
     }
   ],
-  "total_quotes": 14252,
-  "verified_quotes": 6437,
-  "changed_prices": 48,
-  "new_quotes": 255,
-  "retained_quotes": 7815
+  "total_quotes": 14790,
+  "verified_quotes": 6855,
+  "changed_prices": 42,
+  "new_quotes": 538,
+  "retained_quotes": 7935
 }

@@ -1,18 +1,18 @@
 {
-  "checked_at": "2026-11-07T15:32:24.443529+05:00",
-  "quotes": 6772,
+  "checked_at": "2026-11-07T21:16:24.706975+05:00",
+  "quotes": 7152,
   "checks": [
     {
       "store": "Chase Value",
       "url": "https://chasevalue.pk/products.json?limit=100&page=1",
       "status": "parsed",
-      "offers": 430
+      "offers": 465
     },
     {
       "store": "Chase Value",
       "url": "https://chasevalue.pk/products.json?limit=100&page=2",
       "status": "parsed",
-      "offers": 713
+      "offers": 459
     },
     {
       "store": "Naheed",
@@ -42,7 +42,7 @@
       "store": "Naheed",
       "url": "https://www.naheed.pk/groceries-pets/baking-cooking/flours-meals",
       "status": "parsed",
-      "offers": 32
+      "offers": 31
     },
     {
       "store": "Paklap",
@@ -60,7 +60,7 @@
       "store": "Metro",
       "url": "https://metro-online.pk/",
       "status": "parsed",
-      "offers": 226
+      "offers": 225
     },
     {
       "store": "Foodpanda / Kifayah",

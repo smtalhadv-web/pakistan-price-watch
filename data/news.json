@@ -1,15 +1,15 @@
 {
-  "checked_at": "2026-11-07T15:32:33.228252+05:00",
+  "checked_at": "2026-11-07T21:16:34.439640+05:00",
   "checks": [
-    {
-      "topic": "economy",
-      "status": "updated",
-      "headlines": 5
-    },
     {
       "topic": "business",
       "status": "updated",
       "headlines": 8
+    },
+    {
+      "topic": "economy",
+      "status": "updated",
+      "headlines": 4
     },
     {
       "topic": "trade",
@@ -42,11 +42,19 @@
           "topic": "trade"
         },
         {
-          "id": "4089b46817c714b2",
-          "title": "FBR’s masterclass in policy uncertainty",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBpVGllT1AxRmhLQnozaTA4Ui1VelNpc0hZOXA1OTFKT0c3dHRROHZzVDhmNDU0N1A1RmJSVUs4OS1wOHBkTlVrcDVfQ3FJYUNC0gFWQVVfeXFMTmo0YW0yQWZVS21kS0wzNjVsalVmUVNqWGx3S0kydUlFamk5clNLM1JzSDBSQnFXZDhzSWJGTTVzQ1RBMm4wMWt5VnBFOVcwcVFQME1rc1E?oc=5",
+          "id": "621c0627c2091de1",
+          "title": "Pakistan eyes $6 billion auto exports over five years in proposed policy overhaul",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQmJaOWQ4S21PT05ia3FHdnN3QXRZZFR6MmE2Q0hIeGItMmZ3alliX2RqRm5MY190NF9zVG5BeldDWTgzMEpEcThCcTNvazZfckZpR2tWMnppaEwtblItZF9xLW80ZTZfN3RWSnJ3ZmEtNFpsVGt6YWFfV09RZmROb3kzVERjc0M2am5ld0p2eFE0aklpcE9WTWVGNzZUMWVBUXQ4WjJUaWMxR242WjV3UGRrR3MxTm83OElJRHVB?oc=5",
+          "publisher": "Arab News PK",
+          "published_at": "2026-11-07T19:15:53+05:00",
+          "topic": "trade"
+        },
+        {
+          "id": "23762edd7b9169ac",
+          "title": "Pakistan’s trade deficit surges 20% YoY to $3.9bn in October 2026",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1QdXZ2cjYzMGduendZekgwNFRWa2pNejI2YU9SODQxcGZlYmZ6TlFfOFg5d3JJSklrX3FORHZVSDNjNnoySlo2WFZOWXNIZWlI0gFWQVVfeXFMT2ItYzVSNFJlWTVJWGtoVEJGazduYUJJSVdZRXdXWFpQMEx3ZUNZdWdTTkJ0ZDFvYnU1NEFZVlZ5T0xXSGxRbWZ6cXZkSmQycE84d0lIdlE?oc=5",
           "publisher": "Business Recorder",
-          "published_at": "2026-11-06T05:47:12+05:00",
+          "published_at": "2026-11-06T13:56:52+05:00",
           "topic": "trade"
         },
         {
@@ -58,19 +66,11 @@
           "topic": "trade"
         },
         {
-          "id": "bc689e8f0c8fdc95",
-          "title": "Pakistan’s trade deficit surges 20% YoY to $3.9bn in October 2026",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9iLWM1UjRSZVk1SVhraFRCRms3bmFCSUlXWUV3V1haUDBMd2VDWXVnU05CdGQxb2J1NTRBWVZWeU9MV0hsUW1menF2ZEpkMnBPOHdJSHZR0gFWQVVfeXFMT2ItYzVSNFJlWTVJWGtoVEJGazduYUJJSVdZRXdXWFpQMEx3ZUNZdWdTTkJ0ZDFvYnU1NEFZVlZ5T0xXSGxRbWZ6cXZkSmQycE84d0lIdlE?oc=5",
-          "publisher": "Business Recorder",
-          "published_at": "2026-11-06T13:56:52+05:00",
-          "topic": "trade"
-        },
-        {
           "id": "349fbbd2f5ca804e",
           "title": "Import surge widens trade deficit to $7.47b in Q1",
           "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaE5xRUx1VXVDcDlRTUVxMXpFMi1sa2pNWDY1ZFhSdkhXSG1mNGE4dTBPcjlOeVJTMV9HNzdIRl9iNGcydWJKeTJPOS1CSnNQdFlPbEdtbUNHQkJnWV9uUlhkUWZrVVFJWkNZRDZZajllSm9sdS1VNjFrNGtSOG9yRE1jNjZfUmVP?oc=5",
           "publisher": "The Business Standard",
-          "published_at": "2026-11-07T05:31:59+05:00",
+          "published_at": "2026-11-07T17:30:02+05:00",
           "topic": "trade"
         },
         {
@@ -90,7 +90,7 @@
           "topic": "trade"
         }
       ],
-      "fetched_at": "2026-11-07T15:32:33.228252+05:00"
+      "fetched_at": "2026-11-07T21:16:34.439640+05:00"
     },
     {
       "id": "economy-2026-11-07",
@@ -124,14 +124,6 @@
           "topic": "economy"
         },
         {
-          "id": "bc950c855ed79910",
-          "title": "Pakistan’s Car Investment Bubble Is Facing a Reality Check",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPS2YwNmp6bDFxZElDZ0RxVVpxQmIzM3NFX293UVlTdkJRNHhNckNIeWJOLVJERHVtTktzVlNxZllJVFcwb0wzY0FBTEVDNmRycVV4SkswaUdUZWdvTjMxbU5BUFdGNlcyWHhHYk4zTkJBZS1xNkJRaVZNYUhRLVdQUVZvNGZVWmgxMmRhMXZYc2JxOEk?oc=5",
-          "publisher": "Pakwheels",
-          "published_at": "2026-11-05T17:55:17+05:00",
-          "topic": "economy"
-        },
-        {
           "id": "fc663e65e92add5c",
           "title": "Indian interest rates likely to move higher in short-medium term: Report",
           "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcU9wcGo4RGxreklDR0wtOFpEdFdfWGY3Yl8tU0c0b2lYR1R2TU1QRThMY1N5NlJJZC1FV1VKekxaR1hDQnVzU2RzalRQUnJWTUFxMkpYa3Y5aG1LN1VqSzk2LWZHMmREbTBzUjlPZXdQWjVHdjF3SEJXSXYyMzQ3QjFaNHFaYjlaNXBldnR2NlhRRjFBaURMY1FTUkZ4SFZXcDVvLUFiLUhUS0lJcmNtcjZBTmh1a3dBUWtVTg?oc=5",
@@ -140,7 +132,7 @@
           "topic": "economy"
         }
       ],
-      "fetched_at": "2026-11-07T15:32:33.228252+05:00"
+      "fetched_at": "2026-11-07T21:16:34.439640+05:00"
     },
     {
       "id": "business-2026-11-07",
@@ -150,35 +142,27 @@
       "context": "Company and industry developments can affect supply, stock availability and competition. Compare dated supplier offers before making a purchase decision.",
       "headlines": [
         {
+          "id": "5c56bfe30d1c1c1b",
+          "title": "Beyond extraction: turning Pakistan's mineral wealth into national prosperity",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNGQwRHRaQjhGQUFtM3gxUnAxcE9uTXRKVmp1TE5jV0Rqei05V3I5SWtQdm95djJ6ZnVPdlZmaG1zRDVvaXdYWDhwZ1l4Y0xoN0d6Ni1NTGdjQ0txTTJ6NFkyOXZOWFFyZ1RaRVFnZk5oYUlnUE1LSkpHYUQwcDNWZkJQT29IOW5CVUxjRkEwV1djVDZJTG82N3JySk0zQkRscnNHazY4MlVzclZDYW9RMFBKVTlDQdIBVkFVX3lxTFBQRGNCVmRlbldqb1gwcDVwWUo1TkFkcVp1b0w2emc5NzMwUjA0eV95Sm0zekpjdDRzSEMxY3JaSGlkeU9YbmxTZFZFTFZnZW9SWGQxbTdB?oc=5",
+          "publisher": "Business Recorder",
+          "published_at": "2026-11-07T18:21:39+05:00",
+          "topic": "business"
+        },
+        {
+          "id": "8ea32dababf803cb",
+          "title": "ABSON Company Announcements - Abson Industries Ltd",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE91Q2FRRUhYQ0kxNW13bTZpUEFsQVYwRFNCQ1FJeHg3SHBGVlZNNzRzNUM1UUJtYjBva2JKNWNXVUJjZ1dRQV81THUwblBDUkxpOHltRGtYZXZCUm1Gb1hST1hR?oc=5",
+          "publisher": "Investify",
+          "published_at": "2026-11-07T10:51:05+05:00",
+          "topic": "business"
+        },
+        {
           "id": "99b3f4685c226c83",
           "title": "LUMS and American Business Forum Host “From Stabilisation to Growth: Pakistan’s Long-Term Reform Agenda”",
           "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOckpYOEk3N2ZBbU5rNVVXVTZPU0hCV01JZGp5MXRYLWN5SS1TRjRhZG9aTDE2eElPQ0xUdUc1VXE0UklZSXFrVTRrS1c1YUVfMzJlNl9OOXh0V0lQdnJGLXo3aGdEYW1mTDM3S3B4bHdabWtUbGJtXzFqOGItOHNGWml1RXNNemRYZDVZNVZTOVdMcTNwU0FZX3hQX19yVFhZbTNmTGtTanlHcDFXaUJLcllSb3lPYWps?oc=5",
           "publisher": "LUMS",
           "published_at": "2026-11-06T14:36:20+05:00",
-          "topic": "business"
-        },
-        {
-          "id": "5a25090cdd3bfac2",
-          "title": "FDI: credibility deficit",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1jM3dzSmgxY19jOEdQT1hndkRzRVBzOThaMEx6cExRaHhNRVpzSVViR0dHa1NoRXlTX013YzBaTVE3VmF5VGhFc3JaMTRHVnZwdjlHWllB0gFWQVVfeXFMTWMzd3NKaDFjX2M4R1BPWGd2RHNFUHM5OFowTHpwTFFoeE1FWnNJVWJHR0drU2hFeVNfTXdjMFpNUTdWYXlUaEVzcloxNEdWdnB2OUdaWUE?oc=5",
-          "publisher": "Business Recorder",
-          "published_at": "2026-11-07T04:51:41+05:00",
-          "topic": "business"
-        },
-        {
-          "id": "8e17ff36301190d5",
-          "title": "Sudanese and Pakistani business federations sign MOU to deepen trade and investment ties",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNcUNBeG5naDktaGNyN1cyOFRFd3BpeVlJWG53SU53RjRfT3FacVFiajFqdWVtY1pRWHZxSHp3WURvS0RmMk9mS3ozQkZSOVIwVF9saktiMXRBUkN0UlJtTm1tczNwX1kybUhDdDhZdlo1S2toMmppRjZFM2ZtRkpTTUE1UXYtVUxEZGI2ekI1UTJ5YWFjR2pBVnpDbjl3MThqTkEzV1p6ajNiVHRMLUJ1OUhwdmJCTzdkUC01MWZaTlZPZHFUVEV5X05aSzJCUQ?oc=5",
-          "publisher": "United Nations Development Programme",
-          "published_at": "2026-11-05T17:40:19+05:00",
-          "topic": "business"
-        },
-        {
-          "id": "78ea65ffa3705f15",
-          "title": "HUSI Company Profile - Husein Industries Ltd",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5TS3FEM2poTmlLVjZMbTlUa01MaFk0SjFwTWtySTU4NzdaWnhTRFhQSTZBUHpQOHpsUElaZzM0WHpIQ01MX0h2UmR2V2JaU2VlbFZMNWRJYkE?oc=5",
-          "publisher": "Investify",
-          "published_at": "2026-11-06T06:36:55+05:00",
           "topic": "business"
         },
         {
@@ -190,11 +174,11 @@
           "topic": "business"
         },
         {
-          "id": "af5b41da170c5f84",
-          "title": "Pakistan, Russia explore joint technology projects, access to new markets",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOS1czS2pxRUNRbzJBLTNDdTNfQUtSUTR3UGw1OHRDWUNaSDRiWWthT3dkTWM3MEg2VmxyamhrSjFnZFg5MWtVRVU2Vkt3Nm1wYkpHejQxaEEyY0JIUy1sZkNQSjZXb29LTWV4cmdRaEE1TmJDUVFRSE80a1R3RmkzOXBzWF9aUmNWcXFyWHNVb0FaTi14VTIyai0yVlFYZGtXU21GNEZpOFpzU1dnanN0ZjdB?oc=5",
-          "publisher": "Arab News PK",
-          "published_at": "2026-11-05T18:13:02+05:00",
+          "id": "e205665738d050c0",
+          "title": "Vietnam actively participates in ASEAN's activities in Pakistan.",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVklBZ09yN3VlSmVMSU1NR0dyZ0hzdmswMTd6dXN6SHd3VVJxRlIwNFFFaGJPd3VZTV8wSnc2SEhMZzRHemhyRTlubmpOZDdkSUhmYzgyajRsZFFZR0t6eWEwbUxHd2I4cnhFREJmc2cwdmJBMHZjbnp3UG9OZFpZMFdBY0x5SEIyVGt5N3FHS0ZlMm9HOGc?oc=5",
+          "publisher": "Vietnam.vn",
+          "published_at": "2026-11-07T19:05:46+05:00",
           "topic": "business"
         },
         {
@@ -206,15 +190,23 @@
           "topic": "business"
         },
         {
-          "id": "79e7308c36360f3e",
-          "title": "PMIF26: Pakistan urges global investors to explore its mineral potential",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4wTE05VnBiRFZ1cmF5X1hJVmQ2dUdkRlJ4Y05wRUsxZ3ZxV01odHZEVkJJTmttNkFSR1NZb0tRMk1EbndTWWh0ZlZrb2JSTFAt0gFWQVVfeXFMTjdkRnR1ZnBVNGxjMFVGRVhEOWx6TDcyZDFNeGNYdm9lY1h1UDFTRzlNTlN5eGhVcXFBVTFzVjFvSVpmRFJvVHlyM0tWLVR1Y3pyNTk5ZUE?oc=5",
+          "id": "78ea65ffa3705f15",
+          "title": "HUSI Company Profile - Husein Industries Ltd",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5TS3FEM2poTmlLVjZMbTlUa01MaFk0SjFwTWtySTU4NzdaWnhTRFhQSTZBUHpQOHpsUElaZzM0WHpIQ01MX0h2UmR2V2JaU2VlbFZMNWRJYkE?oc=5",
+          "publisher": "Investify",
+          "published_at": "2026-11-06T06:36:55+05:00",
+          "topic": "business"
+        },
+        {
+          "id": "5a25090cdd3bfac2",
+          "title": "FDI: credibility deficit",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1jM3dzSmgxY19jOEdQT1hndkRzRVBzOThaMEx6cExRaHhNRVpzSVViR0dHa1NoRXlTX013YzBaTVE3VmF5VGhFc3JaMTRHVnZwdjlHWllB0gFWQVVfeXFMTWMzd3NKaDFjX2M4R1BPWGd2RHNFUHM5OFowTHpwTFFoeE1FWnNJVWJHR0drU2hFeVNfTXdjMFpNUTdWYXlUaEVzcloxNEdWdnB2OUdaWUE?oc=5",
           "publisher": "Business Recorder",
           "published_at": "2026-11-07T04:51:41+05:00",
           "topic": "business"
         }
       ],
-      "fetched_at": "2026-11-07T15:32:33.228252+05:00"
+      "fetched_at": "2026-11-07T21:16:34.439640+05:00"
     },
     {
       "id": "trade-2026-11-06",
