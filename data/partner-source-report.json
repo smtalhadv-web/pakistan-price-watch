@@ -1,6 +1,6 @@
 {
-  "checked_at": "2026-11-07T01:59:16.353412+05:00",
-  "quotes": 6446,
+  "checked_at": "2026-11-07T09:15:03.183892+05:00",
+  "quotes": 6526,
   "checks": [
     {
       "store": "Chase Value",
@@ -84,7 +84,7 @@
       "store": "OLX",
       "url": "https://www.olx.com.pk/items/q-sofa",
       "status": "parsed",
-      "offers": 33
+      "offers": 32
     }
   ]
 }
