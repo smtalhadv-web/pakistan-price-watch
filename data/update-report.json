@@ -10,15 +10,15 @@
     ],
     [
       "gold",
-      111299
+      111025
     ],
     [
       "silver",
-      104590
+      104586
     ],
     [
       "pso-history",
-      230565
+      230560
     ],
     [
       "samsung",
@@ -50,14 +50,14 @@
     ],
     [
       "appliances",
-      785672
+      761546
     ],
     [
       "pbs",
       344039
     ]
   ],
-  "checked_at": "2026-11-07T04:14:52.280881+00:00",
+  "checked_at": "2026-11-07T10:31:43.421550+00:00",
   "sources": [
     {
       "source": "PSO dated fuel archive",
@@ -80,7 +80,7 @@
     {
       "source": "PriceOye published listings",
       "status": "parsed",
-      "observed_records": 131,
+      "observed_records": 134,
       "new_records": 0
     },
     {
@@ -112,11 +112,11 @@
     },
     {
       "source": "Toyota manufacturer vehicle price configuration",
-      "status": "parsed",
-      "new_records": 0
+      "status": "manual_required",
+      "reason": "[Errno 2] No such file or directory: '/home/runner/work/pakistan-price-watch/pakistan-price-watch/raw/corolla.html'"
     }
   ],
-  "quotes": 5672,
+  "quotes": 5674,
   "manual_queue": [
     "Verify new image rates before transcribing; source sheets refresh automatically",
     "Unsupported sources retain their dated quotes"

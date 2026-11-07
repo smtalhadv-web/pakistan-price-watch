@@ -1,18 +1,18 @@
 {
-  "checked_at": "2026-11-07T09:15:03.183892+05:00",
-  "quotes": 6526,
+  "checked_at": "2026-11-07T15:32:24.443529+05:00",
+  "quotes": 6772,
   "checks": [
     {
       "store": "Chase Value",
       "url": "https://chasevalue.pk/products.json?limit=100&page=1",
       "status": "parsed",
-      "offers": 328
+      "offers": 430
     },
     {
       "store": "Chase Value",
       "url": "https://chasevalue.pk/products.json?limit=100&page=2",
       "status": "parsed",
-      "offers": 695
+      "offers": 713
     },
     {
       "store": "Naheed",
@@ -60,7 +60,7 @@
       "store": "Metro",
       "url": "https://metro-online.pk/",
       "status": "parsed",
-      "offers": 225
+      "offers": 226
     },
     {
       "store": "Foodpanda / Kifayah",
@@ -84,7 +84,7 @@
       "store": "OLX",
       "url": "https://www.olx.com.pk/items/q-sofa",
       "status": "parsed",
-      "offers": 32
+      "offers": 33
     }
   ]
 }
