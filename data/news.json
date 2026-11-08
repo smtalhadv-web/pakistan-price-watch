@@ -1,10 +1,10 @@
 {
-  "checked_at": "2026-11-08T09:16:51.367254+05:00",
+  "checked_at": "2026-11-08T15:40:05.052539+05:00",
   "checks": [
     {
       "topic": "economy",
       "status": "updated",
-      "headlines": 4
+      "headlines": 3
     },
     {
       "topic": "business",
@@ -66,31 +66,31 @@
           "topic": "trade"
         },
         {
-          "id": "23762edd7b9169ac",
-          "title": "Pakistan’s trade deficit surges 20% YoY to $3.9bn in October 2026",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1QdXZ2cjYzMGduendZekgwNFRWa2pNejI2YU9SODQxcGZlYmZ6TlFfOFg5d3JJSklrX3FORHZVSDNjNnoySlo2WFZOWXNIZWlI0gFWQVVfeXFMT2ItYzVSNFJlWTVJWGtoVEJGazduYUJJSVdZRXdXWFpQMEx3ZUNZdWdTTkJ0ZDFvYnU1NEFZVlZ5T0xXSGxRbWZ6cXZkSmQycE84d0lIdlE?oc=5",
-          "publisher": "Business Recorder",
-          "published_at": "2026-11-06T13:56:52+05:00",
-          "topic": "trade"
-        },
-        {
           "id": "349fbbd2f5ca804e",
           "title": "Import surge widens trade deficit to $7.47b in Q1",
           "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaE5xRUx1VXVDcDlRTUVxMXpFMi1sa2pNWDY1ZFhSdkhXSG1mNGE4dTBPcjlOeVJTMV9HNzdIRl9iNGcydWJKeTJPOS1CSnNQdFlPbEdtbUNHQkJnWV9uUlhkUWZrVVFJWkNZRDZZajllSm9sdS1VNjFrNGtSOG9yRE1jNjZfUmVP?oc=5",
           "publisher": "The Business Standard",
-          "published_at": "2026-11-07T17:30:02+05:00",
+          "published_at": "2026-11-08T12:06:06+05:00",
           "topic": "trade"
         },
         {
-          "id": "abdd094854ba8b1f",
-          "title": "Opinion | How Pakistan's Anti-India Obsession Turned Into A $40 Billion Blunder",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNaUZVY0VRTmpVMFlNOFduQThCdHdBSGRPMWlOSm9FaG83dHVyejF4WkhNNWFkYTNiQVNFNGIwWHRDYWlCNWNMY3hBeGJObDlXSVJjMTk1TnQ2dkptbFE4bzctNkZDR2VKM0JnOGlrNGM0Tm1udlBsZm5XU2xrdVQ5ZEVsNVc3aDVlamkzNERTaWloUFU?oc=5",
-          "publisher": "NDTV",
-          "published_at": "2026-11-06T13:51:54+05:00",
+          "id": "cde3230d9a04fd71",
+          "title": "Pakistans trade deficit rises to USD 15 billion",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOWHNPS1dGUzdMUVVaTlVnTWNlcGpYWjVCelFYRWg4VWdZdHlNUDhSVldsVFh4cFV0Z0lrbjhzWU5raGswOFRWT1U1ajkzUXVkckx4cmZQaTlwc2VqMnI1WTVjOS1mX001c0lMQkVzS3I0NDVGak1uVzAwR0Y3QWJkMTh1bzVQQdIBigFBVV95cUxQYTI0d0tfbGhkN051eEFKbU5vMVRid1F2NW5nV1BuM043RnJzbzAyRllzcW5ZSWVndi1pWVlhcF9LRzZJeFE4eFBUamRsbVJXMXNMMUdUUWgtLVhyYjJraUtqWTVSQjc3MEhxUjBiSDM3NEh0b2tnaENQUDRkVkRGSWFzcXczcXpqYUE?oc=5",
+          "publisher": "Daily Excelsior",
+          "published_at": "2026-11-07T12:30:58+05:00",
+          "topic": "trade"
+        },
+        {
+          "id": "4eed2c5cf578bda0",
+          "title": "Bangladesh’s trade deficit widens 31% as fuel import bill doubles",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOR1NIYmtldzlvVlV0QmFlZER2QTdMcVlEbmhyZWFCVllvSE1JS183dktERnFkMmJfZGlQZGozQngxTGJHcFpVRUtGLTdyVFVIWk05NW9lNUxxaEJUZzFva1Frb296MjhNOTZ4MnVPX05tRkc5NFBwRkd6ZVJWaUhvX0k4ZUFOWHd3cW9oVTNVZFk2QzAwM0duSGRFYmlGMlFtUURZR1JLUWdWdEZLZE03UA?oc=5",
+          "publisher": "The Daily Star",
+          "published_at": "2026-11-07T20:03:46+05:00",
           "topic": "trade"
         }
       ],
-      "fetched_at": "2026-11-08T09:16:51.367254+05:00"
+      "fetched_at": "2026-11-08T15:40:05.052539+05:00"
     },
     {
       "id": "economy-2026-11-08",
@@ -116,23 +116,15 @@
           "topic": "economy"
         },
         {
-          "id": "52858a3a8faed182",
-          "title": "MCX gold prices dip Rs 2,400/10g; silver falls Rs 3,400/kg on Dhanteras as rate hike bets rise again. Buy,",
-          "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxQYW9yTXdMU2NqbmJPVTZleWM3SHNNajhtT3hvdHlEOXBpNjIyUEpHR2ZKZnY3RkNRZ3JObjVYYW9Na0NWZFlKUDlPZjZJazFyQ05DY3EwX2dYQWhBV2RTckZQR0ZNZ2NFNEQ2YWZsV3EyT1JVd2dEbGlOQkFWdlg1bm9pWmlpdTdhU0t1RDhfdzZFM3NheGkxUHJTMkNCYmFjSEVvWHJTV1JDckJ3UGtsZDVoRmk3aFBib194MDdyNGlpTmlRdHoyS1RUU2lRdmxxcTB3RGtDVlpZMllrQ2N3ZVI2eURlTlhMVk00ejRGR3hTNTBLMnRHQTV0QUdKMWhmYkk0VkNLUkxUcmM4TFVVbEZmOVl3dkZEUFNZRlVn0gGjAkFVX3lxTE04SU4zemxLN1Z0VlQ2U0RWNFJHVTBGdTZYbHFFUGxoeFlKWWZWT21OT3lvY1laYUJCUXR3MkY2S3d3VmN5NEQ3R25udWFFT0I1SGhTT05zTnFfdGxpRTlaVklFU0ZyRE5Sang1UUxIZWZUU1BYTzRNcFdjeG1jb2E1a09uUjBkVEktTEoyV2N3aW9fYWJoN01oNWVIUEpENWVlQlZsR3loUDVVeGQxRnFub2NxeW1Ca1hJcmR6ZVdBRURQTS1jNzZ1d01Xb2x1QVNyVkFZcGJ3bTlTNGI3bEVLMHBJYjBDWTVyY2tOeE9JcWswT0lZck9EUENNa0taX1BIUkhBWVBrcTN3N3JlTFVPZzFQaVFONlVVTnJmX3NHRmNJMA?oc=5",
-          "publisher": "The Economic Times",
-          "published_at": "2026-11-06T10:03:24+05:00",
-          "topic": "economy"
-        },
-        {
-          "id": "fc663e65e92add5c",
-          "title": "Indian interest rates likely to move higher in short-medium term: Report",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcU9wcGo4RGxreklDR0wtOFpEdFdfWGY3Yl8tU0c0b2lYR1R2TU1QRThMY1N5NlJJZC1FV1VKekxaR1hDQnVzU2RzalRQUnJWTUFxMkpYa3Y5aG1LN1VqSzk2LWZHMmREbTBzUjlPZXdQWjVHdjF3SEJXSXYyMzQ3QjFaNHFaYjlaNXBldnR2NlhRRjFBaURMY1FTUkZ4SFZXcDVvLUFiLUhUS0lJcmNtcjZBTmh1a3dBUWtVTg?oc=5",
-          "publisher": "The Hawk",
-          "published_at": "2026-11-06T12:39:38+05:00",
+          "id": "a9f05f52118bf3e0",
+          "title": "Gold, Silver Outlook: US-Iran Tensions, Inflation Data Key",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUDk4aGEyOUJ1T1N5OG4yaXpWa2lJeHJTVTA2b01tcFVIU0pKMEtNVTRuYzRFYnJQTXRzbTFJMGMxVlZidjNCQTJNYXFjTXA2V0M1Q3k2NUdCZ2xfbFhhTW5HMG15U1ZPS2hLT1Ytay0wMlJSS0RqRmctM1IyclRxQzBPTWItT1JMMFJGdTNDSGF5RGhIVzFiaWlhX0FVNElPNURwN21sUXFUSjTSAbABQVVfeXFMUHIweUhyalpEMzBUXzRBZlNQVGFOcUJIaTNaSWpyTkxxNDVQLTZ0U19OTXNpTFQ0V3VQZ3BJc0VoTkN4VnF1dmpOc3V2UXNqLUY1QmthcHA4b0xULUFoWXVhUmZiOHc0QWg5cm5jZ1dtb3NCSDJXcWZhdXd0TjNVcVlUVXVlWjNOVDdBbVZYb0txLWZIQ29YMDdRSUZHUnVGZE9fUUo2X2pnUFI5TkpBNTc?oc=5",
+          "publisher": "Rediff MoneyWiz",
+          "published_at": "2026-11-08T11:17:28+05:00",
           "topic": "economy"
         }
       ],
-      "fetched_at": "2026-11-08T09:16:51.367254+05:00"
+      "fetched_at": "2026-11-08T15:40:05.052539+05:00"
     },
     {
       "id": "business-2026-11-08",
@@ -158,19 +150,11 @@
           "topic": "business"
         },
         {
-          "id": "e5cd1173a85b65b8",
-          "title": "Egypt offers access to US market",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9mNlYxakN6MjdkblBUNUFLTTh1SHNZdmc5RWVobDJUcm1wbGVUVHp6QzV5QXlpRTdPOFp3Ty1IQ3JNV3FBNno4TWN0dDFlMFlTV1J5RzBVaXJJQmU1aGR3N0l2SzhtdUh1WGZlNFZ5M2k5R2pvVUVEQ9IBgAFBVV95cUxNeWswdTJiRlJJZ0RhVWhNTXlQZy11WFJIWjF4bFVCMnNyd2g3bVJ6SlFkZnQtYjg5NmgxNkFZQk10WTlyOUpsNi1TYk9JNFdXRGVpVUdNWmlGb25vZU1xVUFSd1hWaEpoMGthQUl1Tm9RSEdXaWx2VFNrVzVqOXY3eA?oc=5",
-          "publisher": "The Express Tribune",
-          "published_at": "2026-11-06T11:29:04+05:00",
-          "topic": "business"
-        },
-        {
-          "id": "e205665738d050c0",
-          "title": "Vietnam actively participates in ASEAN's activities in Pakistan.",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVklBZ09yN3VlSmVMSU1NR0dyZ0hzdmswMTd6dXN6SHd3VVJxRlIwNFFFaGJPd3VZTV8wSnc2SEhMZzRHemhyRTlubmpOZDdkSUhmYzgyajRsZFFZR0t6eWEwbUxHd2I4cnhFREJmc2cwdmJBMHZjbnp3UG9OZFpZMFdBY0x5SEIyVGt5N3FHS0ZlMm9HOGc?oc=5",
-          "publisher": "Vietnam.vn",
-          "published_at": "2026-11-07T19:05:46+05:00",
+          "id": "8ea32dababf803cb",
+          "title": "ABSON Company Announcements - Abson Industries Ltd",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE91Q2FRRUhYQ0kxNW13bTZpUEFsQVYwRFNCQ1FJeHg3SHBGVlZNNzRzNUM1UUJtYjBva2JKNWNXVUJjZ1dRQV81THUwblBDUkxpOHltRGtYZXZCUm1Gb1hST1hR?oc=5",
+          "publisher": "Investify",
+          "published_at": "2026-11-07T10:51:05+05:00",
           "topic": "business"
         },
         {
@@ -182,11 +166,19 @@
           "topic": "business"
         },
         {
-          "id": "5a25090cdd3bfac2",
-          "title": "FDI: credibility deficit",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1jM3dzSmgxY19jOEdQT1hndkRzRVBzOThaMEx6cExRaHhNRVpzSVViR0dHa1NoRXlTX013YzBaTVE3VmF5VGhFc3JaMTRHVnZwdjlHWllB0gFWQVVfeXFMTWMzd3NKaDFjX2M4R1BPWGd2RHNFUHM5OFowTHpwTFFoeE1FWnNJVWJHR0drU2hFeVNfTXdjMFpNUTdWYXlUaEVzcloxNEdWdnB2OUdaWUE?oc=5",
+          "id": "33f76d8c17cc463a",
+          "title": "FCCI president calls for Chinese investment in truck assembly and manufacturing",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBOVzZHUjZPVnQtWnhXV0p0V3lEaC1oT2dnUTFZUVpjaF9Ja2ZKRWV5NGEtMkJoa1ZaNGE3MGRuNXdpTDJOQXVYcFAzYnpheUVDXzIxeEZR0gFWQVVfeXFMUE5XNkdSNk9WdC1aeFdXSnRXeURoLWhPZ2dRMVlRWmNoX0lrZkpFZXk0YS0yQmhrVlo0YTcwZG41d2lMMk5BdVhwUDNiemF5RUNfMjF4RlE?oc=5",
           "publisher": "Business Recorder",
-          "published_at": "2026-11-07T04:51:41+05:00",
+          "published_at": "2026-11-08T02:33:13+05:00",
+          "topic": "business"
+        },
+        {
+          "id": "8d25920e969992e6",
+          "title": "Pakistan invites Chinese investors to explore natural resources in northwestern province",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPbjNZQ3IzMEpDTkEwQ3NldHVBT0VzYW4xQlNRazFKR0ZNMUg3SzJZc2pmRzlGa2YybTRnUnR4TnFpYVJDNWpoSGRIMzNidEFGWDNwWGJPbEZDVkpzbi1CV1luR2VBVFBtb1JTZWN6VGlQM2NQdklncDBlUm1LOHQ1ejRnUFJLVjVjR3hYOUtvcEtDMFl0U19kcFY0bzJwd0x4ZS1STXo4MlctUzE5emRmWnJicS1TMnNBV3V2bXc4NW5qU0REaXBEWA?oc=5",
+          "publisher": "Arab News PK",
+          "published_at": "2026-11-08T10:02:56+05:00",
           "topic": "business"
         },
         {
@@ -198,15 +190,15 @@
           "topic": "business"
         },
         {
-          "id": "79e7308c36360f3e",
-          "title": "PMIF26: Pakistan urges global investors to explore its mineral potential",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4wTE05VnBiRFZ1cmF5X1hJVmQ2dUdkRlJ4Y05wRUsxZ3ZxV01odHZEVkJJTmttNkFSR1NZb0tRMk1EbndTWWh0ZlZrb2JSTFAt0gFWQVVfeXFMTjdkRnR1ZnBVNGxjMFVGRVhEOWx6TDcyZDFNeGNYdm9lY1h1UDFTRzlNTlN5eGhVcXFBVTFzVjFvSVpmRFJvVHlyM0tWLVR1Y3pyNTk5ZUE?oc=5",
+          "id": "5a25090cdd3bfac2",
+          "title": "FDI: credibility deficit",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1jM3dzSmgxY19jOEdQT1hndkRzRVBzOThaMEx6cExRaHhNRVpzSVViR0dHa1NoRXlTX013YzBaTVE3VmF5VGhFc3JaMTRHVnZwdjlHWllB0gFWQVVfeXFMTWMzd3NKaDFjX2M4R1BPWGd2RHNFUHM5OFowTHpwTFFoeE1FWnNJVWJHR0drU2hFeVNfTXdjMFpNUTdWYXlUaEVzcloxNEdWdnB2OUdaWUE?oc=5",
           "publisher": "Business Recorder",
           "published_at": "2026-11-07T04:51:41+05:00",
           "topic": "business"
         }
       ],
-      "fetched_at": "2026-11-08T09:16:51.367254+05:00"
+      "fetched_at": "2026-11-08T15:40:05.052539+05:00"
     },
     {
       "id": "trade-2026-11-07",

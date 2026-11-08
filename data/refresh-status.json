@@ -1,6 +1,6 @@
 {
-  "started_at": "2026-11-08T04:16:04.668303+00:00",
-  "completed_at": "2026-11-08T04:16:49.993010+00:00",
+  "started_at": "2026-11-08T10:39:20.274322+00:00",
+  "completed_at": "2026-11-08T10:40:03.956617+00:00",
   "status": "partial",
   "timezone": "Asia/Karachi",
   "scheduled_times": [
@@ -11,19 +11,19 @@
     {
       "name": "collect.py",
       "status": "completed",
-      "elapsed_seconds": 3.4,
+      "elapsed_seconds": 4.0,
       "detail": ""
     },
     {
       "name": "download_sources.py",
       "status": "completed",
-      "elapsed_seconds": 2.1,
+      "elapsed_seconds": 3.4,
       "detail": ""
     },
     {
       "name": "ingest.py",
       "status": "completed",
-      "elapsed_seconds": 1.2,
+      "elapsed_seconds": 0.9,
       "detail": ""
     },
     {
@@ -35,19 +35,19 @@
     {
       "name": "expand.py",
       "status": "completed",
-      "elapsed_seconds": 1.2,
+      "elapsed_seconds": 0.8,
       "detail": ""
     },
     {
       "name": "commerce.py",
       "status": "completed",
-      "elapsed_seconds": 25.6,
+      "elapsed_seconds": 24.3,
       "detail": ""
     },
     {
       "name": "partner_sources.py",
       "status": "completed",
-      "elapsed_seconds": 8.2,
+      "elapsed_seconds": 6.5,
       "detail": ""
     },
     {
@@ -84,7 +84,7 @@
       "url": null,
       "status": "verified",
       "detail": "parsed",
-      "quotes": 129
+      "quotes": 135
     },
     {
       "source": "PBS weekly city prices",
@@ -476,21 +476,21 @@
       "url": "https://priceoye.pk/trimmers-shavers?page=1",
       "status": "verified",
       "detail": "parsed",
-      "quotes": 23
+      "quotes": 29
     },
     {
       "source": "https://priceoye.pk/trimmers-shavers?page=2",
       "url": "https://priceoye.pk/trimmers-shavers?page=2",
       "status": "verified",
       "detail": "parsed",
-      "quotes": 33
+      "quotes": 35
     },
     {
       "source": "https://priceoye.pk/trimmers-shavers?page=3",
       "url": "https://priceoye.pk/trimmers-shavers?page=3",
       "status": "verified",
       "detail": "parsed",
-      "quotes": 34
+      "quotes": 36
     },
     {
       "source": "https://priceoye.pk/speakers?page=1",
@@ -959,7 +959,7 @@
       "url": "https://metro-online.pk/",
       "status": "verified",
       "detail": "parsed",
-      "quotes": 226
+      "quotes": 225
     },
     {
       "source": "Foodpanda / Kifayah",
@@ -994,7 +994,7 @@
       "url": "https://alfatah.pk/products.json?limit=100",
       "status": "verified",
       "detail": "updated",
-      "quotes": 103
+      "quotes": 179
     },
     {
       "source": "Shophive",
@@ -1011,9 +1011,9 @@
       "quotes": 29
     }
   ],
-  "total_quotes": 14980,
-  "verified_quotes": 6842,
-  "changed_prices": 13,
-  "new_quotes": 80,
-  "retained_quotes": 8138
+  "total_quotes": 15091,
+  "verified_quotes": 6924,
+  "changed_prices": 72,
+  "new_quotes": 111,
+  "retained_quotes": 8167
 }
