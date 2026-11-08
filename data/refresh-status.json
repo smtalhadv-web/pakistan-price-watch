@@ -1,6 +1,6 @@
 {
-  "started_at": "2026-11-08T16:21:38.469366+00:00",
-  "completed_at": "2026-11-08T16:22:24.172295+00:00",
+  "started_at": "2026-11-08T19:51:19.160849+00:00",
+  "completed_at": "2026-11-08T19:52:05.410052+00:00",
   "status": "partial",
   "timezone": "Asia/Karachi",
   "scheduled_times": [
@@ -11,43 +11,43 @@
     {
       "name": "collect.py",
       "status": "completed",
-      "elapsed_seconds": 3.7,
+      "elapsed_seconds": 3.6,
       "detail": ""
     },
     {
       "name": "download_sources.py",
       "status": "completed",
-      "elapsed_seconds": 3.7,
+      "elapsed_seconds": 2.2,
       "detail": ""
     },
     {
       "name": "ingest.py",
       "status": "completed",
-      "elapsed_seconds": 1.1,
+      "elapsed_seconds": 1.4,
       "detail": ""
     },
     {
       "name": "expand_fetch.py",
       "status": "completed",
-      "elapsed_seconds": 2.4,
+      "elapsed_seconds": 1.4,
       "detail": ""
     },
     {
       "name": "expand.py",
       "status": "completed",
-      "elapsed_seconds": 1.0,
+      "elapsed_seconds": 1.3,
       "detail": ""
     },
     {
       "name": "commerce.py",
       "status": "completed",
-      "elapsed_seconds": 25.5,
+      "elapsed_seconds": 28.1,
       "detail": ""
     },
     {
       "name": "partner_sources.py",
       "status": "completed",
-      "elapsed_seconds": 6.4,
+      "elapsed_seconds": 6.2,
       "detail": ""
     },
     {
@@ -77,7 +77,7 @@
       "url": null,
       "status": "verified",
       "detail": "parsed",
-      "quotes": 36
+      "quotes": 26
     },
     {
       "source": "PriceOye published listings",
@@ -490,7 +490,7 @@
       "url": "https://priceoye.pk/trimmers-shavers?page=3",
       "status": "verified",
       "detail": "parsed",
-      "quotes": 36
+      "quotes": 31
     },
     {
       "source": "https://priceoye.pk/speakers?page=1",
@@ -1011,9 +1011,9 @@
       "quotes": 29
     }
   ],
-  "total_quotes": 15176,
-  "verified_quotes": 6926,
-  "changed_prices": 3,
-  "new_quotes": 85,
-  "retained_quotes": 8250
+  "total_quotes": 15278,
+  "verified_quotes": 6911,
+  "changed_prices": 2,
+  "new_quotes": 102,
+  "retained_quotes": 8367
 }
