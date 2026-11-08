@@ -1,10 +1,10 @@
 {
-  "checked_at": "2026-11-08T00:32:23.739542+05:00",
+  "checked_at": "2026-11-08T09:16:51.367254+05:00",
   "checks": [
     {
       "topic": "economy",
       "status": "updated",
-      "headlines": 5
+      "headlines": 4
     },
     {
       "topic": "business",
@@ -25,6 +25,14 @@
       "title": "Trade news briefing · 2026-11-08",
       "context": "Trade and customs developments can affect landed costs and delivery times. Check the original notification, effective date and product classification before applying a reported change to an item.",
       "headlines": [
+        {
+          "id": "567246882cfbd690",
+          "title": "‘FBR’s masterclass in policy uncertainty’: a rejoinder by Pakistan Customs",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBYa015ODJxVDhyeTl6WElhUm51WlRscUViTGJJWmNoS2pqUXRsa3VZazRfWGp2YmxWUVdtNmdmTVg2UVVYVEdwUGlWVExNVGtj0gFWQVVfeXFMTWZVQ2c0SjBIaUc5WFAza2FyNzVDb2NoYkxrYUhXMXh4SURqUExMSXFNcTRZWXNiMmJnS0lkbDZxY29jOEJJbGRwZlZKb0l1RldJdXdmekE?oc=5",
+          "publisher": "Business Recorder",
+          "published_at": "2026-11-08T02:33:12+05:00",
+          "topic": "trade"
+        },
         {
           "id": "199b895c81906985",
           "title": "Tariff cuts spark duty burden debate",
@@ -50,19 +58,19 @@
           "topic": "trade"
         },
         {
+          "id": "191fe173f37ac64e",
+          "title": "Govt announces auto policy with focus on cheaper vehicles, EVs",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1LTG00cXRaTVVURlJCN1FGTFJDVERhRlcxTEo1c0FWeURxQjEza0VMSjBQQUJwYU1CYjRkdVNSWlhOSVByNEdyaQ?oc=5",
+          "publisher": "Dawn",
+          "published_at": "2026-11-07T17:59:57+05:00",
+          "topic": "trade"
+        },
+        {
           "id": "23762edd7b9169ac",
           "title": "Pakistan’s trade deficit surges 20% YoY to $3.9bn in October 2026",
           "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1QdXZ2cjYzMGduendZekgwNFRWa2pNejI2YU9SODQxcGZlYmZ6TlFfOFg5d3JJSklrX3FORHZVSDNjNnoySlo2WFZOWXNIZWlI0gFWQVVfeXFMT2ItYzVSNFJlWTVJWGtoVEJGazduYUJJSVdZRXdXWFpQMEx3ZUNZdWdTTkJ0ZDFvYnU1NEFZVlZ5T0xXSGxRbWZ6cXZkSmQycE84d0lIdlE?oc=5",
           "publisher": "Business Recorder",
           "published_at": "2026-11-06T13:56:52+05:00",
-          "topic": "trade"
-        },
-        {
-          "id": "690bc0ffec64d929",
-          "title": "Tariff cuts spark duty burden debate",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQX0M0R3djU1hMZFp0X0lQRXI1Rm56WFJiWkNZaTBENGdTNi03RHp1Mkx0b2hkMHY3WVVZRW1xZWJzMVBldXpXdmpWUkREQ0ZZX3haYkptVkMybXhsTllYZllfaHZZUWVCM19DeVpxNUpITDNlNEhOTEFTbFJjV0VOOTBRdWZUUQ?oc=5",
-          "publisher": "Investify",
-          "published_at": "2026-11-07T01:56:12+05:00",
           "topic": "trade"
         },
         {
@@ -80,17 +88,9 @@
           "publisher": "NDTV",
           "published_at": "2026-11-06T13:51:54+05:00",
           "topic": "trade"
-        },
-        {
-          "id": "bd7364849fa0fc96",
-          "title": "New customs values on import of titanium dioxide fixed",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSHFKcEFvTmJjRUFUTkZTbGpRWTFFbXVhc21EdE9rZ1ZaM1RtRy1qam9YYUQ1dURyZ1E3cUJQNmV3RGNoNXQ0SlFJcDhhSERvWnVfRUgwS3FyamJiWkx2Wjg2ZmNIRTA3Q2o2OUZnOVBBcFdvM1M3akozOFkxNXVlS3k1d1BRMVRnWWlQNnlJNExCU2h0YVVQOXhn0gFWQVVfeXFMTWdpRjZpZkRmcW4zbzA2VktLOE9XeTJfdzVhTzIwZ1FIdWRNVjJIX2JzR21aSmQ1SXAzSGRzU1FDTkFULVY3eWs0X3JjQmp0YVRnOUlWNXc?oc=5",
-          "publisher": "Business Recorder",
-          "published_at": "2026-11-06T05:47:12+05:00",
-          "topic": "trade"
         }
       ],
-      "fetched_at": "2026-11-08T00:32:23.739542+05:00"
+      "fetched_at": "2026-11-08T09:16:51.367254+05:00"
     },
     {
       "id": "economy-2026-11-08",
@@ -116,14 +116,6 @@
           "topic": "economy"
         },
         {
-          "id": "e198aac18e4d7a76",
-          "title": "International Steels Limited",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBlUTJ1aXZoSEc3TmJSVkM0LW9xa3RTZW01VTBlalBES3BLRDNJNlE0WGEwTWJWcWxRYWNSNHA5a2tOdWpZMGRJOVVqZjkzRlRxV0lsY3RR0gFWQVVfeXFMUGVRMnVpdmhIRzdOYlJWQzQtb3FrdFNlbTVVMGVqUERLcEtEM0k2UTRYYTBNYlZxbFFhY1I0cDlra051alkwZEk5VWpmOTNGVHFXSWxjdFE?oc=5",
-          "publisher": "Business Recorder",
-          "published_at": "2026-11-06T05:47:12+05:00",
-          "topic": "economy"
-        },
-        {
           "id": "52858a3a8faed182",
           "title": "MCX gold prices dip Rs 2,400/10g; silver falls Rs 3,400/kg on Dhanteras as rate hike bets rise again. Buy,",
           "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxQYW9yTXdMU2NqbmJPVTZleWM3SHNNajhtT3hvdHlEOXBpNjIyUEpHR2ZKZnY3RkNRZ3JObjVYYW9Na0NWZFlKUDlPZjZJazFyQ05DY3EwX2dYQWhBV2RTckZQR0ZNZ2NFNEQ2YWZsV3EyT1JVd2dEbGlOQkFWdlg1bm9pWmlpdTdhU0t1RDhfdzZFM3NheGkxUHJTMkNCYmFjSEVvWHJTV1JDckJ3UGtsZDVoRmk3aFBib194MDdyNGlpTmlRdHoyS1RUU2lRdmxxcTB3RGtDVlpZMllrQ2N3ZVI2eURlTlhMVk00ejRGR3hTNTBLMnRHQTV0QUdKMWhmYkk0VkNLUkxUcmM4TFVVbEZmOVl3dkZEUFNZRlVn0gGjAkFVX3lxTE04SU4zemxLN1Z0VlQ2U0RWNFJHVTBGdTZYbHFFUGxoeFlKWWZWT21OT3lvY1laYUJCUXR3MkY2S3d3VmN5NEQ3R25udWFFT0I1SGhTT05zTnFfdGxpRTlaVklFU0ZyRE5Sang1UUxIZWZUU1BYTzRNcFdjeG1jb2E1a09uUjBkVEktTEoyV2N3aW9fYWJoN01oNWVIUEpENWVlQlZsR3loUDVVeGQxRnFub2NxeW1Ca1hJcmR6ZVdBRURQTS1jNzZ1d01Xb2x1QVNyVkFZcGJ3bTlTNGI3bEVLMHBJYjBDWTVyY2tOeE9JcWswT0lZck9EUENNa0taX1BIUkhBWVBrcTN3N3JlTFVPZzFQaVFONlVVTnJmX3NHRmNJMA?oc=5",
@@ -140,7 +132,7 @@
           "topic": "economy"
         }
       ],
-      "fetched_at": "2026-11-08T00:32:23.739542+05:00"
+      "fetched_at": "2026-11-08T09:16:51.367254+05:00"
     },
     {
       "id": "business-2026-11-08",
@@ -158,19 +150,11 @@
           "topic": "business"
         },
         {
-          "id": "99b3f4685c226c83",
-          "title": "LUMS and American Business Forum Host “From Stabilisation to Growth: Pakistan’s Long-Term Reform Agenda”",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOckpYOEk3N2ZBbU5rNVVXVTZPU0hCV01JZGp5MXRYLWN5SS1TRjRhZG9aTDE2eElPQ0xUdUc1VXE0UklZSXFrVTRrS1c1YUVfMzJlNl9OOXh0V0lQdnJGLXo3aGdEYW1mTDM3S3B4bHdabWtUbGJtXzFqOGItOHNGWml1RXNNemRYZDVZNVZTOVdMcTNwU0FZX3hQX19yVFhZbTNmTGtTanlHcDFXaUJLcllSb3lPYWps?oc=5",
-          "publisher": "LUMS",
-          "published_at": "2026-11-06T14:36:20+05:00",
-          "topic": "business"
-        },
-        {
-          "id": "cbf6171d65fc6e3e",
-          "title": "Pakistan Stock Market News, PSX Business News & Updates",
-          "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE40QlduNXZKNko0SXFOR1RzYUNxR19oUWdQdmxxdVhTbGNMMGRFaFd5Z0ktSG45QWlhbUhNMTRmVkxBRjg?oc=5",
+          "id": "d41157cb6ce7abd5",
+          "title": "GHNI Company Announcements - Ghandhara Industries Ltd",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5USWdZVlkyWHB5MmxGei1BVFlUWTNHMmpLSVkxV3h6N2RDWFg4LUE2VWUwSFZpY1diZ0J0MlRKOXNqTTRSaDRlTjU4WlVNcVB4cU0xa3pyMDE5dTRRQlNjUw?oc=5",
           "publisher": "Investify",
-          "published_at": "2026-11-07T23:04:13+05:00",
+          "published_at": "2026-11-07T15:36:41+05:00",
           "topic": "business"
         },
         {
@@ -190,19 +174,11 @@
           "topic": "business"
         },
         {
-          "id": "6a889b6de3ad7fd3",
-          "title": "Pakistan, Azerbaijan agree to boost trade and economic cooperation",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZGRsWng3RGRaQUpGVlFtRGg2b0lic3ZyRzJ1MldxTzlIMVgxb0tTTVdMRWVlWEdySm1ybXRlS0tORkhyNDRad1FGRXV2QkxXbFpteGs5Z084YmdrY29LSFlZU3FjYTJPc0h0MHV4aG5PcVNjWjB4WG5oYVNqMXMxTGI5RmYzTjhPR3gwUlBqdWVHb0UzWk52TnhXcE1YTVVyUlRxWg?oc=5",
-          "publisher": "The News Pakistan",
-          "published_at": "2026-11-07T00:00:00+05:00",
-          "topic": "business"
-        },
-        {
-          "id": "78ea65ffa3705f15",
-          "title": "HUSI Company Profile - Husein Industries Ltd",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5TS3FEM2poTmlLVjZMbTlUa01MaFk0SjFwTWtySTU4NzdaWnhTRFhQSTZBUHpQOHpsUElaZzM0WHpIQ01MX0h2UmR2V2JaU2VlbFZMNWRJYkE?oc=5",
-          "publisher": "Investify",
-          "published_at": "2026-11-06T06:36:55+05:00",
+          "id": "264b4cc61d14ad71",
+          "title": "Petroleum companies highlight their CSR contributions",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1xbDlGUXVQRUhqeUNZbUFzMUIxY1VlTkZzWUg5dG5fQnM5TkQzMVJid0tEVjRPTDdsWjBPNGE3VERENVZjUlVpNFFLV0JuTGlJMVZlY3BR0gFWQVVfeXFMTXFsOUZRdVBFSGp5Q1ltQXMxQjFjVWVORnNZSDl0bl9CczlORDMxUmJ3S0RWNE9MN2xaME80YTdUREQ1VmNSVWk0UUtXQm5MaUkxVmVjcFE?oc=5",
+          "publisher": "Business Recorder",
+          "published_at": "2026-11-08T02:33:13+05:00",
           "topic": "business"
         },
         {
@@ -212,9 +188,25 @@
           "publisher": "Business Recorder",
           "published_at": "2026-11-07T04:51:41+05:00",
           "topic": "business"
+        },
+        {
+          "id": "af930a8b6f6420e6",
+          "title": "5 Best Copper Stocks for 2026 and How to Invest",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRTU5d3hmb3BYeHJ2R1BlcllMTzNVRjlfenBPdzVuNVUxY0FnSkNnbTBrdVZSZ1k2aXkydlM4STdmMGNkNUdvM1AtRWRXbi1GVy1XQ1pyeEVWakZmMTN3bFFXWnJlRkRRelZmVzdBN29KWERyYUV2d3ZFVWU4VGc0LXdKYUV4aklKcEdEMXhCQ3NURkMyaTY2WE9WVnE?oc=5",
+          "publisher": "The Motley Fool",
+          "published_at": "2026-11-06T20:53:00+05:00",
+          "topic": "business"
+        },
+        {
+          "id": "79e7308c36360f3e",
+          "title": "PMIF26: Pakistan urges global investors to explore its mineral potential",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4wTE05VnBiRFZ1cmF5X1hJVmQ2dUdkRlJ4Y05wRUsxZ3ZxV01odHZEVkJJTmttNkFSR1NZb0tRMk1EbndTWWh0ZlZrb2JSTFAt0gFWQVVfeXFMTjdkRnR1ZnBVNGxjMFVGRVhEOWx6TDcyZDFNeGNYdm9lY1h1UDFTRzlNTlN5eGhVcXFBVTFzVjFvSVpmRFJvVHlyM0tWLVR1Y3pyNTk5ZUE?oc=5",
+          "publisher": "Business Recorder",
+          "published_at": "2026-11-07T04:51:41+05:00",
+          "topic": "business"
         }
       ],
-      "fetched_at": "2026-11-08T00:32:23.739542+05:00"
+      "fetched_at": "2026-11-08T09:16:51.367254+05:00"
     },
     {
       "id": "trade-2026-11-07",
