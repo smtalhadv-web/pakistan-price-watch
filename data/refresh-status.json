@@ -1,6 +1,6 @@
 {
-  "started_at": "2026-11-08T10:39:20.274322+00:00",
-  "completed_at": "2026-11-08T10:40:03.956617+00:00",
+  "started_at": "2026-11-08T16:21:38.469366+00:00",
+  "completed_at": "2026-11-08T16:22:24.172295+00:00",
   "status": "partial",
   "timezone": "Asia/Karachi",
   "scheduled_times": [
@@ -11,49 +11,49 @@
     {
       "name": "collect.py",
       "status": "completed",
-      "elapsed_seconds": 4.0,
+      "elapsed_seconds": 3.7,
       "detail": ""
     },
     {
       "name": "download_sources.py",
       "status": "completed",
-      "elapsed_seconds": 3.4,
+      "elapsed_seconds": 3.7,
       "detail": ""
     },
     {
       "name": "ingest.py",
       "status": "completed",
-      "elapsed_seconds": 0.9,
+      "elapsed_seconds": 1.1,
       "detail": ""
     },
     {
       "name": "expand_fetch.py",
       "status": "completed",
-      "elapsed_seconds": 2.1,
+      "elapsed_seconds": 2.4,
       "detail": ""
     },
     {
       "name": "expand.py",
       "status": "completed",
-      "elapsed_seconds": 0.8,
+      "elapsed_seconds": 1.0,
       "detail": ""
     },
     {
       "name": "commerce.py",
       "status": "completed",
-      "elapsed_seconds": 24.3,
+      "elapsed_seconds": 25.5,
       "detail": ""
     },
     {
       "name": "partner_sources.py",
       "status": "completed",
-      "elapsed_seconds": 6.5,
+      "elapsed_seconds": 6.4,
       "detail": ""
     },
     {
       "name": "extra_sources.py",
       "status": "completed",
-      "elapsed_seconds": 1.6,
+      "elapsed_seconds": 1.8,
       "detail": ""
     }
   ],
@@ -959,7 +959,7 @@
       "url": "https://metro-online.pk/",
       "status": "verified",
       "detail": "parsed",
-      "quotes": 225
+      "quotes": 226
     },
     {
       "source": "Foodpanda / Kifayah",
@@ -994,7 +994,7 @@
       "url": "https://alfatah.pk/products.json?limit=100",
       "status": "verified",
       "detail": "updated",
-      "quotes": 179
+      "quotes": 177
     },
     {
       "source": "Shophive",
@@ -1011,9 +1011,9 @@
       "quotes": 29
     }
   ],
-  "total_quotes": 15091,
-  "verified_quotes": 6924,
-  "changed_prices": 72,
-  "new_quotes": 111,
-  "retained_quotes": 8167
+  "total_quotes": 15176,
+  "verified_quotes": 6926,
+  "changed_prices": 3,
+  "new_quotes": 85,
+  "retained_quotes": 8250
 }

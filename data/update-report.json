@@ -50,14 +50,14 @@
     ],
     [
       "appliances",
-      755220
+      756594
     ],
     [
       "pbs",
       344039
     ]
   ],
-  "checked_at": "2026-11-08T10:39:28.370807+00:00",
+  "checked_at": "2026-11-08T16:21:46.770521+00:00",
   "sources": [
     {
       "source": "PSO dated fuel archive",
@@ -116,7 +116,7 @@
       "new_records": 0
     }
   ],
-  "quotes": 5765,
+  "quotes": 5766,
   "manual_queue": [
     "Verify new image rates before transcribing; source sheets refresh automatically",
     "Unsupported sources retain their dated quotes"

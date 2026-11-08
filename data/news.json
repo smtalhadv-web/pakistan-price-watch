@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-08T15:40:05.052539+05:00",
+  "checked_at": "2026-11-08T21:22:25.381780+05:00",
   "checks": [
     {
       "topic": "economy",
@@ -58,11 +58,19 @@
           "topic": "trade"
         },
         {
-          "id": "191fe173f37ac64e",
-          "title": "Govt announces auto policy with focus on cheaper vehicles, EVs",
-          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1LTG00cXRaTVVURlJCN1FGTFJDVERhRlcxTEo1c0FWeURxQjEza0VMSjBQQUJwYU1CYjRkdVNSWlhOSVByNEdyaQ?oc=5",
+          "id": "0d6d6c9f73e6ea9f",
+          "title": "Exports post sluggish growth in July-October",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9aUVhVbElLcXIxMERJVnRuS2E3a3BYUER4SVFkRUVHaDREbEpIQnYxRGEtNWlQSkhyR3pISEFvbVp2RE01WHZEag?oc=5",
           "publisher": "Dawn",
-          "published_at": "2026-11-07T17:59:57+05:00",
+          "published_at": "2026-11-07T05:04:45+05:00",
+          "topic": "trade"
+        },
+        {
+          "id": "98b4cc89c21966be",
+          "title": "China’s Push to Expand Yuan Use in Africa: Strategy, Trade and Financial Influence",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNzRZSllzNm9Ja0xmajcwOVlZWjhzaXUzWHZrUE9rMEhVOTBnN1lXbEJGN0pTTWkwYTd4b2g3UV9pbWdSMmpjaXpVNjNMemVZQnRJVWpMLVQzOXM3RmJoR05RMklOZ29OZnItNGN5WVVkaEZYZlZOLTdjNHY2dC02U19pTEhWSlBlenJsUEVLRzBDTGxKSVZtUktyXzg2UTlSb29Vb09oMG9NWTloMk5uV3dJcS0wWXY4UGc?oc=5",
+          "publisher": "Modern Diplomacy",
+          "published_at": "2026-11-08T19:30:33+05:00",
           "topic": "trade"
         },
         {
@@ -80,17 +88,9 @@
           "publisher": "Daily Excelsior",
           "published_at": "2026-11-07T12:30:58+05:00",
           "topic": "trade"
-        },
-        {
-          "id": "4eed2c5cf578bda0",
-          "title": "Bangladesh’s trade deficit widens 31% as fuel import bill doubles",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOR1NIYmtldzlvVlV0QmFlZER2QTdMcVlEbmhyZWFCVllvSE1JS183dktERnFkMmJfZGlQZGozQngxTGJHcFpVRUtGLTdyVFVIWk05NW9lNUxxaEJUZzFva1Frb296MjhNOTZ4MnVPX05tRkc5NFBwRkd6ZVJWaUhvX0k4ZUFOWHd3cW9oVTNVZFk2QzAwM0duSGRFYmlGMlFtUURZR1JLUWdWdEZLZE03UA?oc=5",
-          "publisher": "The Daily Star",
-          "published_at": "2026-11-07T20:03:46+05:00",
-          "topic": "trade"
         }
       ],
-      "fetched_at": "2026-11-08T15:40:05.052539+05:00"
+      "fetched_at": "2026-11-08T21:22:25.381780+05:00"
     },
     {
       "id": "economy-2026-11-08",
@@ -124,7 +124,7 @@
           "topic": "economy"
         }
       ],
-      "fetched_at": "2026-11-08T15:40:05.052539+05:00"
+      "fetched_at": "2026-11-08T21:22:25.381780+05:00"
     },
     {
       "id": "business-2026-11-08",
@@ -134,43 +134,19 @@
       "context": "Company and industry developments can affect supply, stock availability and competition. Compare dated supplier offers before making a purchase decision.",
       "headlines": [
         {
+          "id": "db1e04b24b1b1260",
+          "title": "Oil and gas companies highlight community welfare investments at PPEPCA conference",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWlpON0JkWTF5ZjNQekVRQ0JaSjlEeWpEd3dhbnVIM3VIS2xQZjNsV2V1alI1VVRTd2YwWHA1cVVla1FYdF9GNU8wLVRpeVlTRmwzSkJjcGVGaFlPWnZ6RURDWlRnSy1YUUJmcmN4M3poUk40VDJMNHYtRHI0ajN6S3BCSURiNkl2Yk5ZUkIxcUtLOW83VHNFU3EtV0hiSWZUclRhNEE3MTdhZl9Pd1hTUkJGSUVXT3hyb3ZGbjFvQnM2c00?oc=5",
+          "publisher": "Investify",
+          "published_at": "2026-11-08T18:08:49+05:00",
+          "topic": "business"
+        },
+        {
           "id": "b2c392793c33925b",
           "title": "Beyond extraction: turning Pakistan's mineral wealth into national prosperity",
           "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1fNDNJVWtWSk1oNkVRRk9rbEd3MGpUalhHdTVPTWIyQjRBYVZ3RVBHWFhHcDFfQlp5N3UtbEMyWkxCRHdoYVRjN1JNOWZ1ZDQ50gFWQVVfeXFMUFBEY0JWZGVuV2pvWDBwNXBZSjVOQWRxWnVvTDZ6Zzk3MzBSMDR5X3lKbTN6SmN0NHNIQzFjclpIaWR5T1hubFNkVkVMVmdlb1JYZDFtN0E?oc=5",
           "publisher": "Business Recorder",
           "published_at": "2026-11-07T18:21:39+05:00",
-          "topic": "business"
-        },
-        {
-          "id": "d41157cb6ce7abd5",
-          "title": "GHNI Company Announcements - Ghandhara Industries Ltd",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5USWdZVlkyWHB5MmxGei1BVFlUWTNHMmpLSVkxV3h6N2RDWFg4LUE2VWUwSFZpY1diZ0J0MlRKOXNqTTRSaDRlTjU4WlVNcVB4cU0xa3pyMDE5dTRRQlNjUw?oc=5",
-          "publisher": "Investify",
-          "published_at": "2026-11-07T15:36:41+05:00",
-          "topic": "business"
-        },
-        {
-          "id": "8ea32dababf803cb",
-          "title": "ABSON Company Announcements - Abson Industries Ltd",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE91Q2FRRUhYQ0kxNW13bTZpUEFsQVYwRFNCQ1FJeHg3SHBGVlZNNzRzNUM1UUJtYjBva2JKNWNXVUJjZ1dRQV81THUwblBDUkxpOHltRGtYZXZCUm1Gb1hST1hR?oc=5",
-          "publisher": "Investify",
-          "published_at": "2026-11-07T10:51:05+05:00",
-          "topic": "business"
-        },
-        {
-          "id": "264b4cc61d14ad71",
-          "title": "Petroleum companies highlight their CSR contributions",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1xbDlGUXVQRUhqeUNZbUFzMUIxY1VlTkZzWUg5dG5fQnM5TkQzMVJid0tEVjRPTDdsWjBPNGE3VERENVZjUlVpNFFLV0JuTGlJMVZlY3BR0gFWQVVfeXFMTXFsOUZRdVBFSGp5Q1ltQXMxQjFjVWVORnNZSDl0bl9CczlORDMxUmJ3S0RWNE9MN2xaME80YTdUREQ1VmNSVWk0UUtXQm5MaUkxVmVjcFE?oc=5",
-          "publisher": "Business Recorder",
-          "published_at": "2026-11-08T02:33:13+05:00",
-          "topic": "business"
-        },
-        {
-          "id": "33f76d8c17cc463a",
-          "title": "FCCI president calls for Chinese investment in truck assembly and manufacturing",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBOVzZHUjZPVnQtWnhXV0p0V3lEaC1oT2dnUTFZUVpjaF9Ja2ZKRWV5NGEtMkJoa1ZaNGE3MGRuNXdpTDJOQXVYcFAzYnpheUVDXzIxeEZR0gFWQVVfeXFMUE5XNkdSNk9WdC1aeFdXSnRXeURoLWhPZ2dRMVlRWmNoX0lrZkpFZXk0YS0yQmhrVlo0YTcwZG41d2lMMk5BdVhwUDNiemF5RUNfMjF4RlE?oc=5",
-          "publisher": "Business Recorder",
-          "published_at": "2026-11-08T02:33:13+05:00",
           "topic": "business"
         },
         {
@@ -182,11 +158,35 @@
           "topic": "business"
         },
         {
-          "id": "af930a8b6f6420e6",
-          "title": "5 Best Copper Stocks for 2026 and How to Invest",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRTU5d3hmb3BYeHJ2R1BlcllMTzNVRjlfenBPdzVuNVUxY0FnSkNnbTBrdVZSZ1k2aXkydlM4STdmMGNkNUdvM1AtRWRXbi1GVy1XQ1pyeEVWakZmMTN3bFFXWnJlRkRRelZmVzdBN29KWERyYUV2d3ZFVWU4VGc0LXdKYUV4aklKcEdEMXhCQ3NURkMyaTY2WE9WVnE?oc=5",
-          "publisher": "The Motley Fool",
-          "published_at": "2026-11-06T20:53:00+05:00",
+          "id": "6a889b6de3ad7fd3",
+          "title": "Pakistan, Azerbaijan agree to boost trade and economic cooperation",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZGRsWng3RGRaQUpGVlFtRGg2b0lic3ZyRzJ1MldxTzlIMVgxb0tTTVdMRWVlWEdySm1ybXRlS0tORkhyNDRad1FGRXV2QkxXbFpteGs5Z084YmdrY29LSFlZU3FjYTJPc0h0MHV4aG5PcVNjWjB4WG5oYVNqMXMxTGI5RmYzTjhPR3gwUlBqdWVHb0UzWk52TnhXcE1YTVVyUlRxWg?oc=5",
+          "publisher": "The News Pakistan",
+          "published_at": "2026-11-07T00:00:00+05:00",
+          "topic": "business"
+        },
+        {
+          "id": "d41157cb6ce7abd5",
+          "title": "GHNI Company Announcements - Ghandhara Industries Ltd",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5USWdZVlkyWHB5MmxGei1BVFlUWTNHMmpLSVkxV3h6N2RDWFg4LUE2VWUwSFZpY1diZ0J0MlRKOXNqTTRSaDRlTjU4WlVNcVB4cU0xa3pyMDE5dTRRQlNjUw?oc=5",
+          "publisher": "Investify",
+          "published_at": "2026-11-07T15:36:41+05:00",
+          "topic": "business"
+        },
+        {
+          "id": "f889b5258557b2b5",
+          "title": "European Union Jobs 2026: Project Manager for Private Sector Development and Investments – EU Delegation to Pakistan",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5Hek0xQW45STZ4ejN5d0lDTGhRcnhMZ2lCNTZGZU9IcVNWbTdHeUZsdmVJeUotZURjS0pORGo2LXZvZXBPaFQyY19qMzNURHhpSV8yM0haWWhRaF9LSU1Md3U4dHQzVEh3?oc=5",
+          "publisher": "Global South Opportunities",
+          "published_at": "2026-11-07T10:38:09+05:00",
+          "topic": "business"
+        },
+        {
+          "id": "8ea32dababf803cb",
+          "title": "ABSON Company Announcements - Abson Industries Ltd",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE91Q2FRRUhYQ0kxNW13bTZpUEFsQVYwRFNCQ1FJeHg3SHBGVlZNNzRzNUM1UUJtYjBva2JKNWNXVUJjZ1dRQV81THUwblBDUkxpOHltRGtYZXZCUm1Gb1hST1hR?oc=5",
+          "publisher": "Investify",
+          "published_at": "2026-11-07T10:51:05+05:00",
           "topic": "business"
         },
         {
@@ -198,7 +198,7 @@
           "topic": "business"
         }
       ],
-      "fetched_at": "2026-11-08T15:40:05.052539+05:00"
+      "fetched_at": "2026-11-08T21:22:25.381780+05:00"
     },
     {
       "id": "trade-2026-11-07",
