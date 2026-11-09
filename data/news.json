@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-09T21:12:55.992397+05:00",
+  "checked_at": "2026-11-10T04:50:35.790057+05:00",
   "checks": [
     {
       "topic": "economy",
@@ -18,6 +18,188 @@
     }
   ],
   "posts": [
+    {
+      "id": "trade-2026-11-10",
+      "topic": "trade",
+      "date": "2026-11-10",
+      "title": "Trade news briefing · 2026-11-10",
+      "context": "Trade and customs developments can affect landed costs and delivery times. Check the original notification, effective date and product classification before applying a reported change to an item.",
+      "headlines": [
+        {
+          "id": "e3d2114276c93b4c",
+          "title": "The fine print of free trade",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1LZWt2ejducHRudFVCNHBqcTJKMkxIMW5lZjU4b05tUG9nc3NCczlCZmh1TDBpdm5wZnhVTktsc3FDeklPdHNqUjdUZUdXTVd1VFRlLTQ2NUtERHpwRWh4MUJ1Z1dqNUVHUVNDeWdqaW5QWGM?oc=5",
+          "publisher": "The News Pakistan",
+          "published_at": "2026-11-10T00:00:00+05:00",
+          "topic": "trade"
+        },
+        {
+          "id": "e4f0982046d64988",
+          "title": "The 50-point gap behind tariff debate",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA3ejVET3JXRklWdmcxWURCb1ZLcnFDQkozSWZTXzktajU0ZlVxdXR1UHRFbkJvbTdFRUpGUHVobEZXSWVmMlg1aWxZckF1ZERxeWZPUU5HXzV2aHdoQkk4a25mVmk4d3VCTHNSMTVvX2dnbFBnWlRyTWdsaDRCQ2PSAYcBQVVfeXFMTm5TZm5LamhPa2V5bGJDck12ekdmZ1U3dFBzWTRmemQwLW93UmItN3ExWm4zYVVaSWl6djkxb3JhdFNSQ3R4M3NmYTc0N0FkWFE3T3E1VFM0ODdhWnpoSnYwaWVFeGx2bWEtSXNJVUZPZ2tUcTdwN2hTOTV5WUNrTUVoSXpDb1VR?oc=5",
+          "publisher": "The Express Tribune",
+          "published_at": "2026-11-09T02:52:23+05:00",
+          "topic": "trade"
+        },
+        {
+          "id": "e79daafcbcde4147",
+          "title": "EPZ Risalpur Unit: Customs uncovers import irregularities, shortage of goods",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1rTmxQek13OUE5dGVybEtEMTA1cVBKYjVYSFZQZThPMGs2YmlSZW45RkFLOHFiOS1wQnVGZ2hlb242QVlLZXZKQlctVTRFX1BF0gFWQVVfeXFMTmhoWG5mcE91LXB2RC1VcWVmMGlqQ3d2MW8xQ193RzdUbjgwdkVJZ3N5UTZJV2JWbWhvM2JYOHNSSzBjZHlhNGxQZVRpLVNqbnZuT0JuZkE?oc=5",
+          "publisher": "Business Recorder",
+          "published_at": "2026-11-09T04:46:04+05:00",
+          "topic": "trade"
+        },
+        {
+          "id": "23b60079da598705",
+          "title": "EPZ Risalpur Unit: Customs uncovers import irregularities, shortage of goods",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPYmxwUWZKWnh5R1BRWGJPY0V1WDFsTVpaTHRGUUh0Ql9paklnQnVObjAtbGJDRkxEUC1iazBnTUczZnZxQ2pROHJUdWVTNFNSTnloaEhaV0NRaUllcDBKdGhjaGFoRGNTOEdBSWtrVkxfOUFuSFZEY0tFekR3V2I2TEF2VDA4ZzBKek9BNTdWekxmb2RLNnc2RzhDSmFyMF9YQnFybWtBeEZrT2lXRkdEVlZNd19qTjRr?oc=5",
+          "publisher": "Investify",
+          "published_at": "2026-11-09T05:29:10+05:00",
+          "topic": "trade"
+        },
+        {
+          "id": "349fbbd2f5ca804e",
+          "title": "Import surge widens trade deficit to $7.47b in Q1",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaE5xRUx1VXVDcDlRTUVxMXpFMi1sa2pNWDY1ZFhSdkhXSG1mNGE4dTBPcjlOeVJTMV9HNzdIRl9iNGcydWJKeTJPOS1CSnNQdFlPbEdtbUNHQkJnWV9uUlhkUWZrVVFJWkNZRDZZajllSm9sdS1VNjFrNGtSOG9yRE1jNjZfUmVP?oc=5",
+          "publisher": "The Business Standard",
+          "published_at": "2026-11-09T11:19:56+05:00",
+          "topic": "trade"
+        },
+        {
+          "id": "5e3c4b2d95f8358a",
+          "title": "Pakistan’s export problem begins at home",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOU0VXV0VrSFpscWVzYy1VeU9fT3Jzak1NMEROZEEtcFh4Ni1HYXJ1OHpXZ3dnMm5MLTcxZm5Dd3cxVjVmZXRIUHliX3NDbEVPSzFNU1lCWTZnaE5WeUpKTFlZbFJWZ1kwQWIwOVE0djVlak4xTE8wRTNWQjNRV1Nvd2VscEQ0QdIBVkFVX3lxTE5oWGlaUl8zSTdfUVZrX3p2b1ZNdG55VEFUd0dRZVVLS1dSV0g1QUxiUmhuUUU5ZkNUU1dnU1BuTmpIcVpuWUZnUXo3ZjBzOGRvenZmRTFn?oc=5",
+          "publisher": "Business Recorder",
+          "published_at": "2026-11-09T06:41:16+05:00",
+          "topic": "trade"
+        },
+        {
+          "id": "8c708c56872ad8e6",
+          "title": "The 50-point gap behind tariff debate",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZGVoaHpkR2d3eEYxZ2NSbUpVT3hfT3VkbTRzOEZiZHJka21HSGVoMXZtLVhOWTJqWGNMblFlVHg3UEVMOGFjOVE3ODZaakw2TjZTdUVoTkFLbS1xbXhLeGh6cFlQOGgzTVZEVDBRTGJnVHNjNzF3UGpUN2lnNHVMX2pYcUpKcnc?oc=5",
+          "publisher": "Investify",
+          "published_at": "2026-11-09T01:56:53+05:00",
+          "topic": "trade"
+        },
+        {
+          "id": "98b4cc89c21966be",
+          "title": "China’s Push to Expand Yuan Use in Africa: Strategy, Trade and Financial Influence",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNzRZSllzNm9Ja0xmajcwOVlZWjhzaXUzWHZrUE9rMEhVOTBnN1lXbEJGN0pTTWkwYTd4b2g3UV9pbWdSMmpjaXpVNjNMemVZQnRJVWpMLVQzOXM3RmJoR05RMklOZ29OZnItNGN5WVVkaEZYZlZOLTdjNHY2dC02U19pTEhWSlBlenJsUEVLRzBDTGxKSVZtUktyXzg2UTlSb29Vb09oMG9NWTloMk5uV3dJcS0wWXY4UGc?oc=5",
+          "publisher": "Modern Diplomacy",
+          "published_at": "2026-11-08T19:30:33+05:00",
+          "topic": "trade"
+        }
+      ],
+      "fetched_at": "2026-11-10T04:50:35.790057+05:00"
+    },
+    {
+      "id": "economy-2026-11-10",
+      "topic": "economy",
+      "date": "2026-11-10",
+      "title": "Economy news briefing · 2026-11-10",
+      "context": "Watch how inflation, currency movements and borrowing costs may affect household budgets and import costs. A headline alone does not establish that a retail price has changed.",
+      "headlines": [
+        {
+          "id": "f5eb3575c582eca8",
+          "title": "Taxing mobility in an untaxed economy",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNd0R6XzNDWVhnVHJ1a0dDTTFLMGd3ekFCUWR4cGZwRWp2eUYteWlzQVd0Wi1NNkt0N0k1aWk1cHlWdl8xSUtEYThtLWloRGxFRU9QQTR5bGF5aEJTNFNDUVAwVDR4QUtZSWYxVzVzM0xNQ0FtR1ZpRTZ4ckpSRnZJUHdwNnBOUE5aWUlQZ3lMRFRuLTVzYUE?oc=5",
+          "publisher": "The News Pakistan",
+          "published_at": "2026-11-09T06:51:23+05:00",
+          "topic": "economy"
+        },
+        {
+          "id": "76b2c44a708def1a",
+          "title": "Gold, Silver Outlook: US-Iran Tensions, Inflation Data Key",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcjB5SHJqWkQzMFRfNEFmU1BUYU5xQkhpM1pJanJOTHE0NVAtNnRTX05Nc2lMVDRXdVBncElzRWhOQ3hWcXV2ak5zdXZRc2otRjVCa2FwcDhvTFQtQWhZdWFSZmI4dzRBaDlybmNnV21vc0JIMldxZmF1d3ROM1VxWVRVdWVaM05UN0FtVlhvS3EtZkhDb1gwN1FJRkdSdUZkT19RSjZfamdQUjlOSkE1N9IBsAFBVV95cUxQcjB5SHJqWkQzMFRfNEFmU1BUYU5xQkhpM1pJanJOTHE0NVAtNnRTX05Nc2lMVDRXdVBncElzRWhOQ3hWcXV2ak5zdXZRc2otRjVCa2FwcDhvTFQtQWhZdWFSZmI4dzRBaDlybmNnV21vc0JIMldxZmF1d3ROM1VxWVRVdWVaM05UN0FtVlhvS3EtZkhDb1gwN1FJRkdSdUZkT19RSjZfamdQUjlOSkE1Nw?oc=5",
+          "publisher": "Rediff MoneyWiz",
+          "published_at": "2026-11-08T11:17:31+05:00",
+          "topic": "economy"
+        },
+        {
+          "id": "679e14c0ceec9a1c",
+          "title": "Gold, silver outlook: Inflation data and geopolitical tensions likely to drive prices this week",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNeGJYcjRPR2JWQ2ZTUkh0cTdnZ1hIQzYzcWxRZWp4aERyNFlwOXlkUk0tNXFKbHh4LUJZdmlYM1hHb2l6QW1RN0NUYXJQb1Q4ZEJzN29tRDBDaEkwZml5b2JSaHVvX0ZLNnhDd21NcXJOaHZreF90T3o1M01QQjVpdmNkVFU5Xy1kMEE2bWFoY0NocThNVUxCSlVqT0hxRWF3VWFRVXVmWXh4Z05DQ0h4TEZYeG93NmlkSDE4X1BTV3RFUzhXZHFZaw?oc=5",
+          "publisher": "The Hawk",
+          "published_at": "2026-11-08T17:33:30+05:00",
+          "topic": "economy"
+        }
+      ],
+      "fetched_at": "2026-11-10T04:50:35.790057+05:00"
+    },
+    {
+      "id": "business-2026-11-10",
+      "topic": "business",
+      "date": "2026-11-10",
+      "title": "Business news briefing · 2026-11-10",
+      "context": "Company and industry developments can affect supply, stock availability and competition. Compare dated supplier offers before making a purchase decision.",
+      "headlines": [
+        {
+          "id": "0f6a9547886e6283",
+          "title": "Interview with Nabila Yazdani — Director Strategy & Company Spokesperson, Zong",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPYTZNRHhfc0NZdjBSYjRtV1VHSXFyRDJfNEdxcUlaWEhTRjl3eWgwd1g3T1d0dDByVmo1WE9tWHdhSU1QSU5ydy1ZS1RCZkNMVExuVzY5bmRZNmdyT29XQkRaeE9aQXdySTdxZFVadDlRVE9sTFBLLU1NYlVDdDI4MkU3Ykcwd3dMTlNlNllicTJ0VVZtRnk3bXRQaU1mSDFYaXpMcWFnUTBjbmtNMnpVWmhsY3JXVmZL0gFWQVVfeXFMT3gwSjJoNFRsa0hUUDFSZlJRWklUaXhEVW1iQUl6amVrbjVjMjN2VzRDT0tHcHdHMnd1bEtFSS1YbkVRUlN2MU5hbFp0c3B2WE9yazkzMUE?oc=5",
+          "publisher": "Business Recorder",
+          "published_at": "2026-11-10T04:44:56+05:00",
+          "topic": "business"
+        },
+        {
+          "id": "97dd664b9de71733",
+          "title": "Pakistan, Saudi Arabia investors plan joint fund",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOVEZMN0pkMExpMXg3N1JxYjRiYUhmRm1XaFdZOEJtNE9BY3JIVkl3TmVvblBnX1loN3JVUHhSM0pLem9wOEVuQXRiaFZxQWRUX0NqdTN0X1NuNWxoWGZLNTZJZVVHWEpua2tuQmg2cjdwZi1VdmFrVlpLaXFsZ1lodlM2MnkyRU1iZmFjNA?oc=5",
+          "publisher": "The News Pakistan",
+          "published_at": "2026-11-10T00:00:00+05:00",
+          "topic": "business"
+        },
+        {
+          "id": "c4260d2f901b9289",
+          "title": "Pakistan, Saudi Arabia investors launch fund to boost trade, investment",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSmwzMWctSWdDWTNMZkJtUHM4RXZodk1ERXE2UTZzN0w4bHNlWTBEa1RMdEo3SnBPVVNXbVExMHlMS0dsVFEtZERGeWhfQVFqOHN3cTFLSmJucWh2Q21sODFqQV95QkdnS0MxOElrRXlaT2dJOVprWmVDY3ltXzIzRUl1NHN1VDNaVWM1d1B4T3o3amFma09UR0t4eXVCMHJhcjM0RmV3?oc=5",
+          "publisher": "Dawn",
+          "published_at": "2026-11-09T17:40:11+05:00",
+          "topic": "business"
+        },
+        {
+          "id": "36c71a48d507c2fb",
+          "title": "Industrial growth: Kundi calls for govt-business collaboration",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPM3V6UnBNc0dqdjBRYUxaelYyLV83VElObUc3VGI5dFphSWg1WGFlQUk3bFlWLVZuVnFkanlMMHloTjhsVVdaNzFZajZScFQtam42dmJjcmhKWm13djItY1hYRlBpWThaWHpGYXVyVjNZYUkzM3VUVjFCZmRUQUxONWFqdXNtNHQxbjl4UkUzSkFYdUxyQXhUOEZ0ZEhvMm4zYmRjTkdWOA?oc=5",
+          "publisher": "Investify",
+          "published_at": "2026-11-09T04:46:04+05:00",
+          "topic": "business"
+        },
+        {
+          "id": "d4600bdde8278ec0",
+          "title": "Saudi and Pakistani Investors Sign MoU to Launch Saudi–Pak Private Equity Fund",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONndkbHJVN2hSNjZWT3pzcVN2NlR0RjI3SEtORUlsS0J5UFRzWFpJRnc1dEt6Sk1kTUpIN0NOTVhJM3RSdXF5MzcxcG5PVENXSm51N0Z1b21FcmZncXdrWnRPcGJaRnVBMWh5akVpb3pOdTF3TlBnY3VpZS1xRG5LWlpXSGl2X0ZldkJDYXRhbnppUkJXWjFhRDhHbVd2YzY3NHVpbWJNWHVuY01sNEhHSzVxeHJsMmM?oc=5",
+          "publisher": "Biz Today",
+          "published_at": "2026-11-09T21:23:38+05:00",
+          "topic": "business"
+        },
+        {
+          "id": "17fe66a584d85f29",
+          "title": "Pakistan’s Mineral Wealth And Its Path To Global Investment – OpEd",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZGpvX0RVdkpPeU1sVmdHWE9pTWk5Nkc0bFM1NHhOYW9SWWdKVEQ1aER1QWRwZEFrLXYzV1VrZkRGNDV6U0NJQWlWem1XRnJhVGg0VkZEVk1kQldMbnhKME9uNXowVlRPdGhGMEhHWTFUbFpMYUh4OXpyZVEtWmMxVVhPckhCN2I1STRZUXk0c0lmVEM0Y0dWbjdrYlJPSXRKMVhLNTZB?oc=5",
+          "publisher": "Eurasia Review",
+          "published_at": "2026-11-09T03:21:23+05:00",
+          "topic": "business"
+        },
+        {
+          "id": "10fb152405b76e7d",
+          "title": "Russia, Pakistan Technology Cooperation Moves Towards Joint Ventures In AI, Cybersecurity & Digital Trade",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQVy16VThRcjFHX2pRSlhfZUpjc2h6MzBUU0pkMzJrMjZReU1VYWhlVUd6WHNEZGlhcFM1dUpJeUNUNVFLUFNXU3JfWXd3ME03aU9Pa0tkTTZxVFZfS0s0LUZtTEdJR2cyMWpGcFB0el9OWDQ4YmwzWUdGR0Fadlc0aUxiWDZJcFZ2S0h2UVZuRHd1ZDRkenJCODVxTkpJLTN0Z1JOb2M4ZVZVNDFjaWlJLUEwMi10WW01bmJ2MGRkNmZDNWYxZlVucC1YVXR6dw?oc=5",
+          "publisher": "russia's pivot to asia",
+          "published_at": "2026-11-09T18:45:56+05:00",
+          "topic": "business"
+        },
+        {
+          "id": "4549002c7b968449",
+          "title": "Pakistan, Saudi Arabia investors launch fund to boost trade, investment",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1id1djc1VZT1RRbkIxREJXTGFQMUhrQ2FxSk1EWExETHNVaFNCMmU5SG5oUFNlUUswWnQ4alNnbkJYRW9rN2dmN2N6OFRQYU5N0gFWQVVfeXFMT09Fck5KbzlqNXNTWmJLbkpQQUozbThqMThzSjVCcXFTYldmOWxEX19nNUxQVkZQZm5USnJxRjllZ1NZM2RmT2VMVDJHU2VqMWVzbUpUcHc?oc=5",
+          "publisher": "Business Recorder",
+          "published_at": "2026-11-09T17:02:47+05:00",
+          "topic": "business"
+        }
+      ],
+      "fetched_at": "2026-11-10T04:50:35.790057+05:00"
+    },
     {
       "id": "trade-2026-11-09",
       "topic": "trade",

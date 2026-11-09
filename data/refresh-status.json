@@ -1,6 +1,6 @@
 {
-  "started_at": "2026-11-09T16:12:12.828960+00:00",
-  "completed_at": "2026-11-09T16:12:54.824475+00:00",
+  "started_at": "2026-11-09T23:49:56.990789+00:00",
+  "completed_at": "2026-11-09T23:50:34.907355+00:00",
   "status": "partial",
   "timezone": "Asia/Karachi",
   "scheduled_times": [
@@ -11,49 +11,49 @@
     {
       "name": "collect.py",
       "status": "completed",
-      "elapsed_seconds": 4.3,
+      "elapsed_seconds": 3.4,
       "detail": ""
     },
     {
       "name": "download_sources.py",
       "status": "completed",
-      "elapsed_seconds": 2.3,
+      "elapsed_seconds": 2.1,
       "detail": ""
     },
     {
       "name": "ingest.py",
       "status": "completed",
-      "elapsed_seconds": 1.2,
+      "elapsed_seconds": 1.0,
       "detail": ""
     },
     {
       "name": "expand_fetch.py",
       "status": "completed",
-      "elapsed_seconds": 2.0,
+      "elapsed_seconds": 2.1,
       "detail": ""
     },
     {
       "name": "expand.py",
       "status": "completed",
-      "elapsed_seconds": 1.2,
+      "elapsed_seconds": 1.0,
       "detail": ""
     },
     {
       "name": "commerce.py",
       "status": "completed",
-      "elapsed_seconds": 24.1,
+      "elapsed_seconds": 21.9,
       "detail": ""
     },
     {
       "name": "partner_sources.py",
       "status": "completed",
-      "elapsed_seconds": 5.6,
+      "elapsed_seconds": 5.3,
       "detail": ""
     },
     {
       "name": "extra_sources.py",
       "status": "completed",
-      "elapsed_seconds": 1.1,
+      "elapsed_seconds": 1.0,
       "detail": ""
     }
   ],
@@ -959,21 +959,21 @@
       "url": "https://metro-online.pk/",
       "status": "verified",
       "detail": "parsed",
-      "quotes": 225
+      "quotes": 226
     },
     {
       "source": "Foodpanda / Kifayah",
       "url": "https://www.foodpanda.pk/shop/a036/kifayah-supermarket-pechs",
-      "status": "not_verified",
-      "detail": "no verified quotes",
-      "quotes": 0
+      "status": "verified",
+      "detail": "parsed",
+      "quotes": 90
     },
     {
       "source": "OLX",
       "url": "https://www.olx.com.pk/items/q-iphone-15",
       "status": "verified",
       "detail": "parsed",
-      "quotes": 32
+      "quotes": 33
     },
     {
       "source": "OLX",
@@ -987,7 +987,7 @@
       "url": "https://www.olx.com.pk/items/q-sofa",
       "status": "verified",
       "detail": "parsed",
-      "quotes": 32
+      "quotes": 31
     },
     {
       "source": "Al-Fatah",
@@ -1011,9 +1011,9 @@
       "quotes": 29
     }
   ],
-  "total_quotes": 15525,
-  "verified_quotes": 6825,
-  "changed_prices": 21,
-  "new_quotes": 73,
-  "retained_quotes": 8700
+  "total_quotes": 15606,
+  "verified_quotes": 6917,
+  "changed_prices": 3,
+  "new_quotes": 81,
+  "retained_quotes": 8689
 }
