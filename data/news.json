@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-09T16:56:59.904478+05:00",
+  "checked_at": "2026-11-09T21:12:55.992397+05:00",
   "checks": [
     {
       "topic": "economy",
@@ -7,12 +7,12 @@
       "headlines": 3
     },
     {
-      "topic": "trade",
+      "topic": "business",
       "status": "updated",
       "headlines": 8
     },
     {
-      "topic": "business",
+      "topic": "trade",
       "status": "updated",
       "headlines": 8
     }
@@ -58,22 +58,6 @@
           "topic": "trade"
         },
         {
-          "id": "5dbc1ec485615c6c",
-          "title": "At CIIE, shared opportunities become shared growth: A Pakistani brand's journey into China's market",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbVBFdk40WDFyQjh6WXJWbUtJRnpROG5qS2s2WFRRR3o1bzBEZ2lPa01oX282c0FhMUE3ZEloSXZrTzJpdllTVldxZXlRblJYTUFwa0NHcGU4MzVqUk1qSm9qVUd6RTdFbklHWTFOc1VpSWJ0YUlBRUFYWTNyLWluZ2pNWGxVQmJHemFNb05SMklONUg5MTY4OVo5NF8ybFVuRDdvOVV1ZTdmSGs5a0J0c2NlYnRFb3NMWXJfcA?oc=5",
-          "publisher": "CGTN",
-          "published_at": "2026-11-08T18:00:12+05:00",
-          "topic": "trade"
-        },
-        {
-          "id": "191fe173f37ac64e",
-          "title": "Govt announces auto policy with focus on cheaper vehicles, EVs",
-          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1LTG00cXRaTVVURlJCN1FGTFJDVERhRlcxTEo1c0FWeURxQjEza0VMSjBQQUJwYU1CYjRkdVNSWlhOSVByNEdyaQ?oc=5",
-          "publisher": "Dawn",
-          "published_at": "2026-11-07T17:59:57+05:00",
-          "topic": "trade"
-        },
-        {
           "id": "349fbbd2f5ca804e",
           "title": "Import surge widens trade deficit to $7.47b in Q1",
           "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaE5xRUx1VXVDcDlRTUVxMXpFMi1sa2pNWDY1ZFhSdkhXSG1mNGE4dTBPcjlOeVJTMV9HNzdIRl9iNGcydWJKeTJPOS1CSnNQdFlPbEdtbUNHQkJnWV9uUlhkUWZrVVFJWkNZRDZZajllSm9sdS1VNjFrNGtSOG9yRE1jNjZfUmVP?oc=5",
@@ -88,9 +72,25 @@
           "publisher": "Investify",
           "published_at": "2026-11-09T01:56:53+05:00",
           "topic": "trade"
+        },
+        {
+          "id": "5dbc1ec485615c6c",
+          "title": "At CIIE, shared opportunities become shared growth: A Pakistani brand's journey into China's market",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbVBFdk40WDFyQjh6WXJWbUtJRnpROG5qS2s2WFRRR3o1bzBEZ2lPa01oX282c0FhMUE3ZEloSXZrTzJpdllTVldxZXlRblJYTUFwa0NHcGU4MzVqUk1qSm9qVUd6RTdFbklHWTFOc1VpSWJ0YUlBRUFYWTNyLWluZ2pNWGxVQmJHemFNb05SMklONUg5MTY4OVo5NF8ybFVuRDdvOVV1ZTdmSGs5a0J0c2NlYnRFb3NMWXJfcA?oc=5",
+          "publisher": "CGTN",
+          "published_at": "2026-11-08T18:00:12+05:00",
+          "topic": "trade"
+        },
+        {
+          "id": "98b4cc89c21966be",
+          "title": "China’s Push to Expand Yuan Use in Africa: Strategy, Trade and Financial Influence",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNzRZSllzNm9Ja0xmajcwOVlZWjhzaXUzWHZrUE9rMEhVOTBnN1lXbEJGN0pTTWkwYTd4b2g3UV9pbWdSMmpjaXpVNjNMemVZQnRJVWpMLVQzOXM3RmJoR05RMklOZ29OZnItNGN5WVVkaEZYZlZOLTdjNHY2dC02U19pTEhWSlBlenJsUEVLRzBDTGxKSVZtUktyXzg2UTlSb29Vb09oMG9NWTloMk5uV3dJcS0wWXY4UGc?oc=5",
+          "publisher": "Modern Diplomacy",
+          "published_at": "2026-11-08T19:30:33+05:00",
+          "topic": "trade"
         }
       ],
-      "fetched_at": "2026-11-09T16:56:59.904478+05:00"
+      "fetched_at": "2026-11-09T21:12:55.992397+05:00"
     },
     {
       "id": "economy-2026-11-09",
@@ -124,7 +124,7 @@
           "topic": "economy"
         }
       ],
-      "fetched_at": "2026-11-09T16:56:59.904478+05:00"
+      "fetched_at": "2026-11-09T21:12:55.992397+05:00"
     },
     {
       "id": "business-2026-11-09",
@@ -150,26 +150,10 @@
           "topic": "business"
         },
         {
-          "id": "17fe66a584d85f29",
-          "title": "Pakistan’s Mineral Wealth And Its Path To Global Investment – OpEd",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZGpvX0RVdkpPeU1sVmdHWE9pTWk5Nkc0bFM1NHhOYW9SWWdKVEQ1aER1QWRwZEFrLXYzV1VrZkRGNDV6U0NJQWlWem1XRnJhVGg0VkZEVk1kQldMbnhKME9uNXowVlRPdGhGMEhHWTFUbFpMYUh4OXpyZVEtWmMxVVhPckhCN2I1STRZUXk0c0lmVEM0Y0dWbjdrYlJPSXRKMVhLNTZB?oc=5",
-          "publisher": "Eurasia Review",
-          "published_at": "2026-11-09T03:21:23+05:00",
-          "topic": "business"
-        },
-        {
           "id": "1438c28281f3381a",
           "title": "Companies sign JV with Turkish powerhouse",
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1NSDZnM3FkTGhGZ1dxWFd2Y3hqZ2ZFcTdGWll3bl9vUGV0b0FhUVVBeUhYY2RPMUEyRW9qUnltZVVsVHozRlRLNHh2V0kzSGlQNDhQTjVR0gFWQVVfeXFMTU1INmczcWRMaEZnV3FYV3ZjeGpnZkVxN0ZaWXduX29QZXRvQWFRVUF5SFhjZE8xQTJFb2pSeW1lVWxUejNGVEs0eHZXSTNIaVA0OFBONVE?oc=5",
           "publisher": "Business Recorder",
-          "published_at": "2026-11-09T04:46:04+05:00",
-          "topic": "business"
-        },
-        {
-          "id": "c9871b0a58d4dbb7",
-          "title": "PMIF26 commences in Islamabad on 12th",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOa3JCdnpuTWo5SGpiOUlEc0NPV3BfSTBGdWlJOE1PQ2hyems1RFFvamFaVmVON3lvMU1oMG9aOWxNQnhSTzBhUXFlRm1NMFhhdkg2RXd0Z1RGNDEwYkJNOG1IWWlwZ1NRc0w5QjlTbEUyQ2N5RUdlWEtpNGtMbkpwb2w4TlY1WFE?oc=5",
-          "publisher": "Investify",
           "published_at": "2026-11-09T04:46:04+05:00",
           "topic": "business"
         },
@@ -182,23 +166,39 @@
           "topic": "business"
         },
         {
-          "id": "9c723ebdf6f64c7a",
-          "title": "Solar Industry Grows Rapidly with Imported Technology",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOLXRHLXFlQTRVR0M3LU5qdUFTZjM3VVRMYXVTRmhzZ0NXNzd0ZFBXdzdOcEhXQVEyRS10X3g5YTF0cmhVVHhseXRtZ21yZjZDQzJodVRDd1ZZb3pka0xZSmxBNFFDbVBZUGNWQVZrdGFKVWE0ZERIU0g1TXRRVUtRN19qMUVyU0tfX3ljWHlSOEZpdGZLb2Q4LUVjVTQ5Mjk3MlA5ZkhkTmExSHNiVnpJaldIb3lla1M5T2c0djItdkgzd9IBxwFBVV95cUxQWm9UdXFZdnJCTVJuemx6RjA1aGhYYmlGSW41RjdZQms3dFplcXNwUzNEME5iY2tQMVgxTnhMeG5VMjZLWUp6dHNtR25BbWdaNzhweTJBODBSeEptMWFwNFBiSjczZDBUMkFudFhYQzFhMnh4cldxUkpQNVg2cnRxUUxmTnptcEhPb0Y3NEpIVWFKZGlxUDBnLS1CRjUwSWZCN2oxZFp0SjIya0tMallYQzZQaENsQUNubmNfMGxMVkthdElTaHBJ?oc=5",
-          "publisher": "The Manila Times",
-          "published_at": "2026-11-09T15:02:18+05:00",
+          "id": "264b4cc61d14ad71",
+          "title": "Petroleum companies highlight their CSR contributions",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1xbDlGUXVQRUhqeUNZbUFzMUIxY1VlTkZzWUg5dG5fQnM5TkQzMVJid0tEVjRPTDdsWjBPNGE3VERENVZjUlVpNFFLV0JuTGlJMVZlY3BR0gFWQVVfeXFMTXFsOUZRdVBFSGp5Q1ltQXMxQjFjVWVORnNZSDl0bl9CczlORDMxUmJ3S0RWNE9MN2xaME80YTdUREQ1VmNSVWk0UUtXQm5MaUkxVmVjcFE?oc=5",
+          "publisher": "Business Recorder",
+          "published_at": "2026-11-08T02:33:13+05:00",
           "topic": "business"
         },
         {
-          "id": "5c56bfe30d1c1c1b",
-          "title": "Beyond extraction: turning Pakistan's mineral wealth into national prosperity",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNGQwRHRaQjhGQUFtM3gxUnAxcE9uTXRKVmp1TE5jV0Rqei05V3I5SWtQdm95djJ6ZnVPdlZmaG1zRDVvaXdYWDhwZ1l4Y0xoN0d6Ni1NTGdjQ0txTTJ6NFkyOXZOWFFyZ1RaRVFnZk5oYUlnUE1LSkpHYUQwcDNWZkJQT29IOW5CVUxjRkEwV1djVDZJTG82N3JySk0zQkRscnNHazY4MlVzclZDYW9RMFBKVTlDQdIBVkFVX3lxTFBQRGNCVmRlbldqb1gwcDVwWUo1TkFkcVp1b0w2emc5NzMwUjA0eV95Sm0zekpjdDRzSEMxY3JaSGlkeU9YbmxTZFZFTFZnZW9SWGQxbTdB?oc=5",
-          "publisher": "Business Recorder",
-          "published_at": "2026-11-07T18:21:39+05:00",
+          "id": "17fe66a584d85f29",
+          "title": "Pakistan’s Mineral Wealth And Its Path To Global Investment – OpEd",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZGpvX0RVdkpPeU1sVmdHWE9pTWk5Nkc0bFM1NHhOYW9SWWdKVEQ1aER1QWRwZEFrLXYzV1VrZkRGNDV6U0NJQWlWem1XRnJhVGg0VkZEVk1kQldMbnhKME9uNXowVlRPdGhGMEhHWTFUbFpMYUh4OXpyZVEtWmMxVVhPckhCN2I1STRZUXk0c0lmVEM0Y0dWbjdrYlJPSXRKMVhLNTZB?oc=5",
+          "publisher": "Eurasia Review",
+          "published_at": "2026-11-09T03:21:23+05:00",
+          "topic": "business"
+        },
+        {
+          "id": "10fb152405b76e7d",
+          "title": "Russia, Pakistan Technology Cooperation Moves Towards Joint Ventures In AI, Cybersecurity & Digital Trade",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQVy16VThRcjFHX2pRSlhfZUpjc2h6MzBUU0pkMzJrMjZReU1VYWhlVUd6WHNEZGlhcFM1dUpJeUNUNVFLUFNXU3JfWXd3ME03aU9Pa0tkTTZxVFZfS0s0LUZtTEdJR2cyMWpGcFB0el9OWDQ4YmwzWUdGR0Fadlc0aUxiWDZJcFZ2S0h2UVZuRHd1ZDRkenJCODVxTkpJLTN0Z1JOb2M4ZVZVNDFjaWlJLUEwMi10WW01bmJ2MGRkNmZDNWYxZlVucC1YVXR6dw?oc=5",
+          "publisher": "russia's pivot to asia",
+          "published_at": "2026-11-09T18:46:19+05:00",
+          "topic": "business"
+        },
+        {
+          "id": "36c71a48d507c2fb",
+          "title": "Industrial growth: Kundi calls for govt-business collaboration",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPM3V6UnBNc0dqdjBRYUxaelYyLV83VElObUc3VGI5dFphSWg1WGFlQUk3bFlWLVZuVnFkanlMMHloTjhsVVdaNzFZajZScFQtam42dmJjcmhKWm13djItY1hYRlBpWThaWHpGYXVyVjNZYUkzM3VUVjFCZmRUQUxONWFqdXNtNHQxbjl4UkUzSkFYdUxyQXhUOEZ0ZEhvMm4zYmRjTkdWOA?oc=5",
+          "publisher": "Investify",
+          "published_at": "2026-11-09T04:46:04+05:00",
           "topic": "business"
         }
       ],
-      "fetched_at": "2026-11-09T16:56:59.904478+05:00"
+      "fetched_at": "2026-11-09T21:12:55.992397+05:00"
     },
     {
       "id": "trade-2026-11-08",

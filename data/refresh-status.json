@@ -1,6 +1,6 @@
 {
-  "started_at": "2026-11-09T11:55:57.504705+00:00",
-  "completed_at": "2026-11-09T11:56:58.785441+00:00",
+  "started_at": "2026-11-09T16:12:12.828960+00:00",
+  "completed_at": "2026-11-09T16:12:54.824475+00:00",
   "status": "partial",
   "timezone": "Asia/Karachi",
   "scheduled_times": [
@@ -11,49 +11,49 @@
     {
       "name": "collect.py",
       "status": "completed",
-      "elapsed_seconds": 3.5,
+      "elapsed_seconds": 4.3,
       "detail": ""
     },
     {
       "name": "download_sources.py",
       "status": "completed",
-      "elapsed_seconds": 2.2,
+      "elapsed_seconds": 2.3,
       "detail": ""
     },
     {
       "name": "ingest.py",
       "status": "completed",
-      "elapsed_seconds": 0.7,
+      "elapsed_seconds": 1.2,
       "detail": ""
     },
     {
       "name": "expand_fetch.py",
       "status": "completed",
-      "elapsed_seconds": 2.2,
+      "elapsed_seconds": 2.0,
       "detail": ""
     },
     {
       "name": "expand.py",
       "status": "completed",
-      "elapsed_seconds": 0.7,
+      "elapsed_seconds": 1.2,
       "detail": ""
     },
     {
       "name": "commerce.py",
       "status": "completed",
-      "elapsed_seconds": 23.9,
+      "elapsed_seconds": 24.1,
       "detail": ""
     },
     {
       "name": "partner_sources.py",
       "status": "completed",
-      "elapsed_seconds": 26.4,
+      "elapsed_seconds": 5.6,
       "detail": ""
     },
     {
       "name": "extra_sources.py",
       "status": "completed",
-      "elapsed_seconds": 1.4,
+      "elapsed_seconds": 1.1,
       "detail": ""
     }
   ],
@@ -915,9 +915,9 @@
     {
       "source": "Naheed",
       "url": "https://www.naheed.pk/groceries-pets/fresh-products/vegetables",
-      "status": "not_verified",
-      "detail": "fetch failed; dated offers retained",
-      "quotes": 0
+      "status": "verified",
+      "detail": "parsed",
+      "quotes": 32
     },
     {
       "source": "Naheed",
@@ -964,16 +964,16 @@
     {
       "source": "Foodpanda / Kifayah",
       "url": "https://www.foodpanda.pk/shop/a036/kifayah-supermarket-pechs",
-      "status": "verified",
-      "detail": "parsed",
-      "quotes": 90
+      "status": "not_verified",
+      "detail": "no verified quotes",
+      "quotes": 0
     },
     {
       "source": "OLX",
       "url": "https://www.olx.com.pk/items/q-iphone-15",
       "status": "verified",
       "detail": "parsed",
-      "quotes": 33
+      "quotes": 32
     },
     {
       "source": "OLX",
@@ -994,7 +994,7 @@
       "url": "https://alfatah.pk/products.json?limit=100",
       "status": "verified",
       "detail": "updated",
-      "quotes": 170
+      "quotes": 171
     },
     {
       "source": "Shophive",
@@ -1011,9 +1011,9 @@
       "quotes": 29
     }
   ],
-  "total_quotes": 15452,
-  "verified_quotes": 6885,
-  "changed_prices": 34,
-  "new_quotes": 94,
-  "retained_quotes": 8567
+  "total_quotes": 15525,
+  "verified_quotes": 6825,
+  "changed_prices": 21,
+  "new_quotes": 73,
+  "retained_quotes": 8700
 }

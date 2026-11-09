@@ -1,6 +1,6 @@
 {
-  "checked_at": "2026-11-09T16:56:30.932459+05:00",
-  "quotes": 7761,
+  "checked_at": "2026-11-09T21:12:48.126986+05:00",
+  "quotes": 7833,
   "checks": [
     {
       "store": "Chase Value",
@@ -23,8 +23,8 @@
     {
       "store": "Naheed",
       "url": "https://www.naheed.pk/groceries-pets/fresh-products/vegetables",
-      "status": "fetch failed; dated offers retained",
-      "error": "The read operation timed out"
+      "status": "parsed",
+      "offers": 32
     },
     {
       "store": "Naheed",
@@ -65,14 +65,14 @@
     {
       "store": "Foodpanda / Kifayah",
       "url": "https://www.foodpanda.pk/shop/a036/kifayah-supermarket-pechs",
-      "status": "parsed",
-      "offers": 90
+      "status": "no verified quotes",
+      "offers": 0
     },
     {
       "store": "OLX",
       "url": "https://www.olx.com.pk/items/q-iphone-15",
       "status": "parsed",
-      "offers": 33
+      "offers": 32
     },
     {
       "store": "OLX",
