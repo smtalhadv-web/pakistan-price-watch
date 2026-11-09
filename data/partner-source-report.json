@@ -1,6 +1,6 @@
 {
-  "checked_at": "2026-11-09T00:51:57.367354+05:00",
-  "quotes": 7600,
+  "checked_at": "2026-11-09T09:13:59.255045+05:00",
+  "quotes": 7676,
   "checks": [
     {
       "store": "Chase Value",
@@ -60,7 +60,7 @@
       "store": "Metro",
       "url": "https://metro-online.pk/",
       "status": "parsed",
-      "offers": 226
+      "offers": 225
     },
     {
       "store": "Foodpanda / Kifayah",
@@ -84,7 +84,7 @@
       "store": "OLX",
       "url": "https://www.olx.com.pk/items/q-sofa",
       "status": "parsed",
-      "offers": 33
+      "offers": 32
     }
   ]
 }

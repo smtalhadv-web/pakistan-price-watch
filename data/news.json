@@ -1,10 +1,10 @@
 {
-  "checked_at": "2026-11-09T00:52:06.950376+05:00",
+  "checked_at": "2026-11-09T09:14:09.576589+05:00",
   "checks": [
     {
       "topic": "economy",
       "status": "updated",
-      "headlines": 3
+      "headlines": 4
     },
     {
       "topic": "business",
@@ -26,19 +26,27 @@
       "context": "Trade and customs developments can affect landed costs and delivery times. Check the original notification, effective date and product classification before applying a reported change to an item.",
       "headlines": [
         {
-          "id": "199b895c81906985",
-          "title": "Tariff cuts spark duty burden debate",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE02NkphVm9ETVJRT1NWWEJxTUNYbUFNMW9LdGdqMk1qcmZEblUwUWxmQ1lFNU5vVlk1U25JZnpveVIwRXRjTU5nem13UGZDVjBJYW9yemtKZHR3aE8xYmowZFBCVFk5Y0FpOXItT0dEZ2h3OTBMWmcwZG5VZG5sQdIBhgFBVV95cUxOa3hONjYxMnRQN084N1VNemdGTExuSDRqT01SWTlUSDhJV0RhMEdVd3dYX25JWVBXZVp1bGVJMkVuSC1YOHlSb1Q5S0FhQnhRX0dWRl9rOHI1dVNadTRlaXBieUc0ZTdhUlpxZi04c2pHT3Zwc2FmVjllaDRES0pZblRSODhDZw?oc=5",
+          "id": "e4f0982046d64988",
+          "title": "The 50-point gap behind tariff debate",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA3ejVET3JXRklWdmcxWURCb1ZLcnFDQkozSWZTXzktajU0ZlVxdXR1UHRFbkJvbTdFRUpGUHVobEZXSWVmMlg1aWxZckF1ZERxeWZPUU5HXzV2aHdoQkk4a25mVmk4d3VCTHNSMTVvX2dnbFBnWlRyTWdsaDRCQ2PSAYcBQVVfeXFMTm5TZm5LamhPa2V5bGJDck12ekdmZ1U3dFBzWTRmemQwLW93UmItN3ExWm4zYVVaSWl6djkxb3JhdFNSQ3R4M3NmYTc0N0FkWFE3T3E1VFM0ODdhWnpoSnYwaWVFeGx2bWEtSXNJVUZPZ2tUcTdwN2hTOTV5WUNrTUVoSXpDb1VR?oc=5",
           "publisher": "The Express Tribune",
-          "published_at": "2026-11-07T02:18:46+05:00",
+          "published_at": "2026-11-09T02:52:23+05:00",
           "topic": "trade"
         },
         {
-          "id": "567246882cfbd690",
-          "title": "‘FBR’s masterclass in policy uncertainty’: a rejoinder by Pakistan Customs",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBYa015ODJxVDhyeTl6WElhUm51WlRscUViTGJJWmNoS2pqUXRsa3VZazRfWGp2YmxWUVdtNmdmTVg2UVVYVEdwUGlWVExNVGtj0gFWQVVfeXFMTWZVQ2c0SjBIaUc5WFAza2FyNzVDb2NoYkxrYUhXMXh4SURqUExMSXFNcTRZWXNiMmJnS0lkbDZxY29jOEJJbGRwZlZKb0l1RldJdXdmekE?oc=5",
+          "id": "e79daafcbcde4147",
+          "title": "EPZ Risalpur Unit: Customs uncovers import irregularities, shortage of goods",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1rTmxQek13OUE5dGVybEtEMTA1cVBKYjVYSFZQZThPMGs2YmlSZW45RkFLOHFiOS1wQnVGZ2hlb242QVlLZXZKQlctVTRFX1BF0gFWQVVfeXFMTmhoWG5mcE91LXB2RC1VcWVmMGlqQ3d2MW8xQ193RzdUbjgwdkVJZ3N5UTZJV2JWbWhvM2JYOHNSSzBjZHlhNGxQZVRpLVNqbnZuT0JuZkE?oc=5",
           "publisher": "Business Recorder",
-          "published_at": "2026-11-08T02:33:12+05:00",
+          "published_at": "2026-11-09T04:46:04+05:00",
+          "topic": "trade"
+        },
+        {
+          "id": "23b60079da598705",
+          "title": "EPZ Risalpur Unit: Customs uncovers import irregularities, shortage of goods",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPYmxwUWZKWnh5R1BRWGJPY0V1WDFsTVpaTHRGUUh0Ql9paklnQnVObjAtbGJDRkxEUC1iazBnTUczZnZxQ2pROHJUdWVTNFNSTnloaEhaV0NRaUllcDBKdGhjaGFoRGNTOEdBSWtrVkxfOUFuSFZEY0tFekR3V2I2TEF2VDA4ZzBKek9BNTdWekxmb2RLNnc2RzhDSmFyMF9YQnFybWtBeEZrT2lXRkdEVlZNd19qTjRr?oc=5",
+          "publisher": "Investify",
+          "published_at": "2026-11-09T05:29:10+05:00",
           "topic": "trade"
         },
         {
@@ -50,19 +58,19 @@
           "topic": "trade"
         },
         {
-          "id": "0d6d6c9f73e6ea9f",
-          "title": "Exports post sluggish growth in July-October",
-          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9aUVhVbElLcXIxMERJVnRuS2E3a3BYUER4SVFkRUVHaDREbEpIQnYxRGEtNWlQSkhyR3pISEFvbVp2RE01WHZEag?oc=5",
+          "id": "191fe173f37ac64e",
+          "title": "Govt announces auto policy with focus on cheaper vehicles, EVs",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1LTG00cXRaTVVURlJCN1FGTFJDVERhRlcxTEo1c0FWeURxQjEza0VMSjBQQUJwYU1CYjRkdVNSWlhOSVByNEdyaQ?oc=5",
           "publisher": "Dawn",
-          "published_at": "2026-11-07T05:04:45+05:00",
+          "published_at": "2026-11-07T17:59:57+05:00",
           "topic": "trade"
         },
         {
-          "id": "4ea1f5dcf0b86141",
-          "title": "Pakistan’s trade deficit reaches $14.63bn in July-October",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOejh1b1d1ODM0QWRxalBkWVYzdE9WTUZkR01oeEVOUDhQNVJMUkdaQ2EwVWEzMFNkX05YYVFpMEhhZ21DSnJialBsd2pyX0FUWjhaTHFzdHpVS2ctY2dtZUgwTW1EVy1FSTkwUm5fakctU0RIU3h6ZWpWMEFEMmRTOVd4SV9RazRNT2RUOFBtWWVYd0xMQlBnRjdkcnlJNy1M?oc=5",
+          "id": "8c708c56872ad8e6",
+          "title": "The 50-point gap behind tariff debate",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZGVoaHpkR2d3eEYxZ2NSbUpVT3hfT3VkbTRzOEZiZHJka21HSGVoMXZtLVhOWTJqWGNMblFlVHg3UEVMOGFjOVE3ODZaakw2TjZTdUVoTkFLbS1xbXhLeGh6cFlQOGgzTVZEVDBRTGJnVHNjNzF3UGpUN2lnNHVMX2pYcUpKcnc?oc=5",
           "publisher": "Investify",
-          "published_at": "2026-11-07T07:30:00+05:00",
+          "published_at": "2026-11-09T01:56:53+05:00",
           "topic": "trade"
         },
         {
@@ -80,17 +88,9 @@
           "publisher": "The Business Standard",
           "published_at": "2026-11-08T12:06:06+05:00",
           "topic": "trade"
-        },
-        {
-          "id": "cde3230d9a04fd71",
-          "title": "Pakistans trade deficit rises to USD 15 billion",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOWHNPS1dGUzdMUVVaTlVnTWNlcGpYWjVCelFYRWg4VWdZdHlNUDhSVldsVFh4cFV0Z0lrbjhzWU5raGswOFRWT1U1ajkzUXVkckx4cmZQaTlwc2VqMnI1WTVjOS1mX001c0lMQkVzS3I0NDVGak1uVzAwR0Y3QWJkMTh1bzVQQdIBigFBVV95cUxQYTI0d0tfbGhkN051eEFKbU5vMVRid1F2NW5nV1BuM043RnJzbzAyRllzcW5ZSWVndi1pWVlhcF9LRzZJeFE4eFBUamRsbVJXMXNMMUdUUWgtLVhyYjJraUtqWTVSQjc3MEhxUjBiSDM3NEh0b2tnaENQUDRkVkRGSWFzcXczcXpqYUE?oc=5",
-          "publisher": "Daily Excelsior",
-          "published_at": "2026-11-07T12:30:58+05:00",
-          "topic": "trade"
         }
       ],
-      "fetched_at": "2026-11-09T00:52:06.950376+05:00"
+      "fetched_at": "2026-11-09T09:14:09.576589+05:00"
     },
     {
       "id": "economy-2026-11-09",
@@ -100,6 +100,14 @@
       "context": "Watch how inflation, currency movements and borrowing costs may affect household budgets and import costs. A headline alone does not establish that a retail price has changed.",
       "headlines": [
         {
+          "id": "f5eb3575c582eca8",
+          "title": "Taxing mobility in an untaxed economy",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNd0R6XzNDWVhnVHJ1a0dDTTFLMGd3ekFCUWR4cGZwRWp2eUYteWlzQVd0Wi1NNkt0N0k1aWk1cHlWdl8xSUtEYThtLWloRGxFRU9QQTR5bGF5aEJTNFNDUVAwVDR4QUtZSWYxVzVzM0xNQ0FtR1ZpRTZ4ckpSRnZJUHdwNnBOUE5aWUlQZ3lMRFRuLTVzYUE?oc=5",
+          "publisher": "The News Pakistan",
+          "published_at": "2026-11-09T06:51:23+05:00",
+          "topic": "economy"
+        },
+        {
           "id": "55b248f88b164d2a",
           "title": "Key Pakistan Market Stats and Economic Indicators",
           "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNOVM0TmJ6a3JUNjJva0g3SDUxT19SVmdVM3dPOGljSThiOHpsanl1dzJ1SGQxOWtJSXd5bVJpeGNNdG9jWmdOTlBqWDRaZjBzYkNDQ3g2WmYyRlBwZzJlTGg0VV9Bak5NM3ZDamNUaGlRMzFxV0Fvemt1MTNDUkVDYy1JMkdCNVZhczAweGZXZmNBZXk1UVRJ?oc=5",
@@ -108,23 +116,23 @@
           "topic": "economy"
         },
         {
-          "id": "fa548585ae69f67b",
-          "title": "Exchange rate’s woeful tale",
-          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE43TFJLTUQ0eWg4cUdxWFBvbUpDanVyeE5EcnQ5RU9GTGJDQ1cxWFdmTmE5Tk05WkFyb3JfaE1GTlY1WmxLd04yUg?oc=5",
-          "publisher": "Dawn",
-          "published_at": "2026-11-07T05:03:56+05:00",
+          "id": "76b2c44a708def1a",
+          "title": "Gold, Silver Outlook: US-Iran Tensions, Inflation Data Key",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcjB5SHJqWkQzMFRfNEFmU1BUYU5xQkhpM1pJanJOTHE0NVAtNnRTX05Nc2lMVDRXdVBncElzRWhOQ3hWcXV2ak5zdXZRc2otRjVCa2FwcDhvTFQtQWhZdWFSZmI4dzRBaDlybmNnV21vc0JIMldxZmF1d3ROM1VxWVRVdWVaM05UN0FtVlhvS3EtZkhDb1gwN1FJRkdSdUZkT19RSjZfamdQUjlOSkE1N9IBsAFBVV95cUxQcjB5SHJqWkQzMFRfNEFmU1BUYU5xQkhpM1pJanJOTHE0NVAtNnRTX05Nc2lMVDRXdVBncElzRWhOQ3hWcXV2ak5zdXZRc2otRjVCa2FwcDhvTFQtQWhZdWFSZmI4dzRBaDlybmNnV21vc0JIMldxZmF1d3ROM1VxWVRVdWVaM05UN0FtVlhvS3EtZkhDb1gwN1FJRkdSdUZkT19RSjZfamdQUjlOSkE1Nw?oc=5",
+          "publisher": "Rediff MoneyWiz",
+          "published_at": "2026-11-08T11:17:31+05:00",
           "topic": "economy"
         },
         {
-          "id": "a9f05f52118bf3e0",
-          "title": "Gold, Silver Outlook: US-Iran Tensions, Inflation Data Key",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUDk4aGEyOUJ1T1N5OG4yaXpWa2lJeHJTVTA2b01tcFVIU0pKMEtNVTRuYzRFYnJQTXRzbTFJMGMxVlZidjNCQTJNYXFjTXA2V0M1Q3k2NUdCZ2xfbFhhTW5HMG15U1ZPS2hLT1Ytay0wMlJSS0RqRmctM1IyclRxQzBPTWItT1JMMFJGdTNDSGF5RGhIVzFiaWlhX0FVNElPNURwN21sUXFUSjTSAbABQVVfeXFMUHIweUhyalpEMzBUXzRBZlNQVGFOcUJIaTNaSWpyTkxxNDVQLTZ0U19OTXNpTFQ0V3VQZ3BJc0VoTkN4VnF1dmpOc3V2UXNqLUY1QmthcHA4b0xULUFoWXVhUmZiOHc0QWg5cm5jZ1dtb3NCSDJXcWZhdXd0TjNVcVlUVXVlWjNOVDdBbVZYb0txLWZIQ29YMDdRSUZHUnVGZE9fUUo2X2pnUFI5TkpBNTc?oc=5",
-          "publisher": "Rediff MoneyWiz",
-          "published_at": "2026-11-08T11:17:28+05:00",
+          "id": "679e14c0ceec9a1c",
+          "title": "Gold, silver outlook: Inflation data and geopolitical tensions likely to drive prices this week",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNeGJYcjRPR2JWQ2ZTUkh0cTdnZ1hIQzYzcWxRZWp4aERyNFlwOXlkUk0tNXFKbHh4LUJZdmlYM1hHb2l6QW1RN0NUYXJQb1Q4ZEJzN29tRDBDaEkwZml5b2JSaHVvX0ZLNnhDd21NcXJOaHZreF90T3o1M01QQjVpdmNkVFU5Xy1kMEE2bWFoY0NocThNVUxCSlVqT0hxRWF3VWFRVXVmWXh4Z05DQ0h4TEZYeG93NmlkSDE4X1BTV3RFUzhXZHFZaw?oc=5",
+          "publisher": "The Hawk",
+          "published_at": "2026-11-08T17:33:30+05:00",
           "topic": "economy"
         }
       ],
-      "fetched_at": "2026-11-09T00:52:06.950376+05:00"
+      "fetched_at": "2026-11-09T09:14:09.576589+05:00"
     },
     {
       "id": "business-2026-11-09",
@@ -134,6 +142,14 @@
       "context": "Company and industry developments can affect supply, stock availability and competition. Compare dated supplier offers before making a purchase decision.",
       "headlines": [
         {
+          "id": "4524c65b007e8ac1",
+          "title": "Pakistan has the reserves, yet still lacks investor trust",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUzBFZ1BmOVhyTlVjOTZ5X2tYejIxTlJ2RW1KWG9FeF8wSW1sRnotWVBnYnhvY3E2RmJYS21ybXFkR2tueXhRRzhBZXZiWHFzdXA4dkN0YUZZTHRVRXNyUTRuMUdIaWxxU1d0ZS1vNzBsR3hlSDZaZ0hVSUl5eGJVSDduUkdFbW1iajN0ZkpxNXpSUEgtM3FFbHJ4X2zSAVZBVV95cUxOT3JhY25XLUZoaEtTbERhRV9wN0dQZkNZSjNmb2FUWC1ITWVfeEozcG0tMUhuVURObUt1STdiUW91NUY0MGtfZHk3bl9YTTc1eUhlMU1zQQ?oc=5",
+          "publisher": "Business Recorder",
+          "published_at": "2026-11-09T04:46:03+05:00",
+          "topic": "business"
+        },
+        {
           "id": "db1e04b24b1b1260",
           "title": "Oil and gas companies highlight community welfare investments at PPEPCA conference",
           "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWlpON0JkWTF5ZjNQekVRQ0JaSjlEeWpEd3dhbnVIM3VIS2xQZjNsV2V1alI1VVRTd2YwWHA1cVVla1FYdF9GNU8wLVRpeVlTRmwzSkJjcGVGaFlPWnZ6RURDWlRnSy1YUUJmcmN4M3poUk40VDJMNHYtRHI0ajN6S3BCSURiNkl2Yk5ZUkIxcUtLOW83VHNFU3EtV0hiSWZUclRhNEE3MTdhZl9Pd1hTUkJGSUVXT3hyb3ZGbjFvQnM2c00?oc=5",
@@ -142,19 +158,11 @@
           "topic": "business"
         },
         {
-          "id": "8d25920e969992e6",
-          "title": "Pakistan invites Chinese investors to explore natural resources in northwestern province",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPbjNZQ3IzMEpDTkEwQ3NldHVBT0VzYW4xQlNRazFKR0ZNMUg3SzJZc2pmRzlGa2YybTRnUnR4TnFpYVJDNWpoSGRIMzNidEFGWDNwWGJPbEZDVkpzbi1CV1luR2VBVFBtb1JTZWN6VGlQM2NQdklncDBlUm1LOHQ1ejRnUFJLVjVjR3hYOUtvcEtDMFl0U19kcFY0bzJwd0x4ZS1STXo4MlctUzE5emRmWnJicS1TMnNBV3V2bXc4NW5qU0REaXBEWA?oc=5",
-          "publisher": "Arab News PK",
-          "published_at": "2026-11-08T10:02:56+05:00",
-          "topic": "business"
-        },
-        {
-          "id": "c582c5b4d42e8b95",
-          "title": "Beyond extraction: turning Pakistan's mineral wealth into national prosperity",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBQRGNCVmRlbldqb1gwcDVwWUo1TkFkcVp1b0w2emc5NzMwUjA0eV95Sm0zekpjdDRzSEMxY3JaSGlkeU9YbmxTZFZFTFZnZW9SWGQxbTdB0gFWQVVfeXFMUFBEY0JWZGVuV2pvWDBwNXBZSjVOQWRxWnVvTDZ6Zzk3MzBSMDR5X3lKbTN6SmN0NHNIQzFjclpIaWR5T1hubFNkVkVMVmdlb1JYZDFtN0E?oc=5",
-          "publisher": "Business Recorder",
-          "published_at": "2026-11-07T18:21:39+05:00",
+          "id": "17fe66a584d85f29",
+          "title": "Pakistan’s Mineral Wealth And Its Path To Global Investment – OpEd",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZGpvX0RVdkpPeU1sVmdHWE9pTWk5Nkc0bFM1NHhOYW9SWWdKVEQ1aER1QWRwZEFrLXYzV1VrZkRGNDV6U0NJQWlWem1XRnJhVGg0VkZEVk1kQldMbnhKME9uNXowVlRPdGhGMEhHWTFUbFpMYUh4OXpyZVEtWmMxVVhPckhCN2I1STRZUXk0c0lmVEM0Y0dWbjdrYlJPSXRKMVhLNTZB?oc=5",
+          "publisher": "Eurasia Review",
+          "published_at": "2026-11-09T03:21:23+05:00",
           "topic": "business"
         },
         {
@@ -162,15 +170,15 @@
           "title": "Pakistan Stock Market News, PSX Business News & Updates",
           "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE40QlduNXZKNko0SXFOR1RzYUNxR19oUWdQdmxxdVhTbGNMMGRFaFd5Z0ktSG45QWlhbUhNMTRmVkxBRjg?oc=5",
           "publisher": "Investify",
-          "published_at": "2026-11-08T23:23:35+05:00",
+          "published_at": "2026-11-09T07:11:27+05:00",
           "topic": "business"
         },
         {
-          "id": "5a25090cdd3bfac2",
-          "title": "FDI: credibility deficit",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1jM3dzSmgxY19jOEdQT1hndkRzRVBzOThaMEx6cExRaHhNRVpzSVViR0dHa1NoRXlTX013YzBaTVE3VmF5VGhFc3JaMTRHVnZwdjlHWllB0gFWQVVfeXFMTWMzd3NKaDFjX2M4R1BPWGd2RHNFUHM5OFowTHpwTFFoeE1FWnNJVWJHR0drU2hFeVNfTXdjMFpNUTdWYXlUaEVzcloxNEdWdnB2OUdaWUE?oc=5",
+          "id": "1438c28281f3381a",
+          "title": "Companies sign JV with Turkish powerhouse",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1NSDZnM3FkTGhGZ1dxWFd2Y3hqZ2ZFcTdGWll3bl9vUGV0b0FhUVVBeUhYY2RPMUEyRW9qUnltZVVsVHozRlRLNHh2V0kzSGlQNDhQTjVR0gFWQVVfeXFMTU1INmczcWRMaEZnV3FYV3ZjeGpnZkVxN0ZaWXduX29QZXRvQWFRVUF5SFhjZE8xQTJFb2pSeW1lVWxUejNGVEs0eHZXSTNIaVA0OFBONVE?oc=5",
           "publisher": "Business Recorder",
-          "published_at": "2026-11-07T04:51:41+05:00",
+          "published_at": "2026-11-09T04:46:04+05:00",
           "topic": "business"
         },
         {
@@ -182,23 +190,23 @@
           "topic": "business"
         },
         {
-          "id": "d41157cb6ce7abd5",
-          "title": "GHNI Company Announcements - Ghandhara Industries Ltd",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5USWdZVlkyWHB5MmxGei1BVFlUWTNHMmpLSVkxV3h6N2RDWFg4LUE2VWUwSFZpY1diZ0J0MlRKOXNqTTRSaDRlTjU4WlVNcVB4cU0xa3pyMDE5dTRRQlNjUw?oc=5",
+          "id": "c9871b0a58d4dbb7",
+          "title": "PMIF26 commences in Islamabad on 12th",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOa3JCdnpuTWo5SGpiOUlEc0NPV3BfSTBGdWlJOE1PQ2hyems1RFFvamFaVmVON3lvMU1oMG9aOWxNQnhSTzBhUXFlRm1NMFhhdkg2RXd0Z1RGNDEwYkJNOG1IWWlwZ1NRc0w5QjlTbEUyQ2N5RUdlWEtpNGtMbkpwb2w4TlY1WFE?oc=5",
           "publisher": "Investify",
-          "published_at": "2026-11-07T15:36:41+05:00",
+          "published_at": "2026-11-09T04:46:04+05:00",
           "topic": "business"
         },
         {
-          "id": "264b4cc61d14ad71",
-          "title": "Petroleum companies highlight their CSR contributions",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1xbDlGUXVQRUhqeUNZbUFzMUIxY1VlTkZzWUg5dG5fQnM5TkQzMVJid0tEVjRPTDdsWjBPNGE3VERENVZjUlVpNFFLV0JuTGlJMVZlY3BR0gFWQVVfeXFMTXFsOUZRdVBFSGp5Q1ltQXMxQjFjVWVORnNZSDl0bl9CczlORDMxUmJ3S0RWNE9MN2xaME80YTdUREQ1VmNSVWk0UUtXQm5MaUkxVmVjcFE?oc=5",
+          "id": "10f1481df15e256b",
+          "title": "PMIF26 commences in Islamabad on 12th",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5NTnFudjhxTWJzNkFCQ2ItSDloQ1cxRDN1WXFfMHN4cWQ1VlNVaE5UaFVZUzAxNXVNSGFGY0k5Q2NwWmtkcEJCRFF5eDJwYTZKNUFYc1VR0gFWQVVfeXFMTk1OcW52OHFNYnM2QUJDYi1IOWhDVzFEM3VZcV8wc3hxZDVWU1VoTlRoVVlTMDE1dU1IYUZjSTlDY3Baa2RwQkJEUXl4MnBhNko1QVhzVVE?oc=5",
           "publisher": "Business Recorder",
-          "published_at": "2026-11-08T02:33:13+05:00",
+          "published_at": "2026-11-09T04:46:04+05:00",
           "topic": "business"
         }
       ],
-      "fetched_at": "2026-11-09T00:52:06.950376+05:00"
+      "fetched_at": "2026-11-09T09:14:09.576589+05:00"
     },
     {
       "id": "trade-2026-11-08",
