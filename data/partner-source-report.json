@@ -1,6 +1,6 @@
 {
-  "checked_at": "2026-11-09T09:13:59.255045+05:00",
-  "quotes": 7676,
+  "checked_at": "2026-11-09T16:56:30.932459+05:00",
+  "quotes": 7761,
   "checks": [
     {
       "store": "Chase Value",
@@ -23,8 +23,8 @@
     {
       "store": "Naheed",
       "url": "https://www.naheed.pk/groceries-pets/fresh-products/vegetables",
-      "status": "parsed",
-      "offers": 32
+      "status": "fetch failed; dated offers retained",
+      "error": "The read operation timed out"
     },
     {
       "store": "Naheed",

@@ -1,18 +1,18 @@
 {
-  "checked_at": "2026-11-09T09:14:09.576589+05:00",
+  "checked_at": "2026-11-09T16:56:59.904478+05:00",
   "checks": [
     {
       "topic": "economy",
       "status": "updated",
-      "headlines": 4
+      "headlines": 3
     },
     {
-      "topic": "business",
+      "topic": "trade",
       "status": "updated",
       "headlines": 8
     },
     {
-      "topic": "trade",
+      "topic": "business",
       "status": "updated",
       "headlines": 8
     }
@@ -58,11 +58,27 @@
           "topic": "trade"
         },
         {
+          "id": "5dbc1ec485615c6c",
+          "title": "At CIIE, shared opportunities become shared growth: A Pakistani brand's journey into China's market",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbVBFdk40WDFyQjh6WXJWbUtJRnpROG5qS2s2WFRRR3o1bzBEZ2lPa01oX282c0FhMUE3ZEloSXZrTzJpdllTVldxZXlRblJYTUFwa0NHcGU4MzVqUk1qSm9qVUd6RTdFbklHWTFOc1VpSWJ0YUlBRUFYWTNyLWluZ2pNWGxVQmJHemFNb05SMklONUg5MTY4OVo5NF8ybFVuRDdvOVV1ZTdmSGs5a0J0c2NlYnRFb3NMWXJfcA?oc=5",
+          "publisher": "CGTN",
+          "published_at": "2026-11-08T18:00:12+05:00",
+          "topic": "trade"
+        },
+        {
           "id": "191fe173f37ac64e",
           "title": "Govt announces auto policy with focus on cheaper vehicles, EVs",
           "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1LTG00cXRaTVVURlJCN1FGTFJDVERhRlcxTEo1c0FWeURxQjEza0VMSjBQQUJwYU1CYjRkdVNSWlhOSVByNEdyaQ?oc=5",
           "publisher": "Dawn",
           "published_at": "2026-11-07T17:59:57+05:00",
+          "topic": "trade"
+        },
+        {
+          "id": "349fbbd2f5ca804e",
+          "title": "Import surge widens trade deficit to $7.47b in Q1",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaE5xRUx1VXVDcDlRTUVxMXpFMi1sa2pNWDY1ZFhSdkhXSG1mNGE4dTBPcjlOeVJTMV9HNzdIRl9iNGcydWJKeTJPOS1CSnNQdFlPbEdtbUNHQkJnWV9uUlhkUWZrVVFJWkNZRDZZajllSm9sdS1VNjFrNGtSOG9yRE1jNjZfUmVP?oc=5",
+          "publisher": "The Business Standard",
+          "published_at": "2026-11-09T11:19:56+05:00",
           "topic": "trade"
         },
         {
@@ -72,25 +88,9 @@
           "publisher": "Investify",
           "published_at": "2026-11-09T01:56:53+05:00",
           "topic": "trade"
-        },
-        {
-          "id": "98b4cc89c21966be",
-          "title": "China’s Push to Expand Yuan Use in Africa: Strategy, Trade and Financial Influence",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNzRZSllzNm9Ja0xmajcwOVlZWjhzaXUzWHZrUE9rMEhVOTBnN1lXbEJGN0pTTWkwYTd4b2g3UV9pbWdSMmpjaXpVNjNMemVZQnRJVWpMLVQzOXM3RmJoR05RMklOZ29OZnItNGN5WVVkaEZYZlZOLTdjNHY2dC02U19pTEhWSlBlenJsUEVLRzBDTGxKSVZtUktyXzg2UTlSb29Vb09oMG9NWTloMk5uV3dJcS0wWXY4UGc?oc=5",
-          "publisher": "Modern Diplomacy",
-          "published_at": "2026-11-08T19:30:33+05:00",
-          "topic": "trade"
-        },
-        {
-          "id": "349fbbd2f5ca804e",
-          "title": "Import surge widens trade deficit to $7.47b in Q1",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaE5xRUx1VXVDcDlRTUVxMXpFMi1sa2pNWDY1ZFhSdkhXSG1mNGE4dTBPcjlOeVJTMV9HNzdIRl9iNGcydWJKeTJPOS1CSnNQdFlPbEdtbUNHQkJnWV9uUlhkUWZrVVFJWkNZRDZZajllSm9sdS1VNjFrNGtSOG9yRE1jNjZfUmVP?oc=5",
-          "publisher": "The Business Standard",
-          "published_at": "2026-11-08T12:06:06+05:00",
-          "topic": "trade"
         }
       ],
-      "fetched_at": "2026-11-09T09:14:09.576589+05:00"
+      "fetched_at": "2026-11-09T16:56:59.904478+05:00"
     },
     {
       "id": "economy-2026-11-09",
@@ -105,14 +105,6 @@
           "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNd0R6XzNDWVhnVHJ1a0dDTTFLMGd3ekFCUWR4cGZwRWp2eUYteWlzQVd0Wi1NNkt0N0k1aWk1cHlWdl8xSUtEYThtLWloRGxFRU9QQTR5bGF5aEJTNFNDUVAwVDR4QUtZSWYxVzVzM0xNQ0FtR1ZpRTZ4ckpSRnZJUHdwNnBOUE5aWUlQZ3lMRFRuLTVzYUE?oc=5",
           "publisher": "The News Pakistan",
           "published_at": "2026-11-09T06:51:23+05:00",
-          "topic": "economy"
-        },
-        {
-          "id": "55b248f88b164d2a",
-          "title": "Key Pakistan Market Stats and Economic Indicators",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNOVM0TmJ6a3JUNjJva0g3SDUxT19SVmdVM3dPOGljSThiOHpsanl1dzJ1SGQxOWtJSXd5bVJpeGNNdG9jWmdOTlBqWDRaZjBzYkNDQ3g2WmYyRlBwZzJlTGg0VV9Bak5NM3ZDamNUaGlRMzFxV0Fvemt1MTNDUkVDYy1JMkdCNVZhczAweGZXZmNBZXk1UVRJ?oc=5",
-          "publisher": "Investify",
-          "published_at": "2026-11-07T12:54:02+05:00",
           "topic": "economy"
         },
         {
@@ -132,7 +124,7 @@
           "topic": "economy"
         }
       ],
-      "fetched_at": "2026-11-09T09:14:09.576589+05:00"
+      "fetched_at": "2026-11-09T16:56:59.904478+05:00"
     },
     {
       "id": "business-2026-11-09",
@@ -142,9 +134,9 @@
       "context": "Company and industry developments can affect supply, stock availability and competition. Compare dated supplier offers before making a purchase decision.",
       "headlines": [
         {
-          "id": "4524c65b007e8ac1",
+          "id": "a9b7eb38116e460c",
           "title": "Pakistan has the reserves, yet still lacks investor trust",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUzBFZ1BmOVhyTlVjOTZ5X2tYejIxTlJ2RW1KWG9FeF8wSW1sRnotWVBnYnhvY3E2RmJYS21ybXFkR2tueXhRRzhBZXZiWHFzdXA4dkN0YUZZTHRVRXNyUTRuMUdIaWxxU1d0ZS1vNzBsR3hlSDZaZ0hVSUl5eGJVSDduUkdFbW1iajN0ZkpxNXpSUEgtM3FFbHJ4X2zSAVZBVV95cUxOT3JhY25XLUZoaEtTbERhRV9wN0dQZkNZSjNmb2FUWC1ITWVfeEozcG0tMUhuVURObUt1STdiUW91NUY0MGtfZHk3bl9YTTc1eUhlMU1zQQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5PcmFjblctRmhoS1NsRGFFX3A3R1BmQ1lKM2ZvYVRYLUhNZV94SjNwbS0xSG5VRE5tS3VJN2JRb3U1RjQwa19keTduX1hNNzV5SGUxTXNB0gFWQVVfeXFMTk9yYWNuVy1GaGhLU2xEYUVfcDdHUGZDWUozZm9hVFgtSE1lX3hKM3BtLTFIblVETm1LdUk3YlFvdTVGNDBrX2R5N25fWE03NXlIZTFNc0E?oc=5",
           "publisher": "Business Recorder",
           "published_at": "2026-11-09T04:46:03+05:00",
           "topic": "business"
@@ -166,27 +158,11 @@
           "topic": "business"
         },
         {
-          "id": "cbf6171d65fc6e3e",
-          "title": "Pakistan Stock Market News, PSX Business News & Updates",
-          "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE40QlduNXZKNko0SXFOR1RzYUNxR19oUWdQdmxxdVhTbGNMMGRFaFd5Z0ktSG45QWlhbUhNMTRmVkxBRjg?oc=5",
-          "publisher": "Investify",
-          "published_at": "2026-11-09T07:11:27+05:00",
-          "topic": "business"
-        },
-        {
           "id": "1438c28281f3381a",
           "title": "Companies sign JV with Turkish powerhouse",
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1NSDZnM3FkTGhGZ1dxWFd2Y3hqZ2ZFcTdGWll3bl9vUGV0b0FhUVVBeUhYY2RPMUEyRW9qUnltZVVsVHozRlRLNHh2V0kzSGlQNDhQTjVR0gFWQVVfeXFMTU1INmczcWRMaEZnV3FYV3ZjeGpnZkVxN0ZaWXduX29QZXRvQWFRVUF5SFhjZE8xQTJFb2pSeW1lVWxUejNGVEs0eHZXSTNIaVA0OFBONVE?oc=5",
           "publisher": "Business Recorder",
           "published_at": "2026-11-09T04:46:04+05:00",
-          "topic": "business"
-        },
-        {
-          "id": "f889b5258557b2b5",
-          "title": "European Union Jobs 2026: Project Manager for Private Sector Development and Investments – EU Delegation to Pakistan",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5Hek0xQW45STZ4ejN5d0lDTGhRcnhMZ2lCNTZGZU9IcVNWbTdHeUZsdmVJeUotZURjS0pORGo2LXZvZXBPaFQyY19qMzNURHhpSV8yM0haWWhRaF9LSU1Md3U4dHQzVEh3?oc=5",
-          "publisher": "Global South Opportunities",
-          "published_at": "2026-11-07T10:38:09+05:00",
           "topic": "business"
         },
         {
@@ -204,9 +180,25 @@
           "publisher": "Business Recorder",
           "published_at": "2026-11-09T04:46:04+05:00",
           "topic": "business"
+        },
+        {
+          "id": "9c723ebdf6f64c7a",
+          "title": "Solar Industry Grows Rapidly with Imported Technology",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOLXRHLXFlQTRVR0M3LU5qdUFTZjM3VVRMYXVTRmhzZ0NXNzd0ZFBXdzdOcEhXQVEyRS10X3g5YTF0cmhVVHhseXRtZ21yZjZDQzJodVRDd1ZZb3pka0xZSmxBNFFDbVBZUGNWQVZrdGFKVWE0ZERIU0g1TXRRVUtRN19qMUVyU0tfX3ljWHlSOEZpdGZLb2Q4LUVjVTQ5Mjk3MlA5ZkhkTmExSHNiVnpJaldIb3lla1M5T2c0djItdkgzd9IBxwFBVV95cUxQWm9UdXFZdnJCTVJuemx6RjA1aGhYYmlGSW41RjdZQms3dFplcXNwUzNEME5iY2tQMVgxTnhMeG5VMjZLWUp6dHNtR25BbWdaNzhweTJBODBSeEptMWFwNFBiSjczZDBUMkFudFhYQzFhMnh4cldxUkpQNVg2cnRxUUxmTnptcEhPb0Y3NEpIVWFKZGlxUDBnLS1CRjUwSWZCN2oxZFp0SjIya0tMallYQzZQaENsQUNubmNfMGxMVkthdElTaHBJ?oc=5",
+          "publisher": "The Manila Times",
+          "published_at": "2026-11-09T15:02:18+05:00",
+          "topic": "business"
+        },
+        {
+          "id": "5c56bfe30d1c1c1b",
+          "title": "Beyond extraction: turning Pakistan's mineral wealth into national prosperity",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNGQwRHRaQjhGQUFtM3gxUnAxcE9uTXRKVmp1TE5jV0Rqei05V3I5SWtQdm95djJ6ZnVPdlZmaG1zRDVvaXdYWDhwZ1l4Y0xoN0d6Ni1NTGdjQ0txTTJ6NFkyOXZOWFFyZ1RaRVFnZk5oYUlnUE1LSkpHYUQwcDNWZkJQT29IOW5CVUxjRkEwV1djVDZJTG82N3JySk0zQkRscnNHazY4MlVzclZDYW9RMFBKVTlDQdIBVkFVX3lxTFBQRGNCVmRlbldqb1gwcDVwWUo1TkFkcVp1b0w2emc5NzMwUjA0eV95Sm0zekpjdDRzSEMxY3JaSGlkeU9YbmxTZFZFTFZnZW9SWGQxbTdB?oc=5",
+          "publisher": "Business Recorder",
+          "published_at": "2026-11-07T18:21:39+05:00",
+          "topic": "business"
         }
       ],
-      "fetched_at": "2026-11-09T09:14:09.576589+05:00"
+      "fetched_at": "2026-11-09T16:56:59.904478+05:00"
     },
     {
       "id": "trade-2026-11-08",

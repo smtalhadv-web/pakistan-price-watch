@@ -14,7 +14,7 @@
     ],
     [
       "silver",
-      104586
+      104587
     ],
     [
       "pso-history",
@@ -38,7 +38,7 @@
     ],
     [
       "realme",
-      465135
+      465132
     ],
     [
       "infinix",
@@ -50,14 +50,14 @@
     ],
     [
       "appliances",
-      777276
+      753319
     ],
     [
       "pbs",
       344039
     ]
   ],
-  "checked_at": "2026-11-09T04:13:28.425015+00:00",
+  "checked_at": "2026-11-09T11:56:03.837865+00:00",
   "sources": [
     {
       "source": "PSO dated fuel archive",
@@ -80,7 +80,7 @@
     {
       "source": "PriceOye published listings",
       "status": "parsed",
-      "observed_records": 132,
+      "observed_records": 135,
       "new_records": 0
     },
     {
@@ -98,7 +98,7 @@
     {
       "source": "Additional mobile, laptop, watch and audio listings",
       "status": "parsed",
-      "new_records": 0
+      "new_records": 2
     },
     {
       "source": "Furniture and power-tool variant listings",
@@ -116,7 +116,7 @@
       "new_records": 0
     }
   ],
-  "quotes": 5768,
+  "quotes": 5774,
   "manual_queue": [
     "Verify new image rates before transcribing; source sheets refresh automatically",
     "Unsupported sources retain their dated quotes"
