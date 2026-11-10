@@ -1,10 +1,10 @@
 {
-  "checked_at": "2026-11-10T09:15:58.248952+05:00",
+  "checked_at": "2026-11-10T16:30:50.380216+05:00",
   "checks": [
     {
       "topic": "economy",
       "status": "updated",
-      "headlines": 3
+      "headlines": 4
     },
     {
       "topic": "trade",
@@ -26,6 +26,22 @@
       "context": "Trade and customs developments can affect landed costs and delivery times. Check the original notification, effective date and product classification before applying a reported change to an item.",
       "headlines": [
         {
+          "id": "f1e7296f75561a14",
+          "title": "Modest rise in exports to US, imports surge",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5HVjZzRVRoSk1FQk56bWQ2X3lvUEloa2pESkNuQ19sZlFiUnV4dHRFR1lRNGtKSzZ6clg0M01GMU1HTVgtZ2xpeg?oc=5",
+          "publisher": "Dawn",
+          "published_at": "2026-11-10T07:03:58+05:00",
+          "topic": "trade"
+        },
+        {
+          "id": "970b5b017d1ef0a3",
+          "title": "Beyond the order: the logistics behind Pakistan’s export ambitions",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE80NlltUVRZY1Q3RW1OVTh5am16NXFybEJCV1REYlk1dW9mSXFaTl9XQ0Foa2ZteEQ3RWt0WDFfQnBUTnBMSy1nb2lxSmNUQXlha0N4NnZn0gFWQVVfeXFMTzQ2WW1RVFljVDdFbU5VOHlqbXo1cXJsQkJXVERiWTV1b2ZJcVpOX1dDQWhrZm14RDdFa3RYMV9CcFROcExLLWdvaXFKY1RBeWFrQ3g2dmc?oc=5",
+          "publisher": "Business Recorder",
+          "published_at": "2026-11-10T13:38:19+05:00",
+          "topic": "trade"
+        },
+        {
           "id": "e3d2114276c93b4c",
           "title": "The fine print of free trade",
           "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1LZWt2ejducHRudFVCNHBqcTJKMkxIMW5lZjU4b05tUG9nc3NCczlCZmh1TDBpdm5wZnhVTktsc3FDeklPdHNqUjdUZUdXTVd1VFRlLTQ2NUtERHpwRWh4MUJ1Z1dqNUVHUVNDeWdqaW5QWGM?oc=5",
@@ -42,19 +58,19 @@
           "topic": "trade"
         },
         {
-          "id": "e79daafcbcde4147",
-          "title": "EPZ Risalpur Unit: Customs uncovers import irregularities, shortage of goods",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1rTmxQek13OUE5dGVybEtEMTA1cVBKYjVYSFZQZThPMGs2YmlSZW45RkFLOHFiOS1wQnVGZ2hlb242QVlLZXZKQlctVTRFX1BF0gFWQVVfeXFMTmhoWG5mcE91LXB2RC1VcWVmMGlqQ3d2MW8xQ193RzdUbjgwdkVJZ3N5UTZJV2JWbWhvM2JYOHNSSzBjZHlhNGxQZVRpLVNqbnZuT0JuZkE?oc=5",
-          "publisher": "Business Recorder",
-          "published_at": "2026-11-09T04:46:04+05:00",
-          "topic": "trade"
-        },
-        {
           "id": "23b60079da598705",
           "title": "EPZ Risalpur Unit: Customs uncovers import irregularities, shortage of goods",
           "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPYmxwUWZKWnh5R1BRWGJPY0V1WDFsTVpaTHRGUUh0Ql9paklnQnVObjAtbGJDRkxEUC1iazBnTUczZnZxQ2pROHJUdWVTNFNSTnloaEhaV0NRaUllcDBKdGhjaGFoRGNTOEdBSWtrVkxfOUFuSFZEY0tFekR3V2I2TEF2VDA4ZzBKek9BNTdWekxmb2RLNnc2RzhDSmFyMF9YQnFybWtBeEZrT2lXRkdEVlZNd19qTjRr?oc=5",
           "publisher": "Investify",
           "published_at": "2026-11-09T05:29:10+05:00",
+          "topic": "trade"
+        },
+        {
+          "id": "e79daafcbcde4147",
+          "title": "EPZ Risalpur Unit: Customs uncovers import irregularities, shortage of goods",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1rTmxQek13OUE5dGVybEtEMTA1cVBKYjVYSFZQZThPMGs2YmlSZW45RkFLOHFiOS1wQnVGZ2hlb242QVlLZXZKQlctVTRFX1BF0gFWQVVfeXFMTmhoWG5mcE91LXB2RC1VcWVmMGlqQ3d2MW8xQ193RzdUbjgwdkVJZ3N5UTZJV2JWbWhvM2JYOHNSSzBjZHlhNGxQZVRpLVNqbnZuT0JuZkE?oc=5",
+          "publisher": "Business Recorder",
+          "published_at": "2026-11-09T04:46:04+05:00",
           "topic": "trade"
         },
         {
@@ -66,31 +82,15 @@
           "topic": "trade"
         },
         {
-          "id": "5e3c4b2d95f8358a",
-          "title": "Pakistan’s export problem begins at home",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOU0VXV0VrSFpscWVzYy1VeU9fT3Jzak1NMEROZEEtcFh4Ni1HYXJ1OHpXZ3dnMm5MLTcxZm5Dd3cxVjVmZXRIUHliX3NDbEVPSzFNU1lCWTZnaE5WeUpKTFlZbFJWZ1kwQWIwOVE0djVlak4xTE8wRTNWQjNRV1Nvd2VscEQ0QdIBVkFVX3lxTE5oWGlaUl8zSTdfUVZrX3p2b1ZNdG55VEFUd0dRZVVLS1dSV0g1QUxiUmhuUUU5ZkNUU1dnU1BuTmpIcVpuWUZnUXo3ZjBzOGRvenZmRTFn?oc=5",
-          "publisher": "Business Recorder",
-          "published_at": "2026-11-09T06:41:16+05:00",
-          "topic": "trade"
-        },
-        {
-          "id": "98b4cc89c21966be",
-          "title": "China’s Push to Expand Yuan Use in Africa: Strategy, Trade and Financial Influence",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNzRZSllzNm9Ja0xmajcwOVlZWjhzaXUzWHZrUE9rMEhVOTBnN1lXbEJGN0pTTWkwYTd4b2g3UV9pbWdSMmpjaXpVNjNMemVZQnRJVWpMLVQzOXM3RmJoR05RMklOZ29OZnItNGN5WVVkaEZYZlZOLTdjNHY2dC02U19pTEhWSlBlenJsUEVLRzBDTGxKSVZtUktyXzg2UTlSb29Vb09oMG9NWTloMk5uV3dJcS0wWXY4UGc?oc=5",
-          "publisher": "Modern Diplomacy",
-          "published_at": "2026-11-08T19:30:33+05:00",
-          "topic": "trade"
-        },
-        {
-          "id": "1a459e0baea01408",
-          "title": "Customs registers FIR against industrial unit in Risalpur Export Processing Zone over alleged Rs117 million tax evasion",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPUjVzZnc2bG51MVV2UlFscnI2bnk5dVkwTkU3aGE2M0JPTUpmRlFZclc4TTlUeWJqd0pkWDlpRXNGSzZFYXRTOGVlSWFheG5hNThXTTZhRFlDU2pxSG10ZFRQZEZUaE92aGsyR0dfYVZ5MDE3QnRraVg2dzhGUFM4Z3dpMHItNUZrMFh3MTNUb1BYUGxmVHVnVnJER1hWWHJTWEhMakZXc29STmZUYWtNYWxvbnU2NEhJNGZPMDF1OHNnZlBGb3RLM3ZmSkdFZw?oc=5",
-          "publisher": "Investify",
-          "published_at": "2026-11-09T10:30:00+05:00",
+          "id": "fd8b16539c9d0afe",
+          "title": "China-EU economic engagement helps stabilise global trade expectations-INP",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZDV4N1EyVUtsQUpWUVBUMEpJa2g1dzVwRGNVX2o3Q0FZNDVDbjBrNW43ellfM2YtV05Uejl5ekdwQXczVHlpSUlvaW10LWUtODVsSUVDOUJEMmxSOWJOZVdfalVqb09YdzZtblo1elU3LW1GaTQyT3VXa1hYZVhwdG83ckFfSU9Dc1k0bGRLYjNRMXI3Mk83bWxZN0xkWDYwMVRjd0Q2RnFhNHRPYU5odlVNUEQ0c2U4VGFIenl3?oc=5",
+          "publisher": "Independent News Pakistan",
+          "published_at": "2026-11-10T16:30:01+05:00",
           "topic": "trade"
         }
       ],
-      "fetched_at": "2026-11-10T09:15:58.248952+05:00"
+      "fetched_at": "2026-11-10T16:30:50.380216+05:00"
     },
     {
       "id": "economy-2026-11-10",
@@ -108,11 +108,19 @@
           "topic": "economy"
         },
         {
-          "id": "76b2c44a708def1a",
-          "title": "Gold, Silver Outlook: US-Iran Tensions, Inflation Data Key",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcjB5SHJqWkQzMFRfNEFmU1BUYU5xQkhpM1pJanJOTHE0NVAtNnRTX05Nc2lMVDRXdVBncElzRWhOQ3hWcXV2ak5zdXZRc2otRjVCa2FwcDhvTFQtQWhZdWFSZmI4dzRBaDlybmNnV21vc0JIMldxZmF1d3ROM1VxWVRVdWVaM05UN0FtVlhvS3EtZkhDb1gwN1FJRkdSdUZkT19RSjZfamdQUjlOSkE1N9IBsAFBVV95cUxQcjB5SHJqWkQzMFRfNEFmU1BUYU5xQkhpM1pJanJOTHE0NVAtNnRTX05Nc2lMVDRXdVBncElzRWhOQ3hWcXV2ak5zdXZRc2otRjVCa2FwcDhvTFQtQWhZdWFSZmI4dzRBaDlybmNnV21vc0JIMldxZmF1d3ROM1VxWVRVdWVaM05UN0FtVlhvS3EtZkhDb1gwN1FJRkdSdUZkT19RSjZfamdQUjlOSkE1Nw?oc=5",
-          "publisher": "Rediff MoneyWiz",
-          "published_at": "2026-11-08T11:17:31+05:00",
+          "id": "8ade54275248c5b5",
+          "title": "India in a sweet spot amid oil volatility and currency dynamics: Kotak Neos Anindya Banerjee",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNWDNBNjVUSGk3NGE1X3FDYVBIdi1CV3NmZXVyQlRHV1lMRW5scWlVN1hNZVlIdi1kY182R0ZLWG9BcTI1TVczbmQ3TC1PbVk3OUNMc0pUSld5Y1pDXzJxWnBLb09PR3Z1RGl3MUc4dlA1bXRJQVByYVRYbnRGYkdBQzl3SzVGUlZiVkZYV2xXdkFaQ1BlcmlCUXR1akw5Q3BjNEZuZV9pQm1lZlo4QTFMdHZ2TXNXcU5QeUhqUlNJcWg4V0w4WGh0aENfVDI5M2dB0gHUAUFVX3lxTE5VSzItcFR6R0FzXzZidXhIQk8wNjhOSEJKbVRpbDdlVHNqaGhNbkJBcVRDMjdKbFZzZjl3UjdfZWw4S2cyRkQwV2dTN1dxZnVIMzJXdTdFMjZnYUJOSkNjSFFzMDlja1YzTnpheDVKNEwwMG9ITnN5WERMZjd3Rlo2ckM0eGF5aDNRbFpPcEpQT1pKQW1pT1huTjVXYVJUM2MzcXZmeW44VTd5ZW1meEN2bG4yQnFCVmNHTmZWaWZta1dad2ZLckZzZGRSZ1lvLXppT0NQ?oc=5",
+          "publisher": "The Tribune",
+          "published_at": "2026-11-10T14:13:06+05:00",
+          "topic": "economy"
+        },
+        {
+          "id": "7d3920aaf2c1c02a",
+          "title": "India in 'Sweet Spot' Amidst Oil Volatility, Strong Rupee Outlook: Kotak Neo Expert",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRW1iOW1pUVFrbEVyWF9TU2ZlNHRXSzhZcjVBX050V1dpZ3Z1Yi14YXlObzNlMW55TEZ3VWtiNDZ6TGFJSVhDdzdWOVJTd2ZOTmJZRHF3ME9NUGQ1eGpaNjBWRlBZcHRGbUFHYXhiQ1FyTzk4b3VKRVZxQ2ctRFZRdm9XZThQekh4MW9ZX3FfRWNUdHY0T3h6XzEyMUtrMTRLM1BVb3BnTXN2ZklXb1ctSEJQODZVRXFuSnU5UHlUQk9FNDdW0gHKAUFVX3lxTE1KakgtaXY4SHpaNnJNVElqTVJXbGYtaFNOMTdCNnA1NEw2NnoyNklCMUkxRUNaRW9BT0JXOUJZcG1OVnVtNHA3THpPUy05Ri1TOXE0VnJrRUpHVWJmM0N3dVA3eW9rek05VGdaU2VmYS1IV3oyMER3eDZkVW41bUhGcmpvdlI1Z2JHZkRrejFIUTljTUlVUktQai1pNURrenRYc29PTVhiLW1WcWkwOEE0WTBGcUJySFVPYUg3UlEzYWtMNzZZbTZlSmc?oc=5",
+          "publisher": "Lokmat Times",
+          "published_at": "2026-11-10T14:13:26+05:00",
           "topic": "economy"
         },
         {
@@ -124,7 +132,7 @@
           "topic": "economy"
         }
       ],
-      "fetched_at": "2026-11-10T09:15:58.248952+05:00"
+      "fetched_at": "2026-11-10T16:30:50.380216+05:00"
     },
     {
       "id": "business-2026-11-10",
@@ -134,19 +142,19 @@
       "context": "Company and industry developments can affect supply, stock availability and competition. Compare dated supplier offers before making a purchase decision.",
       "headlines": [
         {
-          "id": "0f6a9547886e6283",
-          "title": "Interview with Nabila Yazdani — Director Strategy & Company Spokesperson, Zong",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPYTZNRHhfc0NZdjBSYjRtV1VHSXFyRDJfNEdxcUlaWEhTRjl3eWgwd1g3T1d0dDByVmo1WE9tWHdhSU1QSU5ydy1ZS1RCZkNMVExuVzY5bmRZNmdyT29XQkRaeE9aQXdySTdxZFVadDlRVE9sTFBLLU1NYlVDdDI4MkU3Ykcwd3dMTlNlNllicTJ0VVZtRnk3bXRQaU1mSDFYaXpMcWFnUTBjbmtNMnpVWmhsY3JXVmZL0gFWQVVfeXFMT3gwSjJoNFRsa0hUUDFSZlJRWklUaXhEVW1iQUl6amVrbjVjMjN2VzRDT0tHcHdHMnd1bEtFSS1YbkVRUlN2MU5hbFp0c3B2WE9yazkzMUE?oc=5",
-          "publisher": "Business Recorder",
-          "published_at": "2026-11-10T04:44:56+05:00",
-          "topic": "business"
-        },
-        {
           "id": "7566dd813fd264cd",
           "title": "Saudi-Pakistani investment ties get private equity boost",
           "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOV1ZBbEZRLUNQV3FkOHU5WG9qSHN2U1Y5TWZ5OERXYWVKRnhnY2dDdzdwWVZmckVKYk9STWd0OVF0QjFiMndXZ3NkaXE4N0g3dF9ZSlVnMHR0QThBMVR6d2JxU19rNzEzekw2OV9iSjRsVG8za2xsMGpaWDBoWjhxbE9QWlpiZVh0SzF6X1VQcENtQWtqbEVTSNIBoAFBVV95cUxQY3pDVklhVHpCMkFBb2tWMjlfQ25makhPM2J5ZnRvdUZjc3NMa2dxcGZVRWNRbmthUk54VUlKeVNFMmtOdWxVSGRsR1p3MkFVdDl0UFZ0Ym5vUzhrc2R5UGR6UXRSNmxudnNUNUUzUnRHY0RqeEtvTDVrSjA2T1IzYjh3NEJjczdQZUlhSGM1ZmltM281REZ2VTA1R25TQzV4?oc=5",
           "publisher": "The Express Tribune",
           "published_at": "2026-11-10T05:37:47+05:00",
+          "topic": "business"
+        },
+        {
+          "id": "0f6a9547886e6283",
+          "title": "Interview with Nabila Yazdani — Director Strategy & Company Spokesperson, Zong",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPYTZNRHhfc0NZdjBSYjRtV1VHSXFyRDJfNEdxcUlaWEhTRjl3eWgwd1g3T1d0dDByVmo1WE9tWHdhSU1QSU5ydy1ZS1RCZkNMVExuVzY5bmRZNmdyT29XQkRaeE9aQXdySTdxZFVadDlRVE9sTFBLLU1NYlVDdDI4MkU3Ykcwd3dMTlNlNllicTJ0VVZtRnk3bXRQaU1mSDFYaXpMcWFnUTBjbmtNMnpVWmhsY3JXVmZL0gFWQVVfeXFMT3gwSjJoNFRsa0hUUDFSZlJRWklUaXhEVW1iQUl6amVrbjVjMjN2VzRDT0tHcHdHMnd1bEtFSS1YbkVRUlN2MU5hbFp0c3B2WE9yazkzMUE?oc=5",
+          "publisher": "Business Recorder",
+          "published_at": "2026-11-10T04:44:56+05:00",
           "topic": "business"
         },
         {
@@ -158,11 +166,11 @@
           "topic": "business"
         },
         {
-          "id": "c4260d2f901b9289",
-          "title": "Pakistan, Saudi Arabia investors launch fund to boost trade, investment",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSmwzMWctSWdDWTNMZkJtUHM4RXZodk1ERXE2UTZzN0w4bHNlWTBEa1RMdEo3SnBPVVNXbVExMHlMS0dsVFEtZERGeWhfQVFqOHN3cTFLSmJucWh2Q21sODFqQV95QkdnS0MxOElrRXlaT2dJOVprWmVDY3ltXzIzRUl1NHN1VDNaVWM1d1B4T3o3amFma09UR0t4eXVCMHJhcjM0RmV3?oc=5",
-          "publisher": "Dawn",
-          "published_at": "2026-11-09T17:40:11+05:00",
+          "id": "bcd038013a208695",
+          "title": "China's high-tech manufacturing push draws global business interest-INP",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbWh2TzhyVjVhQmJOT3BJb1UzdGtYSGhTaHBXWkFLMjVGTk5FQ0E2LWExY3ZDa3ZIdWxldklCRDZ2R2s3UG45M2I4YVJKOHlqM3MzYzB6SFIyTG5jNHNJVTd3ZEgzd0pZMXRod05DR0xZbU85ZU90cjVOdmp6a0hPQlJEMHBTS3ZDNjhkTi02TUw0RlBhc3g0MmlYcVpMemtMd1VFVDFsRE5tVzJXSUdBTC1qcHF3RjJT?oc=5",
+          "publisher": "Independent News Pakistan",
+          "published_at": "2026-11-10T16:19:08+05:00",
           "topic": "business"
         },
         {
@@ -174,31 +182,31 @@
           "topic": "business"
         },
         {
-          "id": "36c71a48d507c2fb",
-          "title": "Industrial growth: Kundi calls for govt-business collaboration",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPM3V6UnBNc0dqdjBRYUxaelYyLV83VElObUc3VGI5dFphSWg1WGFlQUk3bFlWLVZuVnFkanlMMHloTjhsVVdaNzFZajZScFQtam42dmJjcmhKWm13djItY1hYRlBpWThaWHpGYXVyVjNZYUkzM3VUVjFCZmRUQUxONWFqdXNtNHQxbjl4UkUzSkFYdUxyQXhUOEZ0ZEhvMm4zYmRjTkdWOA?oc=5",
+          "id": "db1e04b24b1b1260",
+          "title": "Oil and gas companies highlight community welfare investments at PPEPCA conference",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWlpON0JkWTF5ZjNQekVRQ0JaSjlEeWpEd3dhbnVIM3VIS2xQZjNsV2V1alI1VVRTd2YwWHA1cVVla1FYdF9GNU8wLVRpeVlTRmwzSkJjcGVGaFlPWnZ6RURDWlRnSy1YUUJmcmN4M3poUk40VDJMNHYtRHI0ajN6S3BCSURiNkl2Yk5ZUkIxcUtLOW83VHNFU3EtV0hiSWZUclRhNEE3MTdhZl9Pd1hTUkJGSUVXT3hyb3ZGbjFvQnM2c00?oc=5",
           "publisher": "Investify",
-          "published_at": "2026-11-09T04:46:04+05:00",
+          "published_at": "2026-11-08T18:08:49+05:00",
           "topic": "business"
         },
         {
-          "id": "17fe66a584d85f29",
-          "title": "Pakistan’s Mineral Wealth And Its Path To Global Investment – OpEd",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZGpvX0RVdkpPeU1sVmdHWE9pTWk5Nkc0bFM1NHhOYW9SWWdKVEQ1aER1QWRwZEFrLXYzV1VrZkRGNDV6U0NJQWlWem1XRnJhVGg0VkZEVk1kQldMbnhKME9uNXowVlRPdGhGMEhHWTFUbFpMYUh4OXpyZVEtWmMxVVhPckhCN2I1STRZUXk0c0lmVEM0Y0dWbjdrYlJPSXRKMVhLNTZB?oc=5",
-          "publisher": "Eurasia Review",
-          "published_at": "2026-11-09T03:21:23+05:00",
+          "id": "a9b7eb38116e460c",
+          "title": "Pakistan has the reserves, yet still lacks investor trust",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5PcmFjblctRmhoS1NsRGFFX3A3R1BmQ1lKM2ZvYVRYLUhNZV94SjNwbS0xSG5VRE5tS3VJN2JRb3U1RjQwa19keTduX1hNNzV5SGUxTXNB0gFWQVVfeXFMTk9yYWNuVy1GaGhLU2xEYUVfcDdHUGZDWUozZm9hVFgtSE1lX3hKM3BtLTFIblVETm1LdUk3YlFvdTVGNDBrX2R5N25fWE03NXlIZTFNc0E?oc=5",
+          "publisher": "Business Recorder",
+          "published_at": "2026-11-09T04:46:03+05:00",
           "topic": "business"
         },
         {
-          "id": "10fb152405b76e7d",
-          "title": "Russia, Pakistan Technology Cooperation Moves Towards Joint Ventures In AI, Cybersecurity & Digital Trade",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQVy16VThRcjFHX2pRSlhfZUpjc2h6MzBUU0pkMzJrMjZReU1VYWhlVUd6WHNEZGlhcFM1dUpJeUNUNVFLUFNXU3JfWXd3ME03aU9Pa0tkTTZxVFZfS0s0LUZtTEdJR2cyMWpGcFB0el9OWDQ4YmwzWUdGR0Fadlc0aUxiWDZJcFZ2S0h2UVZuRHd1ZDRkenJCODVxTkpJLTN0Z1JOb2M4ZVZVNDFjaWlJLUEwMi10WW01bmJ2MGRkNmZDNWYxZlVucC1YVXR6dw?oc=5",
-          "publisher": "russia's pivot to asia",
-          "published_at": "2026-11-09T18:45:56+05:00",
+          "id": "c5e70d449a06e91a",
+          "title": "Saudi delegation eyes Karachi port investments as Pakistan expands maritime trade",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNS0phbS14MVUwRWpHcmszV1JDR2ItbmVXVF9rQTllbVNIYmVFeDgzRG1Ma2lPc0NXZVByREgxcXktU0J5ZEo1emNXdUhMck1JMmdTbjdtTWdWeDNpU3FxSVNTbHctMWQ3SHRXeXpxdE5KT1ZKampWUDdKUFJRcFR2NHMxY0oybXF2VTVJWnZmNnFjOGpNQUs3c0hoQWJLNlpaSWQxZ3JJOFFmZzZxa1RWUFB1NFVZeFIxSThva2NJQQ?oc=5",
+          "publisher": "Arab News PK",
+          "published_at": "2026-11-10T09:23:38+05:00",
           "topic": "business"
         }
       ],
-      "fetched_at": "2026-11-10T09:15:58.248952+05:00"
+      "fetched_at": "2026-11-10T16:30:50.380216+05:00"
     },
     {
       "id": "trade-2026-11-09",

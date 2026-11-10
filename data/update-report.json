@@ -2,7 +2,7 @@
   "fetches": [
     [
       "karachi",
-      114582
+      114579
     ],
     [
       "forex",
@@ -10,27 +10,27 @@
     ],
     [
       "gold",
-      111283
+      111327
     ],
     [
       "silver",
-      104587
+      104312
     ],
     [
       "pso-history",
-      230560
+      230561
     ],
     [
       "samsung",
-      594941
+      594933
     ],
     [
       "xiaomi",
-      504321
+      504723
     ],
     [
       "vivo",
-      443177
+      443174
     ],
     [
       "oppo",
@@ -38,7 +38,7 @@
     ],
     [
       "realme",
-      465132
+      464990
     ],
     [
       "infinix",
@@ -50,14 +50,14 @@
     ],
     [
       "appliances",
-      776803
+      759710
     ],
     [
       "pbs",
       344039
     ]
   ],
-  "checked_at": "2026-11-10T04:15:18.486122+00:00",
+  "checked_at": "2026-11-10T11:30:14.814185+00:00",
   "sources": [
     {
       "source": "PSO dated fuel archive",
@@ -80,7 +80,7 @@
     {
       "source": "PriceOye published listings",
       "status": "parsed",
-      "observed_records": 133,
+      "observed_records": 135,
       "new_records": 0
     },
     {
@@ -116,7 +116,7 @@
       "new_records": 0
     }
   ],
-  "quotes": 5777,
+  "quotes": 5779,
   "manual_queue": [
     "Verify new image rates before transcribing; source sheets refresh automatically",
     "Unsupported sources retain their dated quotes"

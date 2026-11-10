@@ -1,18 +1,18 @@
 {
-  "checked_at": "2026-11-10T09:15:49.705851+05:00",
-  "quotes": 7989,
+  "checked_at": "2026-11-10T16:30:42.118379+05:00",
+  "quotes": 8110,
   "checks": [
     {
       "store": "Chase Value",
       "url": "https://chasevalue.pk/products.json?limit=100&page=1",
       "status": "parsed",
-      "offers": 465
+      "offers": 467
     },
     {
       "store": "Chase Value",
       "url": "https://chasevalue.pk/products.json?limit=100&page=2",
       "status": "parsed",
-      "offers": 459
+      "offers": 412
     },
     {
       "store": "Naheed",
@@ -36,7 +36,7 @@
       "store": "Naheed",
       "url": "https://www.naheed.pk/groceries-pets/baking-cooking/rice",
       "status": "parsed",
-      "offers": 22
+      "offers": 21
     },
     {
       "store": "Naheed",
