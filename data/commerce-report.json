@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-10",
+  "checked_at": "2026-11-11",
   "observed_offers": 3125,
   "sources": [
     {
@@ -90,7 +90,7 @@
     {
       "url": "https://priceoye.pk/mobiles/oppo?page=4",
       "status": "parsed",
-      "observed_offers": 35
+      "observed_offers": 36
     },
     {
       "url": "https://priceoye.pk/mobiles/realme?page=1",
@@ -260,7 +260,7 @@
     {
       "url": "https://priceoye.pk/trimmers-shavers?page=3",
       "status": "parsed",
-      "observed_offers": 36
+      "observed_offers": 35
     },
     {
       "url": "https://priceoye.pk/speakers?page=1",

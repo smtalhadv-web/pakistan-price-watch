@@ -6,15 +6,15 @@
     ],
     [
       "forex",
-      111789
+      111791
     ],
     [
       "gold",
-      111327
+      111333
     ],
     [
       "silver",
-      104312
+      104584
     ],
     [
       "pso-history",
@@ -22,19 +22,19 @@
     ],
     [
       "samsung",
-      594933
+      597961
     ],
     [
       "xiaomi",
-      504723
+      507062
     ],
     [
       "vivo",
-      443174
+      445967
     ],
     [
       "oppo",
-      462344
+      465114
     ],
     [
       "realme",
@@ -42,22 +42,22 @@
     ],
     [
       "infinix",
-      446828
+      449637
     ],
     [
       "tecno",
-      451946
+      459705
     ],
     [
       "appliances",
-      761055
+      794676
     ],
     [
       "pbs",
       344039
     ]
   ],
-  "checked_at": "2026-11-10T16:15:34.688767+00:00",
+  "checked_at": "2026-11-10T21:22:43.850294+00:00",
   "sources": [
     {
       "source": "PSO dated fuel archive",
@@ -98,7 +98,7 @@
     {
       "source": "Additional mobile, laptop, watch and audio listings",
       "status": "parsed",
-      "new_records": 0
+      "new_records": 10
     },
     {
       "source": "Furniture and power-tool variant listings",
@@ -112,11 +112,11 @@
     },
     {
       "source": "Toyota manufacturer vehicle price configuration",
-      "status": "manual_required",
-      "reason": "[Errno 2] No such file or directory: '/home/runner/work/pakistan-price-watch/pakistan-price-watch/raw/corolla.html'"
+      "status": "parsed",
+      "new_records": 0
     }
   ],
-  "quotes": 5780,
+  "quotes": 5820,
   "manual_queue": [
     "Verify new image rates before transcribing; source sheets refresh automatically",
     "Unsupported sources retain their dated quotes"
