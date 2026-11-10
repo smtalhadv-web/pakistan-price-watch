@@ -1,4 +1,4 @@
 {
-  "reason": "Fallback: 2026-11-10 08:30 Asia/Karachi price refresh missing. Latest deployed verification started at 2026-11-09T23:49:56Z (04:49:56 Asia/Karachi) and predates the 08:30 slot; no active workflow run was found. Run the existing source verification and Pages deployment.",
-  "requested_at": "2026-11-10T04:14:51Z"
+  "requested_at": "2026-11-10T16:13:27Z",
+  "reason": "Fallback: 2026-11-10 20:30 Asia/Karachi price refresh missing. Latest source report started at 2026-11-10T11:30:06Z (16:30:06 Asia/Karachi), before the 20:30 slot. The latest scheduled run #68 completed source verification with 6870 verified quotes but Pages deployment failed after remaining in syncing_files until timeout; no active workflow run was found. Run the existing source verification and Pages deployment."
 }
