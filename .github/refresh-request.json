@@ -1,4 +1,4 @@
 {
-  "reason": "Fallback: 2026-11-09 20:30 Asia/Karachi refresh missing. Published price verification at 2026-11-09T11:56:58Z predates the slot, and no active refresh was found. Run existing source verification and Pages deployment.",
-  "requested_at": "2026-11-09T16:11:59Z"
+  "reason": "Fallback: 2026-11-10 08:30 Asia/Karachi price refresh missing. Latest deployed verification started at 2026-11-09T23:49:56Z (04:49:56 Asia/Karachi) and predates the 08:30 slot; no active workflow run was found. Run the existing source verification and Pages deployment.",
+  "requested_at": "2026-11-10T04:14:51Z"
 }
