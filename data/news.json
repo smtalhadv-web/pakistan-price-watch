@@ -1,10 +1,10 @@
 {
-  "checked_at": "2026-11-10T16:30:50.380216+05:00",
+  "checked_at": "2026-11-10T21:16:18.879460+05:00",
   "checks": [
     {
       "topic": "economy",
       "status": "updated",
-      "headlines": 4
+      "headlines": 6
     },
     {
       "topic": "trade",
@@ -66,11 +66,11 @@
           "topic": "trade"
         },
         {
-          "id": "e79daafcbcde4147",
-          "title": "EPZ Risalpur Unit: Customs uncovers import irregularities, shortage of goods",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1rTmxQek13OUE5dGVybEtEMTA1cVBKYjVYSFZQZThPMGs2YmlSZW45RkFLOHFiOS1wQnVGZ2hlb242QVlLZXZKQlctVTRFX1BF0gFWQVVfeXFMTmhoWG5mcE91LXB2RC1VcWVmMGlqQ3d2MW8xQ193RzdUbjgwdkVJZ3N5UTZJV2JWbWhvM2JYOHNSSzBjZHlhNGxQZVRpLVNqbnZuT0JuZkE?oc=5",
-          "publisher": "Business Recorder",
-          "published_at": "2026-11-09T04:46:04+05:00",
+          "id": "fd8b16539c9d0afe",
+          "title": "China-EU economic engagement helps stabilise global trade expectations-INP",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZDV4N1EyVUtsQUpWUVBUMEpJa2g1dzVwRGNVX2o3Q0FZNDVDbjBrNW43ellfM2YtV05Uejl5ekdwQXczVHlpSUlvaW10LWUtODVsSUVDOUJEMmxSOWJOZVdfalVqb09YdzZtblo1elU3LW1GaTQyT3VXa1hYZVhwdG83ckFfSU9Dc1k0bGRLYjNRMXI3Mk83bWxZN0xkWDYwMVRjd0Q2RnFhNHRPYU5odlVNUEQ0c2U4VGFIenl3?oc=5",
+          "publisher": "Independent News Pakistan",
+          "published_at": "2026-11-10T16:30:01+05:00",
           "topic": "trade"
         },
         {
@@ -82,15 +82,15 @@
           "topic": "trade"
         },
         {
-          "id": "fd8b16539c9d0afe",
-          "title": "China-EU economic engagement helps stabilise global trade expectations-INP",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZDV4N1EyVUtsQUpWUVBUMEpJa2g1dzVwRGNVX2o3Q0FZNDVDbjBrNW43ellfM2YtV05Uejl5ekdwQXczVHlpSUlvaW10LWUtODVsSUVDOUJEMmxSOWJOZVdfalVqb09YdzZtblo1elU3LW1GaTQyT3VXa1hYZVhwdG83ckFfSU9Dc1k0bGRLYjNRMXI3Mk83bWxZN0xkWDYwMVRjd0Q2RnFhNHRPYU5odlVNUEQ0c2U4VGFIenl3?oc=5",
-          "publisher": "Independent News Pakistan",
-          "published_at": "2026-11-10T16:30:01+05:00",
+          "id": "1a459e0baea01408",
+          "title": "Customs registers FIR against industrial unit in Risalpur Export Processing Zone over alleged Rs117 million tax evasion",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPUjVzZnc2bG51MVV2UlFscnI2bnk5dVkwTkU3aGE2M0JPTUpmRlFZclc4TTlUeWJqd0pkWDlpRXNGSzZFYXRTOGVlSWFheG5hNThXTTZhRFlDU2pxSG10ZFRQZEZUaE92aGsyR0dfYVZ5MDE3QnRraVg2dzhGUFM4Z3dpMHItNUZrMFh3MTNUb1BYUGxmVHVnVnJER1hWWHJTWEhMakZXc29STmZUYWtNYWxvbnU2NEhJNGZPMDF1OHNnZlBGb3RLM3ZmSkdFZw?oc=5",
+          "publisher": "Investify",
+          "published_at": "2026-11-09T10:30:00+05:00",
           "topic": "trade"
         }
       ],
-      "fetched_at": "2026-11-10T16:30:50.380216+05:00"
+      "fetched_at": "2026-11-10T21:16:18.879460+05:00"
     },
     {
       "id": "economy-2026-11-10",
@@ -99,6 +99,14 @@
       "title": "Economy news briefing · 2026-11-10",
       "context": "Watch how inflation, currency movements and borrowing costs may affect household budgets and import costs. A headline alone does not establish that a retail price has changed.",
       "headlines": [
+        {
+          "id": "5473ee1115efa38d",
+          "title": "Easing global headwinds, lower crude oil prices may further lift rupee in coming months: Economists",
+          "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQZ0F5SDd2QWhLejJIc05VTHF3U0JHeVdnSTlMYy1SOFktTGJ5c0JVTjFaVnVWaGd2OTI1NG1kTHpwSV85aHdOd3B0QTR3UXJEOHpHWk9adlhnS1AwUi1pelhxN2toTVRXemlIZjVGOVozcXpPd3oxMnludEJDTVNyRm9vUWd2YVJoQklmeE1TM2tWUVdYb0o2QTAwY2tod3NNN1VISS1vVDE2UjNIMkM5QnUxX21tT2l4bE9QV1V4NG5pU0x5ZG5qazg4WFBIOXhHcVpEby14MVJpZ191dDNncDdPcjgxaGNnbEc5NFFZV0tkOEg3ZVBKNkJpemY5UDRndVJjb1hn0gGLAkFVX3lxTE05QmVaVVJ4d25RWVd1UFc4ZGdzY0JjMUNWM0JLMEtpTUtEbkZZUnZJb215b0lMLUVxdTNSRkpHX3ZEc1NkZDFBYm9mem9yN01aOVpmd2lFR2RFenpxemtFSjJjSGc3WWNiOVhqaU9lSS1CWWJOREUtQy1aTWNkTHpmbDMwV1NKX2lXUlgwd3pLQk9vekN4OTVYOTZyMjFZa2JBUm84R2RzZ195Tnhma1UySHVTd0ljMHd6blAtMU9PSE83NFhidlp3UU9XT2VSQ1d2cWIzX1FMSmtQOTQ2QlgwUWRyRzV6QjdYLVFsdjQtMklXcTRSTjdiaTB5UEluMDI3Qm5hdXlzMTJtZw?oc=5",
+          "publisher": "The Economic Times",
+          "published_at": "2026-11-10T20:04:42+05:00",
+          "topic": "economy"
+        },
         {
           "id": "f5eb3575c582eca8",
           "title": "Taxing mobility in an untaxed economy",
@@ -124,15 +132,23 @@
           "topic": "economy"
         },
         {
-          "id": "679e14c0ceec9a1c",
-          "title": "Gold, silver outlook: Inflation data and geopolitical tensions likely to drive prices this week",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNeGJYcjRPR2JWQ2ZTUkh0cTdnZ1hIQzYzcWxRZWp4aERyNFlwOXlkUk0tNXFKbHh4LUJZdmlYM1hHb2l6QW1RN0NUYXJQb1Q4ZEJzN29tRDBDaEkwZml5b2JSaHVvX0ZLNnhDd21NcXJOaHZreF90T3o1M01QQjVpdmNkVFU5Xy1kMEE2bWFoY0NocThNVUxCSlVqT0hxRWF3VWFRVXVmWXh4Z05DQ0h4TEZYeG93NmlkSDE4X1BTV3RFUzhXZHFZaw?oc=5",
+          "id": "47a9fd791969e55f",
+          "title": "EPFO CBT meeting on Nov 19 may discuss hike in minimum EPS pension to Rs 3,000",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTnhmazYyekZwUVFLeFhLNGNiM3FMLXQzT3ZXdTJzaktGYWZfbmNOZ2kwbGRFTjRyakRFVmZMcDYzTHp6cFItdVNpU3BTQ1RpUzRFNXBsaU9UdTlscXlVY0pFblhfS193b25JMWJpUTQ3b2ZUNUdMSEJxVEQwZEJYRnZyaGJoMHoySE5SQjlfSHp0SGdGQXFzd2lMZVJMNTJpWFV1X3pSRHpnQXptVS1TS0MyMA?oc=5",
           "publisher": "The Hawk",
-          "published_at": "2026-11-08T17:33:30+05:00",
+          "published_at": "2026-11-10T17:27:38+05:00",
+          "topic": "economy"
+        },
+        {
+          "id": "070b36a0b48fa248",
+          "title": "MRF Q2 profit drops nearly 28 pc to Rs 369 crore",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPT2F1bmFMQjVCeTVjdjQ3ekFDenhBenNkTzFPR19VbkhKaEdwQlFneXhHSjZKUkFjMllXNzhKNVZGOUJRajVhblkwWk91U1pBNnpqMUZKemNCaDhkUlpDdmt4SlMzWlAycGhUOVpRck5PNlN4QmhsZFlJLThqT3Rzb3lFNjZJX3B4TU42Xw?oc=5",
+          "publisher": "The Hawk",
+          "published_at": "2026-11-10T13:12:35+05:00",
           "topic": "economy"
         }
       ],
-      "fetched_at": "2026-11-10T16:30:50.380216+05:00"
+      "fetched_at": "2026-11-10T21:16:18.879460+05:00"
     },
     {
       "id": "business-2026-11-10",
@@ -158,11 +174,19 @@
           "topic": "business"
         },
         {
-          "id": "97dd664b9de71733",
-          "title": "Pakistan, Saudi Arabia investors plan joint fund",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOVEZMN0pkMExpMXg3N1JxYjRiYUhmRm1XaFdZOEJtNE9BY3JIVkl3TmVvblBnX1loN3JVUHhSM0pLem9wOEVuQXRiaFZxQWRUX0NqdTN0X1NuNWxoWGZLNTZJZVVHWEpua2tuQmg2cjdwZi1VdmFrVlpLaXFsZ1lodlM2MnkyRU1iZmFjNA?oc=5",
-          "publisher": "The News Pakistan",
-          "published_at": "2026-11-10T00:00:00+05:00",
+          "id": "17b30f4552570e13",
+          "title": "Pakistan, Saudi Arabia launch joint investment fund; 75% of capital earmarked for Islamabad",
+          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPTGNPTnlDR1FfUkUzV0JVZFRRcERFZFdYdGhTX3Q0X1NMQ2d0N0JiTXZhOUtyQTAtLTZIbTFGZkFhUHN6cElYd0JfTHhnNDZON2FkRmQweGtCNWVnWjBtekY5VjlzLURpY2N2NFRBMng4R3JiXzZPbDNwVkZYeUs1aVAxdEpndUFMSjdZZFh1OTREUWRUVktVMHM0T293alNHblJQOWo0T1Itd1BpX1UyNk91aHBLeWZxUEZXbHo4bGt1cFJnMzExV3Mzb21EdDRUNmJIbWMzeWV4Qll1YWQ3TzR5bzU1Mm1oTFlpOHl1NjHSAfYBQVVfeXFMUFRGXy1rS2EyRXRUT1ZibzdZcGJEZTViRUJMQ3ZZUzBLQUx1akw5Z0VBTGoyMmhVY0tPTHFKT2N1ZU92LV9HUjlJc0NEaU54OFQ1TFdrdG10UFFNdEFmN0ZxTDJ6RUpibUdCM29IcmhMSlQwZG42MU8wS1QzbkJ6NmVlVUtYOTVWdEEzRkQ5N283OXFIZFo1Q3hRNGxDWGg1amxUS3JCVjl6VnZfSXVkTG9WQmNQY21IOTBoZkVLX1dLSkVHWHRUeGs4bzFEUVBwM3dPQi1DVVlmeTRLUGVjalIxQkVrb3BadXhLZ1R5U3BxOW96MUhR?oc=5",
+          "publisher": "Business Today",
+          "published_at": "2026-11-10T19:04:27+05:00",
+          "topic": "business"
+        },
+        {
+          "id": "c5e70d449a06e91a",
+          "title": "Saudi delegation eyes Karachi port investments as Pakistan expands maritime trade",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNS0phbS14MVUwRWpHcmszV1JDR2ItbmVXVF9rQTllbVNIYmVFeDgzRG1Ma2lPc0NXZVByREgxcXktU0J5ZEo1emNXdUhMck1JMmdTbjdtTWdWeDNpU3FxSVNTbHctMWQ3SHRXeXpxdE5KT1ZKampWUDdKUFJRcFR2NHMxY0oybXF2VTVJWnZmNnFjOGpNQUs3c0hoQWJLNlpaSWQxZ3JJOFFmZzZxa1RWUFB1NFVZeFIxSThva2NJQQ?oc=5",
+          "publisher": "Arab News PK",
+          "published_at": "2026-11-10T09:23:38+05:00",
           "topic": "business"
         },
         {
@@ -174,39 +198,31 @@
           "topic": "business"
         },
         {
-          "id": "d4600bdde8278ec0",
-          "title": "Saudi and Pakistani Investors Sign MoU to Launch Saudi–Pak Private Equity Fund",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONndkbHJVN2hSNjZWT3pzcVN2NlR0RjI3SEtORUlsS0J5UFRzWFpJRnc1dEt6Sk1kTUpIN0NOTVhJM3RSdXF5MzcxcG5PVENXSm51N0Z1b21FcmZncXdrWnRPcGJaRnVBMWh5akVpb3pOdTF3TlBnY3VpZS1xRG5LWlpXSGl2X0ZldkJDYXRhbnppUkJXWjFhRDhHbVd2YzY3NHVpbWJNWHVuY01sNEhHSzVxeHJsMmM?oc=5",
-          "publisher": "Biz Today",
-          "published_at": "2026-11-09T21:23:38+05:00",
+          "id": "97dd664b9de71733",
+          "title": "Pakistan, Saudi Arabia investors plan joint fund",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOVEZMN0pkMExpMXg3N1JxYjRiYUhmRm1XaFdZOEJtNE9BY3JIVkl3TmVvblBnX1loN3JVUHhSM0pLem9wOEVuQXRiaFZxQWRUX0NqdTN0X1NuNWxoWGZLNTZJZVVHWEpua2tuQmg2cjdwZi1VdmFrVlpLaXFsZ1lodlM2MnkyRU1iZmFjNA?oc=5",
+          "publisher": "The News Pakistan",
+          "published_at": "2026-11-10T00:00:00+05:00",
           "topic": "business"
         },
         {
-          "id": "db1e04b24b1b1260",
-          "title": "Oil and gas companies highlight community welfare investments at PPEPCA conference",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWlpON0JkWTF5ZjNQekVRQ0JaSjlEeWpEd3dhbnVIM3VIS2xQZjNsV2V1alI1VVRTd2YwWHA1cVVla1FYdF9GNU8wLVRpeVlTRmwzSkJjcGVGaFlPWnZ6RURDWlRnSy1YUUJmcmN4M3poUk40VDJMNHYtRHI0ajN6S3BCSURiNkl2Yk5ZUkIxcUtLOW83VHNFU3EtV0hiSWZUclRhNEE3MTdhZl9Pd1hTUkJGSUVXT3hyb3ZGbjFvQnM2c00?oc=5",
+          "id": "bcd8cb49853b04f7",
+          "title": "Pakistan to receive 75% of new Saudi-backed private equity fund",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeGlQZ1VLdUJ0ZEtkZGpFU2I4aUVUODZfZHBnNDlIazVlc1RDdGUtUDYyNXdtNmR6QmRXWW9sd2FUTDBOV1g2Tzd6UDJOUUc2N213WEdUQ05rMDZPTkZKLVlEbUpCZldtNkJxNVg1WjB5NlN0ZlNDQnR4U3pnN2RTdTVDd2E2Yk44dl9iLTBmVWR2dmE3b0ZfZEs4bmJOMlhtdVR1LU9pejQ?oc=5",
           "publisher": "Investify",
-          "published_at": "2026-11-08T18:08:49+05:00",
+          "published_at": "2026-11-09T21:35:49+05:00",
           "topic": "business"
         },
         {
-          "id": "a9b7eb38116e460c",
-          "title": "Pakistan has the reserves, yet still lacks investor trust",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5PcmFjblctRmhoS1NsRGFFX3A3R1BmQ1lKM2ZvYVRYLUhNZV94SjNwbS0xSG5VRE5tS3VJN2JRb3U1RjQwa19keTduX1hNNzV5SGUxTXNB0gFWQVVfeXFMTk9yYWNuVy1GaGhLU2xEYUVfcDdHUGZDWUozZm9hVFgtSE1lX3hKM3BtLTFIblVETm1LdUk3YlFvdTVGNDBrX2R5N25fWE03NXlIZTFNc0E?oc=5",
-          "publisher": "Business Recorder",
-          "published_at": "2026-11-09T04:46:03+05:00",
-          "topic": "business"
-        },
-        {
-          "id": "c5e70d449a06e91a",
-          "title": "Saudi delegation eyes Karachi port investments as Pakistan expands maritime trade",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNS0phbS14MVUwRWpHcmszV1JDR2ItbmVXVF9rQTllbVNIYmVFeDgzRG1Ma2lPc0NXZVByREgxcXktU0J5ZEo1emNXdUhMck1JMmdTbjdtTWdWeDNpU3FxSVNTbHctMWQ3SHRXeXpxdE5KT1ZKampWUDdKUFJRcFR2NHMxY0oybXF2VTVJWnZmNnFjOGpNQUs3c0hoQWJLNlpaSWQxZ3JJOFFmZzZxa1RWUFB1NFVZeFIxSThva2NJQQ?oc=5",
-          "publisher": "Arab News PK",
-          "published_at": "2026-11-10T09:23:38+05:00",
+          "id": "c4260d2f901b9289",
+          "title": "Pakistan, Saudi Arabia investors launch fund to boost trade, investment",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSmwzMWctSWdDWTNMZkJtUHM4RXZodk1ERXE2UTZzN0w4bHNlWTBEa1RMdEo3SnBPVVNXbVExMHlMS0dsVFEtZERGeWhfQVFqOHN3cTFLSmJucWh2Q21sODFqQV95QkdnS0MxOElrRXlaT2dJOVprWmVDY3ltXzIzRUl1NHN1VDNaVWM1d1B4T3o3amFma09UR0t4eXVCMHJhcjM0RmV3?oc=5",
+          "publisher": "Dawn",
+          "published_at": "2026-11-09T17:40:11+05:00",
           "topic": "business"
         }
       ],
-      "fetched_at": "2026-11-10T16:30:50.380216+05:00"
+      "fetched_at": "2026-11-10T21:16:18.879460+05:00"
     },
     {
       "id": "trade-2026-11-09",

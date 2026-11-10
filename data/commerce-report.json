@@ -1,6 +1,6 @@
 {
   "checked_at": "2026-11-10",
-  "observed_offers": 3109,
+  "observed_offers": 3125,
   "sources": [
     {
       "url": "https://www.zahcomputers.pk/shop/",
@@ -90,7 +90,7 @@
     {
       "url": "https://priceoye.pk/mobiles/oppo?page=4",
       "status": "parsed",
-      "observed_offers": 36
+      "observed_offers": 35
     },
     {
       "url": "https://priceoye.pk/mobiles/realme?page=1",
@@ -155,7 +155,7 @@
     {
       "url": "https://priceoye.pk/mobiles/apple?page=1",
       "status": "parsed",
-      "observed_offers": 9
+      "observed_offers": 10
     },
     {
       "url": "https://priceoye.pk/mobiles/apple?page=2",
@@ -308,6 +308,11 @@
       "observed_offers": 0
     },
     {
+      "url": "https://www.zahcomputers.pk/category/11-11-sale/",
+      "status": "parsed",
+      "observed_offers": 24
+    },
+    {
       "url": "https://www.zahcomputers.pk/category/apple-accessories",
       "status": "parsed",
       "observed_offers": 20
@@ -325,7 +330,7 @@
     {
       "url": "https://www.zahcomputers.pk/category/cooling-solutions",
       "status": "parsed",
-      "observed_offers": 23
+      "observed_offers": 22
     },
     {
       "url": "https://www.zahcomputers.pk/category/cooling-solutions/air-cooler",
@@ -335,17 +340,17 @@
     {
       "url": "https://www.zahcomputers.pk/category/cooling-solutions/cooling-fans",
       "status": "parsed",
-      "observed_offers": 23
+      "observed_offers": 22
     },
     {
       "url": "https://www.zahcomputers.pk/category/cooling-solutions/liquid-cooler-aio",
       "status": "parsed",
-      "observed_offers": 18
+      "observed_offers": 19
     },
     {
       "url": "https://www.zahcomputers.pk/category/cooling-solutions/thermal-paste-pads",
       "status": "parsed",
-      "observed_offers": 15
+      "observed_offers": 16
     },
     {
       "url": "https://www.zahcomputers.pk/category/gaming-chairs",
@@ -410,7 +415,7 @@
     {
       "url": "https://www.zahcomputers.pk/category/laptop",
       "status": "parsed",
-      "observed_offers": 22
+      "observed_offers": 23
     },
     {
       "url": "https://www.zahcomputers.pk/category/laptop-bags",
@@ -465,17 +470,17 @@
     {
       "url": "https://www.zahcomputers.pk/category/monitors",
       "status": "parsed",
-      "observed_offers": 22
+      "observed_offers": 23
     },
     {
       "url": "https://www.zahcomputers.pk/category/monitors-open-box",
       "status": "parsed",
-      "observed_offers": 5
+      "observed_offers": 1
     },
     {
       "url": "https://www.zahcomputers.pk/category/motherboard-chipset",
       "status": "parsed",
-      "observed_offers": 23
+      "observed_offers": 24
     },
     {
       "url": "https://www.zahcomputers.pk/category/mouse",
@@ -501,11 +506,6 @@
       "url": "https://www.zahcomputers.pk/category/power-supplies",
       "status": "parsed",
       "observed_offers": 24
-    },
-    {
-      "url": "https://www.zahcomputers.pk/category/pre-builds",
-      "status": "parsed",
-      "observed_offers": 7
     },
     {
       "url": "https://www.galaxy.pk/desktops",

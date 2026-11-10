@@ -1,6 +1,6 @@
 {
-  "started_at": "2026-11-10T11:30:06.871949+00:00",
-  "completed_at": "2026-11-10T11:30:49.377298+00:00",
+  "started_at": "2026-11-10T16:15:28.281508+00:00",
+  "completed_at": "2026-11-10T16:16:17.723347+00:00",
   "status": "partial",
   "timezone": "Asia/Karachi",
   "scheduled_times": [
@@ -11,49 +11,49 @@
     {
       "name": "collect.py",
       "status": "completed",
-      "elapsed_seconds": 3.2,
+      "elapsed_seconds": 3.4,
       "detail": ""
     },
     {
       "name": "download_sources.py",
       "status": "completed",
-      "elapsed_seconds": 3.6,
+      "elapsed_seconds": 2.0,
       "detail": ""
     },
     {
       "name": "ingest.py",
       "status": "completed",
-      "elapsed_seconds": 1.3,
+      "elapsed_seconds": 1.2,
       "detail": ""
     },
     {
       "name": "expand_fetch.py",
       "status": "completed",
-      "elapsed_seconds": 2.0,
+      "elapsed_seconds": 7.4,
       "detail": ""
     },
     {
       "name": "expand.py",
       "status": "completed",
-      "elapsed_seconds": 1.3,
+      "elapsed_seconds": 1.2,
       "detail": ""
     },
     {
       "name": "commerce.py",
       "status": "completed",
-      "elapsed_seconds": 23.7,
+      "elapsed_seconds": 26.3,
       "detail": ""
     },
     {
       "name": "partner_sources.py",
       "status": "completed",
-      "elapsed_seconds": 6.1,
+      "elapsed_seconds": 5.9,
       "detail": ""
     },
     {
       "name": "extra_sources.py",
       "status": "completed",
-      "elapsed_seconds": 1.2,
+      "elapsed_seconds": 2.0,
       "detail": ""
     }
   ],
@@ -124,8 +124,8 @@
     {
       "source": "Toyota manufacturer vehicle price configuration",
       "url": null,
-      "status": "verified",
-      "detail": "parsed",
+      "status": "not_verified",
+      "detail": "manual_required",
       "quotes": 0
     },
     {
@@ -252,7 +252,7 @@
       "url": "https://priceoye.pk/mobiles/oppo?page=4",
       "status": "verified",
       "detail": "parsed",
-      "quotes": 36
+      "quotes": 35
     },
     {
       "source": "https://priceoye.pk/mobiles/realme?page=1",
@@ -343,7 +343,7 @@
       "url": "https://priceoye.pk/mobiles/apple?page=1",
       "status": "verified",
       "detail": "parsed",
-      "quotes": 9
+      "quotes": 10
     },
     {
       "source": "https://priceoye.pk/mobiles/apple?page=2",
@@ -556,6 +556,13 @@
       "quotes": 0
     },
     {
+      "source": "https://www.zahcomputers.pk/category/11-11-sale/",
+      "url": "https://www.zahcomputers.pk/category/11-11-sale/",
+      "status": "verified",
+      "detail": "parsed",
+      "quotes": 24
+    },
+    {
       "source": "https://www.zahcomputers.pk/category/apple-accessories",
       "url": "https://www.zahcomputers.pk/category/apple-accessories",
       "status": "verified",
@@ -581,7 +588,7 @@
       "url": "https://www.zahcomputers.pk/category/cooling-solutions",
       "status": "verified",
       "detail": "parsed",
-      "quotes": 23
+      "quotes": 22
     },
     {
       "source": "https://www.zahcomputers.pk/category/cooling-solutions/air-cooler",
@@ -595,21 +602,21 @@
       "url": "https://www.zahcomputers.pk/category/cooling-solutions/cooling-fans",
       "status": "verified",
       "detail": "parsed",
-      "quotes": 23
+      "quotes": 22
     },
     {
       "source": "https://www.zahcomputers.pk/category/cooling-solutions/liquid-cooler-aio",
       "url": "https://www.zahcomputers.pk/category/cooling-solutions/liquid-cooler-aio",
       "status": "verified",
       "detail": "parsed",
-      "quotes": 18
+      "quotes": 19
     },
     {
       "source": "https://www.zahcomputers.pk/category/cooling-solutions/thermal-paste-pads",
       "url": "https://www.zahcomputers.pk/category/cooling-solutions/thermal-paste-pads",
       "status": "verified",
       "detail": "parsed",
-      "quotes": 15
+      "quotes": 16
     },
     {
       "source": "https://www.zahcomputers.pk/category/gaming-chairs",
@@ -700,7 +707,7 @@
       "url": "https://www.zahcomputers.pk/category/laptop",
       "status": "verified",
       "detail": "parsed",
-      "quotes": 22
+      "quotes": 23
     },
     {
       "source": "https://www.zahcomputers.pk/category/laptop-bags",
@@ -777,21 +784,21 @@
       "url": "https://www.zahcomputers.pk/category/monitors",
       "status": "verified",
       "detail": "parsed",
-      "quotes": 22
+      "quotes": 23
     },
     {
       "source": "https://www.zahcomputers.pk/category/monitors-open-box",
       "url": "https://www.zahcomputers.pk/category/monitors-open-box",
       "status": "verified",
       "detail": "parsed",
-      "quotes": 5
+      "quotes": 1
     },
     {
       "source": "https://www.zahcomputers.pk/category/motherboard-chipset",
       "url": "https://www.zahcomputers.pk/category/motherboard-chipset",
       "status": "verified",
       "detail": "parsed",
-      "quotes": 23
+      "quotes": 24
     },
     {
       "source": "https://www.zahcomputers.pk/category/mouse",
@@ -827,13 +834,6 @@
       "status": "verified",
       "detail": "parsed",
       "quotes": 24
-    },
-    {
-      "source": "https://www.zahcomputers.pk/category/pre-builds",
-      "url": "https://www.zahcomputers.pk/category/pre-builds",
-      "status": "verified",
-      "detail": "parsed",
-      "quotes": 7
     },
     {
       "source": "https://www.galaxy.pk/desktops",
@@ -896,14 +896,14 @@
       "url": "https://chasevalue.pk/products.json?limit=100&page=1",
       "status": "verified",
       "detail": "parsed",
-      "quotes": 467
+      "quotes": 571
     },
     {
       "source": "Chase Value",
       "url": "https://chasevalue.pk/products.json?limit=100&page=2",
       "status": "verified",
       "detail": "parsed",
-      "quotes": 412
+      "quotes": 328
     },
     {
       "source": "Naheed",
@@ -959,7 +959,7 @@
       "url": "https://metro-online.pk/",
       "status": "verified",
       "detail": "parsed",
-      "quotes": 226
+      "quotes": 225
     },
     {
       "source": "Foodpanda / Kifayah",
@@ -994,7 +994,7 @@
       "url": "https://alfatah.pk/products.json?limit=100",
       "status": "verified",
       "detail": "updated",
-      "quotes": 165
+      "quotes": 158
     },
     {
       "source": "Shophive",
@@ -1011,9 +1011,9 @@
       "quotes": 29
     }
   ],
-  "total_quotes": 15826,
-  "verified_quotes": 6870,
-  "changed_prices": 38,
-  "new_quotes": 141,
-  "retained_quotes": 8956
+  "total_quotes": 16064,
+  "verified_quotes": 6862,
+  "changed_prices": 150,
+  "new_quotes": 238,
+  "retained_quotes": 9202
 }

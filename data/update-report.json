@@ -50,14 +50,14 @@
     ],
     [
       "appliances",
-      759710
+      761055
     ],
     [
       "pbs",
       344039
     ]
   ],
-  "checked_at": "2026-11-10T11:30:14.814185+00:00",
+  "checked_at": "2026-11-10T16:15:34.688767+00:00",
   "sources": [
     {
       "source": "PSO dated fuel archive",
@@ -98,7 +98,7 @@
     {
       "source": "Additional mobile, laptop, watch and audio listings",
       "status": "parsed",
-      "new_records": 1
+      "new_records": 0
     },
     {
       "source": "Furniture and power-tool variant listings",
@@ -112,11 +112,11 @@
     },
     {
       "source": "Toyota manufacturer vehicle price configuration",
-      "status": "parsed",
-      "new_records": 0
+      "status": "manual_required",
+      "reason": "[Errno 2] No such file or directory: '/home/runner/work/pakistan-price-watch/pakistan-price-watch/raw/corolla.html'"
     }
   ],
-  "quotes": 5779,
+  "quotes": 5780,
   "manual_queue": [
     "Verify new image rates before transcribing; source sheets refresh automatically",
     "Unsupported sources retain their dated quotes"
