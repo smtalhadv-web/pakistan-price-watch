@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-10T04:50:35.790057+05:00",
+  "checked_at": "2026-11-10T09:15:58.248952+05:00",
   "checks": [
     {
       "topic": "economy",
@@ -7,12 +7,12 @@
       "headlines": 3
     },
     {
-      "topic": "business",
+      "topic": "trade",
       "status": "updated",
       "headlines": 8
     },
     {
-      "topic": "trade",
+      "topic": "business",
       "status": "updated",
       "headlines": 8
     }
@@ -74,23 +74,23 @@
           "topic": "trade"
         },
         {
-          "id": "8c708c56872ad8e6",
-          "title": "The 50-point gap behind tariff debate",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZGVoaHpkR2d3eEYxZ2NSbUpVT3hfT3VkbTRzOEZiZHJka21HSGVoMXZtLVhOWTJqWGNMblFlVHg3UEVMOGFjOVE3ODZaakw2TjZTdUVoTkFLbS1xbXhLeGh6cFlQOGgzTVZEVDBRTGJnVHNjNzF3UGpUN2lnNHVMX2pYcUpKcnc?oc=5",
-          "publisher": "Investify",
-          "published_at": "2026-11-09T01:56:53+05:00",
-          "topic": "trade"
-        },
-        {
           "id": "98b4cc89c21966be",
           "title": "China’s Push to Expand Yuan Use in Africa: Strategy, Trade and Financial Influence",
           "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNzRZSllzNm9Ja0xmajcwOVlZWjhzaXUzWHZrUE9rMEhVOTBnN1lXbEJGN0pTTWkwYTd4b2g3UV9pbWdSMmpjaXpVNjNMemVZQnRJVWpMLVQzOXM3RmJoR05RMklOZ29OZnItNGN5WVVkaEZYZlZOLTdjNHY2dC02U19pTEhWSlBlenJsUEVLRzBDTGxKSVZtUktyXzg2UTlSb29Vb09oMG9NWTloMk5uV3dJcS0wWXY4UGc?oc=5",
           "publisher": "Modern Diplomacy",
           "published_at": "2026-11-08T19:30:33+05:00",
           "topic": "trade"
+        },
+        {
+          "id": "1a459e0baea01408",
+          "title": "Customs registers FIR against industrial unit in Risalpur Export Processing Zone over alleged Rs117 million tax evasion",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPUjVzZnc2bG51MVV2UlFscnI2bnk5dVkwTkU3aGE2M0JPTUpmRlFZclc4TTlUeWJqd0pkWDlpRXNGSzZFYXRTOGVlSWFheG5hNThXTTZhRFlDU2pxSG10ZFRQZEZUaE92aGsyR0dfYVZ5MDE3QnRraVg2dzhGUFM4Z3dpMHItNUZrMFh3MTNUb1BYUGxmVHVnVnJER1hWWHJTWEhMakZXc29STmZUYWtNYWxvbnU2NEhJNGZPMDF1OHNnZlBGb3RLM3ZmSkdFZw?oc=5",
+          "publisher": "Investify",
+          "published_at": "2026-11-09T10:30:00+05:00",
+          "topic": "trade"
         }
       ],
-      "fetched_at": "2026-11-10T04:50:35.790057+05:00"
+      "fetched_at": "2026-11-10T09:15:58.248952+05:00"
     },
     {
       "id": "economy-2026-11-10",
@@ -124,7 +124,7 @@
           "topic": "economy"
         }
       ],
-      "fetched_at": "2026-11-10T04:50:35.790057+05:00"
+      "fetched_at": "2026-11-10T09:15:58.248952+05:00"
     },
     {
       "id": "business-2026-11-10",
@@ -139,6 +139,14 @@
           "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPYTZNRHhfc0NZdjBSYjRtV1VHSXFyRDJfNEdxcUlaWEhTRjl3eWgwd1g3T1d0dDByVmo1WE9tWHdhSU1QSU5ydy1ZS1RCZkNMVExuVzY5bmRZNmdyT29XQkRaeE9aQXdySTdxZFVadDlRVE9sTFBLLU1NYlVDdDI4MkU3Ykcwd3dMTlNlNllicTJ0VVZtRnk3bXRQaU1mSDFYaXpMcWFnUTBjbmtNMnpVWmhsY3JXVmZL0gFWQVVfeXFMT3gwSjJoNFRsa0hUUDFSZlJRWklUaXhEVW1iQUl6amVrbjVjMjN2VzRDT0tHcHdHMnd1bEtFSS1YbkVRUlN2MU5hbFp0c3B2WE9yazkzMUE?oc=5",
           "publisher": "Business Recorder",
           "published_at": "2026-11-10T04:44:56+05:00",
+          "topic": "business"
+        },
+        {
+          "id": "7566dd813fd264cd",
+          "title": "Saudi-Pakistani investment ties get private equity boost",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOV1ZBbEZRLUNQV3FkOHU5WG9qSHN2U1Y5TWZ5OERXYWVKRnhnY2dDdzdwWVZmckVKYk9STWd0OVF0QjFiMndXZ3NkaXE4N0g3dF9ZSlVnMHR0QThBMVR6d2JxU19rNzEzekw2OV9iSjRsVG8za2xsMGpaWDBoWjhxbE9QWlpiZVh0SzF6X1VQcENtQWtqbEVTSNIBoAFBVV95cUxQY3pDVklhVHpCMkFBb2tWMjlfQ25makhPM2J5ZnRvdUZjc3NMa2dxcGZVRWNRbmthUk54VUlKeVNFMmtOdWxVSGRsR1p3MkFVdDl0UFZ0Ym5vUzhrc2R5UGR6UXRSNmxudnNUNUUzUnRHY0RqeEtvTDVrSjA2T1IzYjh3NEJjczdQZUlhSGM1ZmltM281REZ2VTA1R25TQzV4?oc=5",
+          "publisher": "The Express Tribune",
+          "published_at": "2026-11-10T05:37:47+05:00",
           "topic": "business"
         },
         {
@@ -158,19 +166,19 @@
           "topic": "business"
         },
         {
-          "id": "36c71a48d507c2fb",
-          "title": "Industrial growth: Kundi calls for govt-business collaboration",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPM3V6UnBNc0dqdjBRYUxaelYyLV83VElObUc3VGI5dFphSWg1WGFlQUk3bFlWLVZuVnFkanlMMHloTjhsVVdaNzFZajZScFQtam42dmJjcmhKWm13djItY1hYRlBpWThaWHpGYXVyVjNZYUkzM3VUVjFCZmRUQUxONWFqdXNtNHQxbjl4UkUzSkFYdUxyQXhUOEZ0ZEhvMm4zYmRjTkdWOA?oc=5",
-          "publisher": "Investify",
-          "published_at": "2026-11-09T04:46:04+05:00",
-          "topic": "business"
-        },
-        {
           "id": "d4600bdde8278ec0",
           "title": "Saudi and Pakistani Investors Sign MoU to Launch Saudi–Pak Private Equity Fund",
           "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONndkbHJVN2hSNjZWT3pzcVN2NlR0RjI3SEtORUlsS0J5UFRzWFpJRnc1dEt6Sk1kTUpIN0NOTVhJM3RSdXF5MzcxcG5PVENXSm51N0Z1b21FcmZncXdrWnRPcGJaRnVBMWh5akVpb3pOdTF3TlBnY3VpZS1xRG5LWlpXSGl2X0ZldkJDYXRhbnppUkJXWjFhRDhHbVd2YzY3NHVpbWJNWHVuY01sNEhHSzVxeHJsMmM?oc=5",
           "publisher": "Biz Today",
           "published_at": "2026-11-09T21:23:38+05:00",
+          "topic": "business"
+        },
+        {
+          "id": "36c71a48d507c2fb",
+          "title": "Industrial growth: Kundi calls for govt-business collaboration",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPM3V6UnBNc0dqdjBRYUxaelYyLV83VElObUc3VGI5dFphSWg1WGFlQUk3bFlWLVZuVnFkanlMMHloTjhsVVdaNzFZajZScFQtam42dmJjcmhKWm13djItY1hYRlBpWThaWHpGYXVyVjNZYUkzM3VUVjFCZmRUQUxONWFqdXNtNHQxbjl4UkUzSkFYdUxyQXhUOEZ0ZEhvMm4zYmRjTkdWOA?oc=5",
+          "publisher": "Investify",
+          "published_at": "2026-11-09T04:46:04+05:00",
           "topic": "business"
         },
         {
@@ -188,17 +196,9 @@
           "publisher": "russia's pivot to asia",
           "published_at": "2026-11-09T18:45:56+05:00",
           "topic": "business"
-        },
-        {
-          "id": "4549002c7b968449",
-          "title": "Pakistan, Saudi Arabia investors launch fund to boost trade, investment",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1id1djc1VZT1RRbkIxREJXTGFQMUhrQ2FxSk1EWExETHNVaFNCMmU5SG5oUFNlUUswWnQ4alNnbkJYRW9rN2dmN2N6OFRQYU5N0gFWQVVfeXFMT09Fck5KbzlqNXNTWmJLbkpQQUozbThqMThzSjVCcXFTYldmOWxEX19nNUxQVkZQZm5USnJxRjllZ1NZM2RmT2VMVDJHU2VqMWVzbUpUcHc?oc=5",
-          "publisher": "Business Recorder",
-          "published_at": "2026-11-09T17:02:47+05:00",
-          "topic": "business"
         }
       ],
-      "fetched_at": "2026-11-10T04:50:35.790057+05:00"
+      "fetched_at": "2026-11-10T09:15:58.248952+05:00"
     },
     {
       "id": "trade-2026-11-09",
