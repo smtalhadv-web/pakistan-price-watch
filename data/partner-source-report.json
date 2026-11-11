@@ -1,24 +1,24 @@
 {
-  "checked_at": "2026-11-11T16:19:18.930130+05:00",
-  "quotes": 8765,
+  "checked_at": "2026-11-11T21:13:56.857888+05:00",
+  "quotes": 9016,
   "checks": [
     {
       "store": "Chase Value",
       "url": "https://chasevalue.pk/products.json?limit=100&page=1",
       "status": "parsed",
-      "offers": 612
+      "offers": 696
     },
     {
       "store": "Chase Value",
       "url": "https://chasevalue.pk/products.json?limit=100&page=2",
       "status": "parsed",
-      "offers": 466
+      "offers": 440
     },
     {
       "store": "Naheed",
       "url": "https://www.naheed.pk/groceries-pets",
       "status": "parsed",
-      "offers": 48
+      "offers": 47
     },
     {
       "store": "Naheed",
@@ -78,13 +78,13 @@
       "store": "OLX",
       "url": "https://www.olx.com.pk/items/q-laptop",
       "status": "parsed",
-      "offers": 32
+      "offers": 33
     },
     {
       "store": "OLX",
       "url": "https://www.olx.com.pk/items/q-sofa",
       "status": "parsed",
-      "offers": 33
+      "offers": 32
     }
   ]
 }

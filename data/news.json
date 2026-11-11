@@ -1,18 +1,18 @@
 {
-  "checked_at": "2026-11-11T16:19:28.374966+05:00",
+  "checked_at": "2026-11-11T21:14:05.882178+05:00",
   "checks": [
     {
       "topic": "economy",
       "status": "updated",
-      "headlines": 4
+      "headlines": 6
     },
     {
-      "topic": "trade",
+      "topic": "business",
       "status": "updated",
       "headlines": 8
     },
     {
-      "topic": "business",
+      "topic": "trade",
       "status": "updated",
       "headlines": 8
     }
@@ -34,6 +34,14 @@
           "topic": "trade"
         },
         {
+          "id": "43ef755d37c61422",
+          "title": "Pakistan’s cobra economy: when the cure becomes the disease",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUXZscHRaV1Q3aWRtTG5HdGJEYXJjMU9qTmk2WnBIbTJVQnRBWEtaN2c0clZoSnNWZHpqVVFpT0RQSTdVaGQzYkZ6bmFDaXRvSFI2aktLaDhXWFFSQWMtSFVwS3Z0ejhIOVZySjhMaVNhcUdfczlLbWRxVVRNUXN3eThsdFBJNXVKRjBxcFJNQmtuUktRZTNITGgwQmVPd9IBVkFVX3lxTE8wNU1aU3BGcDZ3MnJZV2RjckFxRzIycTlFVGVMYzMxZ1czZUNzOGxFRGxtWDVKUHBrMGhIZGZTUk9IWlBlMmhxY1ZidUJjN21ISV94NW5n?oc=5",
+          "publisher": "Business Recorder",
+          "published_at": "2026-11-11T20:43:25+05:00",
+          "topic": "trade"
+        },
+        {
           "id": "f1e7296f75561a14",
           "title": "Modest rise in exports to US, imports surge",
           "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5HVjZzRVRoSk1FQk56bWQ2X3lvUEloa2pESkNuQ19sZlFiUnV4dHRFR1lRNGtKSzZ6clg0M01GMU1HTVgtZ2xpeg?oc=5",
@@ -42,35 +50,11 @@
           "topic": "trade"
         },
         {
-          "id": "b85e529e8f3d5710",
-          "title": "Import-centric auto policy under fire",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPaXN0RU1BVjB2LW5MZ3F6eGNLZTkyRUdGc0k3MzF6MjVqMkxKNmlfMlp4OWNGbjVRVXVDSUVWanROeDdCS1c0eXZmOTlDeVZhZ3VOM0lfNnpYYkpfeG03Mk5yNE9LVlQySWNHWTlVblFpZVRPbld6UENUNW41WTU3S3VueDg4WHc?oc=5",
+          "id": "41702982f9967c92",
+          "title": "Modest rise in exports to US, imports surge",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMEFYUWNqa0JiRjUxMDdhalhBeEUyRVotYzlMemRPT0ZqTnNmdU5UQ2o5VFRYWkk1dVVaNi1heHdhRU14TFpETWlKLU5jUDUxa1VlSFhmNjY4eHFLX3hHdUMyc1YzVk5QQUhWUkthSmdrQ0syaGpVRzJZZkZfM0wzWlFtaGhOeU1CMERMUjBB?oc=5",
           "publisher": "Investify",
-          "published_at": "2026-11-11T07:29:13+05:00",
-          "topic": "trade"
-        },
-        {
-          "id": "0eb769e8868e8c1c",
-          "title": "Pakistan’s Tariff Regime: Comparative Perspective",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPVk1WWU1lOUZ0T19MeWhKWWNkbU5ad0Z3Q1h2OS0yZzc4QktPcE1NcS15OFdSeUNWUTBPNmlhN3RlOTFWa1kwcjE1b3k2WGxwTXRNQ2QySmVTRHJ0eVctMHJCeENUc0VySFZ4Z3JIQjFVeWh6YzhjM1NwZGFoQTQ1SVQ1QzJIS19LSW8ySXVObm9pZkE?oc=5",
-          "publisher": "Oxford Economics",
-          "published_at": "2026-11-11T09:02:13+05:00",
-          "topic": "trade"
-        },
-        {
-          "id": "970b5b017d1ef0a3",
-          "title": "Beyond the order: the logistics behind Pakistan’s export ambitions",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE80NlltUVRZY1Q3RW1OVTh5am16NXFybEJCV1REYlk1dW9mSXFaTl9XQ0Foa2ZteEQ3RWt0WDFfQnBUTnBMSy1nb2lxSmNUQXlha0N4NnZn0gFWQVVfeXFMTzQ2WW1RVFljVDdFbU5VOHlqbXo1cXJsQkJXVERiWTV1b2ZJcVpOX1dDQWhrZm14RDdFa3RYMV9CcFROcExLLWdvaXFKY1RBeWFrQ3g2dmc?oc=5",
-          "publisher": "Business Recorder",
-          "published_at": "2026-11-10T13:38:19+05:00",
-          "topic": "trade"
-        },
-        {
-          "id": "c6d1c3f656fa7570",
-          "title": "India mapping regulatory, market-access hurdles to its exports to other South Asian countries including Bangladesh",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZmRBbndlUUVvRTR2cmZoLWZBaDNjcmo5SzZQaDE3Z01acE02bVEyUExmenBhMWpiVGFSZ2RjTFRJY1VObHgtRlp5eFc5LXE5cElPY2xFcmNpSV9Vbl9EQ3E4eXRnQWcwYVBQOTFxUTNnMG5oU19QSWFOME1zb01idnpraWVvTW9DUFZ5RTdjQy0weEhYNHpZdmR6MEczZzRrUnZZMi1KQWJkcnFpaVlrTkt5Q01OS2xf?oc=5",
-          "publisher": "The Business Standard",
-          "published_at": "2026-11-11T10:15:00+05:00",
+          "published_at": "2026-11-10T07:03:58+05:00",
           "topic": "trade"
         },
         {
@@ -88,9 +72,25 @@
           "publisher": "Eurasia Review",
           "published_at": "2026-11-11T03:40:04+05:00",
           "topic": "trade"
+        },
+        {
+          "id": "fd8b16539c9d0afe",
+          "title": "China-EU economic engagement helps stabilise global trade expectations-INP",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZDV4N1EyVUtsQUpWUVBUMEpJa2g1dzVwRGNVX2o3Q0FZNDVDbjBrNW43ellfM2YtV05Uejl5ekdwQXczVHlpSUlvaW10LWUtODVsSUVDOUJEMmxSOWJOZVdfalVqb09YdzZtblo1elU3LW1GaTQyT3VXa1hYZVhwdG83ckFfSU9Dc1k0bGRLYjNRMXI3Mk83bWxZN0xkWDYwMVRjd0Q2RnFhNHRPYU5odlVNUEQ0c2U4VGFIenl3?oc=5",
+          "publisher": "Independent News Pakistan",
+          "published_at": "2026-11-10T19:50:40+05:00",
+          "topic": "trade"
+        },
+        {
+          "id": "cfb633353745bdb3",
+          "title": "India drawing up list of export snags in South Asia",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOUmRFSHdVeFdlcWFXejl6V1gyTTBYUFN6bHpGa05xSVA4OWNtdDQ4S01hbUNFTEpMWkFicTRGOVNXekZ0WnBRbVhuVUc3ZzFKZlNiWFVXbHk5NnRyZlRtMjhyM01FcWpvWFhiN3I0WlNOeEwtY1FhOVVLRXJvazFvbWFhLXl1YTNoNlV0RGl5aDlvMnpSSDF1em9mSURzZ3lJOWs1Q3duM2hDRjJDNGotcGtjQzhOb3ZJM0xpSlVjckNaTy04Nzh0ZW5HcTbSAdIBQVVfeXFMT1ZQTXhTSlo4bnNtZ2pKQ3pGTXJXeFNSZG02MVVHcWw5ZU1SdV9YOVlwRzhqdEc5aklHMmdMVlpIZkVHZ1llYU41NWxGa3BHQ2RvaEhlZUdnU25BMVRaQVlEMFJDbUQwTzVZN0UwdDJLSm91ZjJualRGU2Fla2trVHdPcENFSmppQkV4SWpuQjBsdmt6UXdnd2xYZEFpS29YcDRENTVBS3VjbFNaVEVFT1lJR2pHdzVYNHFieTJJZEJET1NkZ21Oa2M5RktiQWpINEFn?oc=5",
+          "publisher": "The Economic Times",
+          "published_at": "2026-11-11T05:00:00+05:00",
+          "topic": "trade"
         }
       ],
-      "fetched_at": "2026-11-11T16:19:28.374966+05:00"
+      "fetched_at": "2026-11-11T21:14:05.882178+05:00"
     },
     {
       "id": "economy-2026-11-11",
@@ -100,19 +100,27 @@
       "context": "Watch how inflation, currency movements and borrowing costs may affect household budgets and import costs. A headline alone does not establish that a retail price has changed.",
       "headlines": [
         {
+          "id": "3443b44a4b849670",
+          "title": "Rupee records gain against US dollar",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE51NDIwNFByOHVleWFFYVphM25MOXNWLWxpYU4wNXZNQlBJbTRVQTdEV1JvR0FlT2x1SUVtSk9ZMWk3VnFQaExTSTBsVm5zcTFl0gFWQVVfeXFMUFFOT2VlUTd1bDJZa0EzT214SXNEUldHNUhMZEQxYjBqSHNPbUptRXN2MmlELXJvY0VfZlNwUkFmTEdtZnhXM3FWWWlHTW1OSkt6T1dwSFE?oc=5",
+          "publisher": "Business Recorder",
+          "published_at": "2026-11-10T16:11:52+05:00",
+          "topic": "economy"
+        },
+        {
+          "id": "519d6af127f9a9e2",
+          "title": "India's battered rupee finds an unlikely rescue party in cheaper oil and Wall Street's AI rout",
+          "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxOZ0JvUWMwSFYydzZNY0xrRWdOY1Z6SlY4Mms4LTY0T21JMzJXclpzczVMbm9aRkgwTlJyOC1WUlJfQ0dHektyeFp5REgwSy1MYlNCOS1UNklTc250QUdNajZxVEc3dVMxczQzZFM3Q1k4ZVRfclFIRkJDRzFLRFltTlNUS2V1Qi1EUHZEU1VHQjV4TW9tdk5YRGV1OXZYNmNpeWFIZnNZZXNaZERPd3FweWVzaE1UM0pNVTBCN1NFbFR3eld4T3BKeTl1Z3otbGxKU2xJM3d1aGZJT1pqUkNmRFdidDMyM01DbFNOVU5mNGZOb1JwbkJ2NlJEeUQtRV81czNmamlMV1M2cnVDdXg4VEY1UV9hNF9Oa0F1Y2Q1QlZTWlV4cUJmMNIBrgJBVV95cUxQeTRNT3JuVUQxSWpzR3Rzd1JxN2NrOWtCRTU0MDctbDF5cWlLTEZhNUpMRkEzLUJJcDl0LUp5bHZhYk1XdnVnb0hVenZncEl2aTJ6X0hrWmNpakxzZHdQWEpiSWoxZ3FHRkRPYjlnbmpiLXZtNTNtMDM2ZVp4MWJxSDVKc3RvOENZNm8tYUtOYURwR1NSMDFsenRSY3NlZkFUZ0dOdWpNaTZQclhpWGlBRVk4NjB1SElZWGsxenhSRGJMWEdUOFFJYUJNdnBNUW1uaEF3cmhTT1JMQzBLZDM5RGVZNnpLLXZqb0VDdzRNeWNtTDh5RHo5dkZmWHMwZ3gxT3RHODA3d0RUbnhGcVRxazFWQV9pV3lOLThScXNrOWRlMXdNdTVXQVp4ZlpSQQ?oc=5",
+          "publisher": "The Economic Times",
+          "published_at": "2026-11-11T07:35:44+05:00",
+          "topic": "economy"
+        },
+        {
           "id": "813fdb433a27c56f",
           "title": "Moody’s raises India FY27 growth forecast to 7% as economy weathers Iran war energy shock",
           "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQbWRnTV9MZUJ6WVZ0ckJlM2ppNjZ3d0FTY1YwQmU0cGd2LXNQQTFjaV9Qa0I1M2Vwa3JlNWxoSkdCVS1QLVBfb2NyRFVtci1UemwwcGVEM1VMN1J6QTg5UkZzU0xQci1YWVF2WU1KSDRKaDJsbFVPdmtEUW8tclRkMUFvTS1HOV9hd1JsVFZIQWdxMUJkNGtyd0FVc1oxY0FfRUh6cWxnT1NxLWowWkQ1R3ZRRFM3MTVhXzJuZjlqNVUwbVA4T0l5Z1hacjE5QW43eGk4eEpNT2FLUm1oaDhscXdtY1pRT1VmYmFtWnFsa09JdkpKNXR2NdIB_gFBVV95cUxQeG9xYVlUU3dTNnU2WExfemNvXzFmbm1NbWtWTkZ4Ql9oY2pxMWFiWlpaNHRUTkF6UTdZajZiTHhNR2FsXzhRS1daZnhiZVU0MVlOenpaaEFtTGR0b1VadVl5R1JMQm16Z1pHaXJUQUNkSDBaUzNzcG0yZnJLOEpCMmFXN3R1M0s1ckY1MXdCanpCREZTdVNIUVhLNnk1Y21tb0NxeDZXQ2NIa0tkSTh2WFJnRDl1RnNWWlpoQWlzdVlLTWFuMGpiRUs4N2JfS1VUS0NTVkE1Z1BnTEFaYlJvQXhOWE1mS1NNdXFPNkl1TlBSZ2d4Z0xZcEw4WjRqQQ?oc=5",
           "publisher": "The Economic Times",
           "published_at": "2026-11-11T12:42:08+05:00",
-          "topic": "economy"
-        },
-        {
-          "id": "5473ee1115efa38d",
-          "title": "Easing global headwinds, lower crude oil prices may further lift rupee in coming months: Economists",
-          "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQZ0F5SDd2QWhLejJIc05VTHF3U0JHeVdnSTlMYy1SOFktTGJ5c0JVTjFaVnVWaGd2OTI1NG1kTHpwSV85aHdOd3B0QTR3UXJEOHpHWk9adlhnS1AwUi1pelhxN2toTVRXemlIZjVGOVozcXpPd3oxMnludEJDTVNyRm9vUWd2YVJoQklmeE1TM2tWUVdYb0o2QTAwY2tod3NNN1VISS1vVDE2UjNIMkM5QnUxX21tT2l4bE9QV1V4NG5pU0x5ZG5qazg4WFBIOXhHcVpEby14MVJpZ191dDNncDdPcjgxaGNnbEc5NFFZV0tkOEg3ZVBKNkJpemY5UDRndVJjb1hn0gGLAkFVX3lxTE05QmVaVVJ4d25RWVd1UFc4ZGdzY0JjMUNWM0JLMEtpTUtEbkZZUnZJb215b0lMLUVxdTNSRkpHX3ZEc1NkZDFBYm9mem9yN01aOVpmd2lFR2RFenpxemtFSjJjSGc3WWNiOVhqaU9lSS1CWWJOREUtQy1aTWNkTHpmbDMwV1NKX2lXUlgwd3pLQk9vekN4OTVYOTZyMjFZa2JBUm84R2RzZ195Tnhma1UySHVTd0ljMHd6blAtMU9PSE83NFhidlp3UU9XT2VSQ1d2cWIzX1FMSmtQOTQ2QlgwUWRyRzV6QjdYLVFsdjQtMklXcTRSTjdiaTB5UEluMDI3Qm5hdXlzMTJtZw?oc=5",
-          "publisher": "The Economic Times",
-          "published_at": "2026-11-10T20:04:42+05:00",
           "topic": "economy"
         },
         {
@@ -124,6 +132,14 @@
           "topic": "economy"
         },
         {
+          "id": "5473ee1115efa38d",
+          "title": "Easing global headwinds, lower crude oil prices may further lift rupee in coming months: Economists",
+          "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQZ0F5SDd2QWhLejJIc05VTHF3U0JHeVdnSTlMYy1SOFktTGJ5c0JVTjFaVnVWaGd2OTI1NG1kTHpwSV85aHdOd3B0QTR3UXJEOHpHWk9adlhnS1AwUi1pelhxN2toTVRXemlIZjVGOVozcXpPd3oxMnludEJDTVNyRm9vUWd2YVJoQklmeE1TM2tWUVdYb0o2QTAwY2tod3NNN1VISS1vVDE2UjNIMkM5QnUxX21tT2l4bE9QV1V4NG5pU0x5ZG5qazg4WFBIOXhHcVpEby14MVJpZ191dDNncDdPcjgxaGNnbEc5NFFZV0tkOEg3ZVBKNkJpemY5UDRndVJjb1hn0gGLAkFVX3lxTE05QmVaVVJ4d25RWVd1UFc4ZGdzY0JjMUNWM0JLMEtpTUtEbkZZUnZJb215b0lMLUVxdTNSRkpHX3ZEc1NkZDFBYm9mem9yN01aOVpmd2lFR2RFenpxemtFSjJjSGc3WWNiOVhqaU9lSS1CWWJOREUtQy1aTWNkTHpmbDMwV1NKX2lXUlgwd3pLQk9vekN4OTVYOTZyMjFZa2JBUm84R2RzZ195Tnhma1UySHVTd0ljMHd6blAtMU9PSE83NFhidlp3UU9XT2VSQ1d2cWIzX1FMSmtQOTQ2QlgwUWRyRzV6QjdYLVFsdjQtMklXcTRSTjdiaTB5UEluMDI3Qm5hdXlzMTJtZw?oc=5",
+          "publisher": "The Economic Times",
+          "published_at": "2026-11-10T20:04:42+05:00",
+          "topic": "economy"
+        },
+        {
           "id": "7d3920aaf2c1c02a",
           "title": "India in 'Sweet Spot' Amidst Oil Volatility, Strong Rupee Outlook: Kotak Neo Expert",
           "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRW1iOW1pUVFrbEVyWF9TU2ZlNHRXSzhZcjVBX050V1dpZ3Z1Yi14YXlObzNlMW55TEZ3VWtiNDZ6TGFJSVhDdzdWOVJTd2ZOTmJZRHF3ME9NUGQ1eGpaNjBWRlBZcHRGbUFHYXhiQ1FyTzk4b3VKRVZxQ2ctRFZRdm9XZThQekh4MW9ZX3FfRWNUdHY0T3h6XzEyMUtrMTRLM1BVb3BnTXN2ZklXb1ctSEJQODZVRXFuSnU5UHlUQk9FNDdW0gHKAUFVX3lxTE1KakgtaXY4SHpaNnJNVElqTVJXbGYtaFNOMTdCNnA1NEw2NnoyNklCMUkxRUNaRW9BT0JXOUJZcG1OVnVtNHA3THpPUy05Ri1TOXE0VnJrRUpHVWJmM0N3dVA3eW9rek05VGdaU2VmYS1IV3oyMER3eDZkVW41bUhGcmpvdlI1Z2JHZkRrejFIUTljTUlVUktQai1pNURrenRYc29PTVhiLW1WcWkwOEE0WTBGcUJySFVPYUg3UlEzYWtMNzZZbTZlSmc?oc=5",
@@ -132,7 +148,7 @@
           "topic": "economy"
         }
       ],
-      "fetched_at": "2026-11-11T16:19:28.374966+05:00"
+      "fetched_at": "2026-11-11T21:14:05.882178+05:00"
     },
     {
       "id": "business-2026-11-11",
@@ -158,35 +174,11 @@
           "topic": "business"
         },
         {
-          "id": "5c1c81b057ec0732",
-          "title": "Pakistan, Saudi Arabia investors launch fund to boost trade, investment",
-          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5kbGFaNVcwWDAwQW9kNjh5cS11ZWptYU9DYzFKbWdqbE5oa3JsX2JmbjlkZldQOXVnbFZ5R3hoVmQzM3lpRG41QQ?oc=5",
-          "publisher": "Dawn",
-          "published_at": "2026-11-09T17:40:11+05:00",
-          "topic": "business"
-        },
-        {
-          "id": "7566dd813fd264cd",
-          "title": "Saudi-Pakistani investment ties get private equity boost",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOV1ZBbEZRLUNQV3FkOHU5WG9qSHN2U1Y5TWZ5OERXYWVKRnhnY2dDdzdwWVZmckVKYk9STWd0OVF0QjFiMndXZ3NkaXE4N0g3dF9ZSlVnMHR0QThBMVR6d2JxU19rNzEzekw2OV9iSjRsVG8za2xsMGpaWDBoWjhxbE9QWlpiZVh0SzF6X1VQcENtQWtqbEVTSNIBoAFBVV95cUxQY3pDVklhVHpCMkFBb2tWMjlfQ25makhPM2J5ZnRvdUZjc3NMa2dxcGZVRWNRbmthUk54VUlKeVNFMmtOdWxVSGRsR1p3MkFVdDl0UFZ0Ym5vUzhrc2R5UGR6UXRSNmxudnNUNUUzUnRHY0RqeEtvTDVrSjA2T1IzYjh3NEJjczdQZUlhSGM1ZmltM281REZ2VTA1R25TQzV4?oc=5",
-          "publisher": "The Express Tribune",
-          "published_at": "2026-11-10T05:37:47+05:00",
-          "topic": "business"
-        },
-        {
-          "id": "678d1424fb31104d",
-          "title": "Pakistani, Saudi investors launch private equity fund",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAyVmJoSTFmeHFCcy12YVlHTHREYWk0WVY0NU80aW9jdXdUZXNaV3NrZXpYNjRBSkpIWmlXQzVleUowQWVIbFRRVHQyT05xYS0z0gFWQVVfeXFMUFhSVDVCNE5Ob1d5YWRaZERfbDBWaHJVR2tZWHdoMVdBV1VCVkZUeEVxUGN3Wmt4WTlxdWpJbnhnRVpsaTJpbWI2VVduQ1NKRlhNSHc5N1E?oc=5",
-          "publisher": "Business Recorder",
-          "published_at": "2026-11-10T04:44:56+05:00",
-          "topic": "business"
-        },
-        {
-          "id": "97dd664b9de71733",
-          "title": "Pakistan, Saudi Arabia investors plan joint fund",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOVEZMN0pkMExpMXg3N1JxYjRiYUhmRm1XaFdZOEJtNE9BY3JIVkl3TmVvblBnX1loN3JVUHhSM0pLem9wOEVuQXRiaFZxQWRUX0NqdTN0X1NuNWxoWGZLNTZJZVVHWEpua2tuQmg2cjdwZi1VdmFrVlpLaXFsZ1lodlM2MnkyRU1iZmFjNA?oc=5",
-          "publisher": "The News Pakistan",
-          "published_at": "2026-11-10T00:00:00+05:00",
+          "id": "437a61dcbe5dd4ff",
+          "title": "Shanghai investment agreements set stage for deeper Pakistan-China industrial cooperation",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQTS14bm1tc0FyRlFOY0JfVlVzUEZCWFAxZFFfZ2lpZ1BGY3dab3RiZHBfZ2pkOVFTMVJHS0N0WmpDdHNjSU5HMEJ5OWxOR2ZqM3ZmME9EUHVvalRwYnNCN3hYamJHd3RqNy1uNzdaVjVKeDZ0elpZaTJLTWVfeFhDbm5JaDN4QzNrNkd6QWctd0prcHJfdDBwa0prUmpYOTNFUFdPdEJzR1NBeU1zVnh1a3JYOVMta2xyU29XMUlHUFQ5M2U1V0lxaEFNV285MzY4Q3pqVHVJWQ?oc=5",
+          "publisher": "Independent News Pakistan",
+          "published_at": "2026-11-11T16:48:33+05:00",
           "topic": "business"
         },
         {
@@ -198,15 +190,39 @@
           "topic": "business"
         },
         {
-          "id": "42a4560601dd6b3b",
-          "title": "KP Invites Chinese Investors to Explore Mineral Sector",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPM1pTYi0tMUxzb0dBUzgwOTVDTk40bnNUM01OUGFNTlBFTndmMGdoSHVNNFlxSUY3QURnc3BqU0pYTnh0XzhhQzB5YWdzaXI1aHJKNG8yWE5yb0VCaGNpaXgwTWdiOGJ5Ykh5WU1OUmw0U3BRX1E3aG1KWnA5UkkxWTdnUmdvOUk?oc=5",
-          "publisher": "The Daily CPEC",
-          "published_at": "2026-11-10T11:56:23+05:00",
+          "id": "7566dd813fd264cd",
+          "title": "Saudi-Pakistani investment ties get private equity boost",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOV1ZBbEZRLUNQV3FkOHU5WG9qSHN2U1Y5TWZ5OERXYWVKRnhnY2dDdzdwWVZmckVKYk9STWd0OVF0QjFiMndXZ3NkaXE4N0g3dF9ZSlVnMHR0QThBMVR6d2JxU19rNzEzekw2OV9iSjRsVG8za2xsMGpaWDBoWjhxbE9QWlpiZVh0SzF6X1VQcENtQWtqbEVTSNIBoAFBVV95cUxQY3pDVklhVHpCMkFBb2tWMjlfQ25makhPM2J5ZnRvdUZjc3NMa2dxcGZVRWNRbmthUk54VUlKeVNFMmtOdWxVSGRsR1p3MkFVdDl0UFZ0Ym5vUzhrc2R5UGR6UXRSNmxudnNUNUUzUnRHY0RqeEtvTDVrSjA2T1IzYjh3NEJjczdQZUlhSGM1ZmltM281REZ2VTA1R25TQzV4?oc=5",
+          "publisher": "The Express Tribune",
+          "published_at": "2026-11-10T05:37:47+05:00",
+          "topic": "business"
+        },
+        {
+          "id": "d4600bdde8278ec0",
+          "title": "Saudi and Pakistani Investors Sign MoU to Launch Saudi–Pak Private Equity Fund",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONndkbHJVN2hSNjZWT3pzcVN2NlR0RjI3SEtORUlsS0J5UFRzWFpJRnc1dEt6Sk1kTUpIN0NOTVhJM3RSdXF5MzcxcG5PVENXSm51N0Z1b21FcmZncXdrWnRPcGJaRnVBMWh5akVpb3pOdTF3TlBnY3VpZS1xRG5LWlpXSGl2X0ZldkJDYXRhbnppUkJXWjFhRDhHbVd2YzY3NHVpbWJNWHVuY01sNEhHSzVxeHJsMmM?oc=5",
+          "publisher": "Biz Today",
+          "published_at": "2026-11-09T21:23:38+05:00",
+          "topic": "business"
+        },
+        {
+          "id": "fdc068bd5bfc7180",
+          "title": "'4G will remain primary mode of internet access for most Pakistanis': Zong's Director Strategy",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQYlVCVVE2VVEtT3lsLWR1MWtNLVpFRFhBX1NXVVJtX3VSdUlqcnI4Zk1FSEFIMWZkUXBWY3gzSl90T1E5dWh5bXJYZFBrb3lEeDRqWFlJSU40aU5wN2NEZ3N6UEJGS01zbE51bWZhLU9JZDFqWFg2aXV0T0tUbTdrZzRRWTJfSDVOYVhFNE5UYzUybFpuSlFMVEtVOWpnUHZLN0N3Uk1xQmZReTVrS0dBd2VNWVI0UVZoUTFWOHhBMUVXWVlyUEw5VEd30gFWQVVfeXFMT3gwSjJoNFRsa0hUUDFSZlJRWklUaXhEVW1iQUl6amVrbjVjMjN2VzRDT0tHcHdHMnd1bEtFSS1YbkVRUlN2MU5hbFp0c3B2WE9yazkzMUE?oc=5",
+          "publisher": "Business Recorder",
+          "published_at": "2026-11-10T04:44:56+05:00",
+          "topic": "business"
+        },
+        {
+          "id": "a2623aee29bf3157",
+          "title": "Saudi, Pakistani investors launch fund worth hundreds of millions of dollars",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVjZ1N3gxWW9WaG55bFdQd0ZWbVlnTzQwSFpOUElEa0xVdGJ3a2R2WjNOMk9UdjJ2T0g3X1h2c243eVZBNWdzTGhEWEIzS2NZaDdvSUZfRVZwNmZMVUpzMV9McjQxVFpndXVyd25yNmVvemhoTkZ6OHdWOFZTRVlOOHZJNWMwS1M3aGRXc2tDWmNRTHYxY3lMR0JaOTk3NVNpMGp4T3lFVnpzN2tqbXdLWTM0c2xmVXpBUWVQYU1VZk1FcjDSAdYBQVVfeXFMTXpENDR4Mi15RmdTRlc0U2hxTWlvWmZCS2pjelkyVk1sVW1qYVdnRVdjRFdMZV9nQy1GSjNpbFh1MTVlNFQxOHRGYWhrLVh5ek9RZlRvaGt5NEVtR1ltcnFFUkFLUGx2ZnNZbGtyVF9TY3VJN25tQlpjVkx3ZzJjcFFLa2d6clVVTHlIWnRLUFJOV1N0MkNwT0dhZ2hjSUZpS3FySmZsR1NlRUVpbGN0a3daOHI3UkdxVjJOUWJwLWREVmEwWmgwdUZGUGY5MnhTaTcyQkFIQQ?oc=5",
+          "publisher": "Gulf News",
+          "published_at": "2026-11-10T15:39:30+05:00",
           "topic": "business"
         }
       ],
-      "fetched_at": "2026-11-11T16:19:28.374966+05:00"
+      "fetched_at": "2026-11-11T21:14:05.882178+05:00"
     },
     {
       "id": "trade-2026-11-10",
