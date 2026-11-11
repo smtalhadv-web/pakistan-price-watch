@@ -2,31 +2,31 @@
   "fetches": [
     [
       "karachi",
-      114579
+      "HTTP Error 404: Not Found"
     ],
     [
       "forex",
-      111791
+      111794
     ],
     [
       "gold",
-      111072
+      111320
     ],
     [
       "silver",
-      104185
+      104457
     ],
     [
       "pso-history",
-      230556
+      230551
     ],
     [
       "samsung",
-      611455
+      611171
     ],
     [
       "xiaomi",
-      515483
+      516677
     ],
     [
       "vivo",
@@ -34,7 +34,7 @@
     ],
     [
       "oppo",
-      471478
+      471473
     ],
     [
       "realme",
@@ -46,18 +46,18 @@
     ],
     [
       "tecno",
-      461820
+      461939
     ],
     [
       "appliances",
-      792539
+      788687
     ],
     [
       "pbs",
       344039
     ]
   ],
-  "checked_at": "2026-11-11T16:13:27.589157+00:00",
+  "checked_at": "2026-11-11T22:06:12.961447+00:00",
   "sources": [
     {
       "source": "PSO dated fuel archive",
@@ -81,18 +81,18 @@
       "source": "PriceOye published listings",
       "status": "parsed",
       "observed_records": 134,
-      "new_records": 0
+      "new_records": 2
     },
     {
       "source": "PBS weekly city prices",
-      "status": "parsed",
-      "observed_records": 864,
+      "status": "no freshly verified quotes",
+      "observed_records": 0,
       "new_records": 0
     },
     {
       "source": "PBS construction and labour",
-      "status": "parsed",
-      "observed_records": 397,
+      "status": "no freshly verified quotes",
+      "observed_records": 0,
       "new_records": 0
     },
     {
@@ -116,7 +116,7 @@
       "new_records": 0
     }
   ],
-  "quotes": 5845,
+  "quotes": 5857,
   "manual_queue": [
     "Verify new image rates before transcribing; source sheets refresh automatically",
     "Unsupported sources retain their dated quotes"

@@ -1,6 +1,6 @@
 {
-  "checked_at": "2026-11-11T21:13:56.857888+05:00",
-  "quotes": 9016,
+  "checked_at": "2026-11-12T03:06:41.011219+05:00",
+  "quotes": 9095,
   "checks": [
     {
       "store": "Chase Value",
@@ -42,7 +42,7 @@
       "store": "Naheed",
       "url": "https://www.naheed.pk/groceries-pets/baking-cooking/flours-meals",
       "status": "parsed",
-      "offers": 32
+      "offers": 31
     },
     {
       "store": "Paklap",
