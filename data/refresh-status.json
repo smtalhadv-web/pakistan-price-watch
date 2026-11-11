@@ -1,6 +1,6 @@
 {
-  "started_at": "2026-11-11T04:19:28.187377+00:00",
-  "completed_at": "2026-11-11T04:20:08.412153+00:00",
+  "started_at": "2026-11-11T11:18:34.756448+00:00",
+  "completed_at": "2026-11-11T11:19:26.854698+00:00",
   "status": "partial",
   "timezone": "Asia/Karachi",
   "scheduled_times": [
@@ -11,49 +11,49 @@
     {
       "name": "collect.py",
       "status": "completed",
-      "elapsed_seconds": 4.2,
+      "elapsed_seconds": 4.5,
       "detail": ""
     },
     {
       "name": "download_sources.py",
       "status": "completed",
-      "elapsed_seconds": 2.3,
+      "elapsed_seconds": 3.3,
       "detail": ""
     },
     {
       "name": "ingest.py",
       "status": "completed",
-      "elapsed_seconds": 0.9,
+      "elapsed_seconds": 1.4,
       "detail": ""
     },
     {
       "name": "expand_fetch.py",
       "status": "completed",
-      "elapsed_seconds": 2.2,
+      "elapsed_seconds": 2.1,
       "detail": ""
     },
     {
       "name": "expand.py",
       "status": "completed",
-      "elapsed_seconds": 0.8,
+      "elapsed_seconds": 1.4,
       "detail": ""
     },
     {
       "name": "commerce.py",
       "status": "completed",
-      "elapsed_seconds": 23.5,
+      "elapsed_seconds": 31.2,
       "detail": ""
     },
     {
       "name": "partner_sources.py",
       "status": "completed",
-      "elapsed_seconds": 5.2,
+      "elapsed_seconds": 6.8,
       "detail": ""
     },
     {
       "name": "extra_sources.py",
       "status": "completed",
-      "elapsed_seconds": 1.0,
+      "elapsed_seconds": 1.2,
       "detail": ""
     }
   ],
@@ -252,7 +252,7 @@
       "url": "https://priceoye.pk/mobiles/oppo?page=4",
       "status": "verified",
       "detail": "parsed",
-      "quotes": 35
+      "quotes": 36
     },
     {
       "source": "https://priceoye.pk/mobiles/realme?page=1",
@@ -483,14 +483,14 @@
       "url": "https://priceoye.pk/trimmers-shavers?page=2",
       "status": "verified",
       "detail": "parsed",
-      "quotes": 34
+      "quotes": 36
     },
     {
       "source": "https://priceoye.pk/trimmers-shavers?page=3",
       "url": "https://priceoye.pk/trimmers-shavers?page=3",
       "status": "verified",
       "detail": "parsed",
-      "quotes": 35
+      "quotes": 36
     },
     {
       "source": "https://priceoye.pk/speakers?page=1",
@@ -567,7 +567,7 @@
       "url": "https://www.zahcomputers.pk/category/apple-accessories",
       "status": "verified",
       "detail": "parsed",
-      "quotes": 20
+      "quotes": 19
     },
     {
       "source": "https://www.zahcomputers.pk/category/cables",
@@ -791,7 +791,7 @@
       "url": "https://www.zahcomputers.pk/category/monitors-open-box",
       "status": "verified",
       "detail": "parsed",
-      "quotes": 1
+      "quotes": 2
     },
     {
       "source": "https://www.zahcomputers.pk/category/motherboard-chipset",
@@ -896,14 +896,14 @@
       "url": "https://chasevalue.pk/products.json?limit=100&page=1",
       "status": "verified",
       "detail": "parsed",
-      "quotes": 571
+      "quotes": 612
     },
     {
       "source": "Chase Value",
       "url": "https://chasevalue.pk/products.json?limit=100&page=2",
       "status": "verified",
       "detail": "parsed",
-      "quotes": 328
+      "quotes": 466
     },
     {
       "source": "Naheed",
@@ -931,7 +931,7 @@
       "url": "https://www.naheed.pk/groceries-pets/baking-cooking/rice",
       "status": "verified",
       "detail": "parsed",
-      "quotes": 20
+      "quotes": 22
     },
     {
       "source": "Naheed",
@@ -980,7 +980,7 @@
       "url": "https://www.olx.com.pk/items/q-laptop",
       "status": "verified",
       "detail": "parsed",
-      "quotes": 33
+      "quotes": 32
     },
     {
       "source": "OLX",
@@ -994,7 +994,7 @@
       "url": "https://alfatah.pk/products.json?limit=100",
       "status": "verified",
       "detail": "updated",
-      "quotes": 158
+      "quotes": 153
     },
     {
       "source": "Shophive",
@@ -1011,9 +1011,9 @@
       "quotes": 29
     }
   ],
-  "total_quotes": 16238,
-  "verified_quotes": 6899,
-  "changed_prices": 63,
-  "new_quotes": 77,
-  "retained_quotes": 9339
+  "total_quotes": 16563,
+  "verified_quotes": 7082,
+  "changed_prices": 59,
+  "new_quotes": 325,
+  "retained_quotes": 9481
 }

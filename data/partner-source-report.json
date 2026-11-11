@@ -1,18 +1,18 @@
 {
-  "checked_at": "2026-11-11T09:20:02.241253+05:00",
-  "quotes": 8465,
+  "checked_at": "2026-11-11T16:19:18.930130+05:00",
+  "quotes": 8765,
   "checks": [
     {
       "store": "Chase Value",
       "url": "https://chasevalue.pk/products.json?limit=100&page=1",
       "status": "parsed",
-      "offers": 571
+      "offers": 612
     },
     {
       "store": "Chase Value",
       "url": "https://chasevalue.pk/products.json?limit=100&page=2",
       "status": "parsed",
-      "offers": 328
+      "offers": 466
     },
     {
       "store": "Naheed",
@@ -36,7 +36,7 @@
       "store": "Naheed",
       "url": "https://www.naheed.pk/groceries-pets/baking-cooking/rice",
       "status": "parsed",
-      "offers": 20
+      "offers": 22
     },
     {
       "store": "Naheed",
@@ -78,7 +78,7 @@
       "store": "OLX",
       "url": "https://www.olx.com.pk/items/q-laptop",
       "status": "parsed",
-      "offers": 33
+      "offers": 32
     },
     {
       "store": "OLX",

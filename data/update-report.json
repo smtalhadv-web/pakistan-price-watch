@@ -10,11 +10,11 @@
     ],
     [
       "gold",
-      111333
+      111072
     ],
     [
       "silver",
-      104584
+      104171
     ],
     [
       "pso-history",
@@ -22,42 +22,42 @@
     ],
     [
       "samsung",
-      597961
+      611455
     ],
     [
       "xiaomi",
-      507062
+      515483
     ],
     [
       "vivo",
-      445967
+      452938
     ],
     [
       "oppo",
-      465114
+      471478
     ],
     [
       "realme",
-      474839
+      474844
     ],
     [
       "infinix",
-      449637
+      457780
     ],
     [
       "tecno",
-      459705
+      461820
     ],
     [
       "appliances",
-      810828
+      804766
     ],
     [
       "pbs",
       344039
     ]
   ],
-  "checked_at": "2026-11-11T04:19:35.510727+00:00",
+  "checked_at": "2026-11-11T11:18:43.827784+00:00",
   "sources": [
     {
       "source": "PSO dated fuel archive",
@@ -116,7 +116,7 @@
       "new_records": 0
     }
   ],
-  "quotes": 5829,
+  "quotes": 5833,
   "manual_queue": [
     "Verify new image rates before transcribing; source sheets refresh automatically",
     "Unsupported sources retain their dated quotes"

@@ -1,18 +1,18 @@
 {
-  "checked_at": "2026-11-11T09:20:09.499074+05:00",
+  "checked_at": "2026-11-11T16:19:28.374966+05:00",
   "checks": [
     {
       "topic": "economy",
       "status": "updated",
-      "headlines": 5
+      "headlines": 4
     },
     {
-      "topic": "business",
+      "topic": "trade",
       "status": "updated",
       "headlines": 8
     },
     {
-      "topic": "trade",
+      "topic": "business",
       "status": "updated",
       "headlines": 8
     }
@@ -26,11 +26,11 @@
       "context": "Trade and customs developments can affect landed costs and delivery times. Check the original notification, effective date and product classification before applying a reported change to an item.",
       "headlines": [
         {
-          "id": "b85e529e8f3d5710",
-          "title": "Import-centric auto policy under fire",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPaXN0RU1BVjB2LW5MZ3F6eGNLZTkyRUdGc0k3MzF6MjVqMkxKNmlfMlp4OWNGbjVRVXVDSUVWanROeDdCS1c0eXZmOTlDeVZhZ3VOM0lfNnpYYkpfeG03Mk5yNE9LVlQySWNHWTlVblFpZVRPbld6UENUNW41WTU3S3VueDg4WHc?oc=5",
-          "publisher": "Investify",
-          "published_at": "2026-11-11T07:29:13+05:00",
+          "id": "81cf31b2ab967bc5",
+          "title": "How are Pakistan’s imports from India growing again despite tensions?",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOaS1pY1F6YUNNLTF1QnlRRi1xLUxiN1V0c2JsTGVubEZSUF90ZUQyM0RDUFl1VUZjaTd2cUpILTFqb1o2eDl6YTVSRGJTaWlzZFJSQkVrMjFPOEh1bkUyWC1kRjUwdlJMaGx5T1FsdnZUd3lWSnpKTkFDYkxJNlY5T1NmeldSQTJwWTZ1bkpsNTlUNFJjVUcwdkgzTGUzdUdtel9lZGVKcXpqZmVuY0HSAbMBQVVfeXFMTUcyS21XbDhZRG8ydzFtX29JSjlCNjNpTEVKSnBQb2dCUVlDV0N0d3Q2aUxhaW5jM2ZqdzVzWUw2ZlVCREdYTTZJOXdSMHJHdFo0SVJZWlB5U01PRm1TcEJDcjk1dHRacjJXNGR0ZXk1RDg0R0RKal9tWlVJeTE1N3JhQzJQSURwUWhDMnNBazRTNnYxTHgwSGs3RVJtLWYwWXRiTW1Sbmg0VDZsVmttZzRqWVU?oc=5",
+          "publisher": "Al Jazeera",
+          "published_at": "2026-11-11T13:36:03+05:00",
           "topic": "trade"
         },
         {
@@ -42,11 +42,35 @@
           "topic": "trade"
         },
         {
+          "id": "b85e529e8f3d5710",
+          "title": "Import-centric auto policy under fire",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPaXN0RU1BVjB2LW5MZ3F6eGNLZTkyRUdGc0k3MzF6MjVqMkxKNmlfMlp4OWNGbjVRVXVDSUVWanROeDdCS1c0eXZmOTlDeVZhZ3VOM0lfNnpYYkpfeG03Mk5yNE9LVlQySWNHWTlVblFpZVRPbld6UENUNW41WTU3S3VueDg4WHc?oc=5",
+          "publisher": "Investify",
+          "published_at": "2026-11-11T07:29:13+05:00",
+          "topic": "trade"
+        },
+        {
+          "id": "0eb769e8868e8c1c",
+          "title": "Pakistan’s Tariff Regime: Comparative Perspective",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPVk1WWU1lOUZ0T19MeWhKWWNkbU5ad0Z3Q1h2OS0yZzc4QktPcE1NcS15OFdSeUNWUTBPNmlhN3RlOTFWa1kwcjE1b3k2WGxwTXRNQ2QySmVTRHJ0eVctMHJCeENUc0VySFZ4Z3JIQjFVeWh6YzhjM1NwZGFoQTQ1SVQ1QzJIS19LSW8ySXVObm9pZkE?oc=5",
+          "publisher": "Oxford Economics",
+          "published_at": "2026-11-11T09:02:13+05:00",
+          "topic": "trade"
+        },
+        {
           "id": "970b5b017d1ef0a3",
           "title": "Beyond the order: the logistics behind Pakistan’s export ambitions",
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE80NlltUVRZY1Q3RW1OVTh5am16NXFybEJCV1REYlk1dW9mSXFaTl9XQ0Foa2ZteEQ3RWt0WDFfQnBUTnBMSy1nb2lxSmNUQXlha0N4NnZn0gFWQVVfeXFMTzQ2WW1RVFljVDdFbU5VOHlqbXo1cXJsQkJXVERiWTV1b2ZJcVpOX1dDQWhrZm14RDdFa3RYMV9CcFROcExLLWdvaXFKY1RBeWFrQ3g2dmc?oc=5",
           "publisher": "Business Recorder",
           "published_at": "2026-11-10T13:38:19+05:00",
+          "topic": "trade"
+        },
+        {
+          "id": "c6d1c3f656fa7570",
+          "title": "India mapping regulatory, market-access hurdles to its exports to other South Asian countries including Bangladesh",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZmRBbndlUUVvRTR2cmZoLWZBaDNjcmo5SzZQaDE3Z01acE02bVEyUExmenBhMWpiVGFSZ2RjTFRJY1VObHgtRlp5eFc5LXE5cElPY2xFcmNpSV9Vbl9EQ3E4eXRnQWcwYVBQOTFxUTNnMG5oU19QSWFOME1zb01idnpraWVvTW9DUFZ5RTdjQy0weEhYNHpZdmR6MEczZzRrUnZZMi1KQWJkcnFpaVlrTkt5Q01OS2xf?oc=5",
+          "publisher": "The Business Standard",
+          "published_at": "2026-11-11T10:15:00+05:00",
           "topic": "trade"
         },
         {
@@ -64,33 +88,9 @@
           "publisher": "Eurasia Review",
           "published_at": "2026-11-11T03:40:04+05:00",
           "topic": "trade"
-        },
-        {
-          "id": "cfb633353745bdb3",
-          "title": "India drawing up list of export snags in South Asia",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOUmRFSHdVeFdlcWFXejl6V1gyTTBYUFN6bHpGa05xSVA4OWNtdDQ4S01hbUNFTEpMWkFicTRGOVNXekZ0WnBRbVhuVUc3ZzFKZlNiWFVXbHk5NnRyZlRtMjhyM01FcWpvWFhiN3I0WlNOeEwtY1FhOVVLRXJvazFvbWFhLXl1YTNoNlV0RGl5aDlvMnpSSDF1em9mSURzZ3lJOWs1Q3duM2hDRjJDNGotcGtjQzhOb3ZJM0xpSlVjckNaTy04Nzh0ZW5HcTbSAdIBQVVfeXFMT1ZQTXhTSlo4bnNtZ2pKQ3pGTXJXeFNSZG02MVVHcWw5ZU1SdV9YOVlwRzhqdEc5aklHMmdMVlpIZkVHZ1llYU41NWxGa3BHQ2RvaEhlZUdnU25BMVRaQVlEMFJDbUQwTzVZN0UwdDJLSm91ZjJualRGU2Fla2trVHdPcENFSmppQkV4SWpuQjBsdmt6UXdnd2xYZEFpS29YcDRENTVBS3VjbFNaVEVFT1lJR2pHdzVYNHFieTJJZEJET1NkZ21Oa2M5RktiQWpINEFn?oc=5",
-          "publisher": "The Economic Times",
-          "published_at": "2026-11-11T05:00:00+05:00",
-          "topic": "trade"
-        },
-        {
-          "id": "05f6f86c8600ca8f",
-          "title": "Import Alerts: Laser Products, Medical Instruments, Noodles, Snack Foods, Produce",
-          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOU0c4WE1Ib3FQdjBtZ25VdU5FZmE1cUQ4OWdMZzFGdTFuOEt2NGZTSmdVWnVXSVVZcVdCSDA4bVAxWWE1ZVRFVGU1cXNyLWl5N0tqVGNjVmU3cVUwWUlJUmhpajJSdzVXSWxzQncyQzBxbzJzekRvaWxtTWwtZTlhODJrWFdIb00zZk1TTi11Sm1maWhyMEFHdUN1RFFCTTlSUFJoOFVCWUo5dmpVU2J4N0w2aFlfdVhNbmE4bW5TNjlHTHlwN0VRV00yY3htYWt3SWdTUVQ4RVVoTVNOTHN2bUln?oc=5",
-          "publisher": "Sandler, Travis & Rosenberg, P.A.",
-          "published_at": "2026-11-11T01:11:41+05:00",
-          "topic": "trade"
-        },
-        {
-          "id": "349fbbd2f5ca804e",
-          "title": "Import surge widens trade deficit to $7.47b in Q1",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaE5xRUx1VXVDcDlRTUVxMXpFMi1sa2pNWDY1ZFhSdkhXSG1mNGE4dTBPcjlOeVJTMV9HNzdIRl9iNGcydWJKeTJPOS1CSnNQdFlPbEdtbUNHQkJnWV9uUlhkUWZrVVFJWkNZRDZZajllSm9sdS1VNjFrNGtSOG9yRE1jNjZfUmVP?oc=5",
-          "publisher": "The Business Standard",
-          "published_at": "2026-11-09T11:19:56+05:00",
-          "topic": "trade"
         }
       ],
-      "fetched_at": "2026-11-11T09:20:09.499074+05:00"
+      "fetched_at": "2026-11-11T16:19:28.374966+05:00"
     },
     {
       "id": "economy-2026-11-11",
@@ -100,11 +100,11 @@
       "context": "Watch how inflation, currency movements and borrowing costs may affect household budgets and import costs. A headline alone does not establish that a retail price has changed.",
       "headlines": [
         {
-          "id": "70b569e040bfd6c3",
-          "title": "Pakistan records $3.9bn in remittances for October 2026",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1fV2JuRkZXbHM0MlBtWEY1RzktbGI5R20wX3UzY1NOVXpra2syV28zaGJ5SVphcFdLNkh0U0tOLUkydDN6cEtWM0k2TTUxWFRo0gFWQVVfeXFMT2pvcnp0TE5nMFhibG9Na2xnT1JXRmpGbklJOVd0RTZaZHdHQWFIbkFVRU1vel9rdko5ZzhrOUlvTmYtcEdETGtLUTZ4STE3d2ZWZjJ6Z1E?oc=5",
-          "publisher": "Business Recorder",
-          "published_at": "2026-11-10T11:00:08+05:00",
+          "id": "813fdb433a27c56f",
+          "title": "Moody’s raises India FY27 growth forecast to 7% as economy weathers Iran war energy shock",
+          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQbWRnTV9MZUJ6WVZ0ckJlM2ppNjZ3d0FTY1YwQmU0cGd2LXNQQTFjaV9Qa0I1M2Vwa3JlNWxoSkdCVS1QLVBfb2NyRFVtci1UemwwcGVEM1VMN1J6QTg5UkZzU0xQci1YWVF2WU1KSDRKaDJsbFVPdmtEUW8tclRkMUFvTS1HOV9hd1JsVFZIQWdxMUJkNGtyd0FVc1oxY0FfRUh6cWxnT1NxLWowWkQ1R3ZRRFM3MTVhXzJuZjlqNVUwbVA4T0l5Z1hacjE5QW43eGk4eEpNT2FLUm1oaDhscXdtY1pRT1VmYmFtWnFsa09JdkpKNXR2NdIB_gFBVV95cUxQeG9xYVlUU3dTNnU2WExfemNvXzFmbm1NbWtWTkZ4Ql9oY2pxMWFiWlpaNHRUTkF6UTdZajZiTHhNR2FsXzhRS1daZnhiZVU0MVlOenpaaEFtTGR0b1VadVl5R1JMQm16Z1pHaXJUQUNkSDBaUzNzcG0yZnJLOEpCMmFXN3R1M0s1ckY1MXdCanpCREZTdVNIUVhLNnk1Y21tb0NxeDZXQ2NIa0tkSTh2WFJnRDl1RnNWWlpoQWlzdVlLTWFuMGpiRUs4N2JfS1VUS0NTVkE1Z1BnTEFaYlJvQXhOWE1mS1NNdXFPNkl1TlBSZ2d4Z0xZcEw4WjRqQQ?oc=5",
+          "publisher": "The Economic Times",
+          "published_at": "2026-11-11T12:42:08+05:00",
           "topic": "economy"
         },
         {
@@ -116,17 +116,9 @@
           "topic": "economy"
         },
         {
-          "id": "5f612ddc17223e28",
-          "title": "Rupee Strengthens as Foreign Investment Returns; Lower Oil Prices Improve India's Economic Outlook",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQbUQ5ZGJqNjZ5UEg1akYyZUo2R2ZPVnBKUm1jczFFZVVTXzFDOVFKOGE2alNlOFNQVnNNNDNmNHBTTk00NEdGa3BLS0t6Z09HR3U5elh6eHh0MFpiY0N4UFZNVmR6MFV0bnktOTFvV1I0SThpMzY5OXNIN1pxRU5LNlRtRF8yZDBJNVFXYlRTeERHVHA5R2tpbGVkeV9KZXlLc1E4QUNEenRZUXNFOU1JV1I1OG5BcDNNdEhEYmY0NTIzZzJpRVRr?oc=5",
-          "publisher": "boldnewsonline.com",
-          "published_at": "2026-11-09T13:17:57+05:00",
-          "topic": "economy"
-        },
-        {
-          "id": "6bb2cdbe81d40f1f",
+          "id": "8ade54275248c5b5",
           "title": "India in a sweet spot amid oil volatility and currency dynamics: Kotak Neos Anindya Banerjee",
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOVUsyLXBUekdBc182YnV4SEJPMDY4TkhCSm1UaWw3ZVRzamhoTW5CQXFUQzI3SmxWc2Y5d1I3X2VsOEtnMkZEMFdnUzdXcWZ1SDMyV3U3RTI2Z2FCTkpDY0hRczA5Y2tWM056YXg1SjRMMDBvSE5zeVhETGY3d0ZaNnJDNHhheWgzUWxaT3BKUE9aSkFtaU9Ybk41V2FSVDNjM3F2ZnluOFU3eWVtZnhDdmxuMkJxQlZjR05mVmlmbWtXWndmS3JGc2RkUmdZby16aU9DUNIB1AFBVV95cUxOVUsyLXBUekdBc182YnV4SEJPMDY4TkhCSm1UaWw3ZVRzamhoTW5CQXFUQzI3SmxWc2Y5d1I3X2VsOEtnMkZEMFdnUzdXcWZ1SDMyV3U3RTI2Z2FCTkpDY0hRczA5Y2tWM056YXg1SjRMMDBvSE5zeVhETGY3d0ZaNnJDNHhheWgzUWxaT3BKUE9aSkFtaU9Ybk41V2FSVDNjM3F2ZnluOFU3eWVtZnhDdmxuMkJxQlZjR05mVmlmbWtXWndmS3JGc2RkUmdZby16aU9DUA?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNWDNBNjVUSGk3NGE1X3FDYVBIdi1CV3NmZXVyQlRHV1lMRW5scWlVN1hNZVlIdi1kY182R0ZLWG9BcTI1TVczbmQ3TC1PbVk3OUNMc0pUSld5Y1pDXzJxWnBLb09PR3Z1RGl3MUc4dlA1bXRJQVByYVRYbnRGYkdBQzl3SzVGUlZiVkZYV2xXdkFaQ1BlcmlCUXR1akw5Q3BjNEZuZV9pQm1lZlo4QTFMdHZ2TXNXcU5QeUhqUlNJcWg4V0w4WGh0aENfVDI5M2dB0gHUAUFVX3lxTE5VSzItcFR6R0FzXzZidXhIQk8wNjhOSEJKbVRpbDdlVHNqaGhNbkJBcVRDMjdKbFZzZjl3UjdfZWw4S2cyRkQwV2dTN1dxZnVIMzJXdTdFMjZnYUJOSkNjSFFzMDlja1YzTnpheDVKNEwwMG9ITnN5WERMZjd3Rlo2ckM0eGF5aDNRbFpPcEpQT1pKQW1pT1huTjVXYVJUM2MzcXZmeW44VTd5ZW1meEN2bG4yQnFCVmNHTmZWaWZta1dad2ZLckZzZGRSZ1lvLXppT0NQ?oc=5",
           "publisher": "The Tribune",
           "published_at": "2026-11-10T14:13:06+05:00",
           "topic": "economy"
@@ -140,7 +132,7 @@
           "topic": "economy"
         }
       ],
-      "fetched_at": "2026-11-11T09:20:09.499074+05:00"
+      "fetched_at": "2026-11-11T16:19:28.374966+05:00"
     },
     {
       "id": "business-2026-11-11",
@@ -150,19 +142,27 @@
       "context": "Company and industry developments can affect supply, stock availability and competition. Compare dated supplier offers before making a purchase decision.",
       "headlines": [
         {
-          "id": "d41157cb6ce7abd5",
-          "title": "GHNI Company Announcements - Ghandhara Industries Ltd",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5USWdZVlkyWHB5MmxGei1BVFlUWTNHMmpLSVkxV3h6N2RDWFg4LUE2VWUwSFZpY1diZ0J0MlRKOXNqTTRSaDRlTjU4WlVNcVB4cU0xa3pyMDE5dTRRQlNjUw?oc=5",
+          "id": "f6a68007e265e17b",
+          "title": "Pakistan pitches IT, agriculture, minerals, energy to global investors",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQejBBX2RfN0xFaS1naHNCMW9aakdZYkVmUW9rWVh2LWs2bkVGR2xSQ0JvdUQ1TmlmRl80M1ZJbHhoeFNPLUVFcGIzMTVMQ2Y4QWhqM3ktUkdqckZPbEFWa1dMbjZteW1TM0JpT05veHNVYkRTMXl2NlZfWDN0dzEwXzZIUzhqaUhvSVltcHNOY0otbTBMSlpSLW9jZUJ3dHREaWR4TDVpd1V2Q3l6Ulpr?oc=5",
           "publisher": "Investify",
-          "published_at": "2026-11-10T09:55:54+05:00",
+          "published_at": "2026-11-11T15:24:06+05:00",
           "topic": "business"
         },
         {
-          "id": "c5e70d449a06e91a",
-          "title": "Saudi delegation eyes Karachi port investments as Pakistan expands maritime trade",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNS0phbS14MVUwRWpHcmszV1JDR2ItbmVXVF9rQTllbVNIYmVFeDgzRG1Ma2lPc0NXZVByREgxcXktU0J5ZEo1emNXdUhMck1JMmdTbjdtTWdWeDNpU3FxSVNTbHctMWQ3SHRXeXpxdE5KT1ZKampWUDdKUFJRcFR2NHMxY0oybXF2VTVJWnZmNnFjOGpNQUs3c0hoQWJLNlpaSWQxZ3JJOFFmZzZxa1RWUFB1NFVZeFIxSThva2NJQQ?oc=5",
+          "id": "a3636a5f0b11b7bf",
+          "title": "Saudi-Pakistan private equity fund aims to raise $500 million in first phase — investor",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQR1ZYWjBoVG5zVWgtaldVcFFvS1R6VGJSX3B3UzktdFgyclRsTElKOVh5WUhUR1NPYmdSS2luRC1wdkRabWZaUHZRR0VnNW5mcDdpUk9EVjdFd3hGbFNYajJrYTgxUi05QUJYQUFWYVZDdjF2bDl5dW5mZkNlcHJnTGtiOUxyaWFaNHlaNTdXa3NyVXVpMXpRb0RDdC1ON2UtUU9GRV9tYWM4VVY0WmdaVzV3YWNIWlNlMDUtRTg5TmdRX3c?oc=5",
           "publisher": "Arab News PK",
-          "published_at": "2026-11-10T09:23:38+05:00",
+          "published_at": "2026-11-11T08:40:03+05:00",
+          "topic": "business"
+        },
+        {
+          "id": "5c1c81b057ec0732",
+          "title": "Pakistan, Saudi Arabia investors launch fund to boost trade, investment",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5kbGFaNVcwWDAwQW9kNjh5cS11ZWptYU9DYzFKbWdqbE5oa3JsX2JmbjlkZldQOXVnbFZ5R3hoVmQzM3lpRG41QQ?oc=5",
+          "publisher": "Dawn",
+          "published_at": "2026-11-09T17:40:11+05:00",
           "topic": "business"
         },
         {
@@ -174,6 +174,14 @@
           "topic": "business"
         },
         {
+          "id": "678d1424fb31104d",
+          "title": "Pakistani, Saudi investors launch private equity fund",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAyVmJoSTFmeHFCcy12YVlHTHREYWk0WVY0NU80aW9jdXdUZXNaV3NrZXpYNjRBSkpIWmlXQzVleUowQWVIbFRRVHQyT05xYS0z0gFWQVVfeXFMUFhSVDVCNE5Ob1d5YWRaZERfbDBWaHJVR2tZWHdoMVdBV1VCVkZUeEVxUGN3Wmt4WTlxdWpJbnhnRVpsaTJpbWI2VVduQ1NKRlhNSHc5N1E?oc=5",
+          "publisher": "Business Recorder",
+          "published_at": "2026-11-10T04:44:56+05:00",
+          "topic": "business"
+        },
+        {
           "id": "97dd664b9de71733",
           "title": "Pakistan, Saudi Arabia investors plan joint fund",
           "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOVEZMN0pkMExpMXg3N1JxYjRiYUhmRm1XaFdZOEJtNE9BY3JIVkl3TmVvblBnX1loN3JVUHhSM0pLem9wOEVuQXRiaFZxQWRUX0NqdTN0X1NuNWxoWGZLNTZJZVVHWEpua2tuQmg2cjdwZi1VdmFrVlpLaXFsZ1lodlM2MnkyRU1iZmFjNA?oc=5",
@@ -182,27 +190,11 @@
           "topic": "business"
         },
         {
-          "id": "d4600bdde8278ec0",
-          "title": "Saudi and Pakistani Investors Sign MoU to Launch Saudi–Pak Private Equity Fund",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONndkbHJVN2hSNjZWT3pzcVN2NlR0RjI3SEtORUlsS0J5UFRzWFpJRnc1dEt6Sk1kTUpIN0NOTVhJM3RSdXF5MzcxcG5PVENXSm51N0Z1b21FcmZncXdrWnRPcGJaRnVBMWh5akVpb3pOdTF3TlBnY3VpZS1xRG5LWlpXSGl2X0ZldkJDYXRhbnppUkJXWjFhRDhHbVd2YzY3NHVpbWJNWHVuY01sNEhHSzVxeHJsMmM?oc=5",
-          "publisher": "Biz Today",
-          "published_at": "2026-11-09T21:23:38+05:00",
-          "topic": "business"
-        },
-        {
-          "id": "22a773f5001e759e",
-          "title": "Interview with Nabila Yazdani — Director Strategy & Company Spokesperson, Zong",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE94MEoyaDRUbGtIVFAxUmZSUVpJVGl4RFVtYkFJempla241YzIzdlc0Q09LR3B3RzJ3dWxLRUktWG5FUVJTdjFOYWxadHNwdlhPcms5MzFB0gFWQVVfeXFMT3gwSjJoNFRsa0hUUDFSZlJRWklUaXhEVW1iQUl6amVrbjVjMjN2VzRDT0tHcHdHMnd1bEtFSS1YbkVRUlN2MU5hbFp0c3B2WE9yazkzMUE?oc=5",
-          "publisher": "Business Recorder",
-          "published_at": "2026-11-10T04:44:56+05:00",
-          "topic": "business"
-        },
-        {
-          "id": "bcd038013a208695",
-          "title": "China's high-tech manufacturing push draws global business interest-INP",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbWh2TzhyVjVhQmJOT3BJb1UzdGtYSGhTaHBXWkFLMjVGTk5FQ0E2LWExY3ZDa3ZIdWxldklCRDZ2R2s3UG45M2I4YVJKOHlqM3MzYzB6SFIyTG5jNHNJVTd3ZEgzd0pZMXRod05DR0xZbU85ZU90cjVOdmp6a0hPQlJEMHBTS3ZDNjhkTi02TUw0RlBhc3g0MmlYcVpMemtMd1VFVDFsRE5tVzJXSUdBTC1qcHF3RjJT?oc=5",
-          "publisher": "Independent News Pakistan",
-          "published_at": "2026-11-10T16:19:08+05:00",
+          "id": "d9dc25765a3c4603",
+          "title": "AHCL Company Profile - Arif Habib Corporation Ltd",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5SOGFvNVNsaU1XcnBmV1QwN1htWTd1MnZ4bGpTckpnRjM3YVhmcDhCUDdCSUdrcGpJeV9RN2JhYXhOUDA1QjVfTWZZSnNvekZoQ2ViLXhsMzc?oc=5",
+          "publisher": "Investify",
+          "published_at": "2026-11-11T01:32:32+05:00",
           "topic": "business"
         },
         {
@@ -214,7 +206,7 @@
           "topic": "business"
         }
       ],
-      "fetched_at": "2026-11-11T09:20:09.499074+05:00"
+      "fetched_at": "2026-11-11T16:19:28.374966+05:00"
     },
     {
       "id": "trade-2026-11-10",
