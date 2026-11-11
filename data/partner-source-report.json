@@ -1,6 +1,6 @@
 {
-  "checked_at": "2026-11-11T02:23:14.633463+05:00",
-  "quotes": 8392,
+  "checked_at": "2026-11-11T09:20:02.241253+05:00",
+  "quotes": 8465,
   "checks": [
     {
       "store": "Chase Value",
@@ -36,7 +36,7 @@
       "store": "Naheed",
       "url": "https://www.naheed.pk/groceries-pets/baking-cooking/rice",
       "status": "parsed",
-      "offers": 21
+      "offers": 20
     },
     {
       "store": "Naheed",
@@ -60,7 +60,7 @@
       "store": "Metro",
       "url": "https://metro-online.pk/",
       "status": "parsed",
-      "offers": 225
+      "offers": 226
     },
     {
       "store": "Foodpanda / Kifayah",
