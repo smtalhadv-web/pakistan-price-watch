@@ -1,18 +1,18 @@
 {
-  "checked_at": "2026-11-12T16:39:02.790180+05:00",
+  "checked_at": "2026-11-12T21:16:11.040072+05:00",
   "checks": [
     {
       "topic": "economy",
+      "status": "updated",
+      "headlines": 7
+    },
+    {
+      "topic": "trade",
       "status": "updated",
       "headlines": 8
     },
     {
       "topic": "business",
-      "status": "updated",
-      "headlines": 8
-    },
-    {
-      "topic": "trade",
       "status": "updated",
       "headlines": 8
     }
@@ -34,14 +34,6 @@
           "topic": "trade"
         },
         {
-          "id": "871a4fd880416e73",
-          "title": "MoC defends suspension of transit trade with Afghanistan",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1tcGJHVS14clZVTXl6Rmd4enE2YmhrODBtb2YwQmJmc2FaandQMWh1ckJBUEtyNFQzUW5YanZOUlBmN0lVRl9XekFUSkQxdTlCTEFWdlZB0gFWQVVfeXFMTW1wYkdVLXhyVlVNeXpGZ3h6cTZiaGs4MG1vZjBCYmZzYVpqd1AxaHVyQkFQS3I0VDNRblhqdk5SUGY3SVVGX1d6QVRKRDF1OUJMQVZ2VkE?oc=5",
-          "publisher": "Business Recorder",
-          "published_at": "2026-11-12T04:29:06+05:00",
-          "topic": "trade"
-        },
-        {
           "id": "30e8bd4a0280b196",
           "title": "Auto policy envisages indigenisation, export growth: PM's Adviser Haroon",
           "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1hcjJLVndwRGl5YnZPZThoMEszaU9zcUJXS0hsWXpoWGFjTkF6SnktYzJ0cmQwZnZxYjZaUGViczVYVC1Ja2lJZA?oc=5",
@@ -58,11 +50,11 @@
           "topic": "trade"
         },
         {
-          "id": "eec1b72c30110d64",
-          "title": "China in South Asia: October 2026",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9Pb01CTjloNk9WeFhmTVRKeXhjVElJUUpRQkstZFNuamQyNGZ5dGVBbE5XOTY3OXZBOVdHVERsdHpUTDBEeTFmajJkWW1YZUNzalZuc1hjX1ZPRUFUQ084dEdjbDFCRXl0YW5wc3Fn?oc=5",
-          "publisher": "Council on Foreign Relations",
-          "published_at": "2026-11-11T22:23:10+05:00",
+          "id": "c26e684fb96c8892",
+          "title": "Auto policy envisages indigenisation, export growth: PM's Adviser Haroon",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdkk1YjNmQnVuQ051cEtEemd4MWpNVER5UjVBSlpaSnExa2JuaDF0YmwzMFNZcklQejlyMnpZbEpTVE9rT1I3aTNZTkF3dnhXdktkVmtLUzJtYnprcW1HLVdnX2cxN0pLWU44MU5uNHR6cXY1bW83V0ZEUEZ5T0xWTkFnREZUMm5ETC1fYl9UekJwT2UzRkR0VG1PdjlPbEZpT0xOLTF5bnd5Qlg1Zm9nc2xubw?oc=5",
+          "publisher": "Investify",
+          "published_at": "2026-11-12T09:09:46+05:00",
           "topic": "trade"
         },
         {
@@ -74,23 +66,31 @@
           "topic": "trade"
         },
         {
-          "id": "c26e684fb96c8892",
-          "title": "Auto policy envisages indigenisation, export growth: PM's Adviser Haroon",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdkk1YjNmQnVuQ051cEtEemd4MWpNVER5UjVBSlpaSnExa2JuaDF0YmwzMFNZcklQejlyMnpZbEpTVE9rT1I3aTNZTkF3dnhXdktkVmtLUzJtYnprcW1HLVdnX2cxN0pLWU44MU5uNHR6cXY1bW83V0ZEUEZ5T0xWTkFnREZUMm5ETC1fYl9UekJwT2UzRkR0VG1PdjlPbEZpT0xOLTF5bnd5Qlg1Zm9nc2xubw?oc=5",
-          "publisher": "Investify",
-          "published_at": "2026-11-12T09:09:46+05:00",
+          "id": "eec1b72c30110d64",
+          "title": "China in South Asia: October 2026",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9Pb01CTjloNk9WeFhmTVRKeXhjVElJUUpRQkstZFNuamQyNGZ5dGVBbE5XOTY3OXZBOVdHVERsdHpUTDBEeTFmajJkWW1YZUNzalZuc1hjX1ZPRUFUQ084dEdjbDFCRXl0YW5wc3Fn?oc=5",
+          "publisher": "Council on Foreign Relations",
+          "published_at": "2026-11-11T22:23:10+05:00",
           "topic": "trade"
         },
         {
-          "id": "43ef755d37c61422",
-          "title": "Pakistan’s cobra economy: when the cure becomes the disease",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUXZscHRaV1Q3aWRtTG5HdGJEYXJjMU9qTmk2WnBIbTJVQnRBWEtaN2c0clZoSnNWZHpqVVFpT0RQSTdVaGQzYkZ6bmFDaXRvSFI2aktLaDhXWFFSQWMtSFVwS3Z0ejhIOVZySjhMaVNhcUdfczlLbWRxVVRNUXN3eThsdFBJNXVKRjBxcFJNQmtuUktRZTNITGgwQmVPd9IBVkFVX3lxTE8wNU1aU3BGcDZ3MnJZV2RjckFxRzIycTlFVGVMYzMxZ1czZUNzOGxFRGxtWDVKUHBrMGhIZGZTUk9IWlBlMmhxY1ZidUJjN21ISV94NW5n?oc=5",
-          "publisher": "Business Recorder",
-          "published_at": "2026-11-11T20:43:25+05:00",
+          "id": "a2e623467bf30eb1",
+          "title": "Hong Kong Trade Volumes Surge in September 2026: Exports Up 36.1%, Imports 30.7% - News and Statistics",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWVZXMmM2dTkxOTVXbVVJamMyZDhUcy1XTXJ1RS1iXzFMR2x6SkhvTEY2R0FaRjFtcmdlVEk5V2lZSkxrRzROLUdWeW9KR1M3cGF5WjVCYTVNUGN5UldqTk9laEtRV01kYUFRN3dqZXBZbllvaVZBUXdRaUFMVng3R05Bbm41bGFUeUJTUHZ1VS1kSk8yS3IyVHU3Wk1ONDA?oc=5",
+          "publisher": "IndexBox",
+          "published_at": "2026-11-12T15:02:44+05:00",
+          "topic": "trade"
+        },
+        {
+          "id": "eede2e5127459da5",
+          "title": "Wildlife Import Linked To Higher Risk Of Animal-Human Disease Outbreaks",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQb3lLaHdOY3N5dEU3bGt5R2pOMW1IbFV5c2lWVlNSOFBScm9nbEhrTmkyWDZSdlg0Z3cyOE94S0FhNk5GT2F0ZE9GZUlQMnlwYUUzWEdhdUJ3eGF4cWNhTXlsS3YxczVLaTJPUW1rVHpzcl9TMk1sMDdvRU5za0lZaDVXWGtlNHBLaUNxUXRfQ0dvSkZMdHU0d2J3ZlJJdjBMTGRPVk1iOVF1ZDBKaGRMdQ?oc=5",
+          "publisher": "Eurasia Review",
+          "published_at": "2026-11-11T03:40:04+05:00",
           "topic": "trade"
         }
       ],
-      "fetched_at": "2026-11-12T16:39:02.790180+05:00"
+      "fetched_at": "2026-11-12T21:16:11.040072+05:00"
     },
     {
       "id": "economy-2026-11-12",
@@ -100,9 +100,9 @@
       "context": "Watch how inflation, currency movements and borrowing costs may affect household budgets and import costs. A headline alone does not establish that a retail price has changed.",
       "headlines": [
         {
-          "id": "a61e6b286f387b10",
+          "id": "d7c627f2f2d3cd11",
           "title": "Indian rupee slips with traders clinging to equity cues, awaiting inflation data",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQjFTT3lmaUxhX2dUUXNPdHpQSHJYNnRJRy1RemRCNDVHN2t6YUcwZWhTRTZCOG83LXcxN0NGaGI3TGhBTFVhOFJ1US1Xd3FUT2I1eVZxbWZyMGk0ZXdnemxmMUVlanBSUWxXTmUzVFk5dzBqVEc2NG82MWxzakNwemQxSmtLM2pySTlnOFZOeVdaYXhubm9XSGh2N05zVkZKaG5RVVF0WmpSR3kwZ3l5dEIxWFFxcDVqdlI40gFWQVVfeXFMTzZOQlZua1A0TF8wSkNZRGlOQktfRS0xZWljVExRNnlMaGxJZjRXcFZyLUNfWlI1NjdHcnpJOUR1cExlUTE2eWJtX05NWUdjY1FnRklyLXc?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8xTFpRWEtNMDNYdi1tdVp3aG5JMjVvcDZFMkhWcFdWX1kwcnoxaXhHTWZCdENRZGFyNEhYUTd2NTFBTkJtV3lwTFppd0NKNVVaNHh0RDF1WWHSAVZBVV95cUxPNk5CVm5rUDRMXzBKQ1lEaU5CS19FLTFlaWNUTFE2eUxobElmNFdwVnItQ19aUjU2N0dyekk5RHVwTGVRMTZ5Ym1fTk1ZR2NjUWdGSXItdw?oc=5",
           "publisher": "Business Recorder",
           "published_at": "2026-11-12T15:36:42+05:00",
           "topic": "economy"
@@ -124,11 +124,11 @@
           "topic": "economy"
         },
         {
-          "id": "7ef26ef44c46f30a",
-          "title": "India's growth gets further votes of confidence as Moody's raises FY27 forecast to 7% from 6.5%",
-          "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNaE9pSE45VGZMMU81Z1hpbE9DRnZOUWh4OHhoQldIN1B6NC1tblRKRGp6RE1QRl91RzRkaEJaLTZWWmp5LVVjM1hLTllFYXZhTncydXNWS3RhSHo2dk9idnBtal9PUENsSkgtLWFCU2thWWxrNDgtOFNKMDZmMUltUlhlRHFpLWdjeTJ1d0VLcmM2YjJYaU5SRV9EakpYRTlkdzBPVVN6UnV6YjZWN19mY2o2MUxEam9LbU9nWmVnNVowbnlQYVNzTXA5aldTVi1sNDktM1ltd3lwRXBMV1NJai1LTm5LdFNaTVAwV3JoRzF3bDJJNHFRUFNpOFRKZ9IBgwJBVV95cUxQNWYwUTVGSUt6N1Jta1o5RXU4Ymhid1lDcngwdWo0LTZPa19uY0hBRks2TDBuYkx2VHFfRElOWlRJVEE4Umh3d3M0V2JwSUd6dkZpZ3VsREoxTnZ2bjE3OEJYYnZpT0ZuXzBYYkxrZHFWRGhLNkh3d01VaGtmbE1ZUEdNVFhzWVNpTG0zZW5JdUdSZHZXaVgxVzdUWFN5Ni10dzFDMHcydC1QUXNrZmFmbkJSaWNDbENEREpTdWFnb2l1eEJFcmJtc2NEcTZQMHlKeVF4QmpwZ3pVZlJVRlFueDNoTlJ0TmVPcEJZZWszUW9EbDloLUpxX1U3WXJmUHk5QXZF?oc=5",
+          "id": "519d6af127f9a9e2",
+          "title": "India's battered rupee finds an unlikely rescue party in cheaper oil and Wall Street's AI rout",
+          "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxOZ0JvUWMwSFYydzZNY0xrRWdOY1Z6SlY4Mms4LTY0T21JMzJXclpzczVMbm9aRkgwTlJyOC1WUlJfQ0dHektyeFp5REgwSy1MYlNCOS1UNklTc250QUdNajZxVEc3dVMxczQzZFM3Q1k4ZVRfclFIRkJDRzFLRFltTlNUS2V1Qi1EUHZEU1VHQjV4TW9tdk5YRGV1OXZYNmNpeWFIZnNZZXNaZERPd3FweWVzaE1UM0pNVTBCN1NFbFR3eld4T3BKeTl1Z3otbGxKU2xJM3d1aGZJT1pqUkNmRFdidDMyM01DbFNOVU5mNGZOb1JwbkJ2NlJEeUQtRV81czNmamlMV1M2cnVDdXg4VEY1UV9hNF9Oa0F1Y2Q1QlZTWlV4cUJmMNIBrgJBVV95cUxQeTRNT3JuVUQxSWpzR3Rzd1JxN2NrOWtCRTU0MDctbDF5cWlLTEZhNUpMRkEzLUJJcDl0LUp5bHZhYk1XdnVnb0hVenZncEl2aTJ6X0hrWmNpakxzZHdQWEpiSWoxZ3FHRkRPYjlnbmpiLXZtNTNtMDM2ZVp4MWJxSDVKc3RvOENZNm8tYUtOYURwR1NSMDFsenRSY3NlZkFUZ0dOdWpNaTZQclhpWGlBRVk4NjB1SElZWGsxenhSRGJMWEdUOFFJYUJNdnBNUW1uaEF3cmhTT1JMQzBLZDM5RGVZNnpLLXZqb0VDdzRNeWNtTDh5RHo5dkZmWHMwZ3gxT3RHODA3d0RUbnhGcVRxazFWQV9pV3lOLThScXNrOWRlMXdNdTVXQVp4ZlpSQQ?oc=5",
           "publisher": "The Economic Times",
-          "published_at": "2026-11-11T23:53:36+05:00",
+          "published_at": "2026-11-11T07:35:44+05:00",
           "topic": "economy"
         },
         {
@@ -140,11 +140,11 @@
           "topic": "economy"
         },
         {
-          "id": "519d6af127f9a9e2",
-          "title": "India's battered rupee finds an unlikely rescue party in cheaper oil and Wall Street's AI rout",
-          "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxOZ0JvUWMwSFYydzZNY0xrRWdOY1Z6SlY4Mms4LTY0T21JMzJXclpzczVMbm9aRkgwTlJyOC1WUlJfQ0dHektyeFp5REgwSy1MYlNCOS1UNklTc250QUdNajZxVEc3dVMxczQzZFM3Q1k4ZVRfclFIRkJDRzFLRFltTlNUS2V1Qi1EUHZEU1VHQjV4TW9tdk5YRGV1OXZYNmNpeWFIZnNZZXNaZERPd3FweWVzaE1UM0pNVTBCN1NFbFR3eld4T3BKeTl1Z3otbGxKU2xJM3d1aGZJT1pqUkNmRFdidDMyM01DbFNOVU5mNGZOb1JwbkJ2NlJEeUQtRV81czNmamlMV1M2cnVDdXg4VEY1UV9hNF9Oa0F1Y2Q1QlZTWlV4cUJmMNIBrgJBVV95cUxQeTRNT3JuVUQxSWpzR3Rzd1JxN2NrOWtCRTU0MDctbDF5cWlLTEZhNUpMRkEzLUJJcDl0LUp5bHZhYk1XdnVnb0hVenZncEl2aTJ6X0hrWmNpakxzZHdQWEpiSWoxZ3FHRkRPYjlnbmpiLXZtNTNtMDM2ZVp4MWJxSDVKc3RvOENZNm8tYUtOYURwR1NSMDFsenRSY3NlZkFUZ0dOdWpNaTZQclhpWGlBRVk4NjB1SElZWGsxenhSRGJMWEdUOFFJYUJNdnBNUW1uaEF3cmhTT1JMQzBLZDM5RGVZNnpLLXZqb0VDdzRNeWNtTDh5RHo5dkZmWHMwZ3gxT3RHODA3d0RUbnhGcVRxazFWQV9pV3lOLThScXNrOWRlMXdNdTVXQVp4ZlpSQQ?oc=5",
+          "id": "7ef26ef44c46f30a",
+          "title": "India's growth gets further votes of confidence as Moody's raises FY27 forecast to 7% from 6.5%",
+          "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNaE9pSE45VGZMMU81Z1hpbE9DRnZOUWh4OHhoQldIN1B6NC1tblRKRGp6RE1QRl91RzRkaEJaLTZWWmp5LVVjM1hLTllFYXZhTncydXNWS3RhSHo2dk9idnBtal9PUENsSkgtLWFCU2thWWxrNDgtOFNKMDZmMUltUlhlRHFpLWdjeTJ1d0VLcmM2YjJYaU5SRV9EakpYRTlkdzBPVVN6UnV6YjZWN19mY2o2MUxEam9LbU9nWmVnNVowbnlQYVNzTXA5aldTVi1sNDktM1ltd3lwRXBMV1NJai1LTm5LdFNaTVAwV3JoRzF3bDJJNHFRUFNpOFRKZ9IBgwJBVV95cUxQNWYwUTVGSUt6N1Jta1o5RXU4Ymhid1lDcngwdWo0LTZPa19uY0hBRks2TDBuYkx2VHFfRElOWlRJVEE4Umh3d3M0V2JwSUd6dkZpZ3VsREoxTnZ2bjE3OEJYYnZpT0ZuXzBYYkxrZHFWRGhLNkh3d01VaGtmbE1ZUEdNVFhzWVNpTG0zZW5JdUdSZHZXaVgxVzdUWFN5Ni10dzFDMHcydC1QUXNrZmFmbkJSaWNDbENEREpTdWFnb2l1eEJFcmJtc2NEcTZQMHlKeVF4QmpwZ3pVZlJVRlFueDNoTlJ0TmVPcEJZZWszUW9EbDloLUpxX1U3WXJmUHk5QXZF?oc=5",
           "publisher": "The Economic Times",
-          "published_at": "2026-11-11T07:35:44+05:00",
+          "published_at": "2026-11-11T23:53:36+05:00",
           "topic": "economy"
         },
         {
@@ -154,17 +154,9 @@
           "publisher": "The Economic Times",
           "published_at": "2026-11-11T12:42:08+05:00",
           "topic": "economy"
-        },
-        {
-          "id": "5473ee1115efa38d",
-          "title": "Easing global headwinds, lower crude oil prices may further lift rupee in coming months: Economists",
-          "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQZ0F5SDd2QWhLejJIc05VTHF3U0JHeVdnSTlMYy1SOFktTGJ5c0JVTjFaVnVWaGd2OTI1NG1kTHpwSV85aHdOd3B0QTR3UXJEOHpHWk9adlhnS1AwUi1pelhxN2toTVRXemlIZjVGOVozcXpPd3oxMnludEJDTVNyRm9vUWd2YVJoQklmeE1TM2tWUVdYb0o2QTAwY2tod3NNN1VISS1vVDE2UjNIMkM5QnUxX21tT2l4bE9QV1V4NG5pU0x5ZG5qazg4WFBIOXhHcVpEby14MVJpZ191dDNncDdPcjgxaGNnbEc5NFFZV0tkOEg3ZVBKNkJpemY5UDRndVJjb1hn0gGLAkFVX3lxTE05QmVaVVJ4d25RWVd1UFc4ZGdzY0JjMUNWM0JLMEtpTUtEbkZZUnZJb215b0lMLUVxdTNSRkpHX3ZEc1NkZDFBYm9mem9yN01aOVpmd2lFR2RFenpxemtFSjJjSGc3WWNiOVhqaU9lSS1CWWJOREUtQy1aTWNkTHpmbDMwV1NKX2lXUlgwd3pLQk9vekN4OTVYOTZyMjFZa2JBUm84R2RzZ195Tnhma1UySHVTd0ljMHd6blAtMU9PSE83NFhidlp3UU9XT2VSQ1d2cWIzX1FMSmtQOTQ2QlgwUWRyRzV6QjdYLVFsdjQtMklXcTRSTjdiaTB5UEluMDI3Qm5hdXlzMTJtZw?oc=5",
-          "publisher": "The Economic Times",
-          "published_at": "2026-11-10T20:04:42+05:00",
-          "topic": "economy"
         }
       ],
-      "fetched_at": "2026-11-12T16:39:02.790180+05:00"
+      "fetched_at": "2026-11-12T21:16:11.040072+05:00"
     },
     {
       "id": "business-2026-11-12",
@@ -174,6 +166,38 @@
       "context": "Company and industry developments can affect supply, stock availability and competition. Compare dated supplier offers before making a purchase decision.",
       "headlines": [
         {
+          "id": "b96cc38e24af9fb2",
+          "title": "Shanghai investment agreements set stage for deeper Pakistan-China industrial cooperation",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTU0ySGJhZWZUWGs1UkxRZWkzY2g0bEVaUWRyT2l6YWhtbHNTSjVNdzFuRUozaXVQSXk2UVF1VkFJakFqX3dfVG1HNnV0WDZSejVzQXZxX1VKa3ktc1d0RnBWSlBwY2ExMjd1SDFKVWNub0dtRkF0QkluU2h3RHNPajZIamRFX0gyejgtTnU5UVR0djhuN3l1V1Z6TFh4aHBPVHFlV2xDR0dUN0RSYTVTbA?oc=5",
+          "publisher": "cpecinfo.com",
+          "published_at": "2026-11-12T17:09:51+05:00",
+          "topic": "business"
+        },
+        {
+          "id": "8af717580e2b3a1f",
+          "title": "Balochistan’s Mineral Wealth and Investment Potential Take Spotlight at Pakistan Minerals Investment Forum 2026",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE85THZEODNxRjBkOTBrMW9yQXktSzRnQmk4V3c0UUlRa2pGQkNqenlBSHNkUzBnWWxXcmRnNmJROFV1ckhxTVpvVHR0UDZ1Sk5rRGhGUzFnRmh0UmpGQ1ZkN1hOM0RXbTJwR2dJVDJMVGdqNnNUYnI5SWZB0gF6QVVfeXFMTzlMdkQ4M3FGMGQ5MGsxb3JBeS1LNGdCaThXdzRRSVFrakZCQ2p6eUFIc2RTMGdZbFdyZGc2YlE4VXVySHFNWm9UdHRQNnVKTmtEaEZTMWdGaHRSakZDVmQ3WE4zRFdtMnBHZ0lUMkxUZ2o2c1RicjlJZkE?oc=5",
+          "publisher": "Balochistan Pulse",
+          "published_at": "2026-11-12T17:53:48+05:00",
+          "topic": "business"
+        },
+        {
+          "id": "e6e22beaf24b1145",
+          "title": "Pakistan says exploring mineral cooperation with Saudi Arabia as joint studies continue",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQaTRUZFVBdGQ3X0pqWGNDS0VWSGdTTWxzLXl5TjdMNVpIbnVQX1E2dWRaeG1zT2s3a2JwNHktd1I1NlFKMjBnQ21RcFFCb2RhX2ZMOFRhMnROcXVISmR6TEluZzBDVXp4TllrbkVFM0xHV0s5STVfUjJmMXJ6SUd4Umo0ZVAteWF2UEw5MkdIRTlXMVY5c21pcThqSHZiaEZqZmlOakl4enptNEJ6NXRfZ2NMVEVYR3pDRWxydDB5TzhfcnJpX0Fn?oc=5",
+          "publisher": "Arab News PK",
+          "published_at": "2026-11-12T20:03:56+05:00",
+          "topic": "business"
+        },
+        {
+          "id": "e60debd89da28c2e",
+          "title": "SHCI Company Announcements - Shaffi Chemical Industries Ltd",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE04M2hxdzFNSy0tb29Yem85TUhvQWlJdHNoRndxa1E0NHdadVh5X2lscktjNTF4Mk9qUmQ4TVFWbkp3cjV6WXVzZ3VFVzh0bUdyZEFDMjB4MlZrMkZLSkhTMg?oc=5",
+          "publisher": "Investify",
+          "published_at": "2026-11-12T06:44:04+05:00",
+          "topic": "business"
+        },
+        {
           "id": "5bfed608daab9036",
           "title": "Pakistan Highlights Mineral Wealth as Investment Forum Opens in Islamabad",
           "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOS19CUmE3SEdWTkJYdG5TanNHeWZMMEJZdU0xMGYySUZNRlUzaENFN0RzX1IweWdfbmtvOGEyMXduVFRsMW5jajNTWERiS19qZmViYmFZNGE4V21VLVRWMWlDWlZZeWpfeW5xWlI3VjBVODNNOW5MMWxwekdBOEJiODFQRUw5RDdwRDctenktLVlBRGlPOW85b0V3?oc=5",
@@ -182,11 +206,19 @@
           "topic": "business"
         },
         {
-          "id": "f6a68007e265e17b",
-          "title": "Pakistan pitches IT, agriculture, minerals, energy to global investors",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQejBBX2RfN0xFaS1naHNCMW9aakdZYkVmUW9rWVh2LWs2bkVGR2xSQ0JvdUQ1TmlmRl80M1ZJbHhoeFNPLUVFcGIzMTVMQ2Y4QWhqM3ktUkdqckZPbEFWa1dMbjZteW1TM0JpT05veHNVYkRTMXl2NlZfWDN0dzEwXzZIUzhqaUhvSVltcHNOY0otbTBMSlpSLW9jZUJ3dHREaWR4TDVpd1V2Q3l6Ulpr?oc=5",
+          "id": "6c5e264d634b2360",
+          "title": "Minerals sector to transform Pakistan’s economy: Aurangzeb",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNOG1xemU4RTk0VWt3RUFBano3N1BPR3lsQ0tFVVoxYUVRSzFuYjFFZnJlTDFfMFJGS1ExOHdBM1NyNFFCek1JdUtFSkZ2bkFRdEtYQ1FpdG1vNEJfeERhdTdQOFc3YU81UFNud0lWR3dEc2hCSmRLMUxISzBfc202YWlGV05tNVJQTnE0N25lOXdUd0o5NlUw?oc=5",
+          "publisher": "Minute Mirror",
+          "published_at": "2026-11-12T17:01:54+05:00",
+          "topic": "business"
+        },
+        {
+          "id": "21cbb6e8f6008450",
+          "title": "Sukuk market growing at 22% CAGR, but foreign investment remains underwhelming, says Aurangzeb",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPd0ZzRzFSWlc2OTFSS1ZqVllaa1dsVG96WUxwdzRtTzVEcGNLeTgxQno2dFMzcW8yT3ZZdWQxSW1LREdySk5IMDY0a2pTV0hBd1VYMGktUkx4Z05LZDIxRmEzdF9FWFFZcGlOQTFpTDl1RDlUR1B6MUl1TnJOOUhVMGFxOEVsWXRudEpCTnh4RDhGb2wyRjFlTE9VbDFVN1dXZzdhdXhRRXdLbmVMNVA0LTFITzRveEhvb1BKMWNRS05SM2NnbUFDUmRLWEtXUQ?oc=5",
           "publisher": "Investify",
-          "published_at": "2026-11-11T15:24:06+05:00",
+          "published_at": "2026-11-12T14:50:26+05:00",
           "topic": "business"
         },
         {
@@ -196,49 +228,9 @@
           "publisher": "Arab News PK",
           "published_at": "2026-11-11T08:40:03+05:00",
           "topic": "business"
-        },
-        {
-          "id": "eee3bfca1a12a95c",
-          "title": "Global trade outlook improves as AI investment drives demand for technology-INP",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNaGZHZHE3NnluTDRsT2ltX0VRT1NVUWNxbmxMd2NuQzlGYVpVejRqaFkwUEJ5NmtUMDU3cFVjTkJJNVVZVDBLYnJJM1haM09QUEpsQjlxT0JJRGp4R3h6MDIxc29LdENtWVJvdkFiS2h1Z2l6aGFVN1hqQ3BXd1BDQ1pWNWRzU191S0pLcU5oaXMyV2ZEM0M1UzRfTnBncExYSno5ZmVxV25SUDd5THFFNl9LOFRQNk84NDAtODlFQWJzYUYy?oc=5",
-          "publisher": "Independent News Pakistan",
-          "published_at": "2026-11-10T16:44:30+05:00",
-          "topic": "business"
-        },
-        {
-          "id": "3d05704ee296eccb",
-          "title": "Pakistan pitches IT, agriculture, minerals, energy to global investors",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPS1gtdTZpSlY5bDBwSDhPX0pISXdVckM0NnZ2SGFKckhOVEpyRndOWS1LeFRON1NxSHVCeXVzdzZpcEF4X25VQlFGdkprQmJBMHpTOVdkdl8ydV9VVW1MMXpHZ2dEVlRWRGVWc2lLamJqN0FGa3h1UVVSUzc2ZlV6T0poei1YX3BZbnJSTGhWTFZXNXZNQ2dfZmUzVms0Tk54?oc=5",
-          "publisher": "Mettis Global",
-          "published_at": "2026-11-11T15:13:00+05:00",
-          "topic": "business"
-        },
-        {
-          "id": "9bb3d874cad02637",
-          "title": "Hidden cause of economic imbalances",
-          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBxVjlYWkdkWU1NMlRTLVhGTHJ0cUtsLURVUEtQNEFWQ01yTmhrTlhHNmg1VnZKOV9lSXdYaElZcHJVanRtdXQ2NQ?oc=5",
-          "publisher": "Dawn",
-          "published_at": "2026-11-11T06:23:58+05:00",
-          "topic": "business"
-        },
-        {
-          "id": "8dacfcc3b94d2a5f",
-          "title": "Green supply chains, digital adoption key to Pakistan’s textile exports: experts",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWlVtOXJlaFNUWEoybldBdnVQSXVJZ283Z2lEdzV3c1pKN2hzRHdXYnl1eHgtOWZCTlNJWDFsUWJJamlodjZGRnVyc3VMR0R0T1c4ZnY3RFdSWExGZHVEOGFKMXdnUzJqTWhBVms4MExnNGRlZnctTEh0UzFhUlJrbFRZWUhTQWJEbjZBUEhpTFFTX29DWHhVUUh3TTFUWUFWSFVmZ1JRbW92R19tQW1udV9uNURwUQ?oc=5",
-          "publisher": "Biz Today",
-          "published_at": "2026-11-12T01:07:10+05:00",
-          "topic": "business"
-        },
-        {
-          "id": "52b8af00a96d1c1b",
-          "title": "BATA Company Announcements - Bata Pakistan Ltd",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5mSnpGU0VpU1hFQkljbDlSaG1ZOU1aT1AtRU1UemxRQk5CaVcwdUVTNWlCSmh0MFRscVByZU5kWXZtNXFwWnZvTXdQbWp1M0tZcC03bVppVXgzbmtMOUFMTQ?oc=5",
-          "publisher": "Investify",
-          "published_at": "2026-11-11T18:04:09+05:00",
-          "topic": "business"
         }
       ],
-      "fetched_at": "2026-11-12T16:39:02.790180+05:00"
+      "fetched_at": "2026-11-12T21:16:11.040072+05:00"
     },
     {
       "id": "trade-2026-11-11",

@@ -1,6 +1,6 @@
 {
-  "checked_at": "2026-11-12T16:38:55.089609+05:00",
-  "quotes": 9355,
+  "checked_at": "2026-11-12T21:16:03.428392+05:00",
+  "quotes": 9433,
   "checks": [
     {
       "store": "Chase Value",
@@ -47,20 +47,20 @@
     {
       "store": "Paklap",
       "url": "https://www.paklap.pk/laptops-prices.html",
-      "status": "fetch failed; dated offers retained",
-      "error": "HTTP Error 403: Forbidden"
+      "status": "parsed",
+      "offers": 20
     },
     {
       "store": "Paklap",
       "url": "https://www.paklap.pk/daily-deals.html",
-      "status": "fetch failed; dated offers retained",
-      "error": "HTTP Error 403: Forbidden"
+      "status": "parsed",
+      "offers": 5
     },
     {
       "store": "Metro",
       "url": "https://metro-online.pk/",
       "status": "parsed",
-      "offers": 224
+      "offers": 226
     },
     {
       "store": "Foodpanda / Kifayah",

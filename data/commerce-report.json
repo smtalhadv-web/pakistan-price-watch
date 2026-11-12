@@ -1,6 +1,6 @@
 {
   "checked_at": "2026-11-12",
-  "observed_offers": 2510,
+  "observed_offers": 2512,
   "sources": [
     {
       "url": "https://www.zahcomputers.pk/shop/",
@@ -284,7 +284,7 @@
     {
       "url": "https://mistore.pk/products.json?limit=250&page=2",
       "status": "parsed",
-      "observed_offers": 398
+      "observed_offers": 400
     },
     {
       "url": "https://mistore.pk/products.json?limit=250&page=3",
