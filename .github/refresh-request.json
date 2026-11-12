@@ -1,4 +1,4 @@
 {
-  "requested_at": "2026-11-11T16:12:15Z",
-  "reason": "Fallback: 2026-11-11 20:30 Asia/Karachi source price refresh is missing. The latest published data/refresh-status.json and latest completed workflow run #72 (schedule, 2026-11-11T11:18:23Z to 11:22:29Z; 16:18–16:22 Asia/Karachi) predate the 20:30 slot. No queued or in-progress workflow run is present. Trigger the existing source verification and Pages deployment; preserve original quote dates, exact variants, cities and source attribution."
+  "requested_at": "2026-11-12T04:17:29Z",
+  "reason": "Fallback: the 2026-11-12 08:30 Asia/Karachi source price refresh is missing. The latest published data/refresh-status.json started at 2026-11-11T22:06:08Z (2026-11-12 03:06 Asia/Karachi), before the 08:30 slot, and the latest workflow run #74 completed at 2026-11-11T22:10:04Z. No queued or in-progress workflow run is present. Trigger the existing source verification and Pages deployment; preserve original quote dates, exact variants, cities and source attribution."
 }
