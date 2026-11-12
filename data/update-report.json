@@ -6,15 +6,15 @@
     ],
     [
       "forex",
-      111794
+      110809
     ],
     [
       "gold",
-      113392
+      113637
     ],
     [
       "silver",
-      105673
+      105942
     ],
     [
       "pso-history",
@@ -50,14 +50,14 @@
     ],
     [
       "appliances",
-      789770
+      787390
     ],
     [
       "pbs",
       344034
     ]
   ],
-  "checked_at": "2026-11-12T16:15:53.173223+00:00",
+  "checked_at": "2026-11-12T21:52:57.836731+00:00",
   "sources": [
     {
       "source": "PSO dated fuel archive",
@@ -116,7 +116,7 @@
       "new_records": 0
     }
   ],
-  "quotes": 5880,
+  "quotes": 5882,
   "manual_queue": [
     "Verify new image rates before transcribing; source sheets refresh automatically",
     "Unsupported sources retain their dated quotes"
