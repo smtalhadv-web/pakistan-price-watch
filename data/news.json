@@ -1,15 +1,15 @@
 {
-  "checked_at": "2026-11-12T03:06:48.606021+05:00",
+  "checked_at": "2026-11-12T09:19:38.054686+05:00",
   "checks": [
     {
-      "topic": "business",
+      "topic": "economy",
       "status": "updated",
       "headlines": 8
     },
     {
-      "topic": "economy",
+      "topic": "business",
       "status": "updated",
-      "headlines": 5
+      "headlines": 8
     },
     {
       "topic": "trade",
@@ -50,27 +50,19 @@
           "topic": "trade"
         },
         {
+          "id": "2d6356ce7c95b812",
+          "title": "Haroon highlights salient features of auto policy",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZUFXNl9oanVuaHF3MXdxdWFYRTNHc1l0ckt0dGg4UlRlaHVtRmRweXQwRUlVbEp2eC00NktwNDhOSFpNd2tiY3k1bDFJVVN2UEQ0emlFOWRTdVdtWGdlVGYtS2ZieU5wZDFwNFNIX2l1NzZNN0pZTmFqek9ZcHE5M0NLa1A2MFBmSVVPaXYtS2xCNS1BRmZV?oc=5",
+          "publisher": "Investify",
+          "published_at": "2026-11-12T07:55:09+05:00",
+          "topic": "trade"
+        },
+        {
           "id": "eec1b72c30110d64",
           "title": "China in South Asia: October 2026",
           "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9Pb01CTjloNk9WeFhmTVRKeXhjVElJUUpRQkstZFNuamQyNGZ5dGVBbE5XOTY3OXZBOVdHVERsdHpUTDBEeTFmajJkWW1YZUNzalZuc1hjX1ZPRUFUQ084dEdjbDFCRXl0YW5wc3Fn?oc=5",
           "publisher": "Council on Foreign Relations",
           "published_at": "2026-11-11T22:23:10+05:00",
-          "topic": "trade"
-        },
-        {
-          "id": "f1e7296f75561a14",
-          "title": "Modest rise in exports to US, imports surge",
-          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5HVjZzRVRoSk1FQk56bWQ2X3lvUEloa2pESkNuQ19sZlFiUnV4dHRFR1lRNGtKSzZ6clg0M01GMU1HTVgtZ2xpeg?oc=5",
-          "publisher": "Dawn",
-          "published_at": "2026-11-10T07:03:58+05:00",
-          "topic": "trade"
-        },
-        {
-          "id": "b85e529e8f3d5710",
-          "title": "Import-centric auto policy under fire",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPaXN0RU1BVjB2LW5MZ3F6eGNLZTkyRUdGc0k3MzF6MjVqMkxKNmlfMlp4OWNGbjVRVXVDSUVWanROeDdCS1c0eXZmOTlDeVZhZ3VOM0lfNnpYYkpfeG03Mk5yNE9LVlQySWNHWTlVblFpZVRPbld6UENUNW41WTU3S3VueDg4WHc?oc=5",
-          "publisher": "Investify",
-          "published_at": "2026-11-11T07:29:13+05:00",
           "topic": "trade"
         },
         {
@@ -82,15 +74,23 @@
           "topic": "trade"
         },
         {
-          "id": "41702982f9967c92",
-          "title": "Modest rise in exports to US, imports surge",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMEFYUWNqa0JiRjUxMDdhalhBeEUyRVotYzlMemRPT0ZqTnNmdU5UQ2o5VFRYWkk1dVVaNi1heHdhRU14TFpETWlKLU5jUDUxa1VlSFhmNjY4eHFLX3hHdUMyc1YzVk5QQUhWUkthSmdrQ0syaGpVRzJZZkZfM0wzWlFtaGhOeU1CMERMUjBB?oc=5",
-          "publisher": "Investify",
-          "published_at": "2026-11-10T07:03:58+05:00",
+          "id": "b0857ea1bc706d05",
+          "title": "BMP Calls for Comprehensive Energy Reforms, Warns Rs3.5 Trillion Annual Import Burden",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTDRHWG9CRzBEVUZOa1VVOGhidGxCLU4yb1lqZl9jU2V3V0piN0EzcHVFNVZnZ05INHRnWGxfZkJSaUJWdk1SSmRrdy1YcTR6TEpMbldBTkZockFROFl6bGRSUmtGMFBiZ0dweGZfZE5BWDNXQlAxZWxwT3NIVGVmY0JXaW9ISmVXeE1TSzhmMHFoazRjUWN3NUZrOFlEM3I2eUxxSjRCVlAxdHg4YS0xT1JXQXNfSHlS?oc=5",
+          "publisher": "Energy Update",
+          "published_at": "2026-11-10T11:28:48+05:00",
+          "topic": "trade"
+        },
+        {
+          "id": "eede2e5127459da5",
+          "title": "Wildlife Import Linked To Higher Risk Of Animal-Human Disease Outbreaks",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQb3lLaHdOY3N5dEU3bGt5R2pOMW1IbFV5c2lWVlNSOFBScm9nbEhrTmkyWDZSdlg0Z3cyOE94S0FhNk5GT2F0ZE9GZUlQMnlwYUUzWEdhdUJ3eGF4cWNhTXlsS3YxczVLaTJPUW1rVHpzcl9TMk1sMDdvRU5za0lZaDVXWGtlNHBLaUNxUXRfQ0dvSkZMdHU0d2J3ZlJJdjBMTGRPVk1iOVF1ZDBKaGRMdQ?oc=5",
+          "publisher": "Eurasia Review",
+          "published_at": "2026-11-11T03:40:04+05:00",
           "topic": "trade"
         }
       ],
-      "fetched_at": "2026-11-12T03:06:48.606021+05:00"
+      "fetched_at": "2026-11-12T09:19:38.054686+05:00"
     },
     {
       "id": "economy-2026-11-12",
@@ -108,11 +108,35 @@
           "topic": "economy"
         },
         {
+          "id": "ebe67ce1dee8ee39",
+          "title": "Rupee records gain against US dollar",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRU9zS056c1Q2T3RscGUzejlLTFkxSVdEYXRPSU5nTFUtMzhKOURLVndnYU9Rd1hVeE1SYjA3ZGhvYjhGTkJkME4tVTNGWGhfRTZadEtFWjhzQTJxVTZSWnk3TElvUXh4ZlUzRmd0Wmc2VnFkVFgxOXVvdnJxVlRGTGt6NTc1d0FpS2RnUGhtSHBCOExwcWxLR9IBVkFVX3lxTFBRTk9lZVE3dWwyWWtBM09teElzRFJXRzVITGREMWIwakhzT21KbUVzdjJpRC1yb2NFX2ZTcFJBZkxHbWZ4VzNxVllpR01tTkpLek9XcEhR?oc=5",
+          "publisher": "Business Recorder",
+          "published_at": "2026-11-10T16:11:52+05:00",
+          "topic": "economy"
+        },
+        {
+          "id": "a00e0ff730e9b201",
+          "title": "BT BIG STORY: The Rupee bounces back, but the ₹100 threat isn't gone yet",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQMDBuNC1EOWFPdmc4bmhSdHNiSWNVbFZiNDEzSGtMWDJ5YnhIWnVfU0Y4UG9BX2RaT0FxYjl4WWlxa09CelNRazBpT0E5enFRNUI4QlVuZ3FWVkJ3dkU0ZjlVS2M0RXg3dk9PQjNjemtSRDd0TTdDSkprWGgzMUphZ0ZUdFN1aUl4ZjlIdFJ3RmJBeHhHalZyZXNTT2Q3RHBGNi1PaElSZW8tQlV5Uk5rN19jcFJaOWF3akFLN19Pbm4tVUlYbWM5aUFEdXNnVklWNmxidNIB2gFBVV95cUxPd0lUdWd4QlBjbjhRVTJobUZzX2hvd3Ztcl9hVDNuYW1ld2JYeVRnUVlQSUUtVDdnUEpoY3pLRFBWNS10U2F6Zk83Nm9NM0hFcnN0dFNrVkNHWmZqWHlpSTlhcVZ5ZTNyTFNSbExHc2E4dnVqRE9IbUVPMWY4YnUwRGxVdHNGMV85eHZQRXkxdnRJVXlzTWh0enMySTFmTkNzLV9mY3ptN1hNYlVqWUp1eXdmVlhUWE03dVN6MUJyajRQZ1JpRGliSHByaTNTQUVBTVY4OHA5anhtQQ?oc=5",
+          "publisher": "Business Today",
+          "published_at": "2026-11-12T05:30:10+05:00",
+          "topic": "economy"
+        },
+        {
           "id": "7ef26ef44c46f30a",
           "title": "India's growth gets further votes of confidence as Moody's raises FY27 forecast to 7% from 6.5%",
           "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNaE9pSE45VGZMMU81Z1hpbE9DRnZOUWh4OHhoQldIN1B6NC1tblRKRGp6RE1QRl91RzRkaEJaLTZWWmp5LVVjM1hLTllFYXZhTncydXNWS3RhSHo2dk9idnBtal9PUENsSkgtLWFCU2thWWxrNDgtOFNKMDZmMUltUlhlRHFpLWdjeTJ1d0VLcmM2YjJYaU5SRV9EakpYRTlkdzBPVVN6UnV6YjZWN19mY2o2MUxEam9LbU9nWmVnNVowbnlQYVNzTXA5aldTVi1sNDktM1ltd3lwRXBMV1NJai1LTm5LdFNaTVAwV3JoRzF3bDJJNHFRUFNpOFRKZ9IBgwJBVV95cUxQNWYwUTVGSUt6N1Jta1o5RXU4Ymhid1lDcngwdWo0LTZPa19uY0hBRks2TDBuYkx2VHFfRElOWlRJVEE4Umh3d3M0V2JwSUd6dkZpZ3VsREoxTnZ2bjE3OEJYYnZpT0ZuXzBYYkxrZHFWRGhLNkh3d01VaGtmbE1ZUEdNVFhzWVNpTG0zZW5JdUdSZHZXaVgxVzdUWFN5Ni10dzFDMHcydC1QUXNrZmFmbkJSaWNDbENEREpTdWFnb2l1eEJFcmJtc2NEcTZQMHlKeVF4QmpwZ3pVZlJVRlFueDNoTlJ0TmVPcEJZZWszUW9EbDloLUpxX1U3WXJmUHk5QXZF?oc=5",
           "publisher": "The Economic Times",
           "published_at": "2026-11-11T23:53:36+05:00",
+          "topic": "economy"
+        },
+        {
+          "id": "591f9acb75a804e7",
+          "title": "Rupee at 92 or 100 per dollar? GTRI and Axis Bank differ on how long India's currency rally can last",
+          "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOb2hqMEhIVmtNZGVNZ3BETXFSWmNobTV6NkFGRWg3SmdCUi1vZzd1aUlYMVFrLUFTQ1Uxbkl3RDcxV2M5bkhtWm43RW5QNXAtYk0zc0VSN0dHRHNjUXNuTV9FMDNUOFVkb0hlSFYxeG1fTTgwcEhzWWJWa3lPVXV1clRlSlZ0akdUelRBNThPLVdlZGI1YXRCNVJ4S0JNbkRJTlpvckNIbE9oUjhLX2x1VENNMWRRakVweTljcTYzTDFDczU1R1d5T3A0QmNyZlhmcmlxcGJocUZkUWdmOWptYjB1azlTYzZOdC1jWUNkQ0VicWhSeXVkTHJ30gH_AUFVX3lxTE0teGhxWTg5TUJvME5ETFh5QlNtVlA2c18zcTMyaGtEQVBMTFJnckh6VjBlZVpnUmRIQzEyYWZ6dEY5UWZHbHM4QUF5YnQ3SlU4VVltYmtZQmZrTUZiblhwMjN6bEtHRFVSNGN2d3BjMlB1Q0tSUXJxelZQaTNGNkctN1J5cG96MEtDZThqOEszTnNvSVpoeWFfcVdMbngxai1ldmZiaVl3dkhMbTY0SWpCd3RDWnlwMEhJZVMwMGF2a1pQUkYxMWxZbi0yQ0JyUWdXTFY0MEg0WnhHbnlBbzFOWUFaQVRDTlRac0dFdDB2ZEF5NUkwMUpDc0p4WGREVQ?oc=5",
+          "publisher": "Business Today",
+          "published_at": "2026-11-12T05:05:03+05:00",
           "topic": "economy"
         },
         {
@@ -140,7 +164,7 @@
           "topic": "economy"
         }
       ],
-      "fetched_at": "2026-11-12T03:06:48.606021+05:00"
+      "fetched_at": "2026-11-12T09:19:38.054686+05:00"
     },
     {
       "id": "business-2026-11-12",
@@ -155,14 +179,6 @@
           "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQejBBX2RfN0xFaS1naHNCMW9aakdZYkVmUW9rWVh2LWs2bkVGR2xSQ0JvdUQ1TmlmRl80M1ZJbHhoeFNPLUVFcGIzMTVMQ2Y4QWhqM3ktUkdqckZPbEFWa1dMbjZteW1TM0JpT05veHNVYkRTMXl2NlZfWDN0dzEwXzZIUzhqaUhvSVltcHNOY0otbTBMSlpSLW9jZUJ3dHREaWR4TDVpd1V2Q3l6Ulpr?oc=5",
           "publisher": "Investify",
           "published_at": "2026-11-11T15:24:06+05:00",
-          "topic": "business"
-        },
-        {
-          "id": "437a61dcbe5dd4ff",
-          "title": "Shanghai investment agreements set stage for deeper Pakistan-China industrial cooperation",
-          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQTS14bm1tc0FyRlFOY0JfVlVzUEZCWFAxZFFfZ2lpZ1BGY3dab3RiZHBfZ2pkOVFTMVJHS0N0WmpDdHNjSU5HMEJ5OWxOR2ZqM3ZmME9EUHVvalRwYnNCN3hYamJHd3RqNy1uNzdaVjVKeDZ0elpZaTJLTWVfeFhDbm5JaDN4QzNrNkd6QWctd0prcHJfdDBwa0prUmpYOTNFUFdPdEJzR1NBeU1zVnh1a3JYOVMta2xyU29XMUlHUFQ5M2U1V0lxaEFNV285MzY4Q3pqVHVJWQ?oc=5",
-          "publisher": "Independent News Pakistan",
-          "published_at": "2026-11-11T16:57:58+05:00",
           "topic": "business"
         },
         {
@@ -182,14 +198,6 @@
           "topic": "business"
         },
         {
-          "id": "7566dd813fd264cd",
-          "title": "Saudi-Pakistani investment ties get private equity boost",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOV1ZBbEZRLUNQV3FkOHU5WG9qSHN2U1Y5TWZ5OERXYWVKRnhnY2dDdzdwWVZmckVKYk9STWd0OVF0QjFiMndXZ3NkaXE4N0g3dF9ZSlVnMHR0QThBMVR6d2JxU19rNzEzekw2OV9iSjRsVG8za2xsMGpaWDBoWjhxbE9QWlpiZVh0SzF6X1VQcENtQWtqbEVTSNIBoAFBVV95cUxQY3pDVklhVHpCMkFBb2tWMjlfQ25makhPM2J5ZnRvdUZjc3NMa2dxcGZVRWNRbmthUk54VUlKeVNFMmtOdWxVSGRsR1p3MkFVdDl0UFZ0Ym5vUzhrc2R5UGR6UXRSNmxudnNUNUUzUnRHY0RqeEtvTDVrSjA2T1IzYjh3NEJjczdQZUlhSGM1ZmltM281REZ2VTA1R25TQzV4?oc=5",
-          "publisher": "The Express Tribune",
-          "published_at": "2026-11-10T05:37:47+05:00",
-          "topic": "business"
-        },
-        {
           "id": "9bb3d874cad02637",
           "title": "Hidden cause of economic imbalances",
           "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBxVjlYWkdkWU1NMlRTLVhGTHJ0cUtsLURVUEtQNEFWQ01yTmhrTlhHNmg1VnZKOV9lSXdYaElZcHJVanRtdXQ2NQ?oc=5",
@@ -198,23 +206,39 @@
           "topic": "business"
         },
         {
-          "id": "a638763209512a31",
-          "title": "Pakistani, Saudi investors launch private equity fund",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNVJiVF9GeEZLTnhQc0otWFpGQkVqTk5tRG4wSmc3QWM4b205d2hmWHpoOEhXWVhkUjVyTy1TbGtMMV9aVTM4TkI0WTN2c3FkYjhhVy00UGZ3RE5SakV4LUJvc2pQWlJ5LXUwWW1icTlvTy1Vd3FBa0J2VjU1V0I3REQ4U29seDgzR2FXVVV0Q2JWUk5tWGVB0gFWQVVfeXFMUFhSVDVCNE5Ob1d5YWRaZERfbDBWaHJVR2tZWHdoMVdBV1VCVkZUeEVxUGN3Wmt4WTlxdWpJbnhnRVpsaTJpbWI2VVduQ1NKRlhNSHc5N1E?oc=5",
-          "publisher": "Business Recorder",
-          "published_at": "2026-11-10T04:44:56+05:00",
+          "id": "8dacfcc3b94d2a5f",
+          "title": "Green supply chains, digital adoption key to Pakistan’s textile exports: experts",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWlVtOXJlaFNUWEoybldBdnVQSXVJZ283Z2lEdzV3c1pKN2hzRHdXYnl1eHgtOWZCTlNJWDFsUWJJamlodjZGRnVyc3VMR0R0T1c4ZnY3RFdSWExGZHVEOGFKMXdnUzJqTWhBVms4MExnNGRlZnctTEh0UzFhUlJrbFRZWUhTQWJEbjZBUEhpTFFTX29DWHhVUUh3TTFUWUFWSFVmZ1JRbW92R19tQW1udV9uNURwUQ?oc=5",
+          "publisher": "Biz Today",
+          "published_at": "2026-11-12T01:07:10+05:00",
           "topic": "business"
         },
         {
-          "id": "2c745e0b019fb77b",
-          "title": "Punjab has always possessed potential.",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5LdE41ODJhcFQ4TVJMZmtDQkZCNEgwNUFBQTNqbXd5Tm9vTWdqS1VNQ0FTczlXajdEXzFrTUxPaU1vWERqeFFMSFo2MnkzX2J5ZkZYejVWbUZwYXZLeW1pTDloRy1qY2JZcG5xZXpnVFpldw?oc=5",
-          "publisher": "Pakistan Today",
-          "published_at": "2026-11-11T23:52:58+05:00",
+          "id": "cbf6171d65fc6e3e",
+          "title": "Pakistan Stock Market News, PSX Business News & Updates",
+          "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE40QlduNXZKNko0SXFOR1RzYUNxR19oUWdQdmxxdVhTbGNMMGRFaFd5Z0ktSG45QWlhbUhNMTRmVkxBRjg?oc=5",
+          "publisher": "Investify",
+          "published_at": "2026-11-12T07:13:56+05:00",
+          "topic": "business"
+        },
+        {
+          "id": "42a4560601dd6b3b",
+          "title": "KP Invites Chinese Investors to Explore Mineral Sector",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPM1pTYi0tMUxzb0dBUzgwOTVDTk40bnNUM01OUGFNTlBFTndmMGdoSHVNNFlxSUY3QURnc3BqU0pYTnh0XzhhQzB5YWdzaXI1aHJKNG8yWE5yb0VCaGNpaXgwTWdiOGJ5Ykh5WU1OUmw0U3BRX1E3aG1KWnA5UkkxWTdnUmdvOUk?oc=5",
+          "publisher": "The Daily CPEC",
+          "published_at": "2026-11-10T11:56:23+05:00",
+          "topic": "business"
+        },
+        {
+          "id": "bcd038013a208695",
+          "title": "China's high-tech manufacturing push draws global business interest-INP",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbWh2TzhyVjVhQmJOT3BJb1UzdGtYSGhTaHBXWkFLMjVGTk5FQ0E2LWExY3ZDa3ZIdWxldklCRDZ2R2s3UG45M2I4YVJKOHlqM3MzYzB6SFIyTG5jNHNJVTd3ZEgzd0pZMXRod05DR0xZbU85ZU90cjVOdmp6a0hPQlJEMHBTS3ZDNjhkTi02TUw0RlBhc3g0MmlYcVpMemtMd1VFVDFsRE5tVzJXSUdBTC1qcHF3RjJT?oc=5",
+          "publisher": "Independent News Pakistan",
+          "published_at": "2026-11-10T16:19:08+05:00",
           "topic": "business"
         }
       ],
-      "fetched_at": "2026-11-12T03:06:48.606021+05:00"
+      "fetched_at": "2026-11-12T09:19:38.054686+05:00"
     },
     {
       "id": "trade-2026-11-11",
