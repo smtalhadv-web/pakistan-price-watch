@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-12T09:19:38.054686+05:00",
+  "checked_at": "2026-11-12T16:39:02.790180+05:00",
   "checks": [
     {
       "topic": "economy",
@@ -34,11 +34,19 @@
           "topic": "trade"
         },
         {
-          "id": "43ef755d37c61422",
-          "title": "Pakistan’s cobra economy: when the cure becomes the disease",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUXZscHRaV1Q3aWRtTG5HdGJEYXJjMU9qTmk2WnBIbTJVQnRBWEtaN2c0clZoSnNWZHpqVVFpT0RQSTdVaGQzYkZ6bmFDaXRvSFI2aktLaDhXWFFSQWMtSFVwS3Z0ejhIOVZySjhMaVNhcUdfczlLbWRxVVRNUXN3eThsdFBJNXVKRjBxcFJNQmtuUktRZTNITGgwQmVPd9IBVkFVX3lxTE8wNU1aU3BGcDZ3MnJZV2RjckFxRzIycTlFVGVMYzMxZ1czZUNzOGxFRGxtWDVKUHBrMGhIZGZTUk9IWlBlMmhxY1ZidUJjN21ISV94NW5n?oc=5",
+          "id": "871a4fd880416e73",
+          "title": "MoC defends suspension of transit trade with Afghanistan",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1tcGJHVS14clZVTXl6Rmd4enE2YmhrODBtb2YwQmJmc2FaandQMWh1ckJBUEtyNFQzUW5YanZOUlBmN0lVRl9XekFUSkQxdTlCTEFWdlZB0gFWQVVfeXFMTW1wYkdVLXhyVlVNeXpGZ3h6cTZiaGs4MG1vZjBCYmZzYVpqd1AxaHVyQkFQS3I0VDNRblhqdk5SUGY3SVVGX1d6QVRKRDF1OUJMQVZ2VkE?oc=5",
           "publisher": "Business Recorder",
-          "published_at": "2026-11-11T20:43:25+05:00",
+          "published_at": "2026-11-12T04:29:06+05:00",
+          "topic": "trade"
+        },
+        {
+          "id": "30e8bd4a0280b196",
+          "title": "Auto policy envisages indigenisation, export growth: PM's Adviser Haroon",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1hcjJLVndwRGl5YnZPZThoMEszaU9zcUJXS0hsWXpoWGFjTkF6SnktYzJ0cmQwZnZxYjZaUGViczVYVC1Ja2lJZA?oc=5",
+          "publisher": "Dawn",
+          "published_at": "2026-11-12T06:48:18+05:00",
           "topic": "trade"
         },
         {
@@ -50,14 +58,6 @@
           "topic": "trade"
         },
         {
-          "id": "2d6356ce7c95b812",
-          "title": "Haroon highlights salient features of auto policy",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZUFXNl9oanVuaHF3MXdxdWFYRTNHc1l0ckt0dGg4UlRlaHVtRmRweXQwRUlVbEp2eC00NktwNDhOSFpNd2tiY3k1bDFJVVN2UEQ0emlFOWRTdVdtWGdlVGYtS2ZieU5wZDFwNFNIX2l1NzZNN0pZTmFqek9ZcHE5M0NLa1A2MFBmSVVPaXYtS2xCNS1BRmZV?oc=5",
-          "publisher": "Investify",
-          "published_at": "2026-11-12T07:55:09+05:00",
-          "topic": "trade"
-        },
-        {
           "id": "eec1b72c30110d64",
           "title": "China in South Asia: October 2026",
           "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9Pb01CTjloNk9WeFhmTVRKeXhjVElJUUpRQkstZFNuamQyNGZ5dGVBbE5XOTY3OXZBOVdHVERsdHpUTDBEeTFmajJkWW1YZUNzalZuc1hjX1ZPRUFUQ084dEdjbDFCRXl0YW5wc3Fn?oc=5",
@@ -66,31 +66,31 @@
           "topic": "trade"
         },
         {
-          "id": "fd8b16539c9d0afe",
-          "title": "China-EU economic engagement helps stabilise global trade expectations-INP",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZDV4N1EyVUtsQUpWUVBUMEpJa2g1dzVwRGNVX2o3Q0FZNDVDbjBrNW43ellfM2YtV05Uejl5ekdwQXczVHlpSUlvaW10LWUtODVsSUVDOUJEMmxSOWJOZVdfalVqb09YdzZtblo1elU3LW1GaTQyT3VXa1hYZVhwdG83ckFfSU9Dc1k0bGRLYjNRMXI3Mk83bWxZN0xkWDYwMVRjd0Q2RnFhNHRPYU5odlVNUEQ0c2U4VGFIenl3?oc=5",
-          "publisher": "Independent News Pakistan",
-          "published_at": "2026-11-10T19:50:40+05:00",
+          "id": "0eb769e8868e8c1c",
+          "title": "Pakistan’s Tariff Regime: Comparative Perspective",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPVk1WWU1lOUZ0T19MeWhKWWNkbU5ad0Z3Q1h2OS0yZzc4QktPcE1NcS15OFdSeUNWUTBPNmlhN3RlOTFWa1kwcjE1b3k2WGxwTXRNQ2QySmVTRHJ0eVctMHJCeENUc0VySFZ4Z3JIQjFVeWh6YzhjM1NwZGFoQTQ1SVQ1QzJIS19LSW8ySXVObm9pZkE?oc=5",
+          "publisher": "Oxford Economics",
+          "published_at": "2026-11-11T09:02:13+05:00",
           "topic": "trade"
         },
         {
-          "id": "b0857ea1bc706d05",
-          "title": "BMP Calls for Comprehensive Energy Reforms, Warns Rs3.5 Trillion Annual Import Burden",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTDRHWG9CRzBEVUZOa1VVOGhidGxCLU4yb1lqZl9jU2V3V0piN0EzcHVFNVZnZ05INHRnWGxfZkJSaUJWdk1SSmRrdy1YcTR6TEpMbldBTkZockFROFl6bGRSUmtGMFBiZ0dweGZfZE5BWDNXQlAxZWxwT3NIVGVmY0JXaW9ISmVXeE1TSzhmMHFoazRjUWN3NUZrOFlEM3I2eUxxSjRCVlAxdHg4YS0xT1JXQXNfSHlS?oc=5",
-          "publisher": "Energy Update",
-          "published_at": "2026-11-10T11:28:48+05:00",
+          "id": "c26e684fb96c8892",
+          "title": "Auto policy envisages indigenisation, export growth: PM's Adviser Haroon",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdkk1YjNmQnVuQ051cEtEemd4MWpNVER5UjVBSlpaSnExa2JuaDF0YmwzMFNZcklQejlyMnpZbEpTVE9rT1I3aTNZTkF3dnhXdktkVmtLUzJtYnprcW1HLVdnX2cxN0pLWU44MU5uNHR6cXY1bW83V0ZEUEZ5T0xWTkFnREZUMm5ETC1fYl9UekJwT2UzRkR0VG1PdjlPbEZpT0xOLTF5bnd5Qlg1Zm9nc2xubw?oc=5",
+          "publisher": "Investify",
+          "published_at": "2026-11-12T09:09:46+05:00",
           "topic": "trade"
         },
         {
-          "id": "eede2e5127459da5",
-          "title": "Wildlife Import Linked To Higher Risk Of Animal-Human Disease Outbreaks",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQb3lLaHdOY3N5dEU3bGt5R2pOMW1IbFV5c2lWVlNSOFBScm9nbEhrTmkyWDZSdlg0Z3cyOE94S0FhNk5GT2F0ZE9GZUlQMnlwYUUzWEdhdUJ3eGF4cWNhTXlsS3YxczVLaTJPUW1rVHpzcl9TMk1sMDdvRU5za0lZaDVXWGtlNHBLaUNxUXRfQ0dvSkZMdHU0d2J3ZlJJdjBMTGRPVk1iOVF1ZDBKaGRMdQ?oc=5",
-          "publisher": "Eurasia Review",
-          "published_at": "2026-11-11T03:40:04+05:00",
+          "id": "43ef755d37c61422",
+          "title": "Pakistan’s cobra economy: when the cure becomes the disease",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUXZscHRaV1Q3aWRtTG5HdGJEYXJjMU9qTmk2WnBIbTJVQnRBWEtaN2c0clZoSnNWZHpqVVFpT0RQSTdVaGQzYkZ6bmFDaXRvSFI2aktLaDhXWFFSQWMtSFVwS3Z0ejhIOVZySjhMaVNhcUdfczlLbWRxVVRNUXN3eThsdFBJNXVKRjBxcFJNQmtuUktRZTNITGgwQmVPd9IBVkFVX3lxTE8wNU1aU3BGcDZ3MnJZV2RjckFxRzIycTlFVGVMYzMxZ1czZUNzOGxFRGxtWDVKUHBrMGhIZGZTUk9IWlBlMmhxY1ZidUJjN21ISV94NW5n?oc=5",
+          "publisher": "Business Recorder",
+          "published_at": "2026-11-11T20:43:25+05:00",
           "topic": "trade"
         }
       ],
-      "fetched_at": "2026-11-12T09:19:38.054686+05:00"
+      "fetched_at": "2026-11-12T16:39:02.790180+05:00"
     },
     {
       "id": "economy-2026-11-12",
@@ -100,19 +100,19 @@
       "context": "Watch how inflation, currency movements and borrowing costs may affect household budgets and import costs. A headline alone does not establish that a retail price has changed.",
       "headlines": [
         {
-          "id": "8ade54275248c5b5",
-          "title": "India in a sweet spot amid oil volatility and currency dynamics: Kotak Neos Anindya Banerjee",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNWDNBNjVUSGk3NGE1X3FDYVBIdi1CV3NmZXVyQlRHV1lMRW5scWlVN1hNZVlIdi1kY182R0ZLWG9BcTI1TVczbmQ3TC1PbVk3OUNMc0pUSld5Y1pDXzJxWnBLb09PR3Z1RGl3MUc4dlA1bXRJQVByYVRYbnRGYkdBQzl3SzVGUlZiVkZYV2xXdkFaQ1BlcmlCUXR1akw5Q3BjNEZuZV9pQm1lZlo4QTFMdHZ2TXNXcU5QeUhqUlNJcWg4V0w4WGh0aENfVDI5M2dB0gHUAUFVX3lxTE5VSzItcFR6R0FzXzZidXhIQk8wNjhOSEJKbVRpbDdlVHNqaGhNbkJBcVRDMjdKbFZzZjl3UjdfZWw4S2cyRkQwV2dTN1dxZnVIMzJXdTdFMjZnYUJOSkNjSFFzMDlja1YzTnpheDVKNEwwMG9ITnN5WERMZjd3Rlo2ckM0eGF5aDNRbFpPcEpQT1pKQW1pT1huTjVXYVJUM2MzcXZmeW44VTd5ZW1meEN2bG4yQnFCVmNHTmZWaWZta1dad2ZLckZzZGRSZ1lvLXppT0NQ?oc=5",
-          "publisher": "The Tribune",
-          "published_at": "2026-11-10T14:13:06+05:00",
+          "id": "a61e6b286f387b10",
+          "title": "Indian rupee slips with traders clinging to equity cues, awaiting inflation data",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQjFTT3lmaUxhX2dUUXNPdHpQSHJYNnRJRy1RemRCNDVHN2t6YUcwZWhTRTZCOG83LXcxN0NGaGI3TGhBTFVhOFJ1US1Xd3FUT2I1eVZxbWZyMGk0ZXdnemxmMUVlanBSUWxXTmUzVFk5dzBqVEc2NG82MWxzakNwemQxSmtLM2pySTlnOFZOeVdaYXhubm9XSGh2N05zVkZKaG5RVVF0WmpSR3kwZ3l5dEIxWFFxcDVqdlI40gFWQVVfeXFMTzZOQlZua1A0TF8wSkNZRGlOQktfRS0xZWljVExRNnlMaGxJZjRXcFZyLUNfWlI1NjdHcnpJOUR1cExlUTE2eWJtX05NWUdjY1FnRklyLXc?oc=5",
+          "publisher": "Business Recorder",
+          "published_at": "2026-11-12T15:36:42+05:00",
           "topic": "economy"
         },
         {
-          "id": "ebe67ce1dee8ee39",
-          "title": "Rupee records gain against US dollar",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRU9zS056c1Q2T3RscGUzejlLTFkxSVdEYXRPSU5nTFUtMzhKOURLVndnYU9Rd1hVeE1SYjA3ZGhvYjhGTkJkME4tVTNGWGhfRTZadEtFWjhzQTJxVTZSWnk3TElvUXh4ZlUzRmd0Wmc2VnFkVFgxOXVvdnJxVlRGTGt6NTc1d0FpS2RnUGhtSHBCOExwcWxLR9IBVkFVX3lxTFBRTk9lZVE3dWwyWWtBM09teElzRFJXRzVITGREMWIwakhzT21KbUVzdjJpRC1yb2NFX2ZTcFJBZkxHbWZ4VzNxVllpR01tTkpLek9XcEhR?oc=5",
-          "publisher": "Business Recorder",
-          "published_at": "2026-11-10T16:11:52+05:00",
+          "id": "84db2c419fae260a",
+          "title": "Trump’s midterm setback: Why India may gain on trade and oil, yet face new diplomatic tests",
+          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOS0h0bUREUjRNaWd6LURUMWZxY0xLa2ZuNldnYTFnandOUldSN2QtVGZERmY3Z0o5MWVLVFpkZGVrZ1JZV19lVk9GSE9hLXNXdUxMZy1ZR1BnTEVjSkJyYVFZZ0M1b0c2c2ZsV1JzdEREek1ZU25NYlpVWUFTZWtzLWxpc3AtX1ZsWTlTWjBidDRtcXctanBraVNLTGNsMUJqTGxaTnpCMU1GT0Z6RkFKR3VGOU5DbWROb1pMOFJzdjhLWi1jOG5ZSU40VFJJc3VTTUo3cDhvdGdxa0J0bzdhODY1X1pKY3Y4ZkHSAeoBQVVfeXFMTktIdG1ERFI0TWlnei1EVDFmcWNMS2tmbjZXZ2ExZ2p3TlJXUjdkLVRmREZmN2dKOTFlS1RaZGRla2dSWVdfZVZPRkhPYS1zV3VMTGctWUdQZ0xFY0pCcmFRWWdDNW9HNnNmbFdSc3RERHpNWVNuTWJaVVlBU2Vrcy1saXNwLV9WbFk5U1owYnQ0bXF3LWpwa2lTS0xjbDFCakxsWk56QjFNRk9GekZBSkd1RjlOQ21kTm9aTDhSc3Y4S1otYzhuWUlONFRSSXN1U01KN3A4b3RncWtCdG83YTg2NV9aSmN2OGZB?oc=5",
+          "publisher": "ET Government",
+          "published_at": "2026-11-12T11:46:56+05:00",
           "topic": "economy"
         },
         {
@@ -140,19 +140,19 @@
           "topic": "economy"
         },
         {
-          "id": "813fdb433a27c56f",
-          "title": "Moody’s raises India FY27 growth forecast to 7% as economy weathers Iran war energy shock",
-          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQbWRnTV9MZUJ6WVZ0ckJlM2ppNjZ3d0FTY1YwQmU0cGd2LXNQQTFjaV9Qa0I1M2Vwa3JlNWxoSkdCVS1QLVBfb2NyRFVtci1UemwwcGVEM1VMN1J6QTg5UkZzU0xQci1YWVF2WU1KSDRKaDJsbFVPdmtEUW8tclRkMUFvTS1HOV9hd1JsVFZIQWdxMUJkNGtyd0FVc1oxY0FfRUh6cWxnT1NxLWowWkQ1R3ZRRFM3MTVhXzJuZjlqNVUwbVA4T0l5Z1hacjE5QW43eGk4eEpNT2FLUm1oaDhscXdtY1pRT1VmYmFtWnFsa09JdkpKNXR2NdIB_gFBVV95cUxQeG9xYVlUU3dTNnU2WExfemNvXzFmbm1NbWtWTkZ4Ql9oY2pxMWFiWlpaNHRUTkF6UTdZajZiTHhNR2FsXzhRS1daZnhiZVU0MVlOenpaaEFtTGR0b1VadVl5R1JMQm16Z1pHaXJUQUNkSDBaUzNzcG0yZnJLOEpCMmFXN3R1M0s1ckY1MXdCanpCREZTdVNIUVhLNnk1Y21tb0NxeDZXQ2NIa0tkSTh2WFJnRDl1RnNWWlpoQWlzdVlLTWFuMGpiRUs4N2JfS1VUS0NTVkE1Z1BnTEFaYlJvQXhOWE1mS1NNdXFPNkl1TlBSZ2d4Z0xZcEw4WjRqQQ?oc=5",
-          "publisher": "The Economic Times",
-          "published_at": "2026-11-11T12:42:08+05:00",
-          "topic": "economy"
-        },
-        {
           "id": "519d6af127f9a9e2",
           "title": "India's battered rupee finds an unlikely rescue party in cheaper oil and Wall Street's AI rout",
           "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxOZ0JvUWMwSFYydzZNY0xrRWdOY1Z6SlY4Mms4LTY0T21JMzJXclpzczVMbm9aRkgwTlJyOC1WUlJfQ0dHektyeFp5REgwSy1MYlNCOS1UNklTc250QUdNajZxVEc3dVMxczQzZFM3Q1k4ZVRfclFIRkJDRzFLRFltTlNUS2V1Qi1EUHZEU1VHQjV4TW9tdk5YRGV1OXZYNmNpeWFIZnNZZXNaZERPd3FweWVzaE1UM0pNVTBCN1NFbFR3eld4T3BKeTl1Z3otbGxKU2xJM3d1aGZJT1pqUkNmRFdidDMyM01DbFNOVU5mNGZOb1JwbkJ2NlJEeUQtRV81czNmamlMV1M2cnVDdXg4VEY1UV9hNF9Oa0F1Y2Q1QlZTWlV4cUJmMNIBrgJBVV95cUxQeTRNT3JuVUQxSWpzR3Rzd1JxN2NrOWtCRTU0MDctbDF5cWlLTEZhNUpMRkEzLUJJcDl0LUp5bHZhYk1XdnVnb0hVenZncEl2aTJ6X0hrWmNpakxzZHdQWEpiSWoxZ3FHRkRPYjlnbmpiLXZtNTNtMDM2ZVp4MWJxSDVKc3RvOENZNm8tYUtOYURwR1NSMDFsenRSY3NlZkFUZ0dOdWpNaTZQclhpWGlBRVk4NjB1SElZWGsxenhSRGJMWEdUOFFJYUJNdnBNUW1uaEF3cmhTT1JMQzBLZDM5RGVZNnpLLXZqb0VDdzRNeWNtTDh5RHo5dkZmWHMwZ3gxT3RHODA3d0RUbnhGcVRxazFWQV9pV3lOLThScXNrOWRlMXdNdTVXQVp4ZlpSQQ?oc=5",
           "publisher": "The Economic Times",
           "published_at": "2026-11-11T07:35:44+05:00",
+          "topic": "economy"
+        },
+        {
+          "id": "813fdb433a27c56f",
+          "title": "Moody’s raises India FY27 growth forecast to 7% as economy weathers Iran war energy shock",
+          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQbWRnTV9MZUJ6WVZ0ckJlM2ppNjZ3d0FTY1YwQmU0cGd2LXNQQTFjaV9Qa0I1M2Vwa3JlNWxoSkdCVS1QLVBfb2NyRFVtci1UemwwcGVEM1VMN1J6QTg5UkZzU0xQci1YWVF2WU1KSDRKaDJsbFVPdmtEUW8tclRkMUFvTS1HOV9hd1JsVFZIQWdxMUJkNGtyd0FVc1oxY0FfRUh6cWxnT1NxLWowWkQ1R3ZRRFM3MTVhXzJuZjlqNVUwbVA4T0l5Z1hacjE5QW43eGk4eEpNT2FLUm1oaDhscXdtY1pRT1VmYmFtWnFsa09JdkpKNXR2NdIB_gFBVV95cUxQeG9xYVlUU3dTNnU2WExfemNvXzFmbm1NbWtWTkZ4Ql9oY2pxMWFiWlpaNHRUTkF6UTdZajZiTHhNR2FsXzhRS1daZnhiZVU0MVlOenpaaEFtTGR0b1VadVl5R1JMQm16Z1pHaXJUQUNkSDBaUzNzcG0yZnJLOEpCMmFXN3R1M0s1ckY1MXdCanpCREZTdVNIUVhLNnk1Y21tb0NxeDZXQ2NIa0tkSTh2WFJnRDl1RnNWWlpoQWlzdVlLTWFuMGpiRUs4N2JfS1VUS0NTVkE1Z1BnTEFaYlJvQXhOWE1mS1NNdXFPNkl1TlBSZ2d4Z0xZcEw4WjRqQQ?oc=5",
+          "publisher": "The Economic Times",
+          "published_at": "2026-11-11T12:42:08+05:00",
           "topic": "economy"
         },
         {
@@ -164,7 +164,7 @@
           "topic": "economy"
         }
       ],
-      "fetched_at": "2026-11-12T09:19:38.054686+05:00"
+      "fetched_at": "2026-11-12T16:39:02.790180+05:00"
     },
     {
       "id": "business-2026-11-12",
@@ -173,6 +173,14 @@
       "title": "Business news briefing · 2026-11-12",
       "context": "Company and industry developments can affect supply, stock availability and competition. Compare dated supplier offers before making a purchase decision.",
       "headlines": [
+        {
+          "id": "5bfed608daab9036",
+          "title": "Pakistan Highlights Mineral Wealth as Investment Forum Opens in Islamabad",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOS19CUmE3SEdWTkJYdG5TanNHeWZMMEJZdU0xMGYySUZNRlUzaENFN0RzX1IweWdfbmtvOGEyMXduVFRsMW5jajNTWERiS19qZmViYmFZNGE4V21VLVRWMWlDWlZZeWpfeW5xWlI3VjBVODNNOW5MMWxwekdBOEJiODFQRUw5RDdwRDctenktLVlBRGlPOW85b0V3?oc=5",
+          "publisher": "The Diplomatic Insight",
+          "published_at": "2026-11-12T15:38:03+05:00",
+          "topic": "business"
+        },
         {
           "id": "f6a68007e265e17b",
           "title": "Pakistan pitches IT, agriculture, minerals, energy to global investors",
@@ -187,6 +195,14 @@
           "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQR1ZYWjBoVG5zVWgtaldVcFFvS1R6VGJSX3B3UzktdFgyclRsTElKOVh5WUhUR1NPYmdSS2luRC1wdkRabWZaUHZRR0VnNW5mcDdpUk9EVjdFd3hGbFNYajJrYTgxUi05QUJYQUFWYVZDdjF2bDl5dW5mZkNlcHJnTGtiOUxyaWFaNHlaNTdXa3NyVXVpMXpRb0RDdC1ON2UtUU9GRV9tYWM4VVY0WmdaVzV3YWNIWlNlMDUtRTg5TmdRX3c?oc=5",
           "publisher": "Arab News PK",
           "published_at": "2026-11-11T08:40:03+05:00",
+          "topic": "business"
+        },
+        {
+          "id": "eee3bfca1a12a95c",
+          "title": "Global trade outlook improves as AI investment drives demand for technology-INP",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNaGZHZHE3NnluTDRsT2ltX0VRT1NVUWNxbmxMd2NuQzlGYVpVejRqaFkwUEJ5NmtUMDU3cFVjTkJJNVVZVDBLYnJJM1haM09QUEpsQjlxT0JJRGp4R3h6MDIxc29LdENtWVJvdkFiS2h1Z2l6aGFVN1hqQ3BXd1BDQ1pWNWRzU191S0pLcU5oaXMyV2ZEM0M1UzRfTnBncExYSno5ZmVxV25SUDd5THFFNl9LOFRQNk84NDAtODlFQWJzYUYy?oc=5",
+          "publisher": "Independent News Pakistan",
+          "published_at": "2026-11-10T16:44:30+05:00",
           "topic": "business"
         },
         {
@@ -214,31 +230,15 @@
           "topic": "business"
         },
         {
-          "id": "cbf6171d65fc6e3e",
-          "title": "Pakistan Stock Market News, PSX Business News & Updates",
-          "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE40QlduNXZKNko0SXFOR1RzYUNxR19oUWdQdmxxdVhTbGNMMGRFaFd5Z0ktSG45QWlhbUhNMTRmVkxBRjg?oc=5",
+          "id": "52b8af00a96d1c1b",
+          "title": "BATA Company Announcements - Bata Pakistan Ltd",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5mSnpGU0VpU1hFQkljbDlSaG1ZOU1aT1AtRU1UemxRQk5CaVcwdUVTNWlCSmh0MFRscVByZU5kWXZtNXFwWnZvTXdQbWp1M0tZcC03bVppVXgzbmtMOUFMTQ?oc=5",
           "publisher": "Investify",
-          "published_at": "2026-11-12T07:13:56+05:00",
-          "topic": "business"
-        },
-        {
-          "id": "42a4560601dd6b3b",
-          "title": "KP Invites Chinese Investors to Explore Mineral Sector",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPM1pTYi0tMUxzb0dBUzgwOTVDTk40bnNUM01OUGFNTlBFTndmMGdoSHVNNFlxSUY3QURnc3BqU0pYTnh0XzhhQzB5YWdzaXI1aHJKNG8yWE5yb0VCaGNpaXgwTWdiOGJ5Ykh5WU1OUmw0U3BRX1E3aG1KWnA5UkkxWTdnUmdvOUk?oc=5",
-          "publisher": "The Daily CPEC",
-          "published_at": "2026-11-10T11:56:23+05:00",
-          "topic": "business"
-        },
-        {
-          "id": "bcd038013a208695",
-          "title": "China's high-tech manufacturing push draws global business interest-INP",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbWh2TzhyVjVhQmJOT3BJb1UzdGtYSGhTaHBXWkFLMjVGTk5FQ0E2LWExY3ZDa3ZIdWxldklCRDZ2R2s3UG45M2I4YVJKOHlqM3MzYzB6SFIyTG5jNHNJVTd3ZEgzd0pZMXRod05DR0xZbU85ZU90cjVOdmp6a0hPQlJEMHBTS3ZDNjhkTi02TUw0RlBhc3g0MmlYcVpMemtMd1VFVDFsRE5tVzJXSUdBTC1qcHF3RjJT?oc=5",
-          "publisher": "Independent News Pakistan",
-          "published_at": "2026-11-10T16:19:08+05:00",
+          "published_at": "2026-11-11T18:04:09+05:00",
           "topic": "business"
         }
       ],
-      "fetched_at": "2026-11-12T09:19:38.054686+05:00"
+      "fetched_at": "2026-11-12T16:39:02.790180+05:00"
     },
     {
       "id": "trade-2026-11-11",

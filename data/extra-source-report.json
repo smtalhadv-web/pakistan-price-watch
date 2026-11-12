@@ -1,10 +1,10 @@
 {
-  "checked_at": "2026-11-12T04:19:36.777056+00:00",
+  "checked_at": "2026-11-12T11:39:01.506662+00:00",
   "checks": [
     {
       "store": "Al-Fatah",
       "url": "https://alfatah.pk/products.json?limit=100",
-      "quotes": 100,
+      "quotes": 105,
       "status": "updated",
       "error": null
     },
@@ -18,7 +18,7 @@
     {
       "store": "Mega.pk",
       "url": "https://www.mega.pk/mobiles/",
-      "quotes": 29,
+      "quotes": 30,
       "status": "updated",
       "error": null
     }
