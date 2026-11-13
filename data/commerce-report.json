@@ -44,7 +44,7 @@
     {
       "url": "https://priceoye.pk/mobiles/xiaomi?page=3",
       "status": "parsed",
-      "observed_offers": 36
+      "observed_offers": 35
     },
     {
       "url": "https://priceoye.pk/mobiles/xiaomi?page=4",
@@ -114,7 +114,7 @@
     {
       "url": "https://priceoye.pk/mobiles/infinix?page=1",
       "status": "parsed",
-      "observed_offers": 9
+      "observed_offers": 10
     },
     {
       "url": "https://priceoye.pk/mobiles/infinix?page=2",
