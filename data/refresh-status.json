@@ -1,6 +1,6 @@
 {
-  "started_at": "2026-11-13T04:13:10.041596+00:00",
-  "completed_at": "2026-11-13T04:13:48.859470+00:00",
+  "started_at": "2026-11-13T11:22:03.139740+00:00",
+  "completed_at": "2026-11-13T11:22:24.551789+00:00",
   "status": "partial",
   "timezone": "Asia/Karachi",
   "scheduled_times": [
@@ -11,7 +11,7 @@
     {
       "name": "collect.py",
       "status": "completed",
-      "elapsed_seconds": 3.3,
+      "elapsed_seconds": 4.5,
       "detail": ""
     },
     {
@@ -23,37 +23,37 @@
     {
       "name": "ingest.py",
       "status": "completed",
-      "elapsed_seconds": 1.7,
+      "elapsed_seconds": 1.1,
       "detail": ""
     },
     {
       "name": "expand_fetch.py",
       "status": "completed",
-      "elapsed_seconds": 2.1,
+      "elapsed_seconds": 1.5,
       "detail": ""
     },
     {
       "name": "expand.py",
       "status": "completed",
-      "elapsed_seconds": 1.4,
+      "elapsed_seconds": 0.9,
       "detail": ""
     },
     {
       "name": "commerce.py",
       "status": "completed",
-      "elapsed_seconds": 8.7,
+      "elapsed_seconds": 7.2,
       "detail": ""
     },
     {
       "name": "partner_sources.py",
       "status": "completed",
-      "elapsed_seconds": 19.5,
+      "elapsed_seconds": 4.8,
       "detail": ""
     },
     {
       "name": "extra_sources.py",
       "status": "completed",
-      "elapsed_seconds": 1.5,
+      "elapsed_seconds": 1.0,
       "detail": ""
     }
   ],
@@ -84,7 +84,7 @@
       "url": null,
       "status": "verified",
       "detail": "parsed",
-      "quotes": 133
+      "quotes": 136
     },
     {
       "source": "PBS weekly city prices",
@@ -476,21 +476,21 @@
       "url": "https://priceoye.pk/trimmers-shavers?page=1",
       "status": "verified",
       "detail": "parsed",
-      "quotes": 25
+      "quotes": 28
     },
     {
       "source": "https://priceoye.pk/trimmers-shavers?page=2",
       "url": "https://priceoye.pk/trimmers-shavers?page=2",
       "status": "verified",
       "detail": "parsed",
-      "quotes": 32
+      "quotes": 36
     },
     {
       "source": "https://priceoye.pk/trimmers-shavers?page=3",
       "url": "https://priceoye.pk/trimmers-shavers?page=3",
       "status": "verified",
       "detail": "parsed",
-      "quotes": 34
+      "quotes": 36
     },
     {
       "source": "https://priceoye.pk/speakers?page=1",
@@ -616,14 +616,14 @@
       "url": "https://chasevalue.pk/products.json?limit=100&page=1",
       "status": "verified",
       "detail": "parsed",
-      "quotes": 772
+      "quotes": 615
     },
     {
       "source": "Chase Value",
       "url": "https://chasevalue.pk/products.json?limit=100&page=2",
       "status": "verified",
       "detail": "parsed",
-      "quotes": 371
+      "quotes": 577
     },
     {
       "source": "Naheed",
@@ -707,14 +707,14 @@
       "url": "https://www.olx.com.pk/items/q-sofa",
       "status": "verified",
       "detail": "parsed",
-      "quotes": 33
+      "quotes": 31
     },
     {
       "source": "Al-Fatah",
       "url": "https://alfatah.pk/products.json?limit=100",
       "status": "verified",
       "detail": "updated",
-      "quotes": 104
+      "quotes": 100
     },
     {
       "source": "Shophive",
@@ -731,9 +731,9 @@
       "quotes": 30
     }
   ],
-  "total_quotes": 17559,
-  "verified_quotes": 5213,
-  "changed_prices": 11,
-  "new_quotes": 89,
-  "retained_quotes": 12346
+  "total_quotes": 17922,
+  "verified_quotes": 5269,
+  "changed_prices": 55,
+  "new_quotes": 363,
+  "retained_quotes": 12653
 }
