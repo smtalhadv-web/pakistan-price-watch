@@ -1,6 +1,6 @@
 {
-  "checked_at": "2026-11-13T02:53:10.990079+05:00",
-  "quotes": 9527,
+  "checked_at": "2026-11-13T09:13:27.832161+05:00",
+  "quotes": 9603,
   "checks": [
     {
       "store": "Chase Value",
@@ -60,7 +60,7 @@
       "store": "Metro",
       "url": "https://metro-online.pk/",
       "status": "parsed",
-      "offers": 222
+      "offers": 226
     },
     {
       "store": "Foodpanda / Kifayah",

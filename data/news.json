@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-13T02:53:19.331099+05:00",
+  "checked_at": "2026-11-13T09:13:49.998131+05:00",
   "checks": [
     {
       "topic": "economy",
@@ -7,12 +7,12 @@
       "headlines": 8
     },
     {
-      "topic": "trade",
+      "topic": "business",
       "status": "updated",
       "headlines": 8
     },
     {
-      "topic": "business",
+      "topic": "trade",
       "status": "updated",
       "headlines": 8
     }
@@ -34,14 +34,6 @@
           "topic": "trade"
         },
         {
-          "id": "30e8bd4a0280b196",
-          "title": "Auto policy envisages indigenisation, export growth: PM's Adviser Haroon",
-          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1hcjJLVndwRGl5YnZPZThoMEszaU9zcUJXS0hsWXpoWGFjTkF6SnktYzJ0cmQwZnZxYjZaUGViczVYVC1Ja2lJZA?oc=5",
-          "publisher": "Dawn",
-          "published_at": "2026-11-12T06:48:18+05:00",
-          "topic": "trade"
-        },
-        {
           "id": "6198ab0688581893",
           "title": "$5.9 billion export potential untapped, committee seeks answers on Pakistan’s trade performance",
           "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQcHVFZEoyRTdKZTVGNHRuZGxQNGNaelNBMWZWbTJUem5veG9UTUZtOGVnaWtXejltSkF6ZXd6VFBTTzl2NEFDYldGdEhwSS1PbnFLQjJvRFNGVTV6ZVdWRmE5NzNzeXNDVnM2bFdsd2tyNXVaUnd3SWdxQ1g1Unh6LTRnZmFvT2lwdnp1M2V6TlV2clJfZHV3ME82emk5aTBxTTNfd2dCRTlLRWo5TmFDTWs5RV80RS15eUxBRXRCYm9WVF9LYnk4?oc=5",
@@ -50,47 +42,55 @@
           "topic": "trade"
         },
         {
-          "id": "c26e684fb96c8892",
-          "title": "Auto policy envisages indigenisation, export growth: PM's Adviser Haroon",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdkk1YjNmQnVuQ051cEtEemd4MWpNVER5UjVBSlpaSnExa2JuaDF0YmwzMFNZcklQejlyMnpZbEpTVE9rT1I3aTNZTkF3dnhXdktkVmtLUzJtYnprcW1HLVdnX2cxN0pLWU44MU5uNHR6cXY1bW83V0ZEUEZ5T0xWTkFnREZUMm5ETC1fYl9UekJwT2UzRkR0VG1PdjlPbEZpT0xOLTF5bnd5Qlg1Zm9nc2xubw?oc=5",
-          "publisher": "Investify",
-          "published_at": "2026-11-12T09:09:46+05:00",
+          "id": "6ae2d2aefe4037eb",
+          "title": "PVC resin from US, Indonesia: NTC slaps up to 37.30pc anti-dumping duties",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVzF4U3NXbHN2cVJ1NWdVZzR2N1M1cUgxQXpLS01MSWRndkt1Q2RkYXl5MmptQWxfeWUwOGs4LUhNaXVRQnJzc20yS0poYWg3Q0xHZW9jWkpSRDdHTUZuNDFNUldGVW45X3VMN1dGNTdWdTZnQW9YTjNEOEVldXIxT1J3d2FJWEhnSWlYeEp5OWFoN3dvQnpuUC04RDU1ZS1obzZQYk9kOF9fTDlLSHBJ0gFWQVVfeXFMUFdVaTRzcS1fQTZPaVUyWUZtcXgyQ1drUHZCeHFUUmJtSzBIdlJuT0pQT2FYTWhYazlTY2pjSmVlU3d6aHAzaXhxbEhWeW5VS0ZTeU5ZT1E?oc=5",
+          "publisher": "Business Recorder",
+          "published_at": "2026-11-13T05:14:19+05:00",
           "topic": "trade"
         },
         {
-          "id": "0eb769e8868e8c1c",
-          "title": "Pakistan’s Tariff Regime: Comparative Perspective",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPVk1WWU1lOUZ0T19MeWhKWWNkbU5ad0Z3Q1h2OS0yZzc4QktPcE1NcS15OFdSeUNWUTBPNmlhN3RlOTFWa1kwcjE1b3k2WGxwTXRNQ2QySmVTRHJ0eVctMHJCeENUc0VySFZ4Z3JIQjFVeWh6YzhjM1NwZGFoQTQ1SVQ1QzJIS19LSW8ySXVObm9pZkE?oc=5",
-          "publisher": "Oxford Economics",
-          "published_at": "2026-11-11T09:02:13+05:00",
+          "id": "1d21abe22aa1fd4f",
+          "title": "Why are Pakistan’s freelancers still treated like outsiders?",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWXhYdFV6RzRINGNzZXVZUUZ1Qmg5X3c0ZlJJUkpVUjZ3QWM4X3RwSGNkQzNSRnB0OUpqM1g5STZvQkNVcEkxMVZ0ZWFBRWNQcVZoeE5JcDBzUWdXWHNxeFpuaWQ5XzdQaEN6NnBOZEJ6bXRHTzFURXlWVjM3dlUtYW1ET0EtVTBzMFZ2WlJFZm9DQWlwQmxaS193YWh2VFXSAVZBVV95cUxOZExrVTZFZWZSdC1KM3h4Nk1SSnA1X091WWFvcnJvMGNNa3k4dkNabndTelo2RWRfc3BGU3ZkdURYMm1OMnN0dkF4a2UzVkE4UU5RMDh4QQ?oc=5",
+          "publisher": "Business Recorder",
+          "published_at": "2026-11-13T05:14:19+05:00",
           "topic": "trade"
         },
         {
-          "id": "eec1b72c30110d64",
-          "title": "China in South Asia: October 2026",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9Pb01CTjloNk9WeFhmTVRKeXhjVElJUUpRQkstZFNuamQyNGZ5dGVBbE5XOTY3OXZBOVdHVERsdHpUTDBEeTFmajJkWW1YZUNzalZuc1hjX1ZPRUFUQ084dEdjbDFCRXl0YW5wc3Fn?oc=5",
-          "publisher": "Council on Foreign Relations",
-          "published_at": "2026-11-11T22:23:10+05:00",
+          "id": "aebeeac065013cbb",
+          "title": "Govt urged to restore DLTL scheme at uniform rate",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQWGFGQVJ3VERYTU5yaWpuYXNvbWNnS05qVXhYcmR0VTdyeVJqRUtYcll3eFNTZk5qT1ZFZ0FJSkFHYURSS2l2MWRqMWhjSF85VkEyUm1sZ0pqNjh5Z2Fnd2xtZ3puLXdCNkUwS1JZczlKVmc4WFIxVWJsVlNPcGsxdU50RXR2WDdhTFEzMG5DczRrSFnSAVZBVV95cUxPY0REVDB2cmEzSkZrLXQ1T3hncTFoZUdldS1lcl9FUnpUNEJ5N1Nsd2VVYTVYQnVvcUJmYjdBenBMNWgzNm56cGtFdURNQXNfMFlGVzR3dw?oc=5",
+          "publisher": "Business Recorder",
+          "published_at": "2026-11-13T05:14:19+05:00",
           "topic": "trade"
         },
         {
-          "id": "a2e623467bf30eb1",
-          "title": "Hong Kong Trade Volumes Surge in September 2026: Exports Up 36.1%, Imports 30.7% - News and Statistics",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWVZXMmM2dTkxOTVXbVVJamMyZDhUcy1XTXJ1RS1iXzFMR2x6SkhvTEY2R0FaRjFtcmdlVEk5V2lZSkxrRzROLUdWeW9KR1M3cGF5WjVCYTVNUGN5UldqTk9laEtRV01kYUFRN3dqZXBZbllvaVZBUXdRaUFMVng3R05Bbm41bGFUeUJTUHZ1VS1kSk8yS3IyVHU3Wk1ONDA?oc=5",
-          "publisher": "IndexBox",
-          "published_at": "2026-11-12T15:02:44+05:00",
+          "id": "404e38ed781c1127",
+          "title": "Pakistan’s Auto Policy Targets $6 Billion in Exports by 2031",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQb21YVll1S2g3NWItcG52SlMtdHdONHVLRDdQMnR5SUFERXRrRDVWZDJJcU1zbG9CbjdRLUx2UVBHXzZIU1RPcklqS01lM2U4QmZHY2ZxdTlPRW5ueDRBSFl3cGRINlRsQ1J3Wi1YSFdDTE9uZ084SnFnendySWU2X2tfa3Jrc2txX2VnTFNQQjRELU80aEdJR0FwTGc?oc=5",
+          "publisher": "UrduPoint",
+          "published_at": "2026-11-11T20:55:17+05:00",
           "topic": "trade"
         },
         {
-          "id": "eede2e5127459da5",
-          "title": "Wildlife Import Linked To Higher Risk Of Animal-Human Disease Outbreaks",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQb3lLaHdOY3N5dEU3bGt5R2pOMW1IbFV5c2lWVlNSOFBScm9nbEhrTmkyWDZSdlg0Z3cyOE94S0FhNk5GT2F0ZE9GZUlQMnlwYUUzWEdhdUJ3eGF4cWNhTXlsS3YxczVLaTJPUW1rVHpzcl9TMk1sMDdvRU5za0lZaDVXWGtlNHBLaUNxUXRfQ0dvSkZMdHU0d2J3ZlJJdjBMTGRPVk1iOVF1ZDBKaGRMdQ?oc=5",
-          "publisher": "Eurasia Review",
-          "published_at": "2026-11-11T03:40:04+05:00",
+          "id": "ebf86d520b4a263a",
+          "title": "Cotton spot rates",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBtSUNwYlR4RHRDVHlxeVgtRFNOTkdfMU11N1N2d0hSalVYLTBLOElxSWZlZV8wdkFNS0xiOFdPazFEZTdsNVFWTDdnNzRyZ3IydEg3RzkwSFVaSkpQU1laQUNXdGFXUURO0gFWQVVfeXFMT3hNTXVJVF9Uem9fU3FvZ0xqVFN2NXl0T0RIaHBQZHVMU2w5NVdJX0FnQm1ZQklZSXA1eGZ0eVRQWUpkb3VjdnQ3bnExOFdHNi1mektLNkE?oc=5",
+          "publisher": "Business Recorder",
+          "published_at": "2026-11-13T05:14:19+05:00",
+          "topic": "trade"
+        },
+        {
+          "id": "83f8882705773258",
+          "title": "India-UK Trade Deal Hits First Hurdle As 80-Plus Scotch Whisky Containers Held",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNbVR0NXB4cFJkdWxtLW5YbkFzSzJwaXZYdlhxTVlvV3ZGM2JLajRkaEpDMGJRTE1WUGgzZTNQeGlvbmlBRVhicmFOeXVidkpVSEJYX3JGQURPcERMb1dqcDFmaXdmMURpZHNZa1N4UFE4d0pmRUZSdFM2OWZaczZtT01WdHppTDVPT1lfSXh4elk5bVYxbC1wLUFTMFJZTFNaeE9STU9sdm5MekstSjdFT29ENVBEQWI5U2t3RzM3Y1Nlc3ZwWm9ScXo4eGFSRkUtVGNR0gHgAUFVX3lxTE9fcDNBUWI2V2F6cE50UmVJbjA4U1dSeFhuVGNjdGFMdkZYSkg4SmlYaFJfVjd5OE80cl95ZUd2R1NMbUtla1NqQ2E1WVdfT3F0ZlVjSkN4cHdSU09TODZDanYwX1E0Z3QxTXdUR3B1SGx6ckNuS1NnVTEtNU1RYmZuUU04ME5DanB3ZWptR2Y0ZzJHaVJ2YkpLQkt4djhtWnNxY0JEMUVENEpHV1NtSFNQSGR5SGVfeFZ1dWNMQjJ2SFZjOEFxdk5hV1FkUVZ5X3hxVUVhWThkcGM2VGVudUJx?oc=5",
+          "publisher": "Outlook India",
+          "published_at": "2026-11-12T08:06:11+05:00",
           "topic": "trade"
         }
       ],
-      "fetched_at": "2026-11-13T02:53:19.331099+05:00"
+      "fetched_at": "2026-11-13T09:13:49.998131+05:00"
     },
     {
       "id": "economy-2026-11-13",
@@ -136,7 +136,15 @@
           "title": "SBP reserves rise $11m to $21.6b",
           "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5PMXhfT0NPYkVnTXhpTzgzZXE0Rl92RG9GZW50YkswM0pzbFZOOFRsU2RhMUgyR1RtdWN3YXh2Y01VbGRHUlJwYWxKRjBKV29Vd0tIaVBOMUI1SWhXd1dWNFJtM3lqUWxCNnhNdHlzSkp3dU5v0gF8QVVfeXFMTTZxaUFMR0lFZVR1VDhHamN3aG9BVks3c1FRcFpVY1BnVllFbW5fWEZqMDFMXy02a3BYNXM3Y3VrTjMtRmRoTVlrOXEwLU1zdkNXT0ZmbGFTcW5XVUVoSm5IZnY0LWp5NFliMmFBektoMUpxRUxzV3RyeURZUA?oc=5",
           "publisher": "The Express Tribune",
-          "published_at": "2026-11-13T02:33:45+05:00",
+          "published_at": "2026-11-13T02:36:57+05:00",
+          "topic": "economy"
+        },
+        {
+          "id": "e18938e3fa6afcf0",
+          "title": "Uneven monsoons, El Nino pose upside risks to inflation; another RBI hike possible: Report",
+          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPOFBDZFVFM0p5WGZpOXRraW45MXNRZ2lGTFhuWWkzSmNGdWd5WDBoc1I3WDF6MGExYmNXdVV6WmVVUzVRRFNGTzhGTnhXTng2bW1HSGV4c2hEbVp1SWhONl9QTlRyb3VMdHBOeTlfLWZRRDRKbXRYQ3Y3T01IcTlhS3I1SFhYZ1FFWHdlczhyWWR3OGx4VkZwbDczVEkycW5ZSUZ4aVUxS3plUHMycTFlVGJrSjA1TkRkNjlNOHdTY1FMSUN4X1poNUp4NUdpX1l1TVRoenVXMDZiWUFoZWZGT3JfOWRnZmUzczV1d3lKcHJhZDhxQnZ0ddIB_gFBVV95cUxNcHV3Z0Y1ZHNLUEtkeWZkaGxvRko0RFgwZ3dtY0RfZ1l2eFJycXBYQ2gzU2lGbDNMdU9UVERoZHBJRHVWN2Q2QS1JakxTcEtYNnF3bE5pVGl4Sy1qZ0VDZmtpdXduSGl3NFZYeXN5YzJHaExNY19HakRCT1RaV0Y1bTAteDhMLWJ4MXVkVERMTk1fWkxobkVoYUdXRlVLNDRLVENnczBzXzVTeFFnZ2xEZGhDSDcxRDh4SWZLVlM0NFFvSFVlMW0yTDBELWhiVjFVcmN2blpBQTdPV3lqcWVuYzZZbW9fdjZtTWhnQTFYVGtyRl9JQXhoYlJuLWtaUQ?oc=5",
+          "publisher": "The Economic Times",
+          "published_at": "2026-11-13T08:35:34+05:00",
           "topic": "economy"
         },
         {
@@ -154,17 +162,9 @@
           "publisher": "The Hawk",
           "published_at": "2026-11-11T18:17:46+05:00",
           "topic": "economy"
-        },
-        {
-          "id": "519d6af127f9a9e2",
-          "title": "India's battered rupee finds an unlikely rescue party in cheaper oil and Wall Street's AI rout",
-          "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxOZ0JvUWMwSFYydzZNY0xrRWdOY1Z6SlY4Mms4LTY0T21JMzJXclpzczVMbm9aRkgwTlJyOC1WUlJfQ0dHektyeFp5REgwSy1MYlNCOS1UNklTc250QUdNajZxVEc3dVMxczQzZFM3Q1k4ZVRfclFIRkJDRzFLRFltTlNUS2V1Qi1EUHZEU1VHQjV4TW9tdk5YRGV1OXZYNmNpeWFIZnNZZXNaZERPd3FweWVzaE1UM0pNVTBCN1NFbFR3eld4T3BKeTl1Z3otbGxKU2xJM3d1aGZJT1pqUkNmRFdidDMyM01DbFNOVU5mNGZOb1JwbkJ2NlJEeUQtRV81czNmamlMV1M2cnVDdXg4VEY1UV9hNF9Oa0F1Y2Q1QlZTWlV4cUJmMNIBrgJBVV95cUxQeTRNT3JuVUQxSWpzR3Rzd1JxN2NrOWtCRTU0MDctbDF5cWlLTEZhNUpMRkEzLUJJcDl0LUp5bHZhYk1XdnVnb0hVenZncEl2aTJ6X0hrWmNpakxzZHdQWEpiSWoxZ3FHRkRPYjlnbmpiLXZtNTNtMDM2ZVp4MWJxSDVKc3RvOENZNm8tYUtOYURwR1NSMDFsenRSY3NlZkFUZ0dOdWpNaTZQclhpWGlBRVk4NjB1SElZWGsxenhSRGJMWEdUOFFJYUJNdnBNUW1uaEF3cmhTT1JMQzBLZDM5RGVZNnpLLXZqb0VDdzRNeWNtTDh5RHo5dkZmWHMwZ3gxT3RHODA3d0RUbnhGcVRxazFWQV9pV3lOLThScXNrOWRlMXdNdTVXQVp4ZlpSQQ?oc=5",
-          "publisher": "The Economic Times",
-          "published_at": "2026-11-11T07:35:44+05:00",
-          "topic": "economy"
         }
       ],
-      "fetched_at": "2026-11-13T02:53:19.331099+05:00"
+      "fetched_at": "2026-11-13T09:13:49.998131+05:00"
     },
     {
       "id": "business-2026-11-13",
@@ -182,27 +182,11 @@
           "topic": "business"
         },
         {
-          "id": "7e8e0925bb3c1f93",
-          "title": "Pakistan’s Sukuk issuance surges 113% to Rs4tr in 2026",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPNGxmSmh4MWNvV3VOWjlGY0ZQQWd3Z0Voay1tTm83TzJCYUxpbWxvZGVWYTdMZ0k3VmNraXFCTDNxZ3lBdGRSZ1ZCSzN5UnkwQkdHYU9wOUxzZ3c4QnZlc0JvdGpUbWhSdnpOb2tLYXE3UTlxZl9xdGJsdW1rc3ZuN3V5R2NFSkg3MlptcGk5d0tmYTJYWThuOEtHQ04?oc=5",
-          "publisher": "Investify",
-          "published_at": "2026-11-12T16:24:05+05:00",
-          "topic": "business"
-        },
-        {
           "id": "8af717580e2b3a1f",
           "title": "Balochistan’s Mineral Wealth and Investment Potential Take Spotlight at Pakistan Minerals Investment Forum 2026",
           "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE85THZEODNxRjBkOTBrMW9yQXktSzRnQmk4V3c0UUlRa2pGQkNqenlBSHNkUzBnWWxXcmRnNmJROFV1ckhxTVpvVHR0UDZ1Sk5rRGhGUzFnRmh0UmpGQ1ZkN1hOM0RXbTJwR2dJVDJMVGdqNnNUYnI5SWZB0gF6QVVfeXFMTzlMdkQ4M3FGMGQ5MGsxb3JBeS1LNGdCaThXdzRRSVFrakZCQ2p6eUFIc2RTMGdZbFdyZGc2YlE4VXVySHFNWm9UdHRQNnVKTmtEaEZTMWdGaHRSakZDVmQ3WE4zRFdtMnBHZ0lUMkxUZ2o2c1RicjlJZkE?oc=5",
           "publisher": "Balochistan Pulse",
           "published_at": "2026-11-12T17:53:48+05:00",
-          "topic": "business"
-        },
-        {
-          "id": "e6e22beaf24b1145",
-          "title": "Pakistan says exploring mineral cooperation with Saudi Arabia as joint studies continue",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQaTRUZFVBdGQ3X0pqWGNDS0VWSGdTTWxzLXl5TjdMNVpIbnVQX1E2dWRaeG1zT2s3a2JwNHktd1I1NlFKMjBnQ21RcFFCb2RhX2ZMOFRhMnROcXVISmR6TEluZzBDVXp4TllrbkVFM0xHV0s5STVfUjJmMXJ6SUd4Umo0ZVAteWF2UEw5MkdIRTlXMVY5c21pcThqSHZiaEZqZmlOakl4enptNEJ6NXRfZ2NMVEVYR3pDRWxydDB5TzhfcnJpX0Fn?oc=5",
-          "publisher": "Arab News PK",
-          "published_at": "2026-11-12T20:03:12+05:00",
           "topic": "business"
         },
         {
@@ -214,19 +198,27 @@
           "topic": "business"
         },
         {
+          "id": "3b3db4be1975f016",
+          "title": "Wood Mackenzie explores investment opportunities",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSnNsOHA5RXE1WlMzbS1pcGNXY3B5YXA0S1dIQkZfT2hVLTl3bGpVU0pEY0hVYnB4azVGT2pHR0h1bzlnU1BqcnpBZmg3Vi00VEhUcEh2a19LYVVmLTl6Smk0aHcxS25pX0h0bjRjTXFLYW9JZFpSTWNyQ043Q1BLTEFtR0JFR3lBQkxaVk9rcHpqVE1mN0E?oc=5",
+          "publisher": "Investify",
+          "published_at": "2026-11-13T07:28:42+05:00",
+          "topic": "business"
+        },
+        {
+          "id": "e6e22beaf24b1145",
+          "title": "Pakistan says exploring mineral cooperation with Saudi Arabia as joint studies continue",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQaTRUZFVBdGQ3X0pqWGNDS0VWSGdTTWxzLXl5TjdMNVpIbnVQX1E2dWRaeG1zT2s3a2JwNHktd1I1NlFKMjBnQ21RcFFCb2RhX2ZMOFRhMnROcXVISmR6TEluZzBDVXp4TllrbkVFM0xHV0s5STVfUjJmMXJ6SUd4Umo0ZVAteWF2UEw5MkdIRTlXMVY5c21pcThqSHZiaEZqZmlOakl4enptNEJ6NXRfZ2NMVEVYR3pDRWxydDB5TzhfcnJpX0Fn?oc=5",
+          "publisher": "Arab News PK",
+          "published_at": "2026-11-12T20:03:12+05:00",
+          "topic": "business"
+        },
+        {
           "id": "5bfed608daab9036",
           "title": "Pakistan Highlights Mineral Wealth as Investment Forum Opens in Islamabad",
           "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOS19CUmE3SEdWTkJYdG5TanNHeWZMMEJZdU0xMGYySUZNRlUzaENFN0RzX1IweWdfbmtvOGEyMXduVFRsMW5jajNTWERiS19qZmViYmFZNGE4V21VLVRWMWlDWlZZeWpfeW5xWlI3VjBVODNNOW5MMWxwekdBOEJiODFQRUw5RDdwRDctenktLVlBRGlPOW85b0V3?oc=5",
           "publisher": "The Diplomatic Insight",
           "published_at": "2026-11-12T15:38:03+05:00",
-          "topic": "business"
-        },
-        {
-          "id": "41e1580298f4d8e3",
-          "title": "Pakistan's Sukuk market grows 22% annually, foreign investment remains weak",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSFN6QjJSSnZxWVZCNWhjU190WDBvVEhfenB3akV3c3E2VTN2TjZ4RlFmSzJmVldETmxSdHM3dXBpZVlkTXM3TDBiYTExV1VKZ3hNNE9nci1VQk0wQm1nTFIyTVU5T2thdV9vQVExSVB5UENQc2R0Z2hNeXQ4QUdzYUo1WnhyY3AtSmlVSFNKTHZUdk5wNzNnQkp3OTEwZ01WdlkxMzNTSWRuR01feDJiU0MxM1lhUnc?oc=5",
-          "publisher": "Investify",
-          "published_at": "2026-11-12T21:46:52+05:00",
           "topic": "business"
         },
         {
@@ -236,9 +228,17 @@
           "publisher": "Minute Mirror",
           "published_at": "2026-11-12T17:01:54+05:00",
           "topic": "business"
+        },
+        {
+          "id": "7eea0c2bdf7e82bf",
+          "title": "DIIL Company Announcements - Diamond Industries Ltd",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE55Z0pDcV9YenFsbjlUbE5lRHBpRll6cGZ1ajdUQkZSZWgtZDZOaV8wY1pXbmd4b01Gd19iUjl6eWc4WnZLR1Q2OVpnWWdvR2NXTGJlYkZHTUt5N2IyTUF5MQ?oc=5",
+          "publisher": "Investify",
+          "published_at": "2026-11-12T16:26:38+05:00",
+          "topic": "business"
         }
       ],
-      "fetched_at": "2026-11-13T02:53:19.331099+05:00"
+      "fetched_at": "2026-11-13T09:13:49.998131+05:00"
     },
     {
       "id": "trade-2026-11-12",
