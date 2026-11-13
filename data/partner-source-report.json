@@ -1,18 +1,18 @@
 {
-  "checked_at": "2026-11-13T21:19:36.584309+05:00",
-  "quotes": 10202,
+  "checked_at": "2026-11-14T02:29:23.241655+05:00",
+  "quotes": 10539,
   "checks": [
     {
       "store": "Chase Value",
       "url": "https://chasevalue.pk/products.json?limit=100&page=1",
       "status": "parsed",
-      "offers": 546
+      "offers": 611
     },
     {
       "store": "Chase Value",
       "url": "https://chasevalue.pk/products.json?limit=100&page=2",
       "status": "parsed",
-      "offers": 673
+      "offers": 741
     },
     {
       "store": "Naheed",
@@ -41,8 +41,8 @@
     {
       "store": "Naheed",
       "url": "https://www.naheed.pk/groceries-pets/baking-cooking/flours-meals",
-      "status": "fetch failed; dated offers retained",
-      "error": "The read operation timed out"
+      "status": "parsed",
+      "offers": 32
     },
     {
       "store": "Paklap",
@@ -60,13 +60,13 @@
       "store": "Metro",
       "url": "https://metro-online.pk/",
       "status": "parsed",
-      "offers": 224
+      "offers": 223
     },
     {
       "store": "Foodpanda / Kifayah",
       "url": "https://www.foodpanda.pk/shop/a036/kifayah-supermarket-pechs",
-      "status": "parsed",
-      "offers": 90
+      "status": "no verified quotes",
+      "offers": 0
     },
     {
       "store": "OLX",
@@ -84,7 +84,7 @@
       "store": "OLX",
       "url": "https://www.olx.com.pk/items/q-sofa",
       "status": "parsed",
-      "offers": 31
+      "offers": 33
     }
   ]
 }

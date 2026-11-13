@@ -1,8 +1,8 @@
 {
-  "checked_at": "2026-11-13T21:20:06.514212+05:00",
+  "checked_at": "2026-11-14T02:29:31.760321+05:00",
   "checks": [
     {
-      "topic": "economy",
+      "topic": "business",
       "status": "updated",
       "headlines": 8
     },
@@ -12,12 +12,234 @@
       "headlines": 8
     },
     {
-      "topic": "business",
+      "topic": "economy",
       "status": "updated",
       "headlines": 8
     }
   ],
   "posts": [
+    {
+      "id": "trade-2026-11-14",
+      "topic": "trade",
+      "date": "2026-11-14",
+      "title": "Trade news briefing · 2026-11-14",
+      "context": "Trade and customs developments can affect landed costs and delivery times. Check the original notification, effective date and product classification before applying a reported change to an item.",
+      "headlines": [
+        {
+          "id": "7b4e36a0ac375eab",
+          "title": "Why has Pakistan often had a trade deficit?",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPQ0JndWlIMUR4aGU5cG4tdXBKVm9KTTJseVVURTN3M1d6VS1QdWVDbDhxSlJiSU9maDRFQ1NqaExvek1tVnJWeVRYclFJeUxOeS1qUUFwS2dMdkFfdDVBLUIxemh0bEZxTVRZQ2N2UEZUZDdIWUdsRFlObnp2cDRTeA?oc=5",
+          "publisher": "Britannica",
+          "published_at": "2026-11-14T00:52:31+05:00",
+          "topic": "trade"
+        },
+        {
+          "id": "34b1431b158bba69",
+          "title": "Pakistan’s Export Crisis: Why EU Sustainability Rules Demand A Governance Revolution",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVURYNzRsWDFfZ3ZGVldlQjNBemxwYkp3V2V3SGstVlllMl9lYnMtY2QyclNpS1NJOUdXbnZiSGVwQ0UtSHA0X2VEam5BRTBIUlhkNVNObThsWmwtelNkU0x6QkIyVlJ3TDhVMlRZX3EwREhtSjQyRmM0TDhMTDA5ZEk5ZEhBVHNZUEF4eXRTUGpqMVYxeG4yTEp3Y0Jna3N5TUpEbEl3Z3FKNHZnaUM5U2cxNVp3RUhfMkpreQ?oc=5",
+          "publisher": "The Friday Times",
+          "published_at": "2026-11-13T17:11:00+05:00",
+          "topic": "trade"
+        },
+        {
+          "id": "c26e684fb96c8892",
+          "title": "Auto policy envisages indigenisation, export growth: PM's Adviser Haroon",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdkk1YjNmQnVuQ051cEtEemd4MWpNVER5UjVBSlpaSnExa2JuaDF0YmwzMFNZcklQejlyMnpZbEpTVE9rT1I3aTNZTkF3dnhXdktkVmtLUzJtYnprcW1HLVdnX2cxN0pLWU44MU5uNHR6cXY1bW83V0ZEUEZ5T0xWTkFnREZUMm5ETC1fYl9UekJwT2UzRkR0VG1PdjlPbEZpT0xOLTF5bnd5Qlg1Zm9nc2xubw?oc=5",
+          "publisher": "Investify",
+          "published_at": "2026-11-12T09:09:46+05:00",
+          "topic": "trade"
+        },
+        {
+          "id": "30e8bd4a0280b196",
+          "title": "Auto policy envisages indigenisation, export growth: PM's Adviser Haroon",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1hcjJLVndwRGl5YnZPZThoMEszaU9zcUJXS0hsWXpoWGFjTkF6SnktYzJ0cmQwZnZxYjZaUGViczVYVC1Ja2lJZA?oc=5",
+          "publisher": "Dawn",
+          "published_at": "2026-11-12T06:48:18+05:00",
+          "topic": "trade"
+        },
+        {
+          "id": "374ee2c594ca0ade",
+          "title": "Why you should wait before buying a car this month",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5abzJicGhQNW5mNnFjZXpvZzJiM01XbTBUWUNHRHVnNW5fZUF3ZDJUaHNlUGYzMkVBLW5qYjU2bGZZY0U3TG0wcFV0ZU5FcTNQN25YTFR4YmlobHYzMVFIUngzanRSTjlYdW5nUDZ1Uk1RaDFqSjVGdQ?oc=5",
+          "publisher": "Mettis Global",
+          "published_at": "2026-11-12T14:47:00+05:00",
+          "topic": "trade"
+        },
+        {
+          "id": "a2e623467bf30eb1",
+          "title": "Hong Kong Trade Volumes Surge in September 2026: Exports Up 36.1%, Imports 30.7% - News and Statistics",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWVZXMmM2dTkxOTVXbVVJamMyZDhUcy1XTXJ1RS1iXzFMR2x6SkhvTEY2R0FaRjFtcmdlVEk5V2lZSkxrRzROLUdWeW9KR1M3cGF5WjVCYTVNUGN5UldqTk9laEtRV01kYUFRN3dqZXBZbllvaVZBUXdRaUFMVng3R05Bbm41bGFUeUJTUHZ1VS1kSk8yS3IyVHU3Wk1ONDA?oc=5",
+          "publisher": "IndexBox",
+          "published_at": "2026-11-12T15:02:44+05:00",
+          "topic": "trade"
+        },
+        {
+          "id": "2d6356ce7c95b812",
+          "title": "Haroon highlights salient features of auto policy",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZUFXNl9oanVuaHF3MXdxdWFYRTNHc1l0ckt0dGg4UlRlaHVtRmRweXQwRUlVbEp2eC00NktwNDhOSFpNd2tiY3k1bDFJVVN2UEQ0emlFOWRTdVdtWGdlVGYtS2ZieU5wZDFwNFNIX2l1NzZNN0pZTmFqek9ZcHE5M0NLa1A2MFBmSVVPaXYtS2xCNS1BRmZV?oc=5",
+          "publisher": "Investify",
+          "published_at": "2026-11-12T07:55:09+05:00",
+          "topic": "trade"
+        },
+        {
+          "id": "4c89970de0c1554e",
+          "title": "LCCI stakeholders urge uniform Customs valuations and faster import clearance",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcHl2YWFRRGFmQlE1SVU1eHl1aU93ZUN6RGszWW1LNGktWkdaM0ItTVZkdkpFUkYyUDFKcC13Zkl4XzJyb295ZFFTNXpZa0FoS3JVbmQ5RU4taGJTWEhzWmVkME40VmgyMUNoV1ptMS1vbXZ1U28yVXpKcHRPcTlCY2psRTYtcXVobW1uNkZOc0N3YzJEOFB3T1BTVQ?oc=5",
+          "publisher": "UrduPoint",
+          "published_at": "2026-11-13T20:35:05+05:00",
+          "topic": "trade"
+        }
+      ],
+      "fetched_at": "2026-11-14T02:29:31.760321+05:00"
+    },
+    {
+      "id": "economy-2026-11-14",
+      "topic": "economy",
+      "date": "2026-11-14",
+      "title": "Economy news briefing · 2026-11-14",
+      "context": "Watch how inflation, currency movements and borrowing costs may affect household budgets and import costs. A headline alone does not establish that a retail price has changed.",
+      "headlines": [
+        {
+          "id": "d7c627f2f2d3cd11",
+          "title": "Indian rupee slips with traders clinging to equity cues, awaiting inflation data",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8xTFpRWEtNMDNYdi1tdVp3aG5JMjVvcDZFMkhWcFdWX1kwcnoxaXhHTWZCdENRZGFyNEhYUTd2NTFBTkJtV3lwTFppd0NKNVVaNHh0RDF1WWHSAVZBVV95cUxPNk5CVm5rUDRMXzBKQ1lEaU5CS19FLTFlaWNUTFE2eUxobElmNFdwVnItQ19aUjU2N0dyekk5RHVwTGVRMTZ5Ym1fTk1ZR2NjUWdGSXItdw?oc=5",
+          "publisher": "Business Recorder",
+          "published_at": "2026-11-12T15:36:42+05:00",
+          "topic": "economy"
+        },
+        {
+          "id": "b4dda620804bdb5c",
+          "title": "Uneven monsoons, El Nino pose upside risks to inflation; another RBI hike possible: Report",
+          "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPXzl6LV9fRlFkOWpwOTVFWDZ6UHlsM1liZnBGWUQ2U19wQ2lROGc1X0UtQ1U4YzBXcFFMTUEzNkRpY0hxUjRyX0loVWtVYVpaM01iZ1k1dE14akhuSEtPNEk1MURLTGVkUkhsNjFFQmJBdGdPLVZIdURIRjJBeTN3WU5WbDJmZ0N4T01mWDE4YmJPQy1EUVJfM1RDSzRBWnFxRk1MWG9sZHV0OVJhT1hxVkx0LWsxMnh3NVRQdUI2dTRqdnRxd240czUtQ0hJOHU5cXV3MGI0UGNIMk1jbGJaY3Y5LVl6eGJxcnZhbkhyUDA2aUlPZjJ5c2NoNFlOTUt6TVAtVw?oc=5",
+          "publisher": "The Economic Times",
+          "published_at": "2026-11-13T08:35:34+05:00",
+          "topic": "economy"
+        },
+        {
+          "id": "645a8b4c7e4f9f97",
+          "title": "Food inflation to stay elevated; ICICI Bank sees 25 bps RBI rate hike in December",
+          "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOcXdKYzdpcnhkZlZLNmRyRHRfbmRZQzhoc3NhRUFLakYyOFdLWl9rdVYxelhfdFZIb2xUS0FhNWFPZEZ4NmdGOV9CdkVYeW85Q1RMc1RsZ1R5MGtwTHVSdS1aVDlsWmZpNV9NcHNKS3pHX1paXzY1Z1RPN2VlSHdKTHNuVllMbDNqazZlWE02WkNTTG01aWxCLXh5ZkxETTVYeVBSSFpkVExPZG92aGc2TTRlQU1YUGZtYThjTlhFZXVkazlXY01qRk9yeHE4V1kzMEpKRUhYckF1SzluVk1KeFUySEk1ZFNNWHNRWldHaHRPY0t1bWw1OFZNTdIB9AFBVV95cUxNRjRvbklnQkJsSkg4cmxvdE81czJnSFpfMnBRVEhrdWZzWWxMV3RtLWFhUzRaQlNIWnN1WHpfcU9uV2dwYnpjNW1DRDZKUFlRVjFxempwNTlKdzdJMDNzLVVkY3B0Sy1LM2lwSEt3NVNhSGF6eDVqRkRtcTBMLUlyN1hGYzhJOXpvZmNvU0F3N3JQN2RUTTVMMTFfYUVTTmZ0NEJ4Y29yblpjYndNRDJlX0ktR1NiRXJIYndyMUFocTduYl9ubGNMNi1pWG13S2VkRVNtbWluc2xpQ2JiVTNJWms5R3RsbDR3SF90TDRGVVNzT05z?oc=5",
+          "publisher": "The Economic Times",
+          "published_at": "2026-11-13T09:36:54+05:00",
+          "topic": "economy"
+        },
+        {
+          "id": "5f207fe465c8b9b9",
+          "title": "Retail inflation may remain above 6 pc for next few months; economists see possibility of rate hikes",
+          "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQbDBIYV83SVJwMW9VNW9qWU1qakFDTVZMZ2xVYV84MzMtQUhLWHA3a04ySHAxX0VRSURpam9IZU9qaGt1WXFrWG1meDBubXBHOENmdlRzLTF6QktVaFhJc2J3WjhVX1hxV2ZxWE9OeE1vZ1I2R3AwNk40Y0V2dG11YnNrX3FmTUdLQUlOeU0tME1yd1Z2M09XMC1DTEdmTC1HQkt4elJXZnpzamJ6NndrUzNOWDAwNmtBVkEyc2dVblg4cHdEQVpWdllrTHJ6bkxpNG9FYzJHZU8xZHhfbXpXYjgtQ1VLR1FNV3p2SmlINks1Ni1ITmxmLWRxaF9lVUFOeXdBTm5LaHZOVXpLemhIUzZCNFU?oc=5",
+          "publisher": "The Economic Times",
+          "published_at": "2026-11-12T21:02:43+05:00",
+          "topic": "economy"
+        },
+        {
+          "id": "97c81e4b5730cb7e",
+          "title": "AI can boost productivity but pose risks to India's IT sector: Moody's",
+          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOQlBrenQ3OFBqU2gzNERwRHFleGxWbGN0Um44VzdWRFMwUTBxOW15WUhjTm1GSUdEYW9ld0pwbW5GUWRONURZMlJVeUxJNDZNY00wMVBLaVQ5SkdnYnZsbTBJZWkwbFJ6RUVQTzJ0RnFsTURYVDdhOGFUdjJoazUxbUhlZDZMSWpzYV90aGRCSFlQSG9wVHI5NFBFckFjbUlNWm1RRFpUTmY1ZzBhOWk0bVdnV0hudmxTcklqOGlncWRZazhnUlVXVXAtdWwtUHMzRHVjNWdPWDRPYVdPcGQyV0UxaG5kS2pyTVHSAeMBQVVfeXFMT04xMXI1b1E3Uk9vbi1qTnlzQ0c0VXp3T3dvX2F1WDZfS1VJNndHRE5sOEtHNzljaWVvMGFzUlN6WkFILU9zVmd0aGlia1dva3M0eVVlaGVVT3hSLU9scHlkVXlIMXVJdEZ0UHpjdXBka3hqcE5EZGpmenV4MlMyU0JORE1pYkowMWduVDJoT2hpOVpLLXZTY1FtaU1EcS02YmFzeXlLaGo1Sm13Z2o3SHU1RE15ZHlmaldEaTU5MDFybDRtQ2JwbzFzdFlsN0VoaXNRYXZHSjMzSzBvR01KcG9Vd3M?oc=5",
+          "publisher": "The Economic Times",
+          "published_at": "2026-11-13T00:33:37+05:00",
+          "topic": "economy"
+        },
+        {
+          "id": "84db2c419fae260a",
+          "title": "Trump’s midterm setback: Why India may gain on trade and oil, yet face new diplomatic tests",
+          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOS0h0bUREUjRNaWd6LURUMWZxY0xLa2ZuNldnYTFnandOUldSN2QtVGZERmY3Z0o5MWVLVFpkZGVrZ1JZV19lVk9GSE9hLXNXdUxMZy1ZR1BnTEVjSkJyYVFZZ0M1b0c2c2ZsV1JzdEREek1ZU25NYlpVWUFTZWtzLWxpc3AtX1ZsWTlTWjBidDRtcXctanBraVNLTGNsMUJqTGxaTnpCMU1GT0Z6RkFKR3VGOU5DbWROb1pMOFJzdjhLWi1jOG5ZSU40VFJJc3VTTUo3cDhvdGdxa0J0bzdhODY1X1pKY3Y4ZkHSAeoBQVVfeXFMTktIdG1ERFI0TWlnei1EVDFmcWNMS2tmbjZXZ2ExZ2p3TlJXUjdkLVRmREZmN2dKOTFlS1RaZGRla2dSWVdfZVZPRkhPYS1zV3VMTGctWUdQZ0xFY0pCcmFRWWdDNW9HNnNmbFdSc3RERHpNWVNuTWJaVVlBU2Vrcy1saXNwLV9WbFk5U1owYnQ0bXF3LWpwa2lTS0xjbDFCakxsWk56QjFNRk9GekZBSkd1RjlOQ21kTm9aTDhSc3Y4S1otYzhuWUlONFRSSXN1U01KN3A4b3RncWtCdG83YTg2NV9aSmN2OGZB?oc=5",
+          "publisher": "ET Government",
+          "published_at": "2026-11-12T11:46:56+05:00",
+          "topic": "economy"
+        },
+        {
+          "id": "888ecbffeb72cd0e",
+          "title": "SBP reserves rise $11m to $21.6b",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5PMXhfT0NPYkVnTXhpTzgzZXE0Rl92RG9GZW50YkswM0pzbFZOOFRsU2RhMUgyR1RtdWN3YXh2Y01VbGRHUlJwYWxKRjBKV29Vd0tIaVBOMUI1SWhXd1dWNFJtM3lqUWxCNnhNdHlzSkp3dU5v0gF8QVVfeXFMTTZxaUFMR0lFZVR1VDhHamN3aG9BVks3c1FRcFpVY1BnVllFbW5fWEZqMDFMXy02a3BYNXM3Y3VrTjMtRmRoTVlrOXEwLU1zdkNXT0ZmbGFTcW5XVUVoSm5IZnY0LWp5NFliMmFBektoMUpxRUxzV3RyeURZUA?oc=5",
+          "publisher": "The Express Tribune",
+          "published_at": "2026-11-13T02:36:57+05:00",
+          "topic": "economy"
+        },
+        {
+          "id": "149c916d1ba27729",
+          "title": "RBI likely to hike rate by 25 bps in Dec, not 50 bps: Report",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcTVZdXZKZnFvdzlST3MwLWhPMDlxVHptT2RMcnR4UVJMZWpTRGRMcWZlSW16bWw0TjVpUjlKdzl0VVJBYVZmWWpDYm1naXI4ZmgxQ1lLa25pbE1POFEwUkFOTy1iTG1KWVpsVERoRUZaQkYyUE42bTU0eWxNRi0yc3JUal9VckRIYmdTaHhhZ0FZSDZYRTBSSFlmMU1fUTJoSDZjT2xkY0llZTFaOGQ3Wk5kVnJQZw?oc=5",
+          "publisher": "The Hawk",
+          "published_at": "2026-11-13T10:38:33+05:00",
+          "topic": "economy"
+        }
+      ],
+      "fetched_at": "2026-11-14T02:29:31.760321+05:00"
+    },
+    {
+      "id": "business-2026-11-14",
+      "topic": "business",
+      "date": "2026-11-14",
+      "title": "Business news briefing · 2026-11-14",
+      "context": "Company and industry developments can affect supply, stock availability and competition. Compare dated supplier offers before making a purchase decision.",
+      "headlines": [
+        {
+          "id": "7d204cad4d56032b",
+          "title": "Pakistan-China Investment Deals Target CPEC 2.0 Growth",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcmFWYlR1eFVGZ2lyOUJrSl9Wa1VORHhNSzF0dDFUQmtiSEdPOE1FVVd3bzNpc1hWNWpXSEI2OXVfUG9pYWtyOEpMckgzOG5Td1F6MnhQdVRhQnQ1TXkwUDVaN0gzTEkzajg1UmxGVm94dXhPZi1xN3lsSUI1YjdtaGtwYmtvbE0?oc=5",
+          "publisher": "The Daily CPEC",
+          "published_at": "2026-11-13T13:46:06+05:00",
+          "topic": "business"
+        },
+        {
+          "id": "b96cc38e24af9fb2",
+          "title": "Shanghai investment agreements set stage for deeper Pakistan-China industrial cooperation",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTU0ySGJhZWZUWGs1UkxRZWkzY2g0bEVaUWRyT2l6YWhtbHNTSjVNdzFuRUozaXVQSXk2UVF1VkFJakFqX3dfVG1HNnV0WDZSejVzQXZxX1VKa3ktc1d0RnBWSlBwY2ExMjd1SDFKVWNub0dtRkF0QkluU2h3RHNPajZIamRFX0gyejgtTnU5UVR0djhuN3l1V1Z6TFh4aHBPVHFlV2xDR0dUN0RSYTVTbA?oc=5",
+          "publisher": "https://cpecinfo.com/",
+          "published_at": "2026-11-12T17:30:57+05:00",
+          "topic": "business"
+        },
+        {
+          "id": "8af717580e2b3a1f",
+          "title": "Balochistan’s Mineral Wealth and Investment Potential Take Spotlight at Pakistan Minerals Investment Forum 2026",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE85THZEODNxRjBkOTBrMW9yQXktSzRnQmk4V3c0UUlRa2pGQkNqenlBSHNkUzBnWWxXcmRnNmJROFV1ckhxTVpvVHR0UDZ1Sk5rRGhGUzFnRmh0UmpGQ1ZkN1hOM0RXbTJwR2dJVDJMVGdqNnNUYnI5SWZB0gF6QVVfeXFMTzlMdkQ4M3FGMGQ5MGsxb3JBeS1LNGdCaThXdzRRSVFrakZCQ2p6eUFIc2RTMGdZbFdyZGc2YlE4VXVySHFNWm9UdHRQNnVKTmtEaEZTMWdGaHRSakZDVmQ3WE4zRFdtMnBHZ0lUMkxUZ2o2c1RicjlJZkE?oc=5",
+          "publisher": "Balochistan Pulse",
+          "published_at": "2026-11-12T17:53:48+05:00",
+          "topic": "business"
+        },
+        {
+          "id": "85ef4df9e36e06e0",
+          "title": "Mansha's Nishat Group to invest in Pakistan's new port",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOX1lVaW94Sk5HMmVuczVhTXRxWk9oQ2VuY0NLVGQtVFhHV25iRzYtQmRITmpNRFg2aVd4bFk1NXU0WFZncjRWYWZxS3BGNmJFOXlNenlTVGUweHJGdDB4ekhoZmw4SHV4RjI0Vjc1MVJYMFBkcnVNN200RlB3WFlVbmV1RXBJQmFMWUVoczZGM08wZlNWX1JVR2k5d05BQQ?oc=5",
+          "publisher": "Investify",
+          "published_at": "2026-11-13T12:19:51+05:00",
+          "topic": "business"
+        },
+        {
+          "id": "a31ba675423b7b0c",
+          "title": "Pakistan pitches mineral wealth to global investors",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1YOF96anNadzQtMnBsaWt1M2x5Q3o2NklKSTgwOGlvZmJEZlY4cmpVNW5qMUxMNGQtQ2NWTlhZanVNeGZLcV9hMw?oc=5",
+          "publisher": "Dawn",
+          "published_at": "2026-11-13T06:58:07+05:00",
+          "topic": "business"
+        },
+        {
+          "id": "e6e22beaf24b1145",
+          "title": "Pakistan says exploring mineral cooperation with Saudi Arabia as joint studies continue",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQaTRUZFVBdGQ3X0pqWGNDS0VWSGdTTWxzLXl5TjdMNVpIbnVQX1E2dWRaeG1zT2s3a2JwNHktd1I1NlFKMjBnQ21RcFFCb2RhX2ZMOFRhMnROcXVISmR6TEluZzBDVXp4TllrbkVFM0xHV0s5STVfUjJmMXJ6SUd4Umo0ZVAteWF2UEw5MkdIRTlXMVY5c21pcThqSHZiaEZqZmlOakl4enptNEJ6NXRfZ2NMVEVYR3pDRWxydDB5TzhfcnJpX0Fn?oc=5",
+          "publisher": "Arab News PK",
+          "published_at": "2026-11-12T20:03:12+05:00",
+          "topic": "business"
+        },
+        {
+          "id": "5bfed608daab9036",
+          "title": "Pakistan Highlights Mineral Wealth as Investment Forum Opens in Islamabad",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOS19CUmE3SEdWTkJYdG5TanNHeWZMMEJZdU0xMGYySUZNRlUzaENFN0RzX1IweWdfbmtvOGEyMXduVFRsMW5jajNTWERiS19qZmViYmFZNGE4V21VLVRWMWlDWlZZeWpfeW5xWlI3VjBVODNNOW5MMWxwekdBOEJiODFQRUw5RDdwRDctenktLVlBRGlPOW85b0V3?oc=5",
+          "publisher": "The Diplomatic Insight",
+          "published_at": "2026-11-12T15:38:03+05:00",
+          "topic": "business"
+        },
+        {
+          "id": "3b3db4be1975f016",
+          "title": "Wood Mackenzie explores investment opportunities",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSnNsOHA5RXE1WlMzbS1pcGNXY3B5YXA0S1dIQkZfT2hVLTl3bGpVU0pEY0hVYnB4azVGT2pHR0h1bzlnU1BqcnpBZmg3Vi00VEhUcEh2a19LYVVmLTl6Smk0aHcxS25pX0h0bjRjTXFLYW9JZFpSTWNyQ043Q1BLTEFtR0JFR3lBQkxaVk9rcHpqVE1mN0E?oc=5",
+          "publisher": "Investify",
+          "published_at": "2026-11-13T07:28:42+05:00",
+          "topic": "business"
+        }
+      ],
+      "fetched_at": "2026-11-14T02:29:31.760321+05:00"
+    },
     {
       "id": "trade-2026-11-13",
       "topic": "trade",
