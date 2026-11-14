@@ -1,6 +1,11 @@
 {
-  "checked_at": "2026-11-14T02:29:31.760321+05:00",
+  "checked_at": "2026-11-14T09:22:44.535780+05:00",
   "checks": [
+    {
+      "topic": "economy",
+      "status": "updated",
+      "headlines": 8
+    },
     {
       "topic": "business",
       "status": "updated",
@@ -8,11 +13,6 @@
     },
     {
       "topic": "trade",
-      "status": "updated",
-      "headlines": 8
-    },
-    {
-      "topic": "economy",
       "status": "updated",
       "headlines": 8
     }
@@ -42,22 +42,6 @@
           "topic": "trade"
         },
         {
-          "id": "c26e684fb96c8892",
-          "title": "Auto policy envisages indigenisation, export growth: PM's Adviser Haroon",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdkk1YjNmQnVuQ051cEtEemd4MWpNVER5UjVBSlpaSnExa2JuaDF0YmwzMFNZcklQejlyMnpZbEpTVE9rT1I3aTNZTkF3dnhXdktkVmtLUzJtYnprcW1HLVdnX2cxN0pLWU44MU5uNHR6cXY1bW83V0ZEUEZ5T0xWTkFnREZUMm5ETC1fYl9UekJwT2UzRkR0VG1PdjlPbEZpT0xOLTF5bnd5Qlg1Zm9nc2xubw?oc=5",
-          "publisher": "Investify",
-          "published_at": "2026-11-12T09:09:46+05:00",
-          "topic": "trade"
-        },
-        {
-          "id": "30e8bd4a0280b196",
-          "title": "Auto policy envisages indigenisation, export growth: PM's Adviser Haroon",
-          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1hcjJLVndwRGl5YnZPZThoMEszaU9zcUJXS0hsWXpoWGFjTkF6SnktYzJ0cmQwZnZxYjZaUGViczVYVC1Ja2lJZA?oc=5",
-          "publisher": "Dawn",
-          "published_at": "2026-11-12T06:48:18+05:00",
-          "topic": "trade"
-        },
-        {
           "id": "374ee2c594ca0ade",
           "title": "Why you should wait before buying a car this month",
           "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5abzJicGhQNW5mNnFjZXpvZzJiM01XbTBUWUNHRHVnNW5fZUF3ZDJUaHNlUGYzMkVBLW5qYjU2bGZZY0U3TG0wcFV0ZU5FcTNQN25YTFR4YmlobHYzMVFIUngzanRSTjlYdW5nUDZ1Uk1RaDFqSjVGdQ?oc=5",
@@ -66,19 +50,27 @@
           "topic": "trade"
         },
         {
-          "id": "a2e623467bf30eb1",
-          "title": "Hong Kong Trade Volumes Surge in September 2026: Exports Up 36.1%, Imports 30.7% - News and Statistics",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWVZXMmM2dTkxOTVXbVVJamMyZDhUcy1XTXJ1RS1iXzFMR2x6SkhvTEY2R0FaRjFtcmdlVEk5V2lZSkxrRzROLUdWeW9KR1M3cGF5WjVCYTVNUGN5UldqTk9laEtRV01kYUFRN3dqZXBZbllvaVZBUXdRaUFMVng3R05Bbm41bGFUeUJTUHZ1VS1kSk8yS3IyVHU3Wk1ONDA?oc=5",
-          "publisher": "IndexBox",
-          "published_at": "2026-11-12T15:02:44+05:00",
+          "id": "b09a375cf084fdb3",
+          "title": "India's exports jump 29.9% to $89.99 billion in October; overall trade deficit narrows",
+          "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxORlQ4eEFNUWktZ1RzLUYyY2RiXzVpT2hkZ1ZRNjhzVGk1Tl91c1Z3Y3ZHekxDZWJLSU9fcW56TTNTNVNBWGpCS2V0VUxJVXFXM0hLQ3dkUlgyLTdVVUYyWnZqZmp1SHlXdlBPTWlCUk9CZkRsX2NjaXZlTnZEaFlvNnRIWXlUblZKYUxSdE1iczQ3bGtzbkNzQ3p3SkM1S3Z1Z19XZWh6T0RQMWxlNTYyb25tU2d6dGtOX1I0Q1RuNzZBdGxJZGlTTzlYcTU4RmtBbXI5eGpUT1VPTHBOS0gtVjZoRjdQcGo3TTNvMXIxUWhuc0t2azl6RklSRFjSAYICQVVfeXFMTlJfRUlLYUtraVVyN1JoWnM2dUFYbG0yQURaVDBGdTN2eml2Q1JWNUtfSWEzNWpYVUJYTnY1YTh6RzVBOGk1VExVLUJqOU41Yjg4ZHl6UE84X0N3c1NMQ1lJWDJNZzBOOE85MlYwZFFIOVllcTFQcEo3N05yamx1Smd5dnctY3RGQnE5TjZRRnBIQllKOWphd3lmd3c5dDlyNTUwcXBodVpFYkUwZmtfbElJb01zcXRNdHVQcW9taDk3MjhNUGpGNGFGV0RWcHJNN3pWQVFhRV9mdHJGQklRVy1ETFRENUk3T2d0RWx4WDRkdV9fOW9NMVBUQTdQWUZzYmRB?oc=5",
+          "publisher": "The Times of India",
+          "published_at": "2026-11-13T14:34:00+05:00",
           "topic": "trade"
         },
         {
-          "id": "2d6356ce7c95b812",
-          "title": "Haroon highlights salient features of auto policy",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZUFXNl9oanVuaHF3MXdxdWFYRTNHc1l0ckt0dGg4UlRlaHVtRmRweXQwRUlVbEp2eC00NktwNDhOSFpNd2tiY3k1bDFJVVN2UEQ0emlFOWRTdVdtWGdlVGYtS2ZieU5wZDFwNFNIX2l1NzZNN0pZTmFqek9ZcHE5M0NLa1A2MFBmSVVPaXYtS2xCNS1BRmZV?oc=5",
-          "publisher": "Investify",
-          "published_at": "2026-11-12T07:55:09+05:00",
+          "id": "ffd2d84b4061ed42",
+          "title": "PIDE holds moot: Speakers for export-oriented approach to trade accords",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBnSHZ0dVNPUWh3SWlqNE1KNUtqSjZxOVU3TWVjaVlHRUpqZ3U2VEpUZ0hRWk96YjBGWmZYM1c5QmVmdjlXNWFDRVNRT0VoQzh4Zi1MXzR30gFWQVVfeXFMUGdIdnR1U09RaHdJaWo0TUo1S2pKNnE5VTdNZWNpWUdFSmpndTZUSlRnSFFaT3piMEZaZlgzVzlCZWZ2OVc1YUNFU1FPRWhDOHhmLUxfNHc?oc=5",
+          "publisher": "Business Recorder",
+          "published_at": "2026-11-14T07:16:21+05:00",
+          "topic": "trade"
+        },
+        {
+          "id": "fe308b16efe78b90",
+          "title": "PIDE calls for export-focused approach to trade agreements",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMGdBRDhEaEphUWZBWWlRN1hMNnhEaXR4VDNhUGhIY3RSb0lXNXFjTUZrQjZuN2xFNkdWTG9fS21mcEFhcjV2RVFzTlN4dTJuZlNUM2dsaGFOaktPVUlCVjBtdnpBNWlIcUowQ1hwb3lpbV9wYzd6QTdFVkZkWjJac3ZPWGQxUmY0RTNtVF90RkpTZmFFZ1RvTFVDdw?oc=5",
+          "publisher": "The News Pakistan",
+          "published_at": "2026-11-14T00:00:00+05:00",
           "topic": "trade"
         },
         {
@@ -88,9 +80,17 @@
           "publisher": "UrduPoint",
           "published_at": "2026-11-13T20:35:05+05:00",
           "topic": "trade"
+        },
+        {
+          "id": "9dd337ae349d1fb5",
+          "title": "Pakistan suffers $387m trade loss amid regional conflict, committee told",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQ3kxS2x4M1BTTHZfQXJLa0NSc0hUX1JwWnRKMVBsaVVxTnFnUnV1UURhZ3pLY1BCeXdMN1A1MUE0VjhGVVhQWjVSWF9tbUs4djI0LURxd2w5ZmZtTDlSbUpQV2NDN0dxdHNOR0o4NmFYanExYlVvS1U3cHZRSnNjV3ZzNm9KWWVSYVo3LTR1SF93cWxURGdORlB5WF9tSEpCTDJNbmwyY1ZHbUZZQWVSTy0yNjd4RW9Fc3VHWElid3k?oc=5",
+          "publisher": "Profit by Pakistan Today",
+          "published_at": "2026-11-12T22:59:33+05:00",
+          "topic": "trade"
         }
       ],
-      "fetched_at": "2026-11-14T02:29:31.760321+05:00"
+      "fetched_at": "2026-11-14T09:22:44.535780+05:00"
     },
     {
       "id": "economy-2026-11-14",
@@ -105,6 +105,14 @@
           "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8xTFpRWEtNMDNYdi1tdVp3aG5JMjVvcDZFMkhWcFdWX1kwcnoxaXhHTWZCdENRZGFyNEhYUTd2NTFBTkJtV3lwTFppd0NKNVVaNHh0RDF1WWHSAVZBVV95cUxPNk5CVm5rUDRMXzBKQ1lEaU5CS19FLTFlaWNUTFE2eUxobElmNFdwVnItQ19aUjU2N0dyekk5RHVwTGVRMTZ5Ym1fTk1ZR2NjUWdGSXItdw?oc=5",
           "publisher": "Business Recorder",
           "published_at": "2026-11-12T15:36:42+05:00",
+          "topic": "economy"
+        },
+        {
+          "id": "5f207fe465c8b9b9",
+          "title": "Retail inflation may remain above 6 pc for next few months; economists see possibility of rate hikes",
+          "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQbDBIYV83SVJwMW9VNW9qWU1qakFDTVZMZ2xVYV84MzMtQUhLWHA3a04ySHAxX0VRSURpam9IZU9qaGt1WXFrWG1meDBubXBHOENmdlRzLTF6QktVaFhJc2J3WjhVX1hxV2ZxWE9OeE1vZ1I2R3AwNk40Y0V2dG11YnNrX3FmTUdLQUlOeU0tME1yd1Z2M09XMC1DTEdmTC1HQkt4elJXZnpzamJ6NndrUzNOWDAwNmtBVkEyc2dVblg4cHdEQVpWdllrTHJ6bkxpNG9FYzJHZU8xZHhfbXpXYjgtQ1VLR1FNV3p2SmlINks1Ni1ITmxmLWRxaF9lVUFOeXdBTm5LaHZOVXpLemhIUzZCNFU?oc=5",
+          "publisher": "The Economic Times",
+          "published_at": "2026-11-12T21:02:43+05:00",
           "topic": "economy"
         },
         {
@@ -124,14 +132,6 @@
           "topic": "economy"
         },
         {
-          "id": "5f207fe465c8b9b9",
-          "title": "Retail inflation may remain above 6 pc for next few months; economists see possibility of rate hikes",
-          "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQbDBIYV83SVJwMW9VNW9qWU1qakFDTVZMZ2xVYV84MzMtQUhLWHA3a04ySHAxX0VRSURpam9IZU9qaGt1WXFrWG1meDBubXBHOENmdlRzLTF6QktVaFhJc2J3WjhVX1hxV2ZxWE9OeE1vZ1I2R3AwNk40Y0V2dG11YnNrX3FmTUdLQUlOeU0tME1yd1Z2M09XMC1DTEdmTC1HQkt4elJXZnpzamJ6NndrUzNOWDAwNmtBVkEyc2dVblg4cHdEQVpWdllrTHJ6bkxpNG9FYzJHZU8xZHhfbXpXYjgtQ1VLR1FNV3p2SmlINks1Ni1ITmxmLWRxaF9lVUFOeXdBTm5LaHZOVXpLemhIUzZCNFU?oc=5",
-          "publisher": "The Economic Times",
-          "published_at": "2026-11-12T21:02:43+05:00",
-          "topic": "economy"
-        },
-        {
           "id": "97c81e4b5730cb7e",
           "title": "AI can boost productivity but pose risks to India's IT sector: Moody's",
           "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOQlBrenQ3OFBqU2gzNERwRHFleGxWbGN0Um44VzdWRFMwUTBxOW15WUhjTm1GSUdEYW9ld0pwbW5GUWRONURZMlJVeUxJNDZNY00wMVBLaVQ5SkdnYnZsbTBJZWkwbFJ6RUVQTzJ0RnFsTURYVDdhOGFUdjJoazUxbUhlZDZMSWpzYV90aGRCSFlQSG9wVHI5NFBFckFjbUlNWm1RRFpUTmY1ZzBhOWk0bVdnV0hudmxTcklqOGlncWRZazhnUlVXVXAtdWwtUHMzRHVjNWdPWDRPYVdPcGQyV0UxaG5kS2pyTVHSAeMBQVVfeXFMT04xMXI1b1E3Uk9vbi1qTnlzQ0c0VXp3T3dvX2F1WDZfS1VJNndHRE5sOEtHNzljaWVvMGFzUlN6WkFILU9zVmd0aGlia1dva3M0eVVlaGVVT3hSLU9scHlkVXlIMXVJdEZ0UHpjdXBka3hqcE5EZGpmenV4MlMyU0JORE1pYkowMWduVDJoT2hpOVpLLXZTY1FtaU1EcS02YmFzeXlLaGo1Sm13Z2o3SHU1RE15ZHlmaldEaTU5MDFybDRtQ2JwbzFzdFlsN0VoaXNRYXZHSjMzSzBvR01KcG9Vd3M?oc=5",
@@ -148,23 +148,23 @@
           "topic": "economy"
         },
         {
+          "id": "ceb7dbef65cee520",
+          "title": "The boom-bust trap",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9jQUJZb1Q2dWYzaEVUdC1jaEhrbk5yQ2VGSEtjTTZDdUxIM1hycEszdXhXVUItZDNPNUVjczRTYXF1T050T3dRQ1BTNDhQSkJYSDZQREFvZ0ZQSHJlWmxJbUkyR0o2QQ?oc=5",
+          "publisher": "The News Pakistan",
+          "published_at": "2026-11-14T00:00:00+05:00",
+          "topic": "economy"
+        },
+        {
           "id": "888ecbffeb72cd0e",
           "title": "SBP reserves rise $11m to $21.6b",
           "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5PMXhfT0NPYkVnTXhpTzgzZXE0Rl92RG9GZW50YkswM0pzbFZOOFRsU2RhMUgyR1RtdWN3YXh2Y01VbGRHUlJwYWxKRjBKV29Vd0tIaVBOMUI1SWhXd1dWNFJtM3lqUWxCNnhNdHlzSkp3dU5v0gF8QVVfeXFMTTZxaUFMR0lFZVR1VDhHamN3aG9BVks3c1FRcFpVY1BnVllFbW5fWEZqMDFMXy02a3BYNXM3Y3VrTjMtRmRoTVlrOXEwLU1zdkNXT0ZmbGFTcW5XVUVoSm5IZnY0LWp5NFliMmFBektoMUpxRUxzV3RyeURZUA?oc=5",
           "publisher": "The Express Tribune",
           "published_at": "2026-11-13T02:36:57+05:00",
           "topic": "economy"
-        },
-        {
-          "id": "149c916d1ba27729",
-          "title": "RBI likely to hike rate by 25 bps in Dec, not 50 bps: Report",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcTVZdXZKZnFvdzlST3MwLWhPMDlxVHptT2RMcnR4UVJMZWpTRGRMcWZlSW16bWw0TjVpUjlKdzl0VVJBYVZmWWpDYm1naXI4ZmgxQ1lLa25pbE1POFEwUkFOTy1iTG1KWVpsVERoRUZaQkYyUE42bTU0eWxNRi0yc3JUal9VckRIYmdTaHhhZ0FZSDZYRTBSSFlmMU1fUTJoSDZjT2xkY0llZTFaOGQ3Wk5kVnJQZw?oc=5",
-          "publisher": "The Hawk",
-          "published_at": "2026-11-13T10:38:33+05:00",
-          "topic": "economy"
         }
       ],
-      "fetched_at": "2026-11-14T02:29:31.760321+05:00"
+      "fetched_at": "2026-11-14T09:22:44.535780+05:00"
     },
     {
       "id": "business-2026-11-14",
@@ -173,6 +173,14 @@
       "title": "Business news briefing · 2026-11-14",
       "context": "Company and industry developments can affect supply, stock availability and competition. Compare dated supplier offers before making a purchase decision.",
       "headlines": [
+        {
+          "id": "16da1a8982efece0",
+          "title": "Chinese company outlines plans for business expansion",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRWZRZXNrM2wtcU5nT1JnWDlLQXNBRUdrN0Zqa1c5d19XWnhzRmVVN2Zmd1hhTE5lS241bTJMWFFIWjRsLW1xRS04WlNVU0E0UVA0VGxtaGdkU2VRcDdEeEF4OFVOZEswbEkzaV9oUDA2WjI0NE44YkRCbVdFY285LUFZek5ONVRmdEhWVUdFNTFuTng0T2pLbG9pZ3c?oc=5",
+          "publisher": "Investify",
+          "published_at": "2026-11-14T07:27:41+05:00",
+          "topic": "business"
+        },
         {
           "id": "7d204cad4d56032b",
           "title": "Pakistan-China Investment Deals Target CPEC 2.0 Growth",
@@ -190,30 +198,6 @@
           "topic": "business"
         },
         {
-          "id": "8af717580e2b3a1f",
-          "title": "Balochistan’s Mineral Wealth and Investment Potential Take Spotlight at Pakistan Minerals Investment Forum 2026",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE85THZEODNxRjBkOTBrMW9yQXktSzRnQmk4V3c0UUlRa2pGQkNqenlBSHNkUzBnWWxXcmRnNmJROFV1ckhxTVpvVHR0UDZ1Sk5rRGhGUzFnRmh0UmpGQ1ZkN1hOM0RXbTJwR2dJVDJMVGdqNnNUYnI5SWZB0gF6QVVfeXFMTzlMdkQ4M3FGMGQ5MGsxb3JBeS1LNGdCaThXdzRRSVFrakZCQ2p6eUFIc2RTMGdZbFdyZGc2YlE4VXVySHFNWm9UdHRQNnVKTmtEaEZTMWdGaHRSakZDVmQ3WE4zRFdtMnBHZ0lUMkxUZ2o2c1RicjlJZkE?oc=5",
-          "publisher": "Balochistan Pulse",
-          "published_at": "2026-11-12T17:53:48+05:00",
-          "topic": "business"
-        },
-        {
-          "id": "85ef4df9e36e06e0",
-          "title": "Mansha's Nishat Group to invest in Pakistan's new port",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOX1lVaW94Sk5HMmVuczVhTXRxWk9oQ2VuY0NLVGQtVFhHV25iRzYtQmRITmpNRFg2aVd4bFk1NXU0WFZncjRWYWZxS3BGNmJFOXlNenlTVGUweHJGdDB4ekhoZmw4SHV4RjI0Vjc1MVJYMFBkcnVNN200RlB3WFlVbmV1RXBJQmFMWUVoczZGM08wZlNWX1JVR2k5d05BQQ?oc=5",
-          "publisher": "Investify",
-          "published_at": "2026-11-13T12:19:51+05:00",
-          "topic": "business"
-        },
-        {
-          "id": "a31ba675423b7b0c",
-          "title": "Pakistan pitches mineral wealth to global investors",
-          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1YOF96anNadzQtMnBsaWt1M2x5Q3o2NklKSTgwOGlvZmJEZlY4cmpVNW5qMUxMNGQtQ2NWTlhZanVNeGZLcV9hMw?oc=5",
-          "publisher": "Dawn",
-          "published_at": "2026-11-13T06:58:07+05:00",
-          "topic": "business"
-        },
-        {
           "id": "e6e22beaf24b1145",
           "title": "Pakistan says exploring mineral cooperation with Saudi Arabia as joint studies continue",
           "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQaTRUZFVBdGQ3X0pqWGNDS0VWSGdTTWxzLXl5TjdMNVpIbnVQX1E2dWRaeG1zT2s3a2JwNHktd1I1NlFKMjBnQ21RcFFCb2RhX2ZMOFRhMnROcXVISmR6TEluZzBDVXp4TllrbkVFM0xHV0s5STVfUjJmMXJ6SUd4Umo0ZVAteWF2UEw5MkdIRTlXMVY5c21pcThqSHZiaEZqZmlOakl4enptNEJ6NXRfZ2NMVEVYR3pDRWxydDB5TzhfcnJpX0Fn?oc=5",
@@ -222,23 +206,39 @@
           "topic": "business"
         },
         {
-          "id": "5bfed608daab9036",
-          "title": "Pakistan Highlights Mineral Wealth as Investment Forum Opens in Islamabad",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOS19CUmE3SEdWTkJYdG5TanNHeWZMMEJZdU0xMGYySUZNRlUzaENFN0RzX1IweWdfbmtvOGEyMXduVFRsMW5jajNTWERiS19qZmViYmFZNGE4V21VLVRWMWlDWlZZeWpfeW5xWlI3VjBVODNNOW5MMWxwekdBOEJiODFQRUw5RDdwRDctenktLVlBRGlPOW85b0V3?oc=5",
-          "publisher": "The Diplomatic Insight",
-          "published_at": "2026-11-12T15:38:03+05:00",
+          "id": "8af717580e2b3a1f",
+          "title": "Balochistan’s Mineral Wealth and Investment Potential Take Spotlight at Pakistan Minerals Investment Forum 2026",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE85THZEODNxRjBkOTBrMW9yQXktSzRnQmk4V3c0UUlRa2pGQkNqenlBSHNkUzBnWWxXcmRnNmJROFV1ckhxTVpvVHR0UDZ1Sk5rRGhGUzFnRmh0UmpGQ1ZkN1hOM0RXbTJwR2dJVDJMVGdqNnNUYnI5SWZB0gF6QVVfeXFMTzlMdkQ4M3FGMGQ5MGsxb3JBeS1LNGdCaThXdzRRSVFrakZCQ2p6eUFIc2RTMGdZbFdyZGc2YlE4VXVySHFNWm9UdHRQNnVKTmtEaEZTMWdGaHRSakZDVmQ3WE4zRFdtMnBHZ0lUMkxUZ2o2c1RicjlJZkE?oc=5",
+          "publisher": "Balochistan Pulse",
+          "published_at": "2026-11-12T17:53:48+05:00",
           "topic": "business"
         },
         {
-          "id": "3b3db4be1975f016",
-          "title": "Wood Mackenzie explores investment opportunities",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSnNsOHA5RXE1WlMzbS1pcGNXY3B5YXA0S1dIQkZfT2hVLTl3bGpVU0pEY0hVYnB4azVGT2pHR0h1bzlnU1BqcnpBZmg3Vi00VEhUcEh2a19LYVVmLTl6Smk0aHcxS25pX0h0bjRjTXFLYW9JZFpSTWNyQ043Q1BLTEFtR0JFR3lBQkxaVk9rcHpqVE1mN0E?oc=5",
+          "id": "64ac23bd6d077a2b",
+          "title": "MSC eyes Pakistan maritime investment",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVjNOU3dKX1MtRUN5UERZZUoySnZfQWtDREcyY2VXMFBnYmx2WjVyMjgwdDRhaGluVkc4ZkZlVDBrWkFmQldiWVF2UVI5ajlqMHZuTFpNMHlURG9zTnhjQ0VibUFvbzQ2dmZrOUlpbFhqTEM3RDFhUG55UUdoUWtnWmZZY2ota3c?oc=5",
           "publisher": "Investify",
-          "published_at": "2026-11-13T07:28:42+05:00",
+          "published_at": "2026-11-14T07:28:34+05:00",
+          "topic": "business"
+        },
+        {
+          "id": "0e2dd08ee6f6df20",
+          "title": "Canadian mining company signs MoU with Mari Energies in South Asia push",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1sYWE1NkU1ZmRQbVdyaUVIdGkzVzJVeDlURE96QVFfb0QyOWl2VkR0RG9xVFE3eGJSYnZ4OThJaXJZTU90Uzc5bw?oc=5",
+          "publisher": "Dawn",
+          "published_at": "2026-11-12T12:10:31+05:00",
+          "topic": "business"
+        },
+        {
+          "id": "252c439d2cb52e59",
+          "title": "Pakistan moves beyond raw mineral exports with 13 new international deals",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPR016MXJWZ2xOZGZublJZUUZxUTZiejVteS1feXhZaEJHWTZEeDBfRXF1UDNpZzhKNDlEdUVsc3ZlYTFvaVRSWjV4eU84dktXSTJEWTNYQlFFRFdhQUFtckJTekIweEFDcU1nYXFJeTVHU1lWNThyRVhLbl9oR1F4cWhzQzVhMThNRUZMMWxaT2NxbldORk0xQlc3ZzVtWWc4UmUtLTBuY3h5RjFwakE?oc=5",
+          "publisher": "Minute Mirror",
+          "published_at": "2026-11-14T01:26:29+05:00",
           "topic": "business"
         }
       ],
-      "fetched_at": "2026-11-14T02:29:31.760321+05:00"
+      "fetched_at": "2026-11-14T09:22:44.535780+05:00"
     },
     {
       "id": "trade-2026-11-13",
