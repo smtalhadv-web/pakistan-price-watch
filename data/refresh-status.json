@@ -1,6 +1,6 @@
 {
-  "started_at": "2026-11-14T04:22:12.537193+00:00",
-  "completed_at": "2026-11-14T04:22:42.854836+00:00",
+  "started_at": "2026-11-14T10:45:33.402534+00:00",
+  "completed_at": "2026-11-14T10:45:58.704336+00:00",
   "status": "partial",
   "timezone": "Asia/Karachi",
   "scheduled_times": [
@@ -11,49 +11,49 @@
     {
       "name": "collect.py",
       "status": "completed",
-      "elapsed_seconds": 4.1,
+      "elapsed_seconds": 3.2,
       "detail": ""
     },
     {
       "name": "download_sources.py",
       "status": "failed",
-      "elapsed_seconds": 0.3,
+      "elapsed_seconds": 0.4,
       "detail": "  File \"/opt/hostedtoolcache/Python/3.12.16/x64/lib/python3.12/pathlib.py\", line 1027, in read_text\n    with self.open(mode='r', encoding=encoding, errors=errors) as f:\n         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/opt/hostedtoolcache/Python/3.12.16/x64/lib/python3.12/pathlib.py\", line 1013, in open\n    return io.open(self, mode, buffering, encoding, errors, newline)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\nFileNotFoundError: [Errno 2] No such file or directory: '/home/runner/work/pakistan-price-watch/pakistan-price-watch/raw/karachi.html'\n"
     },
     {
       "name": "ingest.py",
       "status": "completed",
-      "elapsed_seconds": 1.1,
+      "elapsed_seconds": 1.5,
       "detail": ""
     },
     {
       "name": "expand_fetch.py",
       "status": "completed",
-      "elapsed_seconds": 10.6,
+      "elapsed_seconds": 1.9,
       "detail": ""
     },
     {
       "name": "expand.py",
       "status": "completed",
-      "elapsed_seconds": 0.9,
+      "elapsed_seconds": 1.4,
       "detail": ""
     },
     {
       "name": "commerce.py",
       "status": "completed",
-      "elapsed_seconds": 6.8,
+      "elapsed_seconds": 9.5,
       "detail": ""
     },
     {
       "name": "partner_sources.py",
       "status": "completed",
-      "elapsed_seconds": 5.2,
+      "elapsed_seconds": 5.4,
       "detail": ""
     },
     {
       "name": "extra_sources.py",
       "status": "completed",
-      "elapsed_seconds": 1.4,
+      "elapsed_seconds": 2.0,
       "detail": ""
     }
   ],
@@ -84,7 +84,7 @@
       "url": null,
       "status": "verified",
       "detail": "parsed",
-      "quotes": 132
+      "quotes": 136
     },
     {
       "source": "PBS weekly city prices",
@@ -476,21 +476,21 @@
       "url": "https://priceoye.pk/trimmers-shavers?page=1",
       "status": "verified",
       "detail": "parsed",
-      "quotes": 23
+      "quotes": 27
     },
     {
       "source": "https://priceoye.pk/trimmers-shavers?page=2",
       "url": "https://priceoye.pk/trimmers-shavers?page=2",
       "status": "verified",
       "detail": "parsed",
-      "quotes": 33
+      "quotes": 35
     },
     {
       "source": "https://priceoye.pk/trimmers-shavers?page=3",
       "url": "https://priceoye.pk/trimmers-shavers?page=3",
       "status": "verified",
       "detail": "parsed",
-      "quotes": 33
+      "quotes": 36
     },
     {
       "source": "https://priceoye.pk/speakers?page=1",
@@ -630,7 +630,7 @@
       "url": "https://www.naheed.pk/groceries-pets",
       "status": "verified",
       "detail": "parsed",
-      "quotes": 47
+      "quotes": 43
     },
     {
       "source": "Naheed",
@@ -658,7 +658,7 @@
       "url": "https://www.naheed.pk/groceries-pets/baking-cooking/flours-meals",
       "status": "verified",
       "detail": "parsed",
-      "quotes": 32
+      "quotes": 31
     },
     {
       "source": "Paklap",
@@ -707,14 +707,14 @@
       "url": "https://www.olx.com.pk/items/q-sofa",
       "status": "verified",
       "detail": "parsed",
-      "quotes": 33
+      "quotes": 32
     },
     {
       "source": "Al-Fatah",
       "url": "https://alfatah.pk/products.json?limit=100",
       "status": "verified",
       "detail": "updated",
-      "quotes": 100
+      "quotes": 103
     },
     {
       "source": "Shophive",
@@ -731,9 +731,9 @@
       "quotes": 30
     }
   ],
-  "total_quotes": 18679,
-  "verified_quotes": 5413,
-  "changed_prices": 8,
-  "new_quotes": 77,
-  "retained_quotes": 13266
+  "total_quotes": 18762,
+  "verified_quotes": 5424,
+  "changed_prices": 20,
+  "new_quotes": 83,
+  "retained_quotes": 13338
 }
