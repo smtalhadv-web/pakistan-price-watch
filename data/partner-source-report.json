@@ -1,6 +1,6 @@
 {
-  "checked_at": "2026-11-15T16:21:04.315836+05:00",
-  "quotes": 11035,
+  "checked_at": "2026-11-15T21:20:44.891789+05:00",
+  "quotes": 11116,
   "checks": [
     {
       "store": "Chase Value",
@@ -60,7 +60,7 @@
       "store": "Metro",
       "url": "https://metro-online.pk/",
       "status": "parsed",
-      "offers": 222
+      "offers": 223
     },
     {
       "store": "Foodpanda / Kifayah",
@@ -78,13 +78,13 @@
       "store": "OLX",
       "url": "https://www.olx.com.pk/items/q-laptop",
       "status": "parsed",
-      "offers": 33
+      "offers": 32
     },
     {
       "store": "OLX",
       "url": "https://www.olx.com.pk/items/q-sofa",
       "status": "parsed",
-      "offers": 32
+      "offers": 33
     }
   ]
 }

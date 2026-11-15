@@ -1,18 +1,18 @@
 {
-  "checked_at": "2026-11-15T16:21:13.752922+05:00",
+  "checked_at": "2026-11-15T21:20:54.149158+05:00",
   "checks": [
     {
       "topic": "economy",
       "status": "updated",
-      "headlines": 2
+      "headlines": 3
     },
     {
-      "topic": "trade",
+      "topic": "business",
       "status": "updated",
       "headlines": 8
     },
     {
-      "topic": "business",
+      "topic": "trade",
       "status": "updated",
       "headlines": 8
     }
@@ -42,19 +42,35 @@
           "topic": "trade"
         },
         {
+          "id": "aca19ef3447036f8",
+          "title": "Bangladesh runs trade deficits with four South Asian countries, India tops list",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUlhuYWdUdmN6YlM1cW5ld0hVcjRfVkU4NkNueGlhLV9FVHptY1RwbFh6amxHUkRBbDBvcDhiTXUxeDNhc3VYY3RMRDI0am1DSHEwcExtSHZHN0puZjE2TlNUNkJzSTJBSkdlR3pMR2wtdG9QV094b0VqclVTQjZlSFdHSlpOZHBzeWQwZGZoTnU4RzhsRjkybnFSbXFjNGJwQk5zM3BxQXNOWFRPMVE0bw?oc=5",
+          "publisher": "The Financial Express",
+          "published_at": "2026-11-15T17:05:54+05:00",
+          "topic": "trade"
+        },
+        {
+          "id": "3afaf9ff118d0880",
+          "title": "Bangladesh’s trade deficit with India exceeds Tk 97,927cr : Muktadir tells JS",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5idmRPcFRybHgtYThVYzEzSmI3ME90U1djTWJfQW0tb1NXWHJHS2RjUldEUkZEQk1NRVdBczRGajdIX3BocFJNX0Z2QVVib0xsc0Y0?oc=5",
+          "publisher": "Bangladesh Sangbad Sangstha (BSS)",
+          "published_at": "2026-11-15T18:08:16+05:00",
+          "topic": "trade"
+        },
+        {
           "id": "a7d4799b7a0d7d71",
           "title": "Focus on localization and exports",
           "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE85cXNRR1pROHRLdkVLQzJtUFFJZXVwdjFmSjNNQ2NuXzR6YTNkV3JwRGpkZndPbzB4Qk5BRDlkWVVkbUJsTVRkcWpEYW1ETVBxS1pOVExmUnJtTjI3TnpXYW1lT2pycDJQeEE?oc=5",
           "publisher": "Pakistan Observer",
-          "published_at": "2026-11-15T11:50:43+05:00",
+          "published_at": "2026-11-15T19:18:55+05:00",
           "topic": "trade"
         },
         {
-          "id": "4e377dbe396e3b52",
-          "title": "Pakistan extends 40.47% anti-dumping duty to Galvalume steel imports from China",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNWHpkWWk0SmktX05XYUVOdDRmYkZqQlRzT0s3RXIzSzhsb2xjRFd0am5pSTNmVHBFZkM4Vzl4alF5WXhCdnpiaVhBVzVhVWZROW13RkJNZ1NDdDA3NFA5WWFOUTFVd3ZyZzNHN0VnUWlRYmdSODhmckxqNXNaZkVfM3ZhSVdqUmUtNVR2V2NjMGgxdW8xVTNkdnJwZzJFVDFFOFZ3QUpJSkJpNjA0bkM0bEdMTklvTVJCR2hWcE90RFI4UWQ4MFlKaVF4aw?oc=5",
+          "id": "0e5999b79846ed75",
+          "title": "Pakistan’s external public debt rises 6.84% to $98.08bn in FY26",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbENZWUFTVk1tYnp4SU4tYmlkUEs2QTd3SlpsN0U5bUFqZ01zYU9qcnBYQTByMGJxaUE5eDU4R3JLVkFTMU40ZkoweGM1ZzVTYXg0ZTl3SUUybzRyWXlNYUdwMDZaRVVLdHdFZjN2Y3A5V0RGajJ1VWtDWlZrb3lkVUxKVzB4cE1lckFRaHk1Q2xIS1V0TWpfTm5MZDRGQXRqdnM4UFVwWkdDbTdka1ZFZlRqZTFBSncwUHc?oc=5",
           "publisher": "Profit by Pakistan Today",
-          "published_at": "2026-11-14T13:19:29+05:00",
+          "published_at": "2026-11-15T16:53:09+05:00",
           "topic": "trade"
         },
         {
@@ -66,31 +82,15 @@
           "topic": "trade"
         },
         {
-          "id": "fe308b16efe78b90",
-          "title": "PIDE calls for export-focused approach to trade agreements",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMGdBRDhEaEphUWZBWWlRN1hMNnhEaXR4VDNhUGhIY3RSb0lXNXFjTUZrQjZuN2xFNkdWTG9fS21mcEFhcjV2RVFzTlN4dTJuZlNUM2dsaGFOaktPVUlCVjBtdnpBNWlIcUowQ1hwb3lpbV9wYzd6QTdFVkZkWjJac3ZPWGQxUmY0RTNtVF90RkpTZmFFZ1RvTFVDdw?oc=5",
-          "publisher": "The News Pakistan",
-          "published_at": "2026-11-14T00:00:00+05:00",
-          "topic": "trade"
-        },
-        {
           "id": "6e3147f191ec2083",
           "title": "Pakistan's trade costs surge as freight rates hit $9,000",
           "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQTIxckdmQTlES3VFMTZuT0VJUjd5RjFKbWEtZDhMSEJCbFpVRkE1VXdjUk9mRHZvYmFDc3k0U3FOR092WnJqak5yVFE2d3RQV0hqeExVSWdFbjRnU0tzUGJKWVM1MWR3ZDVpRXpjT1VaaG1hMDZ2ajhLUGo3dXo4SHRESTlXVFVUdHZhOG1sQWE?oc=5",
           "publisher": "samaa tv",
           "published_at": "2026-11-14T14:36:55+05:00",
           "topic": "trade"
-        },
-        {
-          "id": "f239846f62d1ca6a",
-          "title": "US assures India of tariff edge over competitors in trade pact",
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOSGlKendhNDZFYm1PbnViN1JHY2E5R3FkblZ6RkMzY1dyQVpkbUYzcTFvN1I0MGFSek04MFNZdnZqTUNIOEZLQkduemZQZWlCWTJtYTI5czFtWUdvLTVqeW9ibTB0LXdRYU9FOXJ5MVAtWmxORW95Snk3ME1FMnBmaTZFeGdHdVd4UUl5V2tlT1ZQRUFKSTMyNVAwb0VZdTMzRmZlbkJPMW8ycS11MHdEY2p3c19DUllxT2dKT2sxQzNNTHliVC1IdjZJYWQyWWZQMG9IQTJfV0NTUTDSAeABQVVfeXFMTkNLdUd5dWk4ak5qNzVSMDJjM1RRY2p0cXE4ckZvWnlCWEJBa0xVSEdYNXVxMTAtbl94SEtVclNSR1dOeW5KZi1XQnFxYmM0RHVaTkUtdHVOVXdXOGRTUmsxbEhKTzJsRjdBZ0xlTUQyYUo1OGZjR1dnSnFWd0IyZ2lZU2RPQnVUc3lUVmRDYkVVZHM4YlRBS1BneS0xY1FnbWl6aWpoQi1NX0pYUHNRQllPQm04UGVHbmtXajBpYzhCeDZRSjc4eWFPZHdyV293cVRnOTNBbVRTUGdEN1lfMGM?oc=5",
-          "publisher": "The Economic Times",
-          "published_at": "2026-11-13T23:39:19+05:00",
-          "topic": "trade"
         }
       ],
-      "fetched_at": "2026-11-15T16:21:13.752922+05:00"
+      "fetched_at": "2026-11-15T21:20:54.149158+05:00"
     },
     {
       "id": "economy-2026-11-15",
@@ -108,6 +108,14 @@
           "topic": "economy"
         },
         {
+          "id": "17802935764e9769",
+          "title": "Fed's Collins says gradual rate hikes best to manage economic risks",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOU3pLSU9uWjFwSGNtM2dTaHYwS3FFWkpPRUpIOUtBMTBKbU5PVmF5N3puUlROSGFab1dwN3pVdHlvazRsek9saXBjdmI4cmZJWEtycjRyZjR4eHlpbl9JYUJUMklMb0tfbGMtcHBzbVNGeVNzdkJhd0FfTXFkbEZqbHhLWFMxLTdzR2tLVVpIRGt2bXgteDJTYVV2c2t6aWhmdDdmbGpuYTZRWjRKY05F?oc=5",
+          "publisher": "Investify",
+          "published_at": "2026-11-14T20:07:11+05:00",
+          "topic": "economy"
+        },
+        {
           "id": "ceb7dbef65cee520",
           "title": "The boom-bust trap",
           "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9jQUJZb1Q2dWYzaEVUdC1jaEhrbk5yQ2VGSEtjTTZDdUxIM1hycEszdXhXVUItZDNPNUVjczRTYXF1T050T3dRQ1BTNDhQSkJYSDZQREFvZ0ZQSHJlWmxJbUkyR0o2QQ?oc=5",
@@ -116,7 +124,7 @@
           "topic": "economy"
         }
       ],
-      "fetched_at": "2026-11-15T16:21:13.752922+05:00"
+      "fetched_at": "2026-11-15T21:20:54.149158+05:00"
     },
     {
       "id": "business-2026-11-15",
@@ -126,11 +134,19 @@
       "context": "Company and industry developments can affect supply, stock availability and competition. Compare dated supplier offers before making a purchase decision.",
       "headlines": [
         {
-          "id": "5835358665d2a7e3",
-          "title": "Global shipping giant MSC explores investment opportunities in Pakistan's ports, logistics sector",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQNjB5VXBWWmhtV2JMT3poRlJZaExvZDF3bEhrTlM5aHA4M1dOY1NrZFJyY2pDR0hUcnZMcjdFdjhncG02LXNuSlZ5b1c5UnRlY2s5OFl0T1dGTm5ybkU2LVVIRjZDdzlNY3gwcXQ0UTZ0Mm94eTNWVTNFdi1hUFBMc1hrbGJNbzhfeTNtMnN6TzVzMGI3ZVNjTURFUURtSnRQTG5XVDhnWkdLMmlPdTJiT0xRd3BRZDBqV0JZcllQMTlHRGUxaWVIcFdHM18?oc=5",
+          "id": "979ebd931329f61b",
+          "title": "Balochistan signs MoUs with trade bodies ahead of investment expo",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdmxDVmFIZjJkLUpkLUsxeTNPS0hJR0hHUWxGZUVuVVNfUkFSZnU4Y3VGTWNWQnl3NXlyZnhWNWtJUGM4R29LWDQzRHRZMHFJSklOQUZUdFdBeE1yd2VQQVhhYzVSTHg3M0E1TGNjVV9QV2ZCWTI1LUo3V0RCczcwelJheWJjb0didmJVM3VSbXFTZWlET0pRZWxRZ3FCdFpSTWh6MHl2ejIwY2xm?oc=5",
           "publisher": "Investify",
-          "published_at": "2026-11-14T11:00:00+05:00",
+          "published_at": "2026-11-15T16:33:28+05:00",
+          "topic": "business"
+        },
+        {
+          "id": "e3b45fa3e69a003d",
+          "title": "Nishat Group explores investment in proposed Pakistan port project",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbl91U3JHNGQwaXBCcm5IWEk3REFoZGlLSWszS3QzVGQyRGRHaVhwMlFwTGY1WFh0MmhJQklRRUFmMVh0YzJ1WFk4dk45Zm1Rd0NZZmdFWExxX1B0bnV4ZlhOZE9uZl9NQmJTVEU5UV9zSV9adnl5bHpFaF9ud25WRjVYTFU1V2NxbUt5cmxMdnRhWGJ0Z1E?oc=5",
+          "publisher": "Traders Union",
+          "published_at": "2026-11-15T19:26:24+05:00",
           "topic": "business"
         },
         {
@@ -158,11 +174,11 @@
           "topic": "business"
         },
         {
-          "id": "16da1a8982efece0",
-          "title": "Chinese company outlines plans for business expansion",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRWZRZXNrM2wtcU5nT1JnWDlLQXNBRUdrN0Zqa1c5d19XWnhzRmVVN2Zmd1hhTE5lS241bTJMWFFIWjRsLW1xRS04WlNVU0E0UVA0VGxtaGdkU2VRcDdEeEF4OFVOZEswbEkzaV9oUDA2WjI0NE44YkRCbVdFY285LUFZek5ONVRmdEhWVUdFNTFuTng0T2pLbG9pZ3c?oc=5",
+          "id": "5835358665d2a7e3",
+          "title": "Global shipping giant MSC explores investment opportunities in Pakistan's ports, logistics sector",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQNjB5VXBWWmhtV2JMT3poRlJZaExvZDF3bEhrTlM5aHA4M1dOY1NrZFJyY2pDR0hUcnZMcjdFdjhncG02LXNuSlZ5b1c5UnRlY2s5OFl0T1dGTm5ybkU2LVVIRjZDdzlNY3gwcXQ0UTZ0Mm94eTNWVTNFdi1hUFBMc1hrbGJNbzhfeTNtMnN6TzVzMGI3ZVNjTURFUURtSnRQTG5XVDhnWkdLMmlPdTJiT0xRd3BRZDBqV0JZcllQMTlHRGUxaWVIcFdHM18?oc=5",
           "publisher": "Investify",
-          "published_at": "2026-11-14T05:53:23+05:00",
+          "published_at": "2026-11-14T11:00:00+05:00",
           "topic": "business"
         },
         {
@@ -180,17 +196,9 @@
           "publisher": "Energy Update",
           "published_at": "2026-11-14T13:35:41+05:00",
           "topic": "business"
-        },
-        {
-          "id": "64ac23bd6d077a2b",
-          "title": "MSC eyes Pakistan maritime investment",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVjNOU3dKX1MtRUN5UERZZUoySnZfQWtDREcyY2VXMFBnYmx2WjVyMjgwdDRhaGluVkc4ZkZlVDBrWkFmQldiWVF2UVI5ajlqMHZuTFpNMHlURG9zTnhjQ0VibUFvbzQ2dmZrOUlpbFhqTEM3RDFhUG55UUdoUWtnWmZZY2ota3c?oc=5",
-          "publisher": "Investify",
-          "published_at": "2026-11-14T07:28:34+05:00",
-          "topic": "business"
         }
       ],
-      "fetched_at": "2026-11-15T16:21:13.752922+05:00"
+      "fetched_at": "2026-11-15T21:20:54.149158+05:00"
     },
     {
       "id": "trade-2026-11-14",

@@ -1,6 +1,6 @@
 {
-  "started_at": "2026-11-15T11:20:49.098973+00:00",
-  "completed_at": "2026-11-15T11:21:12.218236+00:00",
+  "started_at": "2026-11-15T16:20:29.746892+00:00",
+  "completed_at": "2026-11-15T16:20:52.431489+00:00",
   "status": "partial",
   "timezone": "Asia/Karachi",
   "scheduled_times": [
@@ -23,13 +23,13 @@
     {
       "name": "ingest.py",
       "status": "completed",
-      "elapsed_seconds": 1.0,
+      "elapsed_seconds": 1.1,
       "detail": ""
     },
     {
       "name": "expand_fetch.py",
       "status": "completed",
-      "elapsed_seconds": 1.6,
+      "elapsed_seconds": 1.4,
       "detail": ""
     },
     {
@@ -47,7 +47,7 @@
     {
       "name": "partner_sources.py",
       "status": "completed",
-      "elapsed_seconds": 6.5,
+      "elapsed_seconds": 6.1,
       "detail": ""
     },
     {
@@ -84,7 +84,7 @@
       "url": null,
       "status": "verified",
       "detail": "parsed",
-      "quotes": 135
+      "quotes": 136
     },
     {
       "source": "PBS weekly city prices",
@@ -476,7 +476,7 @@
       "url": "https://priceoye.pk/trimmers-shavers?page=1",
       "status": "verified",
       "detail": "parsed",
-      "quotes": 27
+      "quotes": 28
     },
     {
       "source": "https://priceoye.pk/trimmers-shavers?page=2",
@@ -490,7 +490,7 @@
       "url": "https://priceoye.pk/trimmers-shavers?page=3",
       "status": "verified",
       "detail": "parsed",
-      "quotes": 36
+      "quotes": 35
     },
     {
       "source": "https://priceoye.pk/speakers?page=1",
@@ -679,7 +679,7 @@
       "url": "https://metro-online.pk/",
       "status": "verified",
       "detail": "parsed",
-      "quotes": 222
+      "quotes": 223
     },
     {
       "source": "Foodpanda / Kifayah",
@@ -700,14 +700,14 @@
       "url": "https://www.olx.com.pk/items/q-laptop",
       "status": "verified",
       "detail": "parsed",
-      "quotes": 33
+      "quotes": 32
     },
     {
       "source": "OLX",
       "url": "https://www.olx.com.pk/items/q-sofa",
       "status": "verified",
       "detail": "parsed",
-      "quotes": 32
+      "quotes": 33
     },
     {
       "source": "Al-Fatah",
@@ -731,9 +731,9 @@
       "quotes": 30
     }
   ],
-  "total_quotes": 19321,
-  "verified_quotes": 5570,
-  "changed_prices": 0,
-  "new_quotes": 84,
-  "retained_quotes": 13751
+  "total_quotes": 19403,
+  "verified_quotes": 5571,
+  "changed_prices": 4,
+  "new_quotes": 82,
+  "retained_quotes": 13832
 }
