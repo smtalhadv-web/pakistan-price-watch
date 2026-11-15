@@ -1,4 +1,4 @@
 {
-  "requested_at": "2026-11-15T04:12:06Z",
-  "reason": "The 2026-11-15 08:30 Asia/Karachi source price refresh is missing. The latest published data/refresh-status.json completed at 2026-11-14T20:00:31Z (2026-11-15 01:00:31 Asia/Karachi), and the latest pages.yml scheduled workflow run #86 completed at 2026-11-14T20:03:01Z, before the 2026-11-15 03:30Z due slot. The current main branch has no queued or in-progress pages.yml run. Trigger the existing source verification and Pages deployment. Preserve original quote dates, exact variants, cities and source attribution; do not fabricate prices or bypass source restrictions."
+  "requested_at": "2026-11-15T16:19:11Z",
+  "reason": "The 2026-11-15 20:30 Asia/Karachi source price refresh is missing. The latest published data/refresh-status.json completed at 2026-11-15T11:21:12Z (16:21:12 Asia/Karachi), and the latest pages.yml scheduled workflow run #88 completed at 2026-11-15T11:24:11Z (16:24:11 Asia/Karachi), before the 2026-11-15 15:30Z due slot. The current main branch has no queued or in-progress pages.yml run. Trigger the existing source verification and Pages deployment. Preserve original quote dates, exact variants, cities and source attribution; do not fabricate prices or bypass source restrictions."
 }
