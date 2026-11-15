@@ -6,7 +6,7 @@
     ],
     [
       "forex",
-      111772
+      110670
     ],
     [
       "gold",
@@ -57,7 +57,7 @@
       344443
     ]
   ],
-  "checked_at": "2026-11-15T16:20:35.016204+00:00",
+  "checked_at": "2026-11-15T20:27:57.309343+00:00",
   "sources": [
     {
       "source": "PSO dated fuel archive",
@@ -74,7 +74,7 @@
     {
       "source": "Published currency tables",
       "status": "parsed",
-      "observed_records": 36,
+      "observed_records": 26,
       "new_records": 0
     },
     {
