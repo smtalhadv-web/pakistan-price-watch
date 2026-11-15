@@ -1,10 +1,10 @@
 {
-  "checked_at": "2026-11-15T09:13:42.070334+05:00",
+  "checked_at": "2026-11-15T16:21:13.752922+05:00",
   "checks": [
     {
       "topic": "economy",
       "status": "updated",
-      "headlines": 4
+      "headlines": 2
     },
     {
       "topic": "trade",
@@ -42,19 +42,11 @@
           "topic": "trade"
         },
         {
-          "id": "b09a375cf084fdb3",
-          "title": "India's exports jump 29.9% to $89.99 billion in October; overall trade deficit narrows",
-          "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxORlQ4eEFNUWktZ1RzLUYyY2RiXzVpT2hkZ1ZRNjhzVGk1Tl91c1Z3Y3ZHekxDZWJLSU9fcW56TTNTNVNBWGpCS2V0VUxJVXFXM0hLQ3dkUlgyLTdVVUYyWnZqZmp1SHlXdlBPTWlCUk9CZkRsX2NjaXZlTnZEaFlvNnRIWXlUblZKYUxSdE1iczQ3bGtzbkNzQ3p3SkM1S3Z1Z19XZWh6T0RQMWxlNTYyb25tU2d6dGtOX1I0Q1RuNzZBdGxJZGlTTzlYcTU4RmtBbXI5eGpUT1VPTHBOS0gtVjZoRjdQcGo3TTNvMXIxUWhuc0t2azl6RklSRFjSAYICQVVfeXFMTlJfRUlLYUtraVVyN1JoWnM2dUFYbG0yQURaVDBGdTN2eml2Q1JWNUtfSWEzNWpYVUJYTnY1YTh6RzVBOGk1VExVLUJqOU41Yjg4ZHl6UE84X0N3c1NMQ1lJWDJNZzBOOE85MlYwZFFIOVllcTFQcEo3N05yamx1Smd5dnctY3RGQnE5TjZRRnBIQllKOWphd3lmd3c5dDlyNTUwcXBodVpFYkUwZmtfbElJb01zcXRNdHVQcW9taDk3MjhNUGpGNGFGV0RWcHJNN3pWQVFhRV9mdHJGQklRVy1ETFRENUk3T2d0RWx4WDRkdV9fOW9NMVBUQTdQWUZzYmRB?oc=5",
-          "publisher": "The Times of India",
-          "published_at": "2026-11-13T14:34:00+05:00",
-          "topic": "trade"
-        },
-        {
           "id": "a7d4799b7a0d7d71",
           "title": "Focus on localization and exports",
           "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE85cXNRR1pROHRLdkVLQzJtUFFJZXVwdjFmSjNNQ2NuXzR6YTNkV3JwRGpkZndPbzB4Qk5BRDlkWVVkbUJsTVRkcWpEYW1ETVBxS1pOVExmUnJtTjI3TnpXYW1lT2pycDJQeEE?oc=5",
           "publisher": "Pakistan Observer",
-          "published_at": "2026-11-15T05:52:05+05:00",
+          "published_at": "2026-11-15T11:50:43+05:00",
           "topic": "trade"
         },
         {
@@ -88,9 +80,17 @@
           "publisher": "samaa tv",
           "published_at": "2026-11-14T14:36:55+05:00",
           "topic": "trade"
+        },
+        {
+          "id": "f239846f62d1ca6a",
+          "title": "US assures India of tariff edge over competitors in trade pact",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOSGlKendhNDZFYm1PbnViN1JHY2E5R3FkblZ6RkMzY1dyQVpkbUYzcTFvN1I0MGFSek04MFNZdnZqTUNIOEZLQkduemZQZWlCWTJtYTI5czFtWUdvLTVqeW9ibTB0LXdRYU9FOXJ5MVAtWmxORW95Snk3ME1FMnBmaTZFeGdHdVd4UUl5V2tlT1ZQRUFKSTMyNVAwb0VZdTMzRmZlbkJPMW8ycS11MHdEY2p3c19DUllxT2dKT2sxQzNNTHliVC1IdjZJYWQyWWZQMG9IQTJfV0NTUTDSAeABQVVfeXFMTkNLdUd5dWk4ak5qNzVSMDJjM1RRY2p0cXE4ckZvWnlCWEJBa0xVSEdYNXVxMTAtbl94SEtVclNSR1dOeW5KZi1XQnFxYmM0RHVaTkUtdHVOVXdXOGRTUmsxbEhKTzJsRjdBZ0xlTUQyYUo1OGZjR1dnSnFWd0IyZ2lZU2RPQnVUc3lUVmRDYkVVZHM4YlRBS1BneS0xY1FnbWl6aWpoQi1NX0pYUHNRQllPQm04UGVHbmtXajBpYzhCeDZRSjc4eWFPZHdyV293cVRnOTNBbVRTUGdEN1lfMGM?oc=5",
+          "publisher": "The Economic Times",
+          "published_at": "2026-11-13T23:39:19+05:00",
+          "topic": "trade"
         }
       ],
-      "fetched_at": "2026-11-15T09:13:42.070334+05:00"
+      "fetched_at": "2026-11-15T16:21:13.752922+05:00"
     },
     {
       "id": "economy-2026-11-15",
@@ -108,31 +108,15 @@
           "topic": "economy"
         },
         {
-          "id": "645a8b4c7e4f9f97",
-          "title": "Food inflation to stay elevated; ICICI Bank sees 25 bps RBI rate hike in December",
-          "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOcXdKYzdpcnhkZlZLNmRyRHRfbmRZQzhoc3NhRUFLakYyOFdLWl9rdVYxelhfdFZIb2xUS0FhNWFPZEZ4NmdGOV9CdkVYeW85Q1RMc1RsZ1R5MGtwTHVSdS1aVDlsWmZpNV9NcHNKS3pHX1paXzY1Z1RPN2VlSHdKTHNuVllMbDNqazZlWE02WkNTTG01aWxCLXh5ZkxETTVYeVBSSFpkVExPZG92aGc2TTRlQU1YUGZtYThjTlhFZXVkazlXY01qRk9yeHE4V1kzMEpKRUhYckF1SzluVk1KeFUySEk1ZFNNWHNRWldHaHRPY0t1bWw1OFZNTdIB9AFBVV95cUxNRjRvbklnQkJsSkg4cmxvdE81czJnSFpfMnBRVEhrdWZzWWxMV3RtLWFhUzRaQlNIWnN1WHpfcU9uV2dwYnpjNW1DRDZKUFlRVjFxempwNTlKdzdJMDNzLVVkY3B0Sy1LM2lwSEt3NVNhSGF6eDVqRkRtcTBMLUlyN1hGYzhJOXpvZmNvU0F3N3JQN2RUTTVMMTFfYUVTTmZ0NEJ4Y29yblpjYndNRDJlX0ktR1NiRXJIYndyMUFocTduYl9ubGNMNi1pWG13S2VkRVNtbWluc2xpQ2JiVTNJWms5R3RsbDR3SF90TDRGVVNzT05z?oc=5",
-          "publisher": "The Economic Times",
-          "published_at": "2026-11-13T09:36:54+05:00",
-          "topic": "economy"
-        },
-        {
           "id": "ceb7dbef65cee520",
           "title": "The boom-bust trap",
           "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9jQUJZb1Q2dWYzaEVUdC1jaEhrbk5yQ2VGSEtjTTZDdUxIM1hycEszdXhXVUItZDNPNUVjczRTYXF1T050T3dRQ1BTNDhQSkJYSDZQREFvZ0ZQSHJlWmxJbUkyR0o2QQ?oc=5",
           "publisher": "The News Pakistan",
           "published_at": "2026-11-14T00:00:00+05:00",
           "topic": "economy"
-        },
-        {
-          "id": "149c916d1ba27729",
-          "title": "RBI likely to hike rate by 25 bps in Dec, not 50 bps: Report",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcTVZdXZKZnFvdzlST3MwLWhPMDlxVHptT2RMcnR4UVJMZWpTRGRMcWZlSW16bWw0TjVpUjlKdzl0VVJBYVZmWWpDYm1naXI4ZmgxQ1lLa25pbE1POFEwUkFOTy1iTG1KWVpsVERoRUZaQkYyUE42bTU0eWxNRi0yc3JUal9VckRIYmdTaHhhZ0FZSDZYRTBSSFlmMU1fUTJoSDZjT2xkY0llZTFaOGQ3Wk5kVnJQZw?oc=5",
-          "publisher": "The Hawk",
-          "published_at": "2026-11-13T10:38:33+05:00",
-          "topic": "economy"
         }
       ],
-      "fetched_at": "2026-11-15T09:13:42.070334+05:00"
+      "fetched_at": "2026-11-15T16:21:13.752922+05:00"
     },
     {
       "id": "business-2026-11-15",
@@ -150,14 +134,6 @@
           "topic": "business"
         },
         {
-          "id": "7d204cad4d56032b",
-          "title": "Pakistan-China Investment Deals Target CPEC 2.0 Growth",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcmFWYlR1eFVGZ2lyOUJrSl9Wa1VORHhNSzF0dDFUQmtiSEdPOE1FVVd3bzNpc1hWNWpXSEI2OXVfUG9pYWtyOEpMckgzOG5Td1F6MnhQdVRhQnQ1TXkwUDVaN0gzTEkzajg1UmxGVm94dXhPZi1xN3lsSUI1YjdtaGtwYmtvbE0?oc=5",
-          "publisher": "The Daily CPEC",
-          "published_at": "2026-11-13T13:46:06+05:00",
-          "topic": "business"
-        },
-        {
           "id": "712532b522fc3243",
           "title": "Barrick Eyes Investment in Mineral Processing Industries in Karachi and Gwadar",
           "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOLWYtTUNTWDNXcW1iS3hRM0wySXQxQlVMb04xb3doVl9RazkzU3hELUtCZDNhVmlxaWVqQm5Ld1NubmhjWC1xSzRuRTRBQjZaSmI2VVNIQy1wM1BPUWZSUGNEdkRUZzhTd0Q4TTAxaE1ZbXVZM21VZERCVVBocFlxOW5YellSalhoaURXOTZmWmtfWk5zdGpVUnlvbU00QXJ6SXJodXcwUWswcldCTk9vYQ?oc=5",
@@ -171,6 +147,14 @@
           "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeDVMZkU0YktnT3pWQWNZWVZaMFpua3lCa0tjdFo2NDlobHVTcGRlZWZPNVN6aWVEV292cElRd1pENHZDbjlYVlZJeWhyeXhwMkV3cXBKQTY0c3loNi1uUlBxdDBYY2txVmNXT0gzd05rbzVtbGllRmlTRDVoS2lQcGVJdGZSMGhJSVV2V2pra241d25ua1dMNW96QkJROHVwMTR2aHdOY2ZjMmd4eFVJdzRTWTFpcXVE0gG4AUFVX3lxTFB4NUxmRTRiS2dPelZBY1lZVlowWm5reUJrS2N0WjY0OWhsdVNwZGVlZk81U3ppZURXb3ZwSVF3WkQ0dkNuOVhWVkl5aHJ5eHAyRXdxcEpBNjRzeWg2LW5SUHF0MFhja3FWY1dPSDN3TmtvNW1saWVGaVNENWhLaVBwZUl0ZlIwaElJVXZXamtrbjV3bm5rV0w1b3pCQlE4dXAxNHZod05jZmMyZ3h4VUl3NFNZMWlxdUQ?oc=5",
           "publisher": "Balochistan Pulse",
           "published_at": "2026-11-14T13:06:27+05:00",
+          "topic": "business"
+        },
+        {
+          "id": "60498ce40fc03ffa",
+          "title": "PMIF26 concludes with major investment agreements; Pakistan reaffirms commitment to mineral value addition",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOWWFvaDVyX21fbDN2S2NsR3FBZnI4dmt4c2tTal9WcU9JWWpJTG5LaEZtdTB3Zm1TSDFKdDJCWXFjOHE3YWpLV0h0NW5WOUdwbVJKLVVaanlndlZ4U09iM1I4c2R1Nzh1MkxMdjhZNG1Qazk4YUFVa3hpdWVaZ0liUDlLaGNJTWIxcUIxTm54M2tSb3drUEJHLVAta0tlU3RRU0ZWRVRyaVNRcmxVOHhxbTk5RWRzem5saDQxRzU3eC0wZnN5YlVvUnVJWnYxOEZhNC1KVA?oc=5",
+          "publisher": "| Associated Press Of Pakistan",
+          "published_at": "2026-11-13T21:26:12+05:00",
           "topic": "business"
         },
         {
@@ -206,7 +190,7 @@
           "topic": "business"
         }
       ],
-      "fetched_at": "2026-11-15T09:13:42.070334+05:00"
+      "fetched_at": "2026-11-15T16:21:13.752922+05:00"
     },
     {
       "id": "trade-2026-11-14",
