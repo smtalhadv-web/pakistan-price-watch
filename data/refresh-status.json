@@ -1,6 +1,6 @@
 {
-  "started_at": "2026-11-16T11:52:40.205353+00:00",
-  "completed_at": "2026-11-16T11:53:05.604182+00:00",
+  "started_at": "2026-11-16T16:26:18.261728+00:00",
+  "completed_at": "2026-11-16T16:26:42.048917+00:00",
   "status": "partial",
   "timezone": "Asia/Karachi",
   "scheduled_times": [
@@ -11,7 +11,7 @@
     {
       "name": "collect.py",
       "status": "completed",
-      "elapsed_seconds": 4.0,
+      "elapsed_seconds": 3.4,
       "detail": ""
     },
     {
@@ -23,37 +23,37 @@
     {
       "name": "ingest.py",
       "status": "completed",
-      "elapsed_seconds": 1.3,
+      "elapsed_seconds": 1.1,
       "detail": ""
     },
     {
       "name": "expand_fetch.py",
       "status": "completed",
-      "elapsed_seconds": 1.9,
+      "elapsed_seconds": 2.2,
       "detail": ""
     },
     {
       "name": "expand.py",
       "status": "completed",
-      "elapsed_seconds": 1.3,
+      "elapsed_seconds": 1.1,
       "detail": ""
     },
     {
       "name": "commerce.py",
       "status": "completed",
-      "elapsed_seconds": 9.2,
+      "elapsed_seconds": 8.6,
       "detail": ""
     },
     {
       "name": "partner_sources.py",
       "status": "completed",
-      "elapsed_seconds": 6.0,
+      "elapsed_seconds": 5.2,
       "detail": ""
     },
     {
       "name": "extra_sources.py",
       "status": "completed",
-      "elapsed_seconds": 1.1,
+      "elapsed_seconds": 1.7,
       "detail": ""
     }
   ],
@@ -490,7 +490,7 @@
       "url": "https://priceoye.pk/trimmers-shavers?page=3",
       "status": "verified",
       "detail": "parsed",
-      "quotes": 35
+      "quotes": 36
     },
     {
       "source": "https://priceoye.pk/speakers?page=1",
@@ -616,14 +616,14 @@
       "url": "https://chasevalue.pk/products.json?limit=100&page=1",
       "status": "verified",
       "detail": "parsed",
-      "quotes": 668
+      "quotes": 674
     },
     {
       "source": "Chase Value",
       "url": "https://chasevalue.pk/products.json?limit=100&page=2",
       "status": "verified",
       "detail": "parsed",
-      "quotes": 594
+      "quotes": 564
     },
     {
       "source": "Naheed",
@@ -658,7 +658,7 @@
       "url": "https://www.naheed.pk/groceries-pets/baking-cooking/flours-meals",
       "status": "verified",
       "detail": "parsed",
-      "quotes": 31
+      "quotes": 32
     },
     {
       "source": "Paklap",
@@ -684,9 +684,9 @@
     {
       "source": "Foodpanda / Kifayah",
       "url": "https://www.foodpanda.pk/shop/a036/kifayah-supermarket-pechs",
-      "status": "verified",
-      "detail": "parsed",
-      "quotes": 90
+      "status": "not_verified",
+      "detail": "no verified quotes",
+      "quotes": 0
     },
     {
       "source": "OLX",
@@ -700,14 +700,14 @@
       "url": "https://www.olx.com.pk/items/q-laptop",
       "status": "verified",
       "detail": "parsed",
-      "quotes": 32
+      "quotes": 33
     },
     {
       "source": "OLX",
       "url": "https://www.olx.com.pk/items/q-sofa",
       "status": "verified",
       "detail": "parsed",
-      "quotes": 32
+      "quotes": 33
     },
     {
       "source": "Al-Fatah",
@@ -731,9 +731,9 @@
       "quotes": 30
     }
   ],
-  "total_quotes": 19927,
-  "verified_quotes": 5580,
-  "changed_prices": 60,
-  "new_quotes": 356,
-  "retained_quotes": 14347
+  "total_quotes": 20087,
+  "verified_quotes": 5471,
+  "changed_prices": 79,
+  "new_quotes": 160,
+  "retained_quotes": 14616
 }

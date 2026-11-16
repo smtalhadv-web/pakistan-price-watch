@@ -1,18 +1,18 @@
 {
-  "checked_at": "2026-11-16T16:53:06.625308+05:00",
+  "checked_at": "2026-11-16T21:26:42.999794+05:00",
   "checks": [
     {
       "topic": "economy",
       "status": "updated",
-      "headlines": 3
+      "headlines": 5
     },
     {
-      "topic": "business",
+      "topic": "trade",
       "status": "updated",
       "headlines": 8
     },
     {
-      "topic": "trade",
+      "topic": "business",
       "status": "updated",
       "headlines": 8
     }
@@ -34,6 +34,14 @@
           "topic": "trade"
         },
         {
+          "id": "aca19ef3447036f8",
+          "title": "Bangladesh runs trade deficits with four South Asian countries, India tops list",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUlhuYWdUdmN6YlM1cW5ld0hVcjRfVkU4NkNueGlhLV9FVHptY1RwbFh6amxHUkRBbDBvcDhiTXUxeDNhc3VYY3RMRDI0am1DSHEwcExtSHZHN0puZjE2TlNUNkJzSTJBSkdlR3pMR2wtdG9QV094b0VqclVTQjZlSFdHSlpOZHBzeWQwZGZoTnU4RzhsRjkybnFSbXFjNGJwQk5zM3BxQXNOWFRPMVE0bw?oc=5",
+          "publisher": "The Financial Express",
+          "published_at": "2026-11-15T17:05:54+05:00",
+          "topic": "trade"
+        },
+        {
           "id": "3afaf9ff118d0880",
           "title": "Bangladesh’s trade deficit with India exceeds Tk 97,927cr : Muktadir tells JS",
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5idmRPcFRybHgtYThVYzEzSmI3ME90U1djTWJfQW0tb1NXWHJHS2RjUldEUkZEQk1NRVdBczRGajdIX3BocFJNX0Z2QVVib0xsc0Y0?oc=5",
@@ -42,11 +50,11 @@
           "topic": "trade"
         },
         {
-          "id": "aca19ef3447036f8",
-          "title": "Bangladesh runs trade deficits with four South Asian countries, India tops list",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUlhuYWdUdmN6YlM1cW5ld0hVcjRfVkU4NkNueGlhLV9FVHptY1RwbFh6amxHUkRBbDBvcDhiTXUxeDNhc3VYY3RMRDI0am1DSHEwcExtSHZHN0puZjE2TlNUNkJzSTJBSkdlR3pMR2wtdG9QV094b0VqclVTQjZlSFdHSlpOZHBzeWQwZGZoTnU4RzhsRjkybnFSbXFjNGJwQk5zM3BxQXNOWFRPMVE0bw?oc=5",
-          "publisher": "The Financial Express",
-          "published_at": "2026-11-15T17:05:54+05:00",
+          "id": "12dd42a5fce27f92",
+          "title": "SBP projects 3.5-4.5% GDP growth for FY27",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPeHFtWUw2VUtPV1MxWk9JaEtNcUR4RFNDUFBMaWRFLVBfeHlvZGhKNHFpTXdrUjJmNEdiSUJuZFM1aFp1d0l1NFdTTEFrclJka3FyLW5QcmlhV0k4U1NxWng3WW1HUUlqdmVnVktBQ3lTc2w4aHhBOVhzY2RsY3U5UA?oc=5",
+          "publisher": "The Express Tribune",
+          "published_at": "2026-11-16T19:25:54+05:00",
           "topic": "trade"
         },
         {
@@ -58,11 +66,11 @@
           "topic": "trade"
         },
         {
-          "id": "b0ae018c1442f003",
-          "title": "Pakistan's fiscal dilemma: plug revenue drain first",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPd1JEYnlFa1FzRURCUC1rX0F4dmUwc05Nd1Q5VUxaMVVVRVlpZmc2N2RvVUdqTGprU0FYNGlTek9hMmRydm94VXRCQ2ozWXRDUEZLZDBXV1dvMkRoTFFlaXBtelI5QzQ1QzV6cUx3eW5NdjQ1OGpUNzdCSFhqN25mRG5YSEl5VXBNSlFuMmhqUdIBlwFBVV95cUxNMFpDSE5QOXVHdXF1OGdxZFhQdTRmeklQVldoN0xIWUVjWE02b0NobjV1T0lzSmRySTJVWDZUMmg0Uk5zY0lTRGRzcUhsTVdrQy0xNDUwcVRHeS02dnBRejhQdlhHVG5tcjVNVFJGM0VkcnlEN1E1b3ZJZU9TanZyNnZsNzdLT1I1ZHVaR1pJZmZzblZZeWVr?oc=5",
-          "publisher": "The Express Tribune",
-          "published_at": "2026-11-16T03:13:04+05:00",
+          "id": "28338c1896c9538a",
+          "title": "SBP projects Pakistan’s GDP growth at 4.5%",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPNkRLWEo3REdhR0xQZE9KbGdyNTZ4bk9hQjVEQmh5LU5VajFjLXMzTUZhTTJYSUtWQmlBYl9pUXlYUEFkMDdxd01hMzVqMVNhYTFPQzVRaHR1Tk1vbzVBV3ZRRXRqT0RIaFloRUJ6OVFiWTh0aDRVN1VBa3daTzdSTQ?oc=5",
+          "publisher": "Daily Times",
+          "published_at": "2026-11-16T17:29:23+05:00",
           "topic": "trade"
         },
         {
@@ -80,17 +88,9 @@
           "publisher": "Pakistan Observer",
           "published_at": "2026-11-15T19:18:55+05:00",
           "topic": "trade"
-        },
-        {
-          "id": "0e5999b79846ed75",
-          "title": "Pakistan’s external public debt rises 6.84% to $98.08bn in FY26",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbENZWUFTVk1tYnp4SU4tYmlkUEs2QTd3SlpsN0U5bUFqZ01zYU9qcnBYQTByMGJxaUE5eDU4R3JLVkFTMU40ZkoweGM1ZzVTYXg0ZTl3SUUybzRyWXlNYUdwMDZaRVVLdHdFZjN2Y3A5V0RGajJ1VWtDWlZrb3lkVUxKVzB4cE1lckFRaHk1Q2xIS1V0TWpfTm5MZDRGQXRqdnM4UFVwWkdDbTdka1ZFZlRqZTFBSncwUHc?oc=5",
-          "publisher": "Profit by Pakistan Today",
-          "published_at": "2026-11-15T16:53:09+05:00",
-          "topic": "trade"
         }
       ],
-      "fetched_at": "2026-11-16T16:53:06.625308+05:00"
+      "fetched_at": "2026-11-16T21:26:42.999794+05:00"
     },
     {
       "id": "economy-2026-11-16",
@@ -100,11 +100,11 @@
       "context": "Watch how inflation, currency movements and borrowing costs may affect household budgets and import costs. A headline alone does not establish that a retail price has changed.",
       "headlines": [
         {
-          "id": "17802935764e9769",
-          "title": "Fed's Collins says gradual rate hikes best to manage economic risks",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOU3pLSU9uWjFwSGNtM2dTaHYwS3FFWkpPRUpIOUtBMTBKbU5PVmF5N3puUlROSGFab1dwN3pVdHlvazRsek9saXBjdmI4cmZJWEtycjRyZjR4eHlpbl9JYUJUMklMb0tfbGMtcHBzbVNGeVNzdkJhd0FfTXFkbEZqbHhLWFMxLTdzR2tLVVpIRGt2bXgteDJTYVV2c2t6aWhmdDdmbGpuYTZRWjRKY05F?oc=5",
-          "publisher": "Investify",
-          "published_at": "2026-11-14T20:07:11+05:00",
+          "id": "5dfbb8e5e67873e9",
+          "title": "SBP says inflation to ease to 5-7pc target range during FY2027",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9jdXNudUIzSy1CdS00Q19yZF8yVnJidm9VYTBFS3dXdXp2MEZ3ak9sSnM2ZWRYRHVUS29zcFh2YWtZM3RMdllMSQ?oc=5",
+          "publisher": "Dawn",
+          "published_at": "2026-11-16T17:25:02+05:00",
           "topic": "economy"
         },
         {
@@ -116,15 +116,31 @@
           "topic": "economy"
         },
         {
+          "id": "edad73f82e331d4d",
+          "title": "SBP Expects Good Things for Pakistan Next Year",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNS09rWWY2MmVPUVpFblh4ZDNlLThuWGFqWDgwOXkzbWtwSW90MG9Ma0lPQm1faGpDbmdEQ1BmcnZBSGVnT09iODRQXzZ1YVl2Y0FHVWZSVGVmdUR5T3BHaGlDZTVKVENKdEVNenN5d1AzTjZaUTlxSllDd3lMX0E0U0FIeWc2SGJhMXfSAY8BQVVfeXFMTkxKdzhqX1FzbzBUYXdqa25pb1I3MGMyRGVmbnpfV0ZnLURGMzAySjhDTXIxOEpsaVRUWTlOWHVVSndjeXVTZFNDODRoUFBfZ2I1UHBpdGJYbGhQbVVMNmRiRXZ0eUgwOG0zNm9TN3hfQXNocXRvWjJQeXZyZy00aFpfRWFIMEhnREhkdGJ6LUU?oc=5",
+          "publisher": "ProPakistani",
+          "published_at": "2026-11-16T18:07:30+05:00",
+          "topic": "economy"
+        },
+        {
           "id": "1621473f4dd46a69",
           "title": "Rupee Strengthens Further as Dollar Falls to Rs. 276.57",
           "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMWlwdXRFWGxoSlNESDRMcTRlVmlhNER0LUwtd2JuR0hCbTVVeEhpdXVwNWw3cUlJalBNX2Jvc0hhckRkMm1BSTNTd2JjMy1DbmIwUTI0TUZZajByOHM4ZVo0bkF3ekV6ZDduczlzeEdGRWVmVjdrbURFU1RvOFZRWTVRQWNqQ2t1?oc=5",
           "publisher": "Bloom Pakistan",
           "published_at": "2026-11-16T16:39:07+05:00",
           "topic": "economy"
+        },
+        {
+          "id": "1d453c210e880ab4",
+          "title": "India's wholesale inflation rate quickens for the third straight month to 12.29%",
+          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOMmFWc0k1UW54Ty1PVUs3b3BuUTJsZGJvaVd4SmpfQWVjeURQcVFSWG5iX1EzTTVESWhJaFNJd3pWRmlGQnpuVkhxcEtydDJmazFMTVAtNUZVRk5MS3dZMnNMYlZUQXNnUkpNdm1RLWdnWWdxWG1ZNEZLZVhwWFRoNFJJNnZZX0hVa0xUNEVtOExwVlc5OTBaa1l5aC1BVkpFbVh6LVRtYkxpeVJGYXZ3ajAtMzhfUGVqSGRkbkR5SXVwby1YclU3eDItQl80U0Z1bm1wMUR3bE9NSGItaTV5SzltN2FBOW5WTHFz0gHwAUFVX3lxTE1JY3RwRV95dlZFWUhjSkQzcWFVUUJmZkxGakVrb2Z0M1hUM21Yem9XT0kybVlHUENJX1lVWEhhdV9ZeHlnZ2hwN0NKbDRyVHZQRzFZN1BYOEdnS2VHMW1wRU05VUw0VTRWUzlKdVdiOWJUT0F3TnZHLXdrdTdoVXBwZmtTRWNzLVZrRUZYYVMxVXB5WjR3am5oaVoxbGxRMHFTZjAwUWNrbGI3a0NkVXBpalZIWjRQaGE2R1F5bVVQWVpkV3ZEZVkycEFZZWlBWkJSVjA1VGtjU2VMX3hwdGNFUWZVZnJWRTdMT0NvcHFtdQ?oc=5",
+          "publisher": "The Economic Times",
+          "published_at": "2026-11-16T11:56:33+05:00",
+          "topic": "economy"
         }
       ],
-      "fetched_at": "2026-11-16T16:53:06.625308+05:00"
+      "fetched_at": "2026-11-16T21:26:42.999794+05:00"
     },
     {
       "id": "business-2026-11-16",
@@ -134,11 +150,11 @@
       "context": "Company and industry developments can affect supply, stock availability and competition. Compare dated supplier offers before making a purchase decision.",
       "headlines": [
         {
-          "id": "8ea32dababf803cb",
-          "title": "ABSON Company Announcements - Abson Industries Ltd",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE91Q2FRRUhYQ0kxNW13bTZpUEFsQVYwRFNCQ1FJeHg3SHBGVlZNNzRzNUM1UUJtYjBva2JKNWNXVUJjZ1dRQV81THUwblBDUkxpOHltRGtYZXZCUm1Gb1hST1hR?oc=5",
+          "id": "d41157cb6ce7abd5",
+          "title": "GHNI Company Announcements - Ghandhara Industries Ltd",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5USWdZVlkyWHB5MmxGei1BVFlUWTNHMmpLSVkxV3h6N2RDWFg4LUE2VWUwSFZpY1diZ0J0MlRKOXNqTTRSaDRlTjU4WlVNcVB4cU0xa3pyMDE5dTRRQlNjUw?oc=5",
           "publisher": "Investify",
-          "published_at": "2026-11-16T09:43:19+05:00",
+          "published_at": "2026-11-16T18:34:31+05:00",
           "topic": "business"
         },
         {
@@ -147,6 +163,14 @@
           "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxObUg0akFHeW1xaUFRWkZXc1hBVndUNFN1cDNMMVEwU2dRT1owX0dvc2VCZzlJck1NdVdDY3BzWEVPenZtU0UtZkVqZENFYjhmajhEd2RUTUdKcXYxNndmSkRUZjVjcEl2bEw3MDJlUmJKR3hvd2trek9xZFMzSGUwWTJ0WG1iZ3VocF9F?oc=5",
           "publisher": "The Daily CPEC",
           "published_at": "2026-11-16T16:40:32+05:00",
+          "topic": "business"
+        },
+        {
+          "id": "9717f515732382f1",
+          "title": "Government bodies should support private investment: TCCIMA",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNaTBrN2NUWDdUbnpTSmdrTXJUUGdqQ0U3d2RmbFhuaGlWTVNXOTBkZlBGaXpTR1hOa3pxU3RYT0JYNnhBTktidEwyLUNiX0djMi1BRlo5T05lclo0ZlpNTlVIWTFTOGNFRVpBZlV3bjlmTmNITG1vem1aRFVwd3l0SktjUGVJOFFuZ2FkdnZid1dkbl9ybkRqc2ZJNjN5NGs?oc=5",
+          "publisher": "Tehran Times",
+          "published_at": "2026-11-16T17:33:32+05:00",
           "topic": "business"
         },
         {
@@ -178,27 +202,19 @@
           "title": "Pakistan says goods exports hit record $11.4 billion in first 4 months of FY27",
           "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPclpYbFhrMDJEOFpBanNhMzBnX1VKc2c4UXF3UGdCRkpMcjhseXUyVThwUlpqWjhtSkNPSG1ZTDRSWm1OaDQ1VnhMYl93aXk2SkZtRTNSdF8yUWJCV1dGcm1qOUNtNmp3Wlcxam9ER01qajJ1OExDbEVwYmFLTFR6MHlSVnlEUElIdHNCSEhIem80UW9paWxWWkRhd3B3ZXV5Z0tFWEdKaVVZMHNyS0pKQ0JxaXhNeWlX?oc=5",
           "publisher": "Arab News PK",
-          "published_at": "2026-11-16T14:56:22+05:00",
+          "published_at": "2026-11-16T20:41:16+05:00",
           "topic": "business"
         },
         {
-          "id": "75067d7b8bc52df1",
-          "title": "DATA POINTS",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE81akdGRHI1bEZubDVHX3NBZm5zajFtTXBDMk1MbG1WRDc3clVOWG85UEJSVm9TbThjSGN4d3ZuRGREWE5jZ2Rfc2QtdlV6SGY3Sjk0ZjVDLWY?oc=5",
-          "publisher": "Dawn",
-          "published_at": "2026-11-16T07:11:41+05:00",
-          "topic": "business"
-        },
-        {
-          "id": "3ec708c8718d658a",
-          "title": "JVDC Company Announcements - Javedan Corporation Ltd",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE45RXJoaGRLRlJfbnBhelhHTWlaX1YyUFU0c3lhSmFSWkFYSGViR2FMcHBEZjhjUHRCdVVVdGM1YUFsc1FVazhkRzVUMUFQMWI2QkU3cDhTcGFSaWdLWUNJVQ?oc=5",
+          "id": "52b8af00a96d1c1b",
+          "title": "BATA Company Announcements - Bata Pakistan Ltd",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5mSnpGU0VpU1hFQkljbDlSaG1ZOU1aT1AtRU1UemxRQk5CaVcwdUVTNWlCSmh0MFRscVByZU5kWXZtNXFwWnZvTXdQbWp1M0tZcC03bVppVXgzbmtMOUFMTQ?oc=5",
           "publisher": "Investify",
-          "published_at": "2026-11-16T10:32:29+05:00",
+          "published_at": "2026-11-16T11:53:33+05:00",
           "topic": "business"
         }
       ],
-      "fetched_at": "2026-11-16T16:53:06.625308+05:00"
+      "fetched_at": "2026-11-16T21:26:42.999794+05:00"
     },
     {
       "id": "trade-2026-11-15",
