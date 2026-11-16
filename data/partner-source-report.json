@@ -1,6 +1,6 @@
 {
-  "checked_at": "2026-11-16T21:26:35.191443+05:00",
-  "quotes": 11690,
+  "checked_at": "2026-11-17T04:47:48.083888+05:00",
+  "quotes": 11768,
   "checks": [
     {
       "store": "Chase Value",
@@ -60,13 +60,13 @@
       "store": "Metro",
       "url": "https://metro-online.pk/",
       "status": "parsed",
-      "offers": 223
+      "offers": 222
     },
     {
       "store": "Foodpanda / Kifayah",
       "url": "https://www.foodpanda.pk/shop/a036/kifayah-supermarket-pechs",
-      "status": "no verified quotes",
-      "offers": 0
+      "status": "parsed",
+      "offers": 90
     },
     {
       "store": "OLX",

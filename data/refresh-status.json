@@ -1,6 +1,6 @@
 {
-  "started_at": "2026-11-16T16:26:18.261728+00:00",
-  "completed_at": "2026-11-16T16:26:42.048917+00:00",
+  "started_at": "2026-11-16T23:47:33.950192+00:00",
+  "completed_at": "2026-11-16T23:47:54.509068+00:00",
   "status": "partial",
   "timezone": "Asia/Karachi",
   "scheduled_times": [
@@ -11,7 +11,7 @@
     {
       "name": "collect.py",
       "status": "completed",
-      "elapsed_seconds": 3.4,
+      "elapsed_seconds": 3.1,
       "detail": ""
     },
     {
@@ -23,37 +23,37 @@
     {
       "name": "ingest.py",
       "status": "completed",
-      "elapsed_seconds": 1.1,
+      "elapsed_seconds": 0.9,
       "detail": ""
     },
     {
       "name": "expand_fetch.py",
       "status": "completed",
-      "elapsed_seconds": 2.2,
+      "elapsed_seconds": 1.7,
       "detail": ""
     },
     {
       "name": "expand.py",
       "status": "completed",
-      "elapsed_seconds": 1.1,
+      "elapsed_seconds": 0.8,
       "detail": ""
     },
     {
       "name": "commerce.py",
       "status": "completed",
-      "elapsed_seconds": 8.6,
+      "elapsed_seconds": 7.2,
       "detail": ""
     },
     {
       "name": "partner_sources.py",
       "status": "completed",
-      "elapsed_seconds": 5.2,
+      "elapsed_seconds": 4.9,
       "detail": ""
     },
     {
       "name": "extra_sources.py",
       "status": "completed",
-      "elapsed_seconds": 1.7,
+      "elapsed_seconds": 1.5,
       "detail": ""
     }
   ],
@@ -490,7 +490,7 @@
       "url": "https://priceoye.pk/trimmers-shavers?page=3",
       "status": "verified",
       "detail": "parsed",
-      "quotes": 36
+      "quotes": 34
     },
     {
       "source": "https://priceoye.pk/speakers?page=1",
@@ -679,14 +679,14 @@
       "url": "https://metro-online.pk/",
       "status": "verified",
       "detail": "parsed",
-      "quotes": 223
+      "quotes": 222
     },
     {
       "source": "Foodpanda / Kifayah",
       "url": "https://www.foodpanda.pk/shop/a036/kifayah-supermarket-pechs",
-      "status": "not_verified",
-      "detail": "no verified quotes",
-      "quotes": 0
+      "status": "verified",
+      "detail": "parsed",
+      "quotes": 90
     },
     {
       "source": "OLX",
@@ -731,9 +731,9 @@
       "quotes": 30
     }
   ],
-  "total_quotes": 20087,
-  "verified_quotes": 5471,
-  "changed_prices": 79,
-  "new_quotes": 160,
-  "retained_quotes": 14616
+  "total_quotes": 20171,
+  "verified_quotes": 5553,
+  "changed_prices": 20,
+  "new_quotes": 84,
+  "retained_quotes": 14618
 }
