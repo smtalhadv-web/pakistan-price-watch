@@ -10,11 +10,11 @@
     ],
     [
       "gold",
-      111886
+      112382
     ],
     [
       "silver",
-      106051
+      105785
     ],
     [
       "pso-history",
@@ -22,7 +22,7 @@
     ],
     [
       "samsung",
-      613987
+      613845
     ],
     [
       "xiaomi",
@@ -34,7 +34,7 @@
     ],
     [
       "oppo",
-      473848
+      473840
     ],
     [
       "realme",
@@ -50,14 +50,14 @@
     ],
     [
       "appliances",
-      830873
+      809160
     ],
     [
       "pbs",
       344443
     ]
   ],
-  "checked_at": "2026-11-16T04:13:55.750430+00:00",
+  "checked_at": "2026-11-16T11:52:45.641712+00:00",
   "sources": [
     {
       "source": "PSO dated fuel archive",
@@ -80,7 +80,7 @@
     {
       "source": "PriceOye published listings",
       "status": "parsed",
-      "observed_records": 132,
+      "observed_records": 136,
       "new_records": 0
     },
     {
@@ -98,7 +98,7 @@
     {
       "source": "Additional mobile, laptop, watch and audio listings",
       "status": "parsed",
-      "new_records": 0
+      "new_records": 1
     },
     {
       "source": "Furniture and power-tool variant listings",
@@ -116,7 +116,7 @@
       "new_records": 0
     }
   ],
-  "quotes": 5920,
+  "quotes": 5921,
   "manual_queue": [
     "Verify new image rates before transcribing; source sheets refresh automatically",
     "Unsupported sources retain their dated quotes"
