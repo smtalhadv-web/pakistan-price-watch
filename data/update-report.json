@@ -6,35 +6,35 @@
     ],
     [
       "forex",
-      111753
+      110796
     ],
     [
       "gold",
-      112686
+      112698
     ],
     [
       "silver",
-      105825
+      106097
     ],
     [
       "pso-history",
-      230536
+      230531
     ],
     [
       "samsung",
-      614661
+      614525
     ],
     [
       "xiaomi",
-      529844
+      529700
     ],
     [
       "vivo",
-      456127
+      455983
     ],
     [
       "oppo",
-      474508
+      474364
     ],
     [
       "realme",
@@ -42,22 +42,22 @@
     ],
     [
       "infinix",
-      471068
+      470932
     ],
     [
       "tecno",
-      464987
+      462442
     ],
     [
       "appliances",
-      820913
+      800292
     ],
     [
       "pbs",
       344443
     ]
   ],
-  "checked_at": "2026-11-17T16:13:51.116473+00:00",
+  "checked_at": "2026-11-17T23:03:02.962841+00:00",
   "sources": [
     {
       "source": "PSO dated fuel archive",
@@ -79,7 +79,7 @@
     {
       "source": "PriceOye published listings",
       "status": "parsed",
-      "observed_records": 133,
+      "observed_records": 136,
       "new_records": 0
     },
     {
