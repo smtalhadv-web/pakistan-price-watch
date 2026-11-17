@@ -1,6 +1,6 @@
 {
   "checked_at": "2026-11-17",
-  "observed_offers": 2512,
+  "observed_offers": 2507,
   "sources": [
     {
       "url": "https://www.zahcomputers.pk/shop/",
@@ -249,12 +249,12 @@
     {
       "url": "https://priceoye.pk/trimmers-shavers?page=1",
       "status": "parsed",
-      "observed_offers": 28
+      "observed_offers": 25
     },
     {
       "url": "https://priceoye.pk/trimmers-shavers?page=2",
       "status": "parsed",
-      "observed_offers": 36
+      "observed_offers": 34
     },
     {
       "url": "https://priceoye.pk/trimmers-shavers?page=3",

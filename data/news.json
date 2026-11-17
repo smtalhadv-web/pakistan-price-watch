@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-17T04:47:55.603302+05:00",
+  "checked_at": "2026-11-17T09:18:29.171941+05:00",
   "checks": [
     {
       "topic": "business",
@@ -26,11 +26,43 @@
       "context": "Trade and customs developments can affect landed costs and delivery times. Check the original notification, effective date and product classification before applying a reported change to an item.",
       "headlines": [
         {
+          "id": "c9636130a89f377b",
+          "title": "Enhancing exports to China",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE90Ri0xYkRtSW5xNWR1UkVXNDA5UnJ5ME1RYzQ4MGZ2OXNMVzlEaGJMc3JhZk9lV19TX3hPZi1NOFpFS3psZXVOM3Atb21XaTV6N0xYQ0NXTjJCVFBVakczMmJoTjJHbnVKRXpCSkdtOFrSAXhBVV95cUxPZW5meDg4Zng5cm9PYXhZTTh0a29IZE9zNFBXb2lnZUctRkI0cDlHY3U5aGVlZWtlbEo0d0lUYzN4UWp3OWdVcXkyck9RVFprTzF3WjlEWGQ1OUdudUpGaHF5bjZ5eHg3MVV2c0YxM2lyNXA5NGJzRUU?oc=5",
+          "publisher": "The Express Tribune",
+          "published_at": "2026-11-17T00:55:34+05:00",
+          "topic": "trade"
+        },
+        {
+          "id": "a81c5c994613814b",
+          "title": "Rs300bn set aside for SMEs under EFS",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPWGVDczdSR29Ob1FmaUNqUlE3bUVGQnBfTk01eFZKTFg5NTVCTnZ5UDY4dlZpWXVCeW1uaUZOWjNVcTl1SmppcXdDMTNseEZISGEteU5FYzhWeFc0QmlnM2VIc2hEUkE4MDh6WF9ZMjU0cHdLb0NjY1JXa0pBckFMcXZB0gFWQVVfeXFMUFE2NURZNnlkUnB5RU1EUUlHQUdrX1VUNGNhbEgxT2lzTUdqd1dSRkl6ZDB3Y3Q1ZEU0TFRsVzYyeG9ZQ0t4RUVaZWd2cF9rcjJEMUJXdHc?oc=5",
+          "publisher": "Business Recorder",
+          "published_at": "2026-11-17T07:04:04+05:00",
+          "topic": "trade"
+        },
+        {
           "id": "ff897146f2522a7c",
           "title": "One year of closed borders: How food import dependence and regional conflict have fueled rising poverty in Afghanistan",
           "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOS2Z5cDF1Mm1NT1NhaUJNOGdwX2RfX2drOG9CYXJWc2ZuQ0d6Vi00aHQ3dGJSRHp5bFNxcGFBOEFXTU55Uk9tUVhwVkI1b1pNbWRqTkoxWkNRWHJJalA3ZEJfd3VnQ1dqUVpzdkJuckp4Z0JvdllrZzQ5RnNCNmZwTC1vQmVsM3NEcTdGRUtjdkxhSEdsZTRoTjREeW1IYV9NQWNmOVlpdndkR0c0MTZ0d2FTcy1xUFBRY3VKSFhRMkNKQ3NNNk5jU1UwRk5fSjRPT3JQanZSTFNmdUZXanc?oc=5",
           "publisher": "IFPRI",
           "published_at": "2026-11-16T23:49:49+05:00",
+          "topic": "trade"
+        },
+        {
+          "id": "e1d1b02d47057866",
+          "title": "Rs300b earmarked for short-term export finance",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOcER4ZEhRdUVVaDFMZGxQOGh0WjNUaFNxbWpGVWVTaWIwN1BxZVRSOXFiN1FRd1BDNXlnRU12dmtEMWJjQm84VmM1eE5DcV9SMDdHZGYySW9nQlVpOGk3aHF1SUJUS04yaDZXZHM3dXI2blZhOVZYWU9qVUVhZUZleXg2emNyVWRBMlA00gGTAUFVX3lxTE9tTDNwWVV5SGk4UTVXMm9oWUJsNGduQnVUYU5BOHBtLTE0Z2ZpNnNhWjJaVEEwQnVDRU1IV1M1ZndHdi1Ib1ZHcnM5OHNnemhXdDA1ZGJRV0sxV3dLTjVuY3dJN01LTFNjWnlqVUpNc2NnUUUwOVpJN2U3a0l1Nk96enJfUDc3V3NnSW1JM2p2U0Iwcw?oc=5",
+          "publisher": "The Express Tribune",
+          "published_at": "2026-11-17T02:06:46+05:00",
+          "topic": "trade"
+        },
+        {
+          "id": "60489657373bfef0",
+          "title": "Breaking free of fossil fuels",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVm12VlhDX3ZHelBIU2lhS3Y3dFQ1b1JtTnNrRVE2NjhJVWJqcmdEcUtyZEE3QjVyODdORUwzeV9xTzZaVVdmNE4wVGZONTcyZ3JNS1pkN0FsNGs0TUtWcEYzOG04SHFrOXdrcm1xSEcxMTNWNkx1Y0w1ZVctNFZxOGdULXpCUURCMWhr?oc=5",
+          "publisher": "The News Pakistan",
+          "published_at": "2026-11-16T08:38:29+05:00",
           "topic": "trade"
         },
         {
@@ -42,30 +74,6 @@
           "topic": "trade"
         },
         {
-          "id": "aca19ef3447036f8",
-          "title": "Bangladesh runs trade deficits with four South Asian countries, India tops list",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUlhuYWdUdmN6YlM1cW5ld0hVcjRfVkU4NkNueGlhLV9FVHptY1RwbFh6amxHUkRBbDBvcDhiTXUxeDNhc3VYY3RMRDI0am1DSHEwcExtSHZHN0puZjE2TlNUNkJzSTJBSkdlR3pMR2wtdG9QV094b0VqclVTQjZlSFdHSlpOZHBzeWQwZGZoTnU4RzhsRjkybnFSbXFjNGJwQk5zM3BxQXNOWFRPMVE0bw?oc=5",
-          "publisher": "The Financial Express",
-          "published_at": "2026-11-15T17:05:54+05:00",
-          "topic": "trade"
-        },
-        {
-          "id": "3afaf9ff118d0880",
-          "title": "Bangladesh’s trade deficit with India exceeds Tk 97,927cr : Muktadir tells JS",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5idmRPcFRybHgtYThVYzEzSmI3ME90U1djTWJfQW0tb1NXWHJHS2RjUldEUkZEQk1NRVdBczRGajdIX3BocFJNX0Z2QVVib0xsc0Y0?oc=5",
-          "publisher": "Bangladesh Sangbad Sangstha (BSS)",
-          "published_at": "2026-11-15T18:08:16+05:00",
-          "topic": "trade"
-        },
-        {
-          "id": "4f128d3a30cef92b",
-          "title": "Pakistan is Surviving Shocks: SBP",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE42T2dMRDczejBNU21kQXMtaTNPXzM4Tl9xNTJpWDNGdWFBSmFhUnJOQWdfM2txTE5JeXN2RmFyVHJfTjJLRHFyR2Z6a2xuYVQwS2xqTkNhMFRQbnluclNSR2R0ZGFrUXdYOFB4ZjJjc3ZSWE1FS09z0gH3AkFVX3lxTE9vTlh6eHU2WlFoa001SHpxZnJwUVpVNi15SmlzLV9mQ1l4Zm51QUhEWnRDYXhTOVE4R1VIVjlycVVHbGM4Rk9USFJ4ck02MjJNRUphZ3ZtTXc0ZXJmanlCRUk3cjlWT1NNZm5pTWJkLUY5ejc0eDVBYUg4MHdINkFNc2JjYnRoN3dUTENudTA0NzBXSGFFYUxFUi1JN2pVRzZKZHdyamYyUUNvY3hoaXdWZHJidzZnQWltV25yZVp4alhXbXc2NGJBOXBzRTEtVGItQmN5WFRaaWFrXzZZb3dBQmtXWmhKYm5abTZsMURqMlV5aU1aYVg0WEp1eGFFekEyc3ZzRExaSHRIMFU3S0dPWFpIbDgxSFQxRE9TT0JvX3dXaEVlUE9lWjgwOVZOVnRIQk5oVlRsZnFQR2xvemE1dndNbUZPeGtjOXF5Umh3Q05NTVJ0cFZzenA4MmREbDllOGcwdThwb0MxV3BSdFE5N29SSmdNYw?oc=5",
-          "publisher": "ProPakistani",
-          "published_at": "2026-11-16T19:43:51+05:00",
-          "topic": "trade"
-        },
-        {
           "id": "12dd42a5fce27f92",
           "title": "SBP projects 3.5-4.5% GDP growth for FY27",
           "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPeHFtWUw2VUtPV1MxWk9JaEtNcUR4RFNDUFBMaWRFLVBfeHlvZGhKNHFpTXdrUjJmNEdiSUJuZFM1aFp1d0l1NFdTTEFrclJka3FyLW5QcmlhV0k4U1NxWng3WW1HUUlqdmVnVktBQ3lTc2w4aHhBOVhzY2RsY3U5UA?oc=5",
@@ -74,23 +82,15 @@
           "topic": "trade"
         },
         {
-          "id": "4e998c0d0b7a9283",
-          "title": "Pakistan Sets Aside Rs300 Billion in Export Financing for SMEs",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQX2JoWTAtSU5XOHJGeWxpa0dQVWxHenl5UDkyc2YyRmxERmhQbjd0VnZYZjF1T0lGQk5icVBKLW9wMDlPa21jRk9yRi1Yd1FqSmZOUWNWMEtWMDYtMXdqUUo3R0ZTb20yd1lCWkdlaGVvc0ZqNFJBX3l4UEI1NTRIWjlla1hZaWVhTmRoYlFRMkJaanNVcGQ1ZTlsN1U?oc=5",
-          "publisher": "UrduPoint",
-          "published_at": "2026-11-16T18:01:24+05:00",
-          "topic": "trade"
-        },
-        {
-          "id": "eaed750e4c5f7e7a",
-          "title": "Government to Establish SME Facilitation Centres in Four Major Cities",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPb1lKTlU0Mmd1Qm9yUmtrMlh2VEdwc2FpUG5NRFEzUHByYWs2cTF5LWhyOHFaNVNFbzV0NExhaVJpWWpsaEwtaFRGZURlWUxveE5SQmk3V0xnOUtTazNyLUlCczlad3ZWQlhCQnBtQXRKMWdNZF9RekRoZDA4V192VEdzRHF1RUN0dklhQUEwRVZxbWVOS1dhd3pFaw?oc=5",
-          "publisher": "TechJuice",
-          "published_at": "2026-11-16T23:15:45+05:00",
+          "id": "aca19ef3447036f8",
+          "title": "Bangladesh runs trade deficits with four South Asian countries, India tops list",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUlhuYWdUdmN6YlM1cW5ld0hVcjRfVkU4NkNueGlhLV9FVHptY1RwbFh6amxHUkRBbDBvcDhiTXUxeDNhc3VYY3RMRDI0am1DSHEwcExtSHZHN0puZjE2TlNUNkJzSTJBSkdlR3pMR2wtdG9QV094b0VqclVTQjZlSFdHSlpOZHBzeWQwZGZoTnU4RzhsRjkybnFSbXFjNGJwQk5zM3BxQXNOWFRPMVE0bw?oc=5",
+          "publisher": "The Financial Express",
+          "published_at": "2026-11-15T17:05:54+05:00",
           "topic": "trade"
         }
       ],
-      "fetched_at": "2026-11-17T04:47:55.603302+05:00"
+      "fetched_at": "2026-11-17T09:18:29.171941+05:00"
     },
     {
       "id": "economy-2026-11-17",
@@ -148,23 +148,23 @@
           "topic": "economy"
         },
         {
+          "id": "7cb4b5421e5e1666",
+          "title": "Wholesale inflation faces a triple squeeze from fuel, food and metals in FY27: Report",
+          "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQZXV3el9EVVdBN2lOUWZab3A1M19HUGplWjhPTWYwd1Q1LVFJdEhKUUlqeUg4ZlRySFhfRDJ4Q0prVHdjVjVWZmFTQXNiRTRITEw5ODRsR25nVmlWclpSNFY4eUlmVWI3cU5GdkR6eEl1aXMyTkMyRllpZV9RUkl6b3FCaXJyMEZLQUY5Nk1IQ0FueWZUbUxkTXVyOEtSajljbG15Z1ptUFZSWkdQMW5ETEZXSkU4VUFTVmVSbmRTNFJFVjFmQnF1dkpOTnlVazVsNnczY09OZ1NNWXFuODI5VnV2Tl9DVExuenJ1SFVPR3FQVXPSAfgBQVVfeXFMTmZmblRnbVlXZVJweTQ0Mkt6MVE5djVEOWxzd1RfakJCZkYzTlgyWUtpNTBQZ2VjLU8waW1ROS1LQ182WEJob2xfTWNVUWVCLTQxN2dsTDhoaDk3emwwRXJDMF9Gb0JCa3Z0Zk5jcmE3THhaOFhnVWVuYm1MdzlHUUQybDBQV1k2aWpqSV9PY3FSN0NEUWZEZ3NicDZ2REZQZ19tbVRzWGtOSUp5WjdBdlREWUF3MHJ3WXgtR1VRYW5jNjFaelBsZ2MyczR4RWN3SkRERFY2bmZMNUJOZHhMcXY2WHdfb1Q1am4yVHg3TFNNZElRUnNveFU?oc=5",
+          "publisher": "The Economic Times",
+          "published_at": "2026-11-17T08:39:19+05:00",
+          "topic": "economy"
+        },
+        {
           "id": "24a2dc2fa1bb22c6",
           "title": "India's wholesale inflation jumps to 12.3% in October on rising energy prices",
           "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPdkhrT1VTZHVjS0F5Ui1mYkR2UmRULTZVaWRtZnQ1RzZCeTM2NnROcEpwbkJ2LWVlb3JoazAwUC0zQmxEbW5Wc1h0Q1dnS0pZNkFNbVdUcHBqT1FRVXFvVXpwX0pWVFVPekVpWGs4TVFQS1RUZ01pYy1BZUtnRnNqNDl0czduLUc0YUp4bUpJT1p4Z2thQVVIc3BsRWRrRVZFdkp4aTdnMXFMc1ZpS0xjTFcyb3JJa3JJV0hUOEFJeWV5SDNqcjFsVUszbDVzQWZ5WlZRcEdOWE05LWN2a3IwWW9JSGY3X2Q3?oc=5",
           "publisher": "The Economic Times",
           "published_at": "2026-11-16T23:39:49+05:00",
           "topic": "economy"
-        },
-        {
-          "id": "1d453c210e880ab4",
-          "title": "India's wholesale inflation rate quickens for the third straight month to 12.29%",
-          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOMmFWc0k1UW54Ty1PVUs3b3BuUTJsZGJvaVd4SmpfQWVjeURQcVFSWG5iX1EzTTVESWhJaFNJd3pWRmlGQnpuVkhxcEtydDJmazFMTVAtNUZVRk5MS3dZMnNMYlZUQXNnUkpNdm1RLWdnWWdxWG1ZNEZLZVhwWFRoNFJJNnZZX0hVa0xUNEVtOExwVlc5OTBaa1l5aC1BVkpFbVh6LVRtYkxpeVJGYXZ3ajAtMzhfUGVqSGRkbkR5SXVwby1YclU3eDItQl80U0Z1bm1wMUR3bE9NSGItaTV5SzltN2FBOW5WTHFz0gHwAUFVX3lxTE1JY3RwRV95dlZFWUhjSkQzcWFVUUJmZkxGakVrb2Z0M1hUM21Yem9XT0kybVlHUENJX1lVWEhhdV9ZeHlnZ2hwN0NKbDRyVHZQRzFZN1BYOEdnS2VHMW1wRU05VUw0VTRWUzlKdVdiOWJUT0F3TnZHLXdrdTdoVXBwZmtTRWNzLVZrRUZYYVMxVXB5WjR3am5oaVoxbGxRMHFTZjAwUWNrbGI3a0NkVXBpalZIWjRQaGE2R1F5bVVQWVpkV3ZEZVkycEFZZWlBWkJSVjA1VGtjU2VMX3hwdGNFUWZVZnJWRTdMT0NvcHFtdQ?oc=5",
-          "publisher": "The Economic Times",
-          "published_at": "2026-11-16T11:56:33+05:00",
-          "topic": "economy"
         }
       ],
-      "fetched_at": "2026-11-17T04:47:55.603302+05:00"
+      "fetched_at": "2026-11-17T09:18:29.171941+05:00"
     },
     {
       "id": "business-2026-11-17",
@@ -190,6 +190,30 @@
           "topic": "business"
         },
         {
+          "id": "1e007e6d82eac966",
+          "title": "Pakistan’s private equity needs fixing more than capital",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE41SWlSbEVET0NCYURzdkJBMUI0VVlNTnY1a0JqU2VSdERLbkJNcTJJWjN1SnhLdHl3S1pQT3NJYmplOWMyanF0eg?oc=5",
+          "publisher": "Dawn",
+          "published_at": "2026-11-16T07:11:41+05:00",
+          "topic": "business"
+        },
+        {
+          "id": "e40419f3c087aa30",
+          "title": "Pakistan says goods exports hit record $11.4 billion in first 4 months of FY27",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPclpYbFhrMDJEOFpBanNhMzBnX1VKc2c4UXF3UGdCRkpMcjhseXUyVThwUlpqWjhtSkNPSG1ZTDRSWm1OaDQ1VnhMYl93aXk2SkZtRTNSdF8yUWJCV1dGcm1qOUNtNmp3Wlcxam9ER01qajJ1OExDbEVwYmFLTFR6MHlSVnlEUElIdHNCSEhIem80UW9paWxWWkRhd3B3ZXV5Z0tFWEdKaVVZMHNyS0pKQ0JxaXhNeWlX?oc=5",
+          "publisher": "Arab News PK",
+          "published_at": "2026-11-17T02:57:20+05:00",
+          "topic": "business"
+        },
+        {
+          "id": "7ab9ad3d9673f73d",
+          "title": "Ivanhoe and Mari Ink MOU for Balochistan Exploration",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5PcjhCeHFZMUxmMmNtRkY1QVg4SnR5aWc3NENrSzJtMFUwNGFkUDR3aEE1MGhua2gyRi1zZEx0NGhzWkhxX2JSTnp1ck5tdzVZUHJzVlhVZEJYcTdUcVhVR2NQTEJYSnR6b3VIOHIxZzlKQQ?oc=5",
+          "publisher": "Investing News Network",
+          "published_at": "2026-11-16T21:30:00+05:00",
+          "topic": "business"
+        },
+        {
           "id": "a80dab123f82de26",
           "title": "IML Company Profile - Imperial Ltd",
           "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9QejBpY3ppamxNVlF2MWkteFdUSm9wTW56TzVSRkl5Y25IVkdoLVZZRGZFTVBXWEVia1lBVGdKMUVwX21uVFBfazM2VlRkNXF2aEhRajJ3Zw?oc=5",
@@ -212,33 +236,9 @@
           "publisher": "Investify",
           "published_at": "2026-11-16T09:43:19+05:00",
           "topic": "business"
-        },
-        {
-          "id": "e40419f3c087aa30",
-          "title": "Pakistan says goods exports hit record $11.4 billion in first 4 months of FY27",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPclpYbFhrMDJEOFpBanNhMzBnX1VKc2c4UXF3UGdCRkpMcjhseXUyVThwUlpqWjhtSkNPSG1ZTDRSWm1OaDQ1VnhMYl93aXk2SkZtRTNSdF8yUWJCV1dGcm1qOUNtNmp3Wlcxam9ER01qajJ1OExDbEVwYmFLTFR6MHlSVnlEUElIdHNCSEhIem80UW9paWxWWkRhd3B3ZXV5Z0tFWEdKaVVZMHNyS0pKQ0JxaXhNeWlX?oc=5",
-          "publisher": "Arab News PK",
-          "published_at": "2026-11-17T02:57:20+05:00",
-          "topic": "business"
-        },
-        {
-          "id": "1e007e6d82eac966",
-          "title": "Pakistan’s private equity needs fixing more than capital",
-          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE41SWlSbEVET0NCYURzdkJBMUI0VVlNTnY1a0JqU2VSdERLbkJNcTJJWjN1SnhLdHl3S1pQT3NJYmplOWMyanF0eg?oc=5",
-          "publisher": "Dawn",
-          "published_at": "2026-11-16T07:11:41+05:00",
-          "topic": "business"
-        },
-        {
-          "id": "7ab9ad3d9673f73d",
-          "title": "Ivanhoe and Mari Ink MOU for Balochistan Exploration",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5PcjhCeHFZMUxmMmNtRkY1QVg4SnR5aWc3NENrSzJtMFUwNGFkUDR3aEE1MGhua2gyRi1zZEx0NGhzWkhxX2JSTnp1ck5tdzVZUHJzVlhVZEJYcTdUcVhVR2NQTEJYSnR6b3VIOHIxZzlKQQ?oc=5",
-          "publisher": "Investing News Network",
-          "published_at": "2026-11-16T21:30:00+05:00",
-          "topic": "business"
         }
       ],
-      "fetched_at": "2026-11-17T04:47:55.603302+05:00"
+      "fetched_at": "2026-11-17T09:18:29.171941+05:00"
     },
     {
       "id": "trade-2026-11-16",
