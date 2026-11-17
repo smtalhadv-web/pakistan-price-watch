@@ -1,13 +1,13 @@
 {
-  "checked_at": "2026-11-17T17:15:21.515160+05:00",
+  "checked_at": "2026-11-17T21:14:10.443756+05:00",
   "checks": [
     {
-      "topic": "economy",
+      "topic": "trade",
       "status": "updated",
       "headlines": 8
     },
     {
-      "topic": "trade",
+      "topic": "economy",
       "status": "updated",
       "headlines": 8
     },
@@ -26,11 +26,11 @@
       "context": "Trade and customs developments can affect landed costs and delivery times. Check the original notification, effective date and product classification before applying a reported change to an item.",
       "headlines": [
         {
-          "id": "4a3dfe8118e0f92b",
-          "title": "Pakistan, Turkmenistan discuss regional trade corridors, expansion of bilateral commerce",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUkJtZFFSRWlIY0F2S01SbVZ6X2FRQzZFNWNtaENndEtGSmtBcDJJU2V1cnlodzZTNXUzRkNyQ3gtZjA4YnYyMU9sUjlTbFZ6SnJya2JDcS1xc09BY0NxbmZuNEhobXNySEY4VFBnYzM2ek9JVnRPR2g3VXlIV2pWU1ZaOEVFaExOb3BMREpuZzJ3d2ZqeEJiblhfZDNOT3F3Z1pFM1liS0JLdzRfLXloS0EzTmRHVmx6cEdoZ0NxNGliOW5EOFlaUQ?oc=5",
+          "id": "c334b6e624861d33",
+          "title": "Pakistan’s import bill rises 8.6% YoY to nearly $6bn in October",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNy1iYzhhdXZUckpnWmdnUW9nT0s5UGROOTRqc0kwY1BRWlVNaGFEa2hkN2ZlWWlIZEg1bERFLUFhM2Z0NnEyUnFKcnNBTGpFZ0JWYlpyUHZiSzZZeWdHUVBGX0Z5NW02emFlQjVsN1J5T2NYUXlETmN3YkNoQmJ2bmJZOWZYRDJzWVhoc3k4UVByN0JUNHVCYS1STktWbm5Fcm9FcWdrTQ?oc=5",
           "publisher": "Investify",
-          "published_at": "2026-11-17T10:25:27+05:00",
+          "published_at": "2026-11-17T17:24:06+05:00",
           "topic": "trade"
         },
         {
@@ -50,11 +50,11 @@
           "topic": "trade"
         },
         {
-          "id": "f9c71d3ecaa8c2c4",
-          "title": "China retains top spot in Pakistan’s imports at nearly $2bn in October",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVzR5c2pwWTlVOXFrRXZCbGRtQlhNWWN1dXlzWnctSEpvUk1wUGkwdVRqaU44dkJXTWVMQmNsUFJSLWRMRFJIazRDOVdIMWxVdXpyQTBkMk1wMDhoSUxRdnRnSnMyWFR6QTRVb1d4cXBEYW5OUGYwa2Z0WTFmbWZaN3lpd2I1ZkpBclN3SFFKR21qQncwTkctN3JzQVE0Mnp6WHBpNUt3WmJqMnM4VU9MOWZ3?oc=5",
+          "id": "4a3dfe8118e0f92b",
+          "title": "Pakistan, Turkmenistan discuss regional trade corridors, expansion of bilateral commerce",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUkJtZFFSRWlIY0F2S01SbVZ6X2FRQzZFNWNtaENndEtGSmtBcDJJU2V1cnlodzZTNXUzRkNyQ3gtZjA4YnYyMU9sUjlTbFZ6SnJya2JDcS1xc09BY0NxbmZuNEhobXNySEY4VFBnYzM2ek9JVnRPR2g3VXlIV2pWU1ZaOEVFaExOb3BMREpuZzJ3d2ZqeEJiblhfZDNOT3F3Z1pFM1liS0JLdzRfLXloS0EzTmRHVmx6cEdoZ0NxNGliOW5EOFlaUQ?oc=5",
           "publisher": "Investify",
-          "published_at": "2026-11-17T16:54:09+05:00",
+          "published_at": "2026-11-17T10:25:27+05:00",
           "topic": "trade"
         },
         {
@@ -74,23 +74,23 @@
           "topic": "trade"
         },
         {
+          "id": "f9c71d3ecaa8c2c4",
+          "title": "China retains top spot in Pakistan’s imports at nearly $2bn in October",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVzR5c2pwWTlVOXFrRXZCbGRtQlhNWWN1dXlzWnctSEpvUk1wUGkwdVRqaU44dkJXTWVMQmNsUFJSLWRMRFJIazRDOVdIMWxVdXpyQTBkMk1wMDhoSUxRdnRnSnMyWFR6QTRVb1d4cXBEYW5OUGYwa2Z0WTFmbWZaN3lpd2I1ZkpBclN3SFFKR21qQncwTkctN3JzQVE0Mnp6WHBpNUt3WmJqMnM4VU9MOWZ3?oc=5",
+          "publisher": "Investify",
+          "published_at": "2026-11-17T16:54:09+05:00",
+          "topic": "trade"
+        },
+        {
           "id": "e80daf4f428bcc9d",
           "title": "Dhaka counts deficits with four countries, India topping list",
           "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWkN4cy1fUzRWdG9YQXZZcVN6dkNBbE9hY2VmVXhJODZjby05VnJiUnZrWjB2TzVCWFN1cDM1bnY4cGxIZURGalR4X3pJVHU5bmNuVktUc3BhbHNLOWJHNG9rUlRPcU9vVjVDRUp3V1JLN1dBNHJSb3JxUXJWOE9vOWU2b1Z0VDRMY25DS1dUR3dXNHRMU3IxaVVvaVVJR3hLZXFScjVR?oc=5",
           "publisher": "The Financial Express",
           "published_at": "2026-11-16T08:37:09+05:00",
           "topic": "trade"
-        },
-        {
-          "id": "3afaf9ff118d0880",
-          "title": "Bangladesh’s trade deficit with India exceeds Tk 97,927cr : Muktadir tells JS",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5idmRPcFRybHgtYThVYzEzSmI3ME90U1djTWJfQW0tb1NXWHJHS2RjUldEUkZEQk1NRVdBczRGajdIX3BocFJNX0Z2QVVib0xsc0Y0?oc=5",
-          "publisher": "Bangladesh Sangbad Sangstha (BSS)",
-          "published_at": "2026-11-15T18:08:16+05:00",
-          "topic": "trade"
         }
       ],
-      "fetched_at": "2026-11-17T17:15:21.515160+05:00"
+      "fetched_at": "2026-11-17T21:14:10.443756+05:00"
     },
     {
       "id": "economy-2026-11-17",
@@ -116,14 +116,6 @@
           "topic": "economy"
         },
         {
-          "id": "269bfd3cd81e25d5",
-          "title": "Rupee flies high in Asia on easing crude oil prices, foreign flows",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQMzEzVG02SjY0N3NIMmJZaF9yTHF1TXotUm8zbnczcGlFTTRKLUpGdzFGRm1Mcmg0WWpzWmIwVW9tZm9SLVpoVFRrcDVuZzM3SWotc0xuQlNuSE1yZ2UzMHVIcHFJMmtrSzVpOUVKUWxJMUdXUnB6N1l1MllvT1Zfd0FxdURsX3JjX2hDblpMU1hRbDhTM25QLU5RVWJOdW43UVpSTTNoRlJfdUJZcURCOVd3ZjNLLVBoLUVac05CQWxfV0tMZ2FUU21sdGdldjdSNlJr0gHYAUFVX3lxTE1EY2lERFdKaVU5YjJhdS1iNFVOWHRnMEhSN0RBYUZSLWhzNDdoN0t4ZWFHR24tN041c3FONWgybkpRNkMyck43dXFtdkRGWnNWemV3bDdOVnFXNDEycncxRC1SRFJiaE5vMU9HS1FRTGRiSm1HaW9WYndUZFFpNDJpcmxwbFVkcU56dU9Fdk9IaWFPT0VoTWowZHhJQk5DRzJJTGtSWG1kRERoV2ZKT0pnQUlvWjRjRnNEY0dRQjNGRVliOGRKdEZIZDZ6VHlIbW9YTmtRVVhZOQ?oc=5",
-          "publisher": "Business Standard",
-          "published_at": "2026-11-16T18:47:12+05:00",
-          "topic": "economy"
-        },
-        {
           "id": "e663d7b2d5b320d4",
           "title": "India faces a more painful return to higher interest rates",
           "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPaTlKUHlaSTd1R21qZGhZTk5nTHpZMDFrQlBDVno5bHNiaWdMVEliYWt1cXl1YWcySzdBVmdJcmRhUTA3QnhwajNPTkJpSEpqS21taS1TNTQ3LTd3RVJ4d1JGNGI5anhQcTVTR3Q4RXVZb3hzQmNLT0Q0RndnQk1obVJMR1NmUThpbG93QS1yS3l0Q2tFMmJrVE1mYWJwSHhqYXJsMlg0RVprR1BHdldRWDZvLXJtWWpNc3dzbjJaYWg2bnVNNFNGbF9tcFJBY0NjbGZOOVd4dkRCbUc2aTI5NEZISzJqcXZ0WVlldmJmb24xNkZOTzBGMjNVbjc2ZW9xNnfSAfsBQVVfeXFMT1BlcjhvWUE4aWZleHpCdmlDTm1YRk5mdXRIa1ZWcFVlSExZQWFTRFp4UDlVbjFudllRM21qMW9DVU1JZzVmbzZNamN5QVF0eWNYQ3BkZnZIN0FpMVlDbVRCMDA5cG9LZm9EUVNtS091Q09aM3ZyYXVrbWRuUENlalE1N2daMDR2YkV2Rkc2YVFHR2l2NU9MYWpaYjBleTc5SGpYSjNLVC15YWJpQ1lydlZQVGRyTXh3aXQ5OS1kX1l1TzdyQWpBTUZvSHdZUFNFWHFXZFZzQUhfUkNvMi1kQzJqT1c5ZUFCYzNvMHVGY3pJbDhVYUxQRE1UWHc?oc=5",
@@ -132,11 +124,11 @@
           "topic": "economy"
         },
         {
-          "id": "cd03bf77ecbe8ac0",
-          "title": "Gold prices drop 4.1% to Rs 1.36 lakh, silver slides nearly 5% to Rs 1.76 lakh on MCX; inflation data, Fe",
-          "url": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxObm1CaXhjRzFVN0tFVVljWURZem96bXo4MDJlVi1TNHU3WU1rWFhZb2ZqLW5hN2FkSTIzcE9qRVA1Wm14ZzdSaFZFWF9rVFNCNzJVNVpfMVBENkl1SGZ5bms0YlJvaFhBR2o2WlhjbmNlS0k0VktmYkxvQ0QtM3NzaUl5c1Z2OWNNX0o3YkRDUVB4ZFg5S1Z3S2hibHhiOHJWQzZUb2tzSE1FTS1vSk1XVjNaS0Vyc3B4VU9QRW5oWVpZdTBHZllMY1FPcjZYakxSaTU2NnFfd1JQcGtpcml3SW5hbG1KWVZNRk1oU2VEWDJmNllZYU52MEZVQ1JPR3BmUXNOWmxvcUctQVFCUVQ2ZTN1ekNXRGFSamRBaVU4VTJzLVFNOVp6bmplc3V2bEVLdWM5eDdBNWJPdnpERkRUMXN6VTJtdFhXd1RPSzZzT21SRk1TY2l3RHNJREdBa1pheXJUNDlhUHhORm_SAfACQVVfeXFMTi10ZVNUb0N4Y2tOeERWalV6OWFXTlpxUmt1U0l0ZlBnSWU3Zy1VX1g0Yy1fUE5lal96Q0t6RUlyWnV6d0c3WE9qdjZPakVubmVYNHdCamtVNy0zTkxxOGd4Yk9MVnFXU003WEliQS1GNjBYVkdLWk5kUUh1SjJIbnlfR056d2dwYVhJd3ljRjZxMWpxMFEzYmJhMGdwNV9aeWlIN0RPeWxoNVJTc1RKc0puc2Z2NHVqRUtlZTJWMGVocnBQS1pNa0d5SFJvYmhkLTI1VVhEQnNhd2pQb0s3VURmTHY5S1hWZDg0YlV2WThXTUZCUWFCZVpUMERLeEVjMDdLa2gwWkVrUUFuV3lWSWZSUU8yYkdtZ2ZIN1BKUFhoOXNLNmlYUkFJLU52UElkVi16UldNTmpDaERJWnhDS29ZNTBSdDZROUdzc3VQdTFXYy1ydnlBUUJCeXRJRzdtdGQ0VXBtcExZdFA2Z3I0TG4?oc=5",
-          "publisher": "The Times of India",
-          "published_at": "2026-11-15T18:34:00+05:00",
+          "id": "269bfd3cd81e25d5",
+          "title": "Rupee flies high in Asia on easing crude oil prices, foreign flows",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQMzEzVG02SjY0N3NIMmJZaF9yTHF1TXotUm8zbnczcGlFTTRKLUpGdzFGRm1Mcmg0WWpzWmIwVW9tZm9SLVpoVFRrcDVuZzM3SWotc0xuQlNuSE1yZ2UzMHVIcHFJMmtrSzVpOUVKUWxJMUdXUnB6N1l1MllvT1Zfd0FxdURsX3JjX2hDblpMU1hRbDhTM25QLU5RVWJOdW43UVpSTTNoRlJfdUJZcURCOVd3ZjNLLVBoLUVac05CQWxfV0tMZ2FUU21sdGdldjdSNlJr0gHYAUFVX3lxTE1EY2lERFdKaVU5YjJhdS1iNFVOWHRnMEhSN0RBYUZSLWhzNDdoN0t4ZWFHR24tN041c3FONWgybkpRNkMyck43dXFtdkRGWnNWemV3bDdOVnFXNDEycncxRC1SRFJiaE5vMU9HS1FRTGRiSm1HaW9WYndUZFFpNDJpcmxwbFVkcU56dU9Fdk9IaWFPT0VoTWowZHhJQk5DRzJJTGtSWG1kRERoV2ZKT0pnQUlvWjRjRnNEY0dRQjNGRVliOGRKdEZIZDZ6VHlIbW9YTmtRVVhZOQ?oc=5",
+          "publisher": "Business Standard",
+          "published_at": "2026-11-16T18:47:12+05:00",
           "topic": "economy"
         },
         {
@@ -162,9 +154,17 @@
           "publisher": "ProPakistani",
           "published_at": "2026-11-16T18:43:51+05:00",
           "topic": "economy"
+        },
+        {
+          "id": "080bb676c616d9de",
+          "title": "India Inc.’s sudden craving for dollars is a dangerous gamble",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQWVNNMkNuSjN1YktTU0d3YzQ4ZlpOSjJlUURGdzIwV3RmbXlMOWV0dXRodjRmRXMwY2FSNGZncUxFaG9Bd3lNR1ZrcHE3dC1FUVd6aXZTZWtBRjE2WTJyRWVITHlFQk5tZzl3bTlOc1ZNLWxNLWt2UDUtRE5telJPQUx1V01hQzA1cV84Z25uTWYxTk40MjZleUx4Q18tMnZUdnoyUFJmSVd6Z1ROZFoxRWhkWmwxdEE1UGd0NmlSM1BXaEh6WV9YVlRXXzF5LWx2YnBQS9IB2gFBVV95cUxNb3A0TDBzYUJRZU42QnVzcXc3ZDhWbU5tOTRIWWhrSDNtN3V5Mk9fMzFRaGk0b0NfWHlrd2FjLUYyZlJjdDRIQVFDWElRNHVOa2tLNHNfSjRrR0FlXzVSZHdRMmhQWVIzYmMybjhJNzBfamZPSTIzckhPQXJYQm1SaUFVVkVQVjBCZTFmRlV5N1RIZm12eEM4SFpsa09LdmtzSGY1YzNkUFptZ3BWVmdkRGlvYUg3VmlOdlJ5SFVPcVdkeHByN2dnSEdLZzB3S1JzZG9GM1owQ2pEdw?oc=5",
+          "publisher": "The Economic Times",
+          "published_at": "2026-11-17T09:55:04+05:00",
+          "topic": "economy"
         }
       ],
-      "fetched_at": "2026-11-17T17:15:21.515160+05:00"
+      "fetched_at": "2026-11-17T21:14:10.443756+05:00"
     },
     {
       "id": "business-2026-11-17",
@@ -190,6 +190,14 @@
           "topic": "business"
         },
         {
+          "id": "95a6ec9920ae69a6",
+          "title": "Saudi's Delta Energy To Explore $30B Gas Infrastructure Investment In Pakistan: Report",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPOW1odEdnMWtpT3ZIZDZDSFB3TnFLZVRoOWpwcHQ2VUp1YmozMm9zc0NvV3BPNE0yM2R3OXNJMmFlNk9YWTRZNFJhcWYzcmFEU0Z3M2lsN2V2WEgwbE1QUkNoU2RRUEZRcTFETk9yMEFSTVBycEJzR1JaYWp0SjJDXy1XaUJQU2Jyc1BDT01wajdQc0hlTlVNSjM5S3g4alNpV3RsMXQweHJGOWNfd1BrRkRtTVdzUGpadF9LVjYyZw?oc=5",
+          "publisher": "Forbes Middle East",
+          "published_at": "2026-11-17T17:59:22+05:00",
+          "topic": "business"
+        },
+        {
           "id": "05f75526d19ff44c",
           "title": "SIFC Holds Talks With Transsion on Investment in Pakistan",
           "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxObUg0akFHeW1xaUFRWkZXc1hBVndUNFN1cDNMMVEwU2dRT1owX0dvc2VCZzlJck1NdVdDY3BzWEVPenZtU0UtZkVqZENFYjhmajhEd2RUTUdKcXYxNndmSkRUZjVjcEl2bEw3MDJlUmJKR3hvd2trek9xZFMzSGUwWTJ0WG1iZ3VocF9F?oc=5",
@@ -198,11 +206,11 @@
           "topic": "business"
         },
         {
-          "id": "e3b45fa3e69a003d",
-          "title": "Nishat Group explores investment in proposed Pakistan port project",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbl91U3JHNGQwaXBCcm5IWEk3REFoZGlLSWszS3QzVGQyRGRHaVhwMlFwTGY1WFh0MmhJQklRRUFmMVh0YzJ1WFk4dk45Zm1Rd0NZZmdFWExxX1B0bnV4ZlhOZE9uZl9NQmJTVEU5UV9zSV9adnl5bHpFaF9ud25WRjVYTFU1V2NxbUt5cmxMdnRhWGJ0Z1E?oc=5",
-          "publisher": "Traders Union",
-          "published_at": "2026-11-15T19:26:24+05:00",
+          "id": "105d3f465245e0fd",
+          "title": "ARMG Company Announcements - ARM Green Industries Ltd",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5FcVlHVkNiRVJua0dqbDBFUE8zWUpCZ0xaSlJJSkY5VGdtcGhWLUFmX3FmLTlZLTFTajFhd2I3eXZqZjFSc1RPSTRmWmtmcjRkcGdncDF0c1RJZUxoZTVtcA?oc=5",
+          "publisher": "Investify",
+          "published_at": "2026-11-16T18:00:04+05:00",
           "topic": "business"
         },
         {
@@ -228,17 +236,9 @@
           "publisher": "Investing News Network",
           "published_at": "2026-11-16T21:30:00+05:00",
           "topic": "business"
-        },
-        {
-          "id": "e40419f3c087aa30",
-          "title": "Pakistan says goods exports hit record $11.4 billion in first 4 months of FY27",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPclpYbFhrMDJEOFpBanNhMzBnX1VKc2c4UXF3UGdCRkpMcjhseXUyVThwUlpqWjhtSkNPSG1ZTDRSWm1OaDQ1VnhMYl93aXk2SkZtRTNSdF8yUWJCV1dGcm1qOUNtNmp3Wlcxam9ER01qajJ1OExDbEVwYmFLTFR6MHlSVnlEUElIdHNCSEhIem80UW9paWxWWkRhd3B3ZXV5Z0tFWEdKaVVZMHNyS0pKQ0JxaXhNeWlX?oc=5",
-          "publisher": "Arab News PK",
-          "published_at": "2026-11-15T22:47:32+05:00",
-          "topic": "business"
         }
       ],
-      "fetched_at": "2026-11-17T17:15:21.515160+05:00"
+      "fetched_at": "2026-11-17T21:14:10.443756+05:00"
     },
     {
       "id": "trade-2026-11-16",

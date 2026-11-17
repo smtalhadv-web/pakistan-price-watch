@@ -10,7 +10,7 @@
     ],
     [
       "gold",
-      112408
+      112686
     ],
     [
       "silver",
@@ -50,14 +50,14 @@
     ],
     [
       "appliances",
-      800845
+      820913
     ],
     [
       "pbs",
       344443
     ]
   ],
-  "checked_at": "2026-11-17T12:15:02.507322+00:00",
+  "checked_at": "2026-11-17T16:13:51.116473+00:00",
   "sources": [
     {
       "source": "PSO dated fuel archive",
@@ -79,7 +79,7 @@
     {
       "source": "PriceOye published listings",
       "status": "parsed",
-      "observed_records": 136,
+      "observed_records": 133,
       "new_records": 0
     },
     {
