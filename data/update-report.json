@@ -10,11 +10,11 @@
     ],
     [
       "gold",
-      112669
+      112408
     ],
     [
       "silver",
-      106106
+      105825
     ],
     [
       "pso-history",
@@ -22,11 +22,11 @@
     ],
     [
       "samsung",
-      614519
+      614661
     ],
     [
       "xiaomi",
-      529673
+      529844
     ],
     [
       "vivo",
@@ -34,11 +34,11 @@
     ],
     [
       "oppo",
-      474511
+      474508
     ],
     [
       "realme",
-      472797
+      472443
     ],
     [
       "infinix",
@@ -50,14 +50,14 @@
     ],
     [
       "appliances",
-      830916
+      800845
     ],
     [
       "pbs",
       344443
     ]
   ],
-  "checked_at": "2026-11-17T04:18:09.741357+00:00",
+  "checked_at": "2026-11-17T12:15:02.507322+00:00",
   "sources": [
     {
       "source": "PSO dated fuel archive",
@@ -67,9 +67,8 @@
     },
     {
       "source": "Published gold and silver benchmarks",
-      "status": "parsed",
-      "observed_records": 12,
-      "new_records": 0
+      "status": "manual_required",
+      "reason": "Gold source date missing"
     },
     {
       "source": "Published currency tables",
@@ -80,7 +79,7 @@
     {
       "source": "PriceOye published listings",
       "status": "parsed",
-      "observed_records": 133,
+      "observed_records": 136,
       "new_records": 0
     },
     {
@@ -116,7 +115,7 @@
       "new_records": 0
     }
   ],
-  "quotes": 5930,
+  "quotes": 5931,
   "manual_queue": [
     "Verify new image rates before transcribing; source sheets refresh automatically",
     "Unsupported sources retain their dated quotes"

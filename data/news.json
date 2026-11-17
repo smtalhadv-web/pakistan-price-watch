@@ -1,11 +1,6 @@
 {
-  "checked_at": "2026-11-17T09:18:29.171941+05:00",
+  "checked_at": "2026-11-17T17:15:21.515160+05:00",
   "checks": [
-    {
-      "topic": "business",
-      "status": "updated",
-      "headlines": 8
-    },
     {
       "topic": "economy",
       "status": "updated",
@@ -13,6 +8,11 @@
     },
     {
       "topic": "trade",
+      "status": "updated",
+      "headlines": 8
+    },
+    {
+      "topic": "business",
       "status": "updated",
       "headlines": 8
     }
@@ -26,19 +26,19 @@
       "context": "Trade and customs developments can affect landed costs and delivery times. Check the original notification, effective date and product classification before applying a reported change to an item.",
       "headlines": [
         {
-          "id": "c9636130a89f377b",
-          "title": "Enhancing exports to China",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE90Ri0xYkRtSW5xNWR1UkVXNDA5UnJ5ME1RYzQ4MGZ2OXNMVzlEaGJMc3JhZk9lV19TX3hPZi1NOFpFS3psZXVOM3Atb21XaTV6N0xYQ0NXTjJCVFBVakczMmJoTjJHbnVKRXpCSkdtOFrSAXhBVV95cUxPZW5meDg4Zng5cm9PYXhZTTh0a29IZE9zNFBXb2lnZUctRkI0cDlHY3U5aGVlZWtlbEo0d0lUYzN4UWp3OWdVcXkyck9RVFprTzF3WjlEWGQ1OUdudUpGaHF5bjZ5eHg3MVV2c0YxM2lyNXA5NGJzRUU?oc=5",
-          "publisher": "The Express Tribune",
-          "published_at": "2026-11-17T00:55:34+05:00",
+          "id": "4a3dfe8118e0f92b",
+          "title": "Pakistan, Turkmenistan discuss regional trade corridors, expansion of bilateral commerce",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUkJtZFFSRWlIY0F2S01SbVZ6X2FRQzZFNWNtaENndEtGSmtBcDJJU2V1cnlodzZTNXUzRkNyQ3gtZjA4YnYyMU9sUjlTbFZ6SnJya2JDcS1xc09BY0NxbmZuNEhobXNySEY4VFBnYzM2ek9JVnRPR2g3VXlIV2pWU1ZaOEVFaExOb3BMREpuZzJ3d2ZqeEJiblhfZDNOT3F3Z1pFM1liS0JLdzRfLXloS0EzTmRHVmx6cEdoZ0NxNGliOW5EOFlaUQ?oc=5",
+          "publisher": "Investify",
+          "published_at": "2026-11-17T10:25:27+05:00",
           "topic": "trade"
         },
         {
-          "id": "a81c5c994613814b",
-          "title": "Rs300bn set aside for SMEs under EFS",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPWGVDczdSR29Ob1FmaUNqUlE3bUVGQnBfTk01eFZKTFg5NTVCTnZ5UDY4dlZpWXVCeW1uaUZOWjNVcTl1SmppcXdDMTNseEZISGEteU5FYzhWeFc0QmlnM2VIc2hEUkE4MDh6WF9ZMjU0cHdLb0NjY1JXa0pBckFMcXZB0gFWQVVfeXFMUFE2NURZNnlkUnB5RU1EUUlHQUdrX1VUNGNhbEgxT2lzTUdqd1dSRkl6ZDB3Y3Q1ZEU0TFRsVzYyeG9ZQ0t4RUVaZWd2cF9rcjJEMUJXdHc?oc=5",
-          "publisher": "Business Recorder",
-          "published_at": "2026-11-17T07:04:04+05:00",
+          "id": "4cb41488459fd998",
+          "title": "Several traders and shopkeepers in Spin Boldak district of Kandahar province say that more than 50 percent of their trade and economic activity has stalled since the closure of the Pakistan border. They say the Taliban’s ban on importing ri",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPU3dMNUVFalluWkpFczA0aXpfNTQ4MUVkWjlfZHcxT3NDRmp6X2c5RHV4aGdxV1NTZGt5SmhNMThPNmpNMDVkWlNtaENhcDZTMWdsdEo4cndjUld0VFFWenJZU3VwdjBENHpKQ3owR1M5aHVaS21tdGZYNUpqQ0JpdnMtZ1NVMlBZNUw5N3QwV1luSHlqYUl0OE5obi1QZWpvYnkwNVRIT242TXYzYml4R3JrT3MxcThVZFEwSXFXR0UwMkM1ZkpQc3dxUGd3VzdLWXpORkVB?oc=5",
+          "publisher": "Facebook",
+          "published_at": "2026-11-17T14:27:16+05:00",
           "topic": "trade"
         },
         {
@@ -50,19 +50,19 @@
           "topic": "trade"
         },
         {
-          "id": "e1d1b02d47057866",
-          "title": "Rs300b earmarked for short-term export finance",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOcER4ZEhRdUVVaDFMZGxQOGh0WjNUaFNxbWpGVWVTaWIwN1BxZVRSOXFiN1FRd1BDNXlnRU12dmtEMWJjQm84VmM1eE5DcV9SMDdHZGYySW9nQlVpOGk3aHF1SUJUS04yaDZXZHM3dXI2blZhOVZYWU9qVUVhZUZleXg2emNyVWRBMlA00gGTAUFVX3lxTE9tTDNwWVV5SGk4UTVXMm9oWUJsNGduQnVUYU5BOHBtLTE0Z2ZpNnNhWjJaVEEwQnVDRU1IV1M1ZndHdi1Ib1ZHcnM5OHNnemhXdDA1ZGJRV0sxV3dLTjVuY3dJN01LTFNjWnlqVUpNc2NnUUUwOVpJN2U3a0l1Nk96enJfUDc3V3NnSW1JM2p2U0Iwcw?oc=5",
-          "publisher": "The Express Tribune",
-          "published_at": "2026-11-17T02:06:46+05:00",
+          "id": "f9c71d3ecaa8c2c4",
+          "title": "China retains top spot in Pakistan’s imports at nearly $2bn in October",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVzR5c2pwWTlVOXFrRXZCbGRtQlhNWWN1dXlzWnctSEpvUk1wUGkwdVRqaU44dkJXTWVMQmNsUFJSLWRMRFJIazRDOVdIMWxVdXpyQTBkMk1wMDhoSUxRdnRnSnMyWFR6QTRVb1d4cXBEYW5OUGYwa2Z0WTFmbWZaN3lpd2I1ZkpBclN3SFFKR21qQncwTkctN3JzQVE0Mnp6WHBpNUt3WmJqMnM4VU9MOWZ3?oc=5",
+          "publisher": "Investify",
+          "published_at": "2026-11-17T16:54:09+05:00",
           "topic": "trade"
         },
         {
-          "id": "60489657373bfef0",
-          "title": "Breaking free of fossil fuels",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVm12VlhDX3ZHelBIU2lhS3Y3dFQ1b1JtTnNrRVE2NjhJVWJqcmdEcUtyZEE3QjVyODdORUwzeV9xTzZaVVdmNE4wVGZONTcyZ3JNS1pkN0FsNGs0TUtWcEYzOG04SHFrOXdrcm1xSEcxMTNWNkx1Y0w1ZVctNFZxOGdULXpCUURCMWhr?oc=5",
-          "publisher": "The News Pakistan",
-          "published_at": "2026-11-16T08:38:29+05:00",
+          "id": "e50f406b367d2d6a",
+          "title": "Spin Boldak Traders Say Taliban Ban Has Stalled Half of Their Business",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBhNWhjSWFSOW91NC1qX08yNzVsMERYc2dwYjZfVkFsOG1lS3R5U1FrbVJmRHAxaXFDZXYySUdUVzZMQTlMQ0hSck8zalBNMi1DSFJnd2FYTnpPeGR1UjFqTmZvNlZXazFfa0tnRVZR?oc=5",
+          "publisher": "8AM Media",
+          "published_at": "2026-11-17T13:52:49+05:00",
           "topic": "trade"
         },
         {
@@ -74,23 +74,23 @@
           "topic": "trade"
         },
         {
-          "id": "12dd42a5fce27f92",
-          "title": "SBP projects 3.5-4.5% GDP growth for FY27",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPeHFtWUw2VUtPV1MxWk9JaEtNcUR4RFNDUFBMaWRFLVBfeHlvZGhKNHFpTXdrUjJmNEdiSUJuZFM1aFp1d0l1NFdTTEFrclJka3FyLW5QcmlhV0k4U1NxWng3WW1HUUlqdmVnVktBQ3lTc2w4aHhBOVhzY2RsY3U5UA?oc=5",
-          "publisher": "The Express Tribune",
-          "published_at": "2026-11-16T19:25:54+05:00",
+          "id": "e80daf4f428bcc9d",
+          "title": "Dhaka counts deficits with four countries, India topping list",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWkN4cy1fUzRWdG9YQXZZcVN6dkNBbE9hY2VmVXhJODZjby05VnJiUnZrWjB2TzVCWFN1cDM1bnY4cGxIZURGalR4X3pJVHU5bmNuVktUc3BhbHNLOWJHNG9rUlRPcU9vVjVDRUp3V1JLN1dBNHJSb3JxUXJWOE9vOWU2b1Z0VDRMY25DS1dUR3dXNHRMU3IxaVVvaVVJR3hLZXFScjVR?oc=5",
+          "publisher": "The Financial Express",
+          "published_at": "2026-11-16T08:37:09+05:00",
           "topic": "trade"
         },
         {
-          "id": "aca19ef3447036f8",
-          "title": "Bangladesh runs trade deficits with four South Asian countries, India tops list",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUlhuYWdUdmN6YlM1cW5ld0hVcjRfVkU4NkNueGlhLV9FVHptY1RwbFh6amxHUkRBbDBvcDhiTXUxeDNhc3VYY3RMRDI0am1DSHEwcExtSHZHN0puZjE2TlNUNkJzSTJBSkdlR3pMR2wtdG9QV094b0VqclVTQjZlSFdHSlpOZHBzeWQwZGZoTnU4RzhsRjkybnFSbXFjNGJwQk5zM3BxQXNOWFRPMVE0bw?oc=5",
-          "publisher": "The Financial Express",
-          "published_at": "2026-11-15T17:05:54+05:00",
+          "id": "3afaf9ff118d0880",
+          "title": "Bangladesh’s trade deficit with India exceeds Tk 97,927cr : Muktadir tells JS",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5idmRPcFRybHgtYThVYzEzSmI3ME90U1djTWJfQW0tb1NXWHJHS2RjUldEUkZEQk1NRVdBczRGajdIX3BocFJNX0Z2QVVib0xsc0Y0?oc=5",
+          "publisher": "Bangladesh Sangbad Sangstha (BSS)",
+          "published_at": "2026-11-15T18:08:16+05:00",
           "topic": "trade"
         }
       ],
-      "fetched_at": "2026-11-17T09:18:29.171941+05:00"
+      "fetched_at": "2026-11-17T17:15:21.515160+05:00"
     },
     {
       "id": "economy-2026-11-17",
@@ -116,11 +116,27 @@
           "topic": "economy"
         },
         {
+          "id": "269bfd3cd81e25d5",
+          "title": "Rupee flies high in Asia on easing crude oil prices, foreign flows",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQMzEzVG02SjY0N3NIMmJZaF9yTHF1TXotUm8zbnczcGlFTTRKLUpGdzFGRm1Mcmg0WWpzWmIwVW9tZm9SLVpoVFRrcDVuZzM3SWotc0xuQlNuSE1yZ2UzMHVIcHFJMmtrSzVpOUVKUWxJMUdXUnB6N1l1MllvT1Zfd0FxdURsX3JjX2hDblpMU1hRbDhTM25QLU5RVWJOdW43UVpSTTNoRlJfdUJZcURCOVd3ZjNLLVBoLUVac05CQWxfV0tMZ2FUU21sdGdldjdSNlJr0gHYAUFVX3lxTE1EY2lERFdKaVU5YjJhdS1iNFVOWHRnMEhSN0RBYUZSLWhzNDdoN0t4ZWFHR24tN041c3FONWgybkpRNkMyck43dXFtdkRGWnNWemV3bDdOVnFXNDEycncxRC1SRFJiaE5vMU9HS1FRTGRiSm1HaW9WYndUZFFpNDJpcmxwbFVkcU56dU9Fdk9IaWFPT0VoTWowZHhJQk5DRzJJTGtSWG1kRERoV2ZKT0pnQUlvWjRjRnNEY0dRQjNGRVliOGRKdEZIZDZ6VHlIbW9YTmtRVVhZOQ?oc=5",
+          "publisher": "Business Standard",
+          "published_at": "2026-11-16T18:47:12+05:00",
+          "topic": "economy"
+        },
+        {
           "id": "e663d7b2d5b320d4",
           "title": "India faces a more painful return to higher interest rates",
           "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPaTlKUHlaSTd1R21qZGhZTk5nTHpZMDFrQlBDVno5bHNiaWdMVEliYWt1cXl1YWcySzdBVmdJcmRhUTA3QnhwajNPTkJpSEpqS21taS1TNTQ3LTd3RVJ4d1JGNGI5anhQcTVTR3Q4RXVZb3hzQmNLT0Q0RndnQk1obVJMR1NmUThpbG93QS1yS3l0Q2tFMmJrVE1mYWJwSHhqYXJsMlg0RVprR1BHdldRWDZvLXJtWWpNc3dzbjJaYWg2bnVNNFNGbF9tcFJBY0NjbGZOOVd4dkRCbUc2aTI5NEZISzJqcXZ0WVlldmJmb24xNkZOTzBGMjNVbjc2ZW9xNnfSAfsBQVVfeXFMT1BlcjhvWUE4aWZleHpCdmlDTm1YRk5mdXRIa1ZWcFVlSExZQWFTRFp4UDlVbjFudllRM21qMW9DVU1JZzVmbzZNamN5QVF0eWNYQ3BkZnZIN0FpMVlDbVRCMDA5cG9LZm9EUVNtS091Q09aM3ZyYXVrbWRuUENlalE1N2daMDR2YkV2Rkc2YVFHR2l2NU9MYWpaYjBleTc5SGpYSjNLVC15YWJpQ1lydlZQVGRyTXh3aXQ5OS1kX1l1TzdyQWpBTUZvSHdZUFNFWHFXZFZzQUhfUkNvMi1kQzJqT1c5ZUFCYzNvMHVGY3pJbDhVYUxQRE1UWHc?oc=5",
           "publisher": "The Economic Times",
           "published_at": "2026-11-16T09:44:50+05:00",
+          "topic": "economy"
+        },
+        {
+          "id": "cd03bf77ecbe8ac0",
+          "title": "Gold prices drop 4.1% to Rs 1.36 lakh, silver slides nearly 5% to Rs 1.76 lakh on MCX; inflation data, Fe",
+          "url": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxObm1CaXhjRzFVN0tFVVljWURZem96bXo4MDJlVi1TNHU3WU1rWFhZb2ZqLW5hN2FkSTIzcE9qRVA1Wm14ZzdSaFZFWF9rVFNCNzJVNVpfMVBENkl1SGZ5bms0YlJvaFhBR2o2WlhjbmNlS0k0VktmYkxvQ0QtM3NzaUl5c1Z2OWNNX0o3YkRDUVB4ZFg5S1Z3S2hibHhiOHJWQzZUb2tzSE1FTS1vSk1XVjNaS0Vyc3B4VU9QRW5oWVpZdTBHZllMY1FPcjZYakxSaTU2NnFfd1JQcGtpcml3SW5hbG1KWVZNRk1oU2VEWDJmNllZYU52MEZVQ1JPR3BmUXNOWmxvcUctQVFCUVQ2ZTN1ekNXRGFSamRBaVU4VTJzLVFNOVp6bmplc3V2bEVLdWM5eDdBNWJPdnpERkRUMXN6VTJtdFhXd1RPSzZzT21SRk1TY2l3RHNJREdBa1pheXJUNDlhUHhORm_SAfACQVVfeXFMTi10ZVNUb0N4Y2tOeERWalV6OWFXTlpxUmt1U0l0ZlBnSWU3Zy1VX1g0Yy1fUE5lal96Q0t6RUlyWnV6d0c3WE9qdjZPakVubmVYNHdCamtVNy0zTkxxOGd4Yk9MVnFXU003WEliQS1GNjBYVkdLWk5kUUh1SjJIbnlfR056d2dwYVhJd3ljRjZxMWpxMFEzYmJhMGdwNV9aeWlIN0RPeWxoNVJTc1RKc0puc2Z2NHVqRUtlZTJWMGVocnBQS1pNa0d5SFJvYmhkLTI1VVhEQnNhd2pQb0s3VURmTHY5S1hWZDg0YlV2WThXTUZCUWFCZVpUMERLeEVjMDdLa2gwWkVrUUFuV3lWSWZSUU8yYkdtZ2ZIN1BKUFhoOXNLNmlYUkFJLU52UElkVi16UldNTmpDaERJWnhDS29ZNTBSdDZROUdzc3VQdTFXYy1ydnlBUUJCeXRJRzdtdGQ0VXBtcExZdFA2Z3I0TG4?oc=5",
+          "publisher": "The Times of India",
+          "published_at": "2026-11-15T18:34:00+05:00",
           "topic": "economy"
         },
         {
@@ -132,39 +148,23 @@
           "topic": "economy"
         },
         {
+          "id": "e28b58f8cf198cd9",
+          "title": "Indian rupee rises, volatility ebbs as equity inflows blunt global headwinds",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeTRoOTgzWGFrdFBCeXM5c3dkdmJFQnpINTdUbF9uem9ZR0E1QWpxRnJLRVFYcVJYbzd4MXNDbXE0bTd0dzFNbE15dnpXQkpXc1BJcDBLdWw5MThqTDQ3bHV5b01ROEdIeG02SWwweDVHQWgzNG1kWHh3V0tVb0luNzhjbEtLOFY3cEJWQU5TWDdjVlZiU01UaUtIZ2VEMFNHV1liVDAyd0xSNEprRXM3UlliUUhwd9IBVkFVX3lxTE54UUNVSFNiM1VvT2dWYmZnLUhoM3hhdWhhVFpLM3FObXJ4YkQ2Qm96VXhqcFFGUFh1d1FlSl9OWHFVdXJzcjJQaVFlRVVLczYtTWx5dW5R?oc=5",
+          "publisher": "Business Recorder",
+          "published_at": "2026-11-16T15:24:34+05:00",
+          "topic": "economy"
+        },
+        {
           "id": "23f76041e1bf8cb5",
           "title": "SBP Expects Good Things for Pakistan This Year",
           "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNS09rWWY2MmVPUVpFblh4ZDNlLThuWGFqWDgwOXkzbWtwSW90MG9Ma0lPQm1faGpDbmdEQ1BmcnZBSGVnT09iODRQXzZ1YVl2Y0FHVWZSVGVmdUR5T3BHaGlDZTVKVENKdEVNenN5d1AzTjZaUTlxSllDd3lMX0E0U0FIeWc2SGJhMXfSAecBQVVfeXFMT0VYYXRReXozVFBnTE5TV3RwQXVJVEJOOTU4Yk5kUFJVdk1jQTRZYmtYSUF5dTlsQVhmUXF4M0xJZThYSkVKTG1uczc3bjNNOGlEZlVnSFItVGFWekFyd0F0VmZkTXM0VmNZZHF2VkwteGNIdllFWVpRaEI4MnVjNzNXV0NzcEt5UXA1SXpfb2FibDcwcHliOF9nWGFVeGg4MXMxNHVVbGVySDVtRkpnR1ZHbE9sdWx1eWJNMG5NdTVIOU1udWFiOElfZVhhVHp2RDlZS0hyV2Z3NGtBQ0NJMHFBQ2NRVGdR?oc=5",
           "publisher": "ProPakistani",
           "published_at": "2026-11-16T18:43:51+05:00",
           "topic": "economy"
-        },
-        {
-          "id": "1621473f4dd46a69",
-          "title": "Rupee Strengthens Further as Dollar Falls to Rs. 276.57",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMWlwdXRFWGxoSlNESDRMcTRlVmlhNER0LUwtd2JuR0hCbTVVeEhpdXVwNWw3cUlJalBNX2Jvc0hhckRkMm1BSTNTd2JjMy1DbmIwUTI0TUZZajByOHM4ZVo0bkF3ekV6ZDduczlzeEdGRWVmVjdrbURFU1RvOFZRWTVRQWNqQ2t1?oc=5",
-          "publisher": "Bloom Pakistan",
-          "published_at": "2026-11-16T16:38:35+05:00",
-          "topic": "economy"
-        },
-        {
-          "id": "7cb4b5421e5e1666",
-          "title": "Wholesale inflation faces a triple squeeze from fuel, food and metals in FY27: Report",
-          "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQZXV3el9EVVdBN2lOUWZab3A1M19HUGplWjhPTWYwd1Q1LVFJdEhKUUlqeUg4ZlRySFhfRDJ4Q0prVHdjVjVWZmFTQXNiRTRITEw5ODRsR25nVmlWclpSNFY4eUlmVWI3cU5GdkR6eEl1aXMyTkMyRllpZV9RUkl6b3FCaXJyMEZLQUY5Nk1IQ0FueWZUbUxkTXVyOEtSajljbG15Z1ptUFZSWkdQMW5ETEZXSkU4VUFTVmVSbmRTNFJFVjFmQnF1dkpOTnlVazVsNnczY09OZ1NNWXFuODI5VnV2Tl9DVExuenJ1SFVPR3FQVXPSAfgBQVVfeXFMTmZmblRnbVlXZVJweTQ0Mkt6MVE5djVEOWxzd1RfakJCZkYzTlgyWUtpNTBQZ2VjLU8waW1ROS1LQ182WEJob2xfTWNVUWVCLTQxN2dsTDhoaDk3emwwRXJDMF9Gb0JCa3Z0Zk5jcmE3THhaOFhnVWVuYm1MdzlHUUQybDBQV1k2aWpqSV9PY3FSN0NEUWZEZ3NicDZ2REZQZ19tbVRzWGtOSUp5WjdBdlREWUF3MHJ3WXgtR1VRYW5jNjFaelBsZ2MyczR4RWN3SkRERFY2bmZMNUJOZHhMcXY2WHdfb1Q1am4yVHg3TFNNZElRUnNveFU?oc=5",
-          "publisher": "The Economic Times",
-          "published_at": "2026-11-17T08:39:19+05:00",
-          "topic": "economy"
-        },
-        {
-          "id": "24a2dc2fa1bb22c6",
-          "title": "India's wholesale inflation jumps to 12.3% in October on rising energy prices",
-          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPdkhrT1VTZHVjS0F5Ui1mYkR2UmRULTZVaWRtZnQ1RzZCeTM2NnROcEpwbkJ2LWVlb3JoazAwUC0zQmxEbW5Wc1h0Q1dnS0pZNkFNbVdUcHBqT1FRVXFvVXpwX0pWVFVPekVpWGs4TVFQS1RUZ01pYy1BZUtnRnNqNDl0czduLUc0YUp4bUpJT1p4Z2thQVVIc3BsRWRrRVZFdkp4aTdnMXFMc1ZpS0xjTFcyb3JJa3JJV0hUOEFJeWV5SDNqcjFsVUszbDVzQWZ5WlZRcEdOWE05LWN2a3IwWW9JSGY3X2Q3?oc=5",
-          "publisher": "The Economic Times",
-          "published_at": "2026-11-16T23:39:49+05:00",
-          "topic": "economy"
         }
       ],
-      "fetched_at": "2026-11-17T09:18:29.171941+05:00"
+      "fetched_at": "2026-11-17T17:15:21.515160+05:00"
     },
     {
       "id": "business-2026-11-17",
@@ -174,11 +174,19 @@
       "context": "Company and industry developments can affect supply, stock availability and competition. Compare dated supplier offers before making a purchase decision.",
       "headlines": [
         {
-          "id": "d41157cb6ce7abd5",
-          "title": "GHNI Company Announcements - Ghandhara Industries Ltd",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5USWdZVlkyWHB5MmxGei1BVFlUWTNHMmpLSVkxV3h6N2RDWFg4LUE2VWUwSFZpY1diZ0J0MlRKOXNqTTRSaDRlTjU4WlVNcVB4cU0xa3pyMDE5dTRRQlNjUw?oc=5",
+          "id": "bbd4db4f625cf25f",
+          "title": "Finnish companies explore investment opportunities in Pakistan's energy, mineral sectors",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNeUhrb3RkV2pteXA0bTYzMTZvRmRlU19iNmctV3lXaFp2SEQwQXNuOXBBU1JXUUVRNkRyWExFWE93Q1I0OFNSWG5UcVIwUHhoS0Rub3lrc0lQR0U2a1JYQXRNTnI5bmp2VkpvcHAwUzBCc2ZqQmlXT3hMOF9MMDZRZUZ4UGNib0szdHJsYkVfUWlDSFphRmVSRnVRTDBSV2Q0YmlZQkVLWTd5ZjZEeDZuWkNFcGxSOUVHOEJZNFZ1OGJwVzhFd21tZ2R3?oc=5",
           "publisher": "Investify",
-          "published_at": "2026-11-16T18:34:31+05:00",
+          "published_at": "2026-11-17T07:15:00+05:00",
+          "topic": "business"
+        },
+        {
+          "id": "765d64405df01d50",
+          "title": "Pakistan, Finland Explore Investment Opportunities in Energy, Minerals and Infrastructure",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRUhoUmxtZ0ZFbnMxMzg3ZkJxdF94SUZyR2ZxZlZsWUhYblQ4UXdmbVJIdmU0S2hMUHBXa29TSzUxb056cWtwd3lDSXIxUnVVeGdBeHlNNnoySjRXYXJBMnNPbUF4Z2pRbEp2WHJHOWZOOUZWRUxEY2htTUtCNE5iYjNSWUhZWk1pU0otbmdYeVlCZU1Zbk5aS05ST3BXSG5DLXRyZk1yZVpaLTg0ZVYyYzVNQXF5X2w3aWoxRQ?oc=5",
+          "publisher": "Energy Update",
+          "published_at": "2026-11-17T12:06:11+05:00",
           "topic": "business"
         },
         {
@@ -190,19 +198,27 @@
           "topic": "business"
         },
         {
+          "id": "e3b45fa3e69a003d",
+          "title": "Nishat Group explores investment in proposed Pakistan port project",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbl91U3JHNGQwaXBCcm5IWEk3REFoZGlLSWszS3QzVGQyRGRHaVhwMlFwTGY1WFh0MmhJQklRRUFmMVh0YzJ1WFk4dk45Zm1Rd0NZZmdFWExxX1B0bnV4ZlhOZE9uZl9NQmJTVEU5UV9zSV9adnl5bHpFaF9ud25WRjVYTFU1V2NxbUt5cmxMdnRhWGJ0Z1E?oc=5",
+          "publisher": "Traders Union",
+          "published_at": "2026-11-15T19:26:24+05:00",
+          "topic": "business"
+        },
+        {
+          "id": "d41157cb6ce7abd5",
+          "title": "GHNI Company Announcements - Ghandhara Industries Ltd",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5USWdZVlkyWHB5MmxGei1BVFlUWTNHMmpLSVkxV3h6N2RDWFg4LUE2VWUwSFZpY1diZ0J0MlRKOXNqTTRSaDRlTjU4WlVNcVB4cU0xa3pyMDE5dTRRQlNjUw?oc=5",
+          "publisher": "Investify",
+          "published_at": "2026-11-16T18:34:31+05:00",
+          "topic": "business"
+        },
+        {
           "id": "1e007e6d82eac966",
           "title": "Pakistan’s private equity needs fixing more than capital",
           "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE41SWlSbEVET0NCYURzdkJBMUI0VVlNTnY1a0JqU2VSdERLbkJNcTJJWjN1SnhLdHl3S1pQT3NJYmplOWMyanF0eg?oc=5",
           "publisher": "Dawn",
           "published_at": "2026-11-16T07:11:41+05:00",
-          "topic": "business"
-        },
-        {
-          "id": "e40419f3c087aa30",
-          "title": "Pakistan says goods exports hit record $11.4 billion in first 4 months of FY27",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPclpYbFhrMDJEOFpBanNhMzBnX1VKc2c4UXF3UGdCRkpMcjhseXUyVThwUlpqWjhtSkNPSG1ZTDRSWm1OaDQ1VnhMYl93aXk2SkZtRTNSdF8yUWJCV1dGcm1qOUNtNmp3Wlcxam9ER01qajJ1OExDbEVwYmFLTFR6MHlSVnlEUElIdHNCSEhIem80UW9paWxWWkRhd3B3ZXV5Z0tFWEdKaVVZMHNyS0pKQ0JxaXhNeWlX?oc=5",
-          "publisher": "Arab News PK",
-          "published_at": "2026-11-17T02:57:20+05:00",
           "topic": "business"
         },
         {
@@ -214,31 +230,15 @@
           "topic": "business"
         },
         {
-          "id": "a80dab123f82de26",
-          "title": "IML Company Profile - Imperial Ltd",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9QejBpY3ppamxNVlF2MWkteFdUSm9wTW56TzVSRkl5Y25IVkdoLVZZRGZFTVBXWEVia1lBVGdKMUVwX21uVFBfazM2VlRkNXF2aEhRajJ3Zw?oc=5",
-          "publisher": "Investify",
-          "published_at": "2026-11-16T12:14:57+05:00",
-          "topic": "business"
-        },
-        {
-          "id": "e3b45fa3e69a003d",
-          "title": "Nishat Group explores investment in proposed Pakistan port project",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbl91U3JHNGQwaXBCcm5IWEk3REFoZGlLSWszS3QzVGQyRGRHaVhwMlFwTGY1WFh0MmhJQklRRUFmMVh0YzJ1WFk4dk45Zm1Rd0NZZmdFWExxX1B0bnV4ZlhOZE9uZl9NQmJTVEU5UV9zSV9adnl5bHpFaF9ud25WRjVYTFU1V2NxbUt5cmxMdnRhWGJ0Z1E?oc=5",
-          "publisher": "Traders Union",
-          "published_at": "2026-11-15T19:26:24+05:00",
-          "topic": "business"
-        },
-        {
-          "id": "8ea32dababf803cb",
-          "title": "ABSON Company Announcements - Abson Industries Ltd",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE91Q2FRRUhYQ0kxNW13bTZpUEFsQVYwRFNCQ1FJeHg3SHBGVlZNNzRzNUM1UUJtYjBva2JKNWNXVUJjZ1dRQV81THUwblBDUkxpOHltRGtYZXZCUm1Gb1hST1hR?oc=5",
-          "publisher": "Investify",
-          "published_at": "2026-11-16T09:43:19+05:00",
+          "id": "e40419f3c087aa30",
+          "title": "Pakistan says goods exports hit record $11.4 billion in first 4 months of FY27",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPclpYbFhrMDJEOFpBanNhMzBnX1VKc2c4UXF3UGdCRkpMcjhseXUyVThwUlpqWjhtSkNPSG1ZTDRSWm1OaDQ1VnhMYl93aXk2SkZtRTNSdF8yUWJCV1dGcm1qOUNtNmp3Wlcxam9ER01qajJ1OExDbEVwYmFLTFR6MHlSVnlEUElIdHNCSEhIem80UW9paWxWWkRhd3B3ZXV5Z0tFWEdKaVVZMHNyS0pKQ0JxaXhNeWlX?oc=5",
+          "publisher": "Arab News PK",
+          "published_at": "2026-11-15T22:47:32+05:00",
           "topic": "business"
         }
       ],
-      "fetched_at": "2026-11-17T09:18:29.171941+05:00"
+      "fetched_at": "2026-11-17T17:15:21.515160+05:00"
     },
     {
       "id": "trade-2026-11-16",
