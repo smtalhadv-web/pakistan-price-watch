@@ -6,19 +6,19 @@
     ],
     [
       "forex",
-      110834
+      111815
     ],
     [
       "gold",
-      112453
+      112698
     ],
     [
       "silver",
-      105836
+      106104
     ],
     [
       "pso-history",
-      230531
+      230525
     ],
     [
       "samsung",
@@ -50,14 +50,14 @@
     ],
     [
       "appliances",
-      788072
+      785129
     ],
     [
       "pbs",
       344443
     ]
   ],
-  "checked_at": "2026-11-18T16:18:14.997951+00:00",
+  "checked_at": "2026-11-18T22:39:33.152326+00:00",
   "sources": [
     {
       "source": "PSO dated fuel archive",
@@ -115,7 +115,7 @@
       "new_records": 0
     }
   ],
-  "quotes": 5931,
+  "quotes": 5933,
   "manual_queue": [
     "Verify new image rates before transcribing; source sheets refresh automatically",
     "Unsupported sources retain their dated quotes"
