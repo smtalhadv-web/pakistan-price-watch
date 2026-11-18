@@ -50,14 +50,14 @@
     ],
     [
       "appliances",
-      799075
+      788072
     ],
     [
       "pbs",
       344443
     ]
   ],
-  "checked_at": "2026-11-18T12:02:33.177219+00:00",
+  "checked_at": "2026-11-18T16:18:14.997951+00:00",
   "sources": [
     {
       "source": "PSO dated fuel archive",
@@ -79,7 +79,7 @@
     {
       "source": "PriceOye published listings",
       "status": "parsed",
-      "observed_records": 135,
+      "observed_records": 136,
       "new_records": 0
     },
     {
