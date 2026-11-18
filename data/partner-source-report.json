@@ -1,6 +1,6 @@
 {
-  "checked_at": "2026-11-18T04:03:15.682197+05:00",
-  "quotes": 12442,
+  "checked_at": "2026-11-18T09:12:57.569042+05:00",
+  "quotes": 12519,
   "checks": [
     {
       "store": "Chase Value",
@@ -42,7 +42,7 @@
       "store": "Naheed",
       "url": "https://www.naheed.pk/groceries-pets/baking-cooking/flours-meals",
       "status": "parsed",
-      "offers": 31
+      "offers": 32
     },
     {
       "store": "Paklap",
@@ -60,13 +60,13 @@
       "store": "Metro",
       "url": "https://metro-online.pk/",
       "status": "parsed",
-      "offers": 223
+      "offers": 222
     },
     {
       "store": "Foodpanda / Kifayah",
       "url": "https://www.foodpanda.pk/shop/a036/kifayah-supermarket-pechs",
-      "status": "no verified quotes",
-      "offers": 0
+      "status": "parsed",
+      "offers": 90
     },
     {
       "store": "OLX",

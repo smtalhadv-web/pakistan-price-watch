@@ -38,7 +38,7 @@
     ],
     [
       "realme",
-      472443
+      469893
     ],
     [
       "infinix",
@@ -50,14 +50,14 @@
     ],
     [
       "appliances",
-      800292
+      816782
     ],
     [
       "pbs",
       344443
     ]
   ],
-  "checked_at": "2026-11-17T23:03:02.962841+00:00",
+  "checked_at": "2026-11-18T04:12:04.378491+00:00",
   "sources": [
     {
       "source": "PSO dated fuel archive",
@@ -79,7 +79,7 @@
     {
       "source": "PriceOye published listings",
       "status": "parsed",
-      "observed_records": 136,
+      "observed_records": 134,
       "new_records": 0
     },
     {

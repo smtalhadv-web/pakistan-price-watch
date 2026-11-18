@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-18T04:03:24.443044+05:00",
+  "checked_at": "2026-11-18T09:13:07.496368+05:00",
   "checks": [
     {
       "topic": "economy",
@@ -7,12 +7,12 @@
       "headlines": 8
     },
     {
-      "topic": "business",
+      "topic": "trade",
       "status": "updated",
       "headlines": 8
     },
     {
-      "topic": "trade",
+      "topic": "business",
       "status": "updated",
       "headlines": 8
     }
@@ -42,27 +42,11 @@
           "topic": "trade"
         },
         {
-          "id": "e50f406b367d2d6a",
-          "title": "Spin Boldak Traders Say Taliban Ban Has Stalled Half of Their Business",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBhNWhjSWFSOW91NC1qX08yNzVsMERYc2dwYjZfVkFsOG1lS3R5U1FrbVJmRHAxaXFDZXYySUdUVzZMQTlMQ0hSck8zalBNMi1DSFJnd2FYTnpPeGR1UjFqTmZvNlZXazFfa0tnRVZR?oc=5",
-          "publisher": "8AM Media",
-          "published_at": "2026-11-17T13:52:49+05:00",
-          "topic": "trade"
-        },
-        {
           "id": "ff897146f2522a7c",
           "title": "One year of closed borders: How food import dependence and regional conflict have fueled rising poverty in Afghanistan",
           "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOS2Z5cDF1Mm1NT1NhaUJNOGdwX2RfX2drOG9CYXJWc2ZuQ0d6Vi00aHQ3dGJSRHp5bFNxcGFBOEFXTU55Uk9tUVhwVkI1b1pNbWRqTkoxWkNRWHJJalA3ZEJfd3VnQ1dqUVpzdkJuckp4Z0JvdllrZzQ5RnNCNmZwTC1vQmVsM3NEcTdGRUtjdkxhSEdsZTRoTjREeW1IYV9NQWNmOVlpdndkR0c0MTZ0d2FTcy1xUFBRY3VKSFhRMkNKQ3NNNk5jU1UwRk5fSjRPT3JQanZSTFNmdUZXanc?oc=5",
           "publisher": "IFPRI",
           "published_at": "2026-11-16T23:49:49+05:00",
-          "topic": "trade"
-        },
-        {
-          "id": "4a3dfe8118e0f92b",
-          "title": "Pakistan, Turkmenistan discuss regional trade corridors, expansion of bilateral commerce",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUkJtZFFSRWlIY0F2S01SbVZ6X2FRQzZFNWNtaENndEtGSmtBcDJJU2V1cnlodzZTNXUzRkNyQ3gtZjA4YnYyMU9sUjlTbFZ6SnJya2JDcS1xc09BY0NxbmZuNEhobXNySEY4VFBnYzM2ek9JVnRPR2g3VXlIV2pWU1ZaOEVFaExOb3BMREpuZzJ3d2ZqeEJiblhfZDNOT3F3Z1pFM1liS0JLdzRfLXloS0EzTmRHVmx6cEdoZ0NxNGliOW5EOFlaUQ?oc=5",
-          "publisher": "Investify",
-          "published_at": "2026-11-17T10:25:27+05:00",
           "topic": "trade"
         },
         {
@@ -82,15 +66,31 @@
           "topic": "trade"
         },
         {
-          "id": "e80daf4f428bcc9d",
-          "title": "Dhaka counts deficits with four countries, India topping list",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWkN4cy1fUzRWdG9YQXZZcVN6dkNBbE9hY2VmVXhJODZjby05VnJiUnZrWjB2TzVCWFN1cDM1bnY4cGxIZURGalR4X3pJVHU5bmNuVktUc3BhbHNLOWJHNG9rUlRPcU9vVjVDRUp3V1JLN1dBNHJSb3JxUXJWOE9vOWU2b1Z0VDRMY25DS1dUR3dXNHRMU3IxaVVvaVVJR3hLZXFScjVR?oc=5",
-          "publisher": "The Financial Express",
-          "published_at": "2026-11-16T08:37:09+05:00",
+          "id": "e47b224367bfbd89",
+          "title": "Customs values of sulphur linked to Argus price benchmark, actual freight",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMU1FSWpiSElKc09vYkQ0TWNnMUN1b3B5MklYRXc0TXpBLUF0Yk5SUkJlZC1jM2xvZGdyOXF0VDdpOUphRW42a1k3aDhDTUlzYWd0blZoTW4ydDRaSE5FQ2gtcVotMEpTVi03QmJqUWRjbnRKdEU2OWEydFVjTmd0SFB6UGpndFNqOFhuVFNNaFdielROeXUyYjdJdE14MVJObDhIZko4V0p5bXFDX0FfZ1pn0gFWQVVfeXFMUEc2RWxUUnZtbFpFc21MQWpNTlp3M2dMeldmTThnd3UwSFVIUGZDN1VnWjNHWkhUZlJJWnNyODZ5XzZCVG9IdUU0eEZDNFAyQWtMZlQwZGc?oc=5",
+          "publisher": "Business Recorder",
+          "published_at": "2026-11-18T05:27:32+05:00",
+          "topic": "trade"
+        },
+        {
+          "id": "c9636130a89f377b",
+          "title": "Enhancing exports to China",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE90Ri0xYkRtSW5xNWR1UkVXNDA5UnJ5ME1RYzQ4MGZ2OXNMVzlEaGJMc3JhZk9lV19TX3hPZi1NOFpFS3psZXVOM3Atb21XaTV6N0xYQ0NXTjJCVFBVakczMmJoTjJHbnVKRXpCSkdtOFrSAXhBVV95cUxPZW5meDg4Zng5cm9PYXhZTTh0a29IZE9zNFBXb2lnZUctRkI0cDlHY3U5aGVlZWtlbEo0d0lUYzN4UWp3OWdVcXkyck9RVFprTzF3WjlEWGQ1OUdudUpGaHF5bjZ5eHg3MVV2c0YxM2lyNXA5NGJzRUU?oc=5",
+          "publisher": "The Express Tribune",
+          "published_at": "2026-11-17T00:55:34+05:00",
+          "topic": "trade"
+        },
+        {
+          "id": "92d8b9dd8d97b9d0",
+          "title": "Pakistan, Turkmenistan explore new trade corridors to boost bilateral commerce",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUEoxRVFJd3I3VE1vcXh4d05wNER3c2tUZ050ZlJxT25kTWx6ckdKemxXNVhLRGxSaTBWSFdrZXdyc2ZHc2liWW81d2Npc1RVTkM5UWJ2QndLU2hoSUFBd3U0YURHWlQ1c2ZOT244LTJRakZ5MEFXbEhqVWE5cnZwRm1zOXF3R29JLTZOSnhRQ0h6TnlKbXh4azVteG5TWVlhNFYzRkRtUk9aZUlSY2U3TFZn?oc=5",
+          "publisher": "The Nation (Pakistan )",
+          "published_at": "2026-11-17T12:13:33+05:00",
           "topic": "trade"
         }
       ],
-      "fetched_at": "2026-11-18T04:03:24.443044+05:00"
+      "fetched_at": "2026-11-18T09:13:07.496368+05:00"
     },
     {
       "id": "economy-2026-11-18",
@@ -164,7 +164,7 @@
           "topic": "economy"
         }
       ],
-      "fetched_at": "2026-11-18T04:03:24.443044+05:00"
+      "fetched_at": "2026-11-18T09:13:07.496368+05:00"
     },
     {
       "id": "business-2026-11-18",
@@ -174,6 +174,14 @@
       "context": "Company and industry developments can affect supply, stock availability and competition. Compare dated supplier offers before making a purchase decision.",
       "headlines": [
         {
+          "id": "5cf2f50fe7cbb198",
+          "title": "PIAHCLA Company Profile - PIA Holding Company Ltd",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8tNXBPX0ZSdTE5UUN2UFVBZzBFeTJxZnpjYXVFbGQybE5XTHA5N0tVZC14QU5YU0dyR2hlaVN4dzNpRnRKQ09PbGF5NEZ6RmQwSW4tYUpaYkRiamJF?oc=5",
+          "publisher": "Investify",
+          "published_at": "2026-11-17T20:06:19+05:00",
+          "topic": "business"
+        },
+        {
           "id": "765d64405df01d50",
           "title": "Pakistan, Finland Explore Investment Opportunities in Energy, Minerals and Infrastructure",
           "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRUhoUmxtZ0ZFbnMxMzg3ZkJxdF94SUZyR2ZxZlZsWUhYblQ4UXdmbVJIdmU0S2hMUHBXa29TSzUxb056cWtwd3lDSXIxUnVVeGdBeHlNNnoySjRXYXJBMnNPbUF4Z2pRbEp2WHJHOWZOOUZWRUxEY2htTUtCNE5iYjNSWUhZWk1pU0otbmdYeVlCZU1Zbk5aS05ST3BXSG5DLXRyZk1yZVpaLTg0ZVYyYzVNQXF5X2w3aWoxRQ?oc=5",
@@ -182,11 +190,19 @@
           "topic": "business"
         },
         {
-          "id": "bbd4db4f625cf25f",
-          "title": "Finnish companies explore investment opportunities in Pakistan's energy, mineral sectors",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNeUhrb3RkV2pteXA0bTYzMTZvRmRlU19iNmctV3lXaFp2SEQwQXNuOXBBU1JXUUVRNkRyWExFWE93Q1I0OFNSWG5UcVIwUHhoS0Rub3lrc0lQR0U2a1JYQXRNTnI5bmp2VkpvcHAwUzBCc2ZqQmlXT3hMOF9MMDZRZUZ4UGNib0szdHJsYkVfUWlDSFphRmVSRnVRTDBSV2Q0YmlZQkVLWTd5ZjZEeDZuWkNFcGxSOUVHOEJZNFZ1OGJwVzhFd21tZ2R3?oc=5",
-          "publisher": "Investify",
-          "published_at": "2026-11-17T07:15:00+05:00",
+          "id": "df45ad1e37266b5f",
+          "title": "Pakistan finance minister in Singapore to attend Global SME Finance Forum",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVGJZak5lSWJudV9rMHhoS1BtUDlaQTZnY1BNVTV4dEM2NVFmN25NZks5WUJtNjh4c1BTcHJCUkZNc1V1Z3NkRm1pQTdlMTJ1OFcyUHNKbTdrTExIX2dFZ0JaOHh4TjVGVlozY0ZDcldUeHg1N1pyclplSXoyd0RIZTRJbWxrbjZfc0lpck9peVJ5bmRYVzAtaURXSTRqRkhvaVNZZFZING9nT3hoSmUtaS1zeG0?oc=5",
+          "publisher": "Arab News PK",
+          "published_at": "2026-11-17T23:26:54+05:00",
+          "topic": "business"
+        },
+        {
+          "id": "22c9e45773c20945",
+          "title": "Pakistan, Turkmenistan agree to expand bilateral trade, investment, economic cooperation",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcWQyZkNLbkIwUVUyUEVsWTViWFhMOThUVk16ZFlyQTVVbHYxZVB4MEJmcHE2ejBBeW9jeG9yNllya3ZobVpFRllaeFV0SnhJc2ZaY1k4OVBfa2h2TndwdThBZkJJQVJXMzViMnowTE5vMU9oOElMWXhlQ19hWFBPWERXS1UwX0ZjZVdNeHQwQ1QtT3BJMXN6TnVKMFdqRURpN0s5OVhKNXhZMGh3MUNHbFNnLXdNbGxLZ0E?oc=5",
+          "publisher": "| Associated Press Of Pakistan",
+          "published_at": "2026-11-17T13:45:06+05:00",
           "topic": "business"
         },
         {
@@ -194,7 +210,7 @@
           "title": "Saudi's Delta Energy To Explore $30B Gas Infrastructure Investment In Pakistan: Report",
           "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPOW1odEdnMWtpT3ZIZDZDSFB3TnFLZVRoOWpwcHQ2VUp1YmozMm9zc0NvV3BPNE0yM2R3OXNJMmFlNk9YWTRZNFJhcWYzcmFEU0Z3M2lsN2V2WEgwbE1QUkNoU2RRUEZRcTFETk9yMEFSTVBycEJzR1JaYWp0SjJDXy1XaUJQU2Jyc1BDT01wajdQc0hlTlVNSjM5S3g4alNpV3RsMXQweHJGOWNfd1BrRkRtTVdzUGpadF9LVjYyZw?oc=5",
           "publisher": "Forbes Middle East",
-          "published_at": "2026-11-17T23:56:15+05:00",
+          "published_at": "2026-11-17T23:58:48+05:00",
           "topic": "business"
         },
         {
@@ -206,39 +222,23 @@
           "topic": "business"
         },
         {
-          "id": "105d3f465245e0fd",
-          "title": "ARMG Company Announcements - ARM Green Industries Ltd",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5FcVlHVkNiRVJua0dqbDBFUE8zWUpCZ0xaSlJJSkY5VGdtcGhWLUFmX3FmLTlZLTFTajFhd2I3eXZqZjFSc1RPSTRmWmtmcjRkcGdncDF0c1RJZUxoZTVtcA?oc=5",
+          "id": "bbd4db4f625cf25f",
+          "title": "Finnish companies explore investment opportunities in Pakistan's energy, mineral sectors",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNeUhrb3RkV2pteXA0bTYzMTZvRmRlU19iNmctV3lXaFp2SEQwQXNuOXBBU1JXUUVRNkRyWExFWE93Q1I0OFNSWG5UcVIwUHhoS0Rub3lrc0lQR0U2a1JYQXRNTnI5bmp2VkpvcHAwUzBCc2ZqQmlXT3hMOF9MMDZRZUZ4UGNib0szdHJsYkVfUWlDSFphRmVSRnVRTDBSV2Q0YmlZQkVLWTd5ZjZEeDZuWkNFcGxSOUVHOEJZNFZ1OGJwVzhFd21tZ2R3?oc=5",
           "publisher": "Investify",
-          "published_at": "2026-11-16T18:00:04+05:00",
+          "published_at": "2026-11-17T07:15:00+05:00",
           "topic": "business"
         },
         {
-          "id": "d41157cb6ce7abd5",
-          "title": "GHNI Company Announcements - Ghandhara Industries Ltd",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5USWdZVlkyWHB5MmxGei1BVFlUWTNHMmpLSVkxV3h6N2RDWFg4LUE2VWUwSFZpY1diZ0J0MlRKOXNqTTRSaDRlTjU4WlVNcVB4cU0xa3pyMDE5dTRRQlNjUw?oc=5",
-          "publisher": "Investify",
-          "published_at": "2026-11-16T18:34:31+05:00",
-          "topic": "business"
-        },
-        {
-          "id": "70ecc3d3dbd5fd44",
-          "title": "Pakistan's Financial Business sector attracts highest net FDI of $69m in October",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOR0hrMm16WmhrelJBWVlLQy16TlV2Rmh3TEpMZ2loSWNBN0FMNURDZ1ZHRmpldnBpZ3RwT0hEUnpoSHNkc0JoMmozN3lVek1Wc2VRWjZQb29FcnJKZlJNRWx1T1k2R1FBbkhnNnYxbFUtXzVZT0ZqZ3V4aU9pRW9zTVZyS09jVlZqZEJaZnZrVHg1UzY0eEl6TFU4OWNEUHRCMUxjdHJsX01YVnh6eTRJ?oc=5",
-          "publisher": "Mettis Global",
-          "published_at": "2026-11-17T16:39:00+05:00",
-          "topic": "business"
-        },
-        {
-          "id": "22c9e45773c20945",
-          "title": "Pakistan, Turkmenistan agree to expand bilateral trade, investment, economic cooperation",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcWQyZkNLbkIwUVUyUEVsWTViWFhMOThUVk16ZFlyQTVVbHYxZVB4MEJmcHE2ejBBeW9jeG9yNllya3ZobVpFRllaeFV0SnhJc2ZaY1k4OVBfa2h2TndwdThBZkJJQVJXMzViMnowTE5vMU9oOElMWXhlQ19hWFBPWERXS1UwX0ZjZVdNeHQwQ1QtT3BJMXN6TnVKMFdqRURpN0s5OVhKNXhZMGh3MUNHbFNnLXdNbGxLZ0E?oc=5",
-          "publisher": "| Associated Press Of Pakistan",
-          "published_at": "2026-11-17T13:45:06+05:00",
+          "id": "7ab9ad3d9673f73d",
+          "title": "Ivanhoe and Mari Ink MOU for Balochistan Exploration",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5PcjhCeHFZMUxmMmNtRkY1QVg4SnR5aWc3NENrSzJtMFUwNGFkUDR3aEE1MGhua2gyRi1zZEx0NGhzWkhxX2JSTnp1ck5tdzVZUHJzVlhVZEJYcTdUcVhVR2NQTEJYSnR6b3VIOHIxZzlKQQ?oc=5",
+          "publisher": "Investing News Network",
+          "published_at": "2026-11-16T21:30:00+05:00",
           "topic": "business"
         }
       ],
-      "fetched_at": "2026-11-18T04:03:24.443044+05:00"
+      "fetched_at": "2026-11-18T09:13:07.496368+05:00"
     },
     {
       "id": "trade-2026-11-17",
