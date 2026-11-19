@@ -1,24 +1,24 @@
 {
-  "checked_at": "2026-11-19T16:58:26.485348+05:00",
-  "quotes": 12798,
+  "checked_at": "2026-11-19T21:13:59.911251+05:00",
+  "quotes": 13018,
   "checks": [
     {
       "store": "Chase Value",
       "url": "https://chasevalue.pk/products.json?limit=100&page=1",
       "status": "parsed",
-      "offers": 679
+      "offers": 678
     },
     {
       "store": "Chase Value",
       "url": "https://chasevalue.pk/products.json?limit=100&page=2",
       "status": "parsed",
-      "offers": 670
+      "offers": 723
     },
     {
       "store": "Naheed",
       "url": "https://www.naheed.pk/groceries-pets",
       "status": "parsed",
-      "offers": 47
+      "offers": 48
     },
     {
       "store": "Naheed",
@@ -30,7 +30,7 @@
       "store": "Naheed",
       "url": "https://www.naheed.pk/groceries-pets/dairy/milk-dairy-drinks",
       "status": "parsed",
-      "offers": 31
+      "offers": 32
     },
     {
       "store": "Naheed",
@@ -60,7 +60,7 @@
       "store": "Metro",
       "url": "https://metro-online.pk/",
       "status": "parsed",
-      "offers": 211
+      "offers": 203
     },
     {
       "store": "Foodpanda / Kifayah",

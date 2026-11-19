@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-19T16:58:32.982215+05:00",
+  "checked_at": "2026-11-19T21:14:05.821940+05:00",
   "checks": [
     {
       "topic": "economy",
@@ -26,43 +26,19 @@
       "context": "Trade and customs developments can affect landed costs and delivery times. Check the original notification, effective date and product classification before applying a reported change to an item.",
       "headlines": [
         {
-          "id": "c334b6e624861d33",
-          "title": "Pakistan’s import bill rises 8.6% YoY to nearly $6bn in October",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNy1iYzhhdXZUckpnWmdnUW9nT0s5UGROOTRqc0kwY1BRWlVNaGFEa2hkN2ZlWWlIZEg1bERFLUFhM2Z0NnEyUnFKcnNBTGpFZ0JWYlpyUHZiSzZZeWdHUVBGX0Z5NW02emFlQjVsN1J5T2NYUXlETmN3YkNoQmJ2bmJZOWZYRDJzWVhoc3k4UVByN0JUNHVCYS1STktWbm5Fcm9FcWdrTQ?oc=5",
-          "publisher": "Investify",
-          "published_at": "2026-11-17T17:24:06+05:00",
+          "id": "fdc18d8d8aa26443",
+          "title": "FCC sets aside high court rulings upholding infrastructure cess in Sindh, KP",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSEl1QVI4ZWhjSVpxYnNpekJWbnVFRFlEN0xEMWx3OE03WTkzNEIyVEl1Y1pqdjVQZzIzcEt5SFQ5MFpjYmpBaENwMl9aX3dReUdINWFWNTdDWnkyalVwa1JXQU1ZZDBxOWoxTzZramdLYVNrSlF3dkg5Q3gzMzQ4ekhmUjQwcmFMQy1uVDFzWlJReU5Tb1p2S3JWaGF5S01ETTJabWxYOU5QcGtXNmc?oc=5",
+          "publisher": "Dawn",
+          "published_at": "2026-11-19T19:43:43+05:00",
           "topic": "trade"
         },
         {
-          "id": "2b4d7f3c636423e0",
-          "title": "Philippine pork import curb raises concern for Brazilian exporters",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObkZYSFpxckh4NHJ3N3VPdXNIVHhOakJyWXEzbDBia0U5TGxGUmFYbTFRMjAzeTRMa1BZLTd1Q1kweWNXNzZ0VFF5dWxRV2UzMXlRNk03ekxxOUEwNWFxMldxeGxsenJubEl6bEJOa0pXMVlNR2dpYjF1alMydjJYVmlKWERMal9BbXhpbGc4UjVnZVpWVlhJQU1kZm5QOFp4RnFCTkF5ZDI0QQ?oc=5",
-          "publisher": "The Pig Site",
-          "published_at": "2026-11-19T08:23:55+05:00",
-          "topic": "trade"
-        },
-        {
-          "id": "4d5bb0070c14a205",
-          "title": "Import Export Data Providers Ranked on Buyer Discovery, Not Record Counts",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWDJZSkpCcFZrdE84SVI2RUQ1SEtoNHVDajFvWENzNmpoYTFrdHczSk4teHQ2bGxHYkNHQlFQcTU5VU1vRkxjeXJIWmxheHhUUXY0RWhMckdHSzMtYkZFNVFmUXVFNldaLU9pVW5nTHp3eEJTWDBzeVhoaTNXV2RMekF3MWJwaDVQd1p5c3VKWURMWnktSURjc05ZUVdWMjVFSGlXSTRDTGZ4RExSeEVIUDlwdTJPQVc3aDNN?oc=5",
-          "publisher": "EIN Presswire",
-          "published_at": "2026-11-19T08:38:00+05:00",
-          "topic": "trade"
-        },
-        {
-          "id": "29d70a5c885e25ea",
-          "title": "FBR links customs valuation of imported sulphur to international Argus prices",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNb1VWZF9Qa2h4a1lDcFJpOTJ6U1kzN1BoVXkzNUo3U1ItNElmRWtaeUFic1ZRc05OWExlQnFsTlJ0d1hGUkF0UmZPZXhXOWpWOVI0MUVVMTc1aXNJcTZQcTUyZjRBRlhsclZGNXdaRkJ2QXQ2d3BuOW9zVmJjVWJ6WUlNLWZ4WHVhdHU3VEpjaklfYUFERWVnTFE2a0Q3YnE4LW5lQmpadENpVzByMzd3V01NVTViQmF3LXNlTA?oc=5",
-          "publisher": "Investify",
-          "published_at": "2026-11-18T13:09:14+05:00",
-          "topic": "trade"
-        },
-        {
-          "id": "c4ec2072c399e107",
-          "title": "UK drops foie gras import ban plan to support EU food trade deal",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVDB4eFQ0NnJaa1V0MUZGTHVnc2I1VGNidkpPS1Z6NFN0MlQtWm9hRVpFbTV2VG9yODM3YWdqN3hsbjNfV3FpS3Btb0VtTEZKc1hxZ3Brbzl5MDZGVFY2a2tMVkktalZwNl9hQ181V2dSVzVFa0ItWG5BWXNPUDRHZmJTS3N5aFhZRG81MnZoR0FfV18xaVZIbw?oc=5",
-          "publisher": "Traders Union",
-          "published_at": "2026-11-18T19:12:36+05:00",
+          "id": "33ff451d62361e03",
+          "title": "Faceless customs assessment for digital trade reforms",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQbjVkeGRXaVlFT3BqdmlxbXZobHRkSk9xX3pRcXVSRWVaNlRSOVItaDRqYkhoUGpPbzVxaFQwM3ktUmFXVkF5SU9nTW80M0dyZERCNnNZcjM3VXNRQTQzakRVUUhncUxNbndET09sano0b19UM2JLbWdCb2pfTEhBQUVMRkdzUmxtS2JMa20wMklscFE?oc=5",
+          "publisher": "Minute Mirror",
+          "published_at": "2026-11-19T18:19:54+05:00",
           "topic": "trade"
         },
         {
@@ -74,23 +50,47 @@
           "topic": "trade"
         },
         {
+          "id": "5d8173081cb2c4f7",
+          "title": "EU trade policy shifts toward managed import curbs on China",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZm1vZDdVSHdnRDFuOUxiY0dpQnpaNGlNaHo1OEQtSlA0SXMxMHF1b0Fxd1dCa3ZGcjBnYUNEcXdPR2hKcWVCV2pFcGRHZFpFQ3l1NjVUTktwOVJXWXJaSXVuckQzMVpkMjVIa0lubTR4dENuYjF4d05xNmM1N29Cek1hOHZSMWZDSHJrMHA2S0hobjF0MkRKSGpBZFo?oc=5",
+          "publisher": "Traders Union",
+          "published_at": "2026-11-19T17:44:23+05:00",
+          "topic": "trade"
+        },
+        {
+          "id": "2b4d7f3c636423e0",
+          "title": "Philippine pork import curb raises concern for Brazilian exporters",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObkZYSFpxckh4NHJ3N3VPdXNIVHhOakJyWXEzbDBia0U5TGxGUmFYbTFRMjAzeTRMa1BZLTd1Q1kweWNXNzZ0VFF5dWxRV2UzMXlRNk03ekxxOUEwNWFxMldxeGxsenJubEl6bEJOa0pXMVlNR2dpYjF1alMydjJYVmlKWERMal9BbXhpbGc4UjVnZVpWVlhJQU1kZm5QOFp4RnFCTkF5ZDI0QQ?oc=5",
+          "publisher": "The Pig Site",
+          "published_at": "2026-11-19T08:23:55+05:00",
+          "topic": "trade"
+        },
+        {
+          "id": "829726f8934bb434",
+          "title": "Iran bans tomato, potato and onion exports: What does this mean for Tajikistan?",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRTB6Ry1GUjlubExyS2lBM3VvUUdOalZNb0pGYm9hYnNndDg2VXV3aUlkdktGRjcxNFhjczFKR0JaRV9YemgydHVFc2JqakFGX1c0TkZSUUl3d1l5dUFoTjYxY1pXdHo5OWs2ZlBjYlI0OHFaT0VwOTlmaG16UGNCVVBYd25EVlZGd3BUa0ttemIybURjb2YwX0lmanM2dXc5VkxSSFU5dnBqZ0VMZTZJ?oc=5",
+          "publisher": "Азия-Плюс",
+          "published_at": "2026-11-19T13:57:31+05:00",
+          "topic": "trade"
+        },
+        {
+          "id": "4d5bb0070c14a205",
+          "title": "Import Export Data Providers Ranked on Buyer Discovery, Not Record Counts",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWDJZSkpCcFZrdE84SVI2RUQ1SEtoNHVDajFvWENzNmpoYTFrdHczSk4teHQ2bGxHYkNHQlFQcTU5VU1vRkxjeXJIWmxheHhUUXY0RWhMckdHSzMtYkZFNVFmUXVFNldaLU9pVW5nTHp3eEJTWDBzeVhoaTNXV2RMekF3MWJwaDVQd1p5c3VKWURMWnktSURjc05ZUVdWMjVFSGlXSTRDTGZ4RExSeEVIUDlwdTJPQVc3aDNN?oc=5",
+          "publisher": "EIN Presswire",
+          "published_at": "2026-11-19T08:38:00+05:00",
+          "topic": "trade"
+        },
+        {
           "id": "131377b5864ed86f",
           "title": "SBP makes GD number mandatory for all import payments",
           "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZjdRakV1LTgzY21qS1k3eHVEY2VDV09GQjlja2pWeUZyX19pZHJjcUNLNjNDSGY1eWlLN3B3N0VxdTFYYWFxVFRGX2JWUmt0US1hMHRfZlJHc25JLWR5ZG4xZXNjOFRCU1ZWRDMxNHpvbnAxUlRpTkZVSFZSbDN2TndNdlpQYW5hU1N6a01seVo1QTEzTjdfUTNHU3A?oc=5",
           "publisher": "Investify",
           "published_at": "2026-11-18T10:54:05+05:00",
           "topic": "trade"
-        },
-        {
-          "id": "aa0ad6fe45a7ac47",
-          "title": "Preferential tariff concessions: Exporters can enhance competitiveness in global markets: TDAP",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5pM1dZWXp3bFF2R00zamhIYVRKNldKRGZqTmdjQlFLd08xQXpEUTBaOEIybnA2M1JvV2lFdWVwcFRRSFJCWkhvTTlVQjRlNjlV0gFWQVVfeXFMT0luMzJSdklyZE9SWmwzbWg4czFEaFh0TEROcEV6TFQwTnR2M3E1eThrYURiam9XSzZBdlIwZFNlQXBXS1NJQm94NzNBOHY2aFJQM2JhWGc?oc=5",
-          "publisher": "Business Recorder",
-          "published_at": "2026-11-19T04:55:03+05:00",
-          "topic": "trade"
         }
       ],
-      "fetched_at": "2026-11-19T16:58:32.982215+05:00"
+      "fetched_at": "2026-11-19T21:14:05.821940+05:00"
     },
     {
       "id": "economy-2026-11-19",
@@ -164,7 +164,7 @@
           "topic": "economy"
         }
       ],
-      "fetched_at": "2026-11-19T16:58:32.982215+05:00"
+      "fetched_at": "2026-11-19T21:14:05.821940+05:00"
     },
     {
       "id": "business-2026-11-19",
@@ -174,11 +174,11 @@
       "context": "Company and industry developments can affect supply, stock availability and competition. Compare dated supplier offers before making a purchase decision.",
       "headlines": [
         {
-          "id": "d41157cb6ce7abd5",
-          "title": "GHNI Company Announcements - Ghandhara Industries Ltd",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5USWdZVlkyWHB5MmxGei1BVFlUWTNHMmpLSVkxV3h6N2RDWFg4LUE2VWUwSFZpY1diZ0J0MlRKOXNqTTRSaDRlTjU4WlVNcVB4cU0xa3pyMDE5dTRRQlNjUw?oc=5",
+          "id": "73259122a87cb845",
+          "title": "VIS reaffirms Thatta Cement’s ‘A/A2’ entity ratings",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZ3BzQTgyUEtHYmtIT1Q3X0Nhc3ZiclZwQ0ZYNnpncHJ2WlNsVWRFcDNUZzhLcTNKenRldU5lc3R1aGN2ZXZZUlYtZEJNUEQ5ak85aWtsVXdlSG1jRloxcTNERkEtcVhzXzRDNWt2VnpZeHpUQm45QWhYazlqX0ZGLXJfRG01SzJJSUw4Wl9udU1OZDBFVm00?oc=5",
           "publisher": "Investify",
-          "published_at": "2026-11-19T11:27:14+05:00",
+          "published_at": "2026-11-19T16:54:06+05:00",
           "topic": "business"
         },
         {
@@ -198,22 +198,6 @@
           "topic": "business"
         },
         {
-          "id": "5cf2f50fe7cbb198",
-          "title": "PIAHCLA Company Profile - PIA Holding Company Ltd",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8tNXBPX0ZSdTE5UUN2UFVBZzBFeTJxZnpjYXVFbGQybE5XTHA5N0tVZC14QU5YU0dyR2hlaVN4dzNpRnRKQ09PbGF5NEZ6RmQwSW4tYUpaYkRiamJF?oc=5",
-          "publisher": "Investify",
-          "published_at": "2026-11-17T20:06:19+05:00",
-          "topic": "business"
-        },
-        {
-          "id": "1d114568e242272d",
-          "title": "Pakistan’s banking sector hopeful of corporate bond market revival in 2027",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVTIyVXZDM0pJazhMYmxBazBNU2c5Z1VXTm5xLXp1RkJqUXlnRXhveGFiTno0MlVwTXh2Y1pJMmY1Sm04Rkx1N0FKSFRXUjRkR1Q3OXM5VU16Q2V3R05HR3UyX2dDMnRmMDFQRGlyNV85bF85ZEpjM0pJeFRzZF8xMjJCOVJlYTRlNFJvV1JzM0ZBb0N6TlVRcW4tRlBSWUlOSEF3a0N0S3JBNV9HdWwtVTVxY1k?oc=5",
-          "publisher": "Arab News PK",
-          "published_at": "2026-11-19T10:53:02+05:00",
-          "topic": "business"
-        },
-        {
           "id": "bdf9070534372610",
           "title": "Pakistanis’ direct investment abroad rebounds to $342 million after sharp fall",
           "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONjVqMVA0bUpaSlAxV2NiMzBvMjdOS2IwdmlmdU9WTk1NYTU5ZFJEamVMSWZRMWpfblU2ZU5RSzROQmhCanRuc0dHNDczemZlbUt5SWlaMVltWk9jZGJ2Q09kaFlld2trY0lBOW1vOU9nS29VTFRvZ1FfREJzR09ONE96SkFhRHJDb0wwVlJVX3lKNVYzX0Y5d3VtWm0xZGVfaEo2V1VlTXoxTDdZNmJfNVZEZlpJd0F2?oc=5",
@@ -222,11 +206,19 @@
           "topic": "business"
         },
         {
-          "id": "2ff30e283ba0191e",
-          "title": "SIFC reports $20 billion China investment portfolio, $2.3 billion in Saudi-linked deals",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTl9vbTdJM3lXRk5lZFBfMHZCVjRqMTN4RG5JUWN5MXRSQklhZ0EtV2hjWmV3YkN0bjBac1VKNjI1TEpfenBvMEhSQWlWVnhGMzBIcFZKYjF1WnRyOWpvbXJpMG81SWwxazMwUFRmZ1FMbzRJaDFzc3NrZVdFa2dpTUYzcnY4WmxQMFJvczZ2Q05LeWFxTmJ1Y1lKWi1XZ05oYWpYU0hseG44d3NHMHViQ3QtaUgzd1lXWjBEQQ?oc=5",
-          "publisher": "Minute Mirror",
-          "published_at": "2026-11-18T15:31:26+05:00",
+          "id": "d41157cb6ce7abd5",
+          "title": "GHNI Company Announcements - Ghandhara Industries Ltd",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5USWdZVlkyWHB5MmxGei1BVFlUWTNHMmpLSVkxV3h6N2RDWFg4LUE2VWUwSFZpY1diZ0J0MlRKOXNqTTRSaDRlTjU4WlVNcVB4cU0xa3pyMDE5dTRRQlNjUw?oc=5",
+          "publisher": "Investify",
+          "published_at": "2026-11-19T11:27:14+05:00",
+          "topic": "business"
+        },
+        {
+          "id": "df45ad1e37266b5f",
+          "title": "Pakistan finance minister in Singapore to attend Global SME Finance Forum",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVGJZak5lSWJudV9rMHhoS1BtUDlaQTZnY1BNVTV4dEM2NVFmN25NZks5WUJtNjh4c1BTcHJCUkZNc1V1Z3NkRm1pQTdlMTJ1OFcyUHNKbTdrTExIX2dFZ0JaOHh4TjVGVlozY0ZDcldUeHg1N1pyclplSXoyd0RIZTRJbWxrbjZfc0lpck9peVJ5bmRYVzAtaURXSTRqRkhvaVNZZFZING9nT3hoSmUtaS1zeG0?oc=5",
+          "publisher": "Arab News PK",
+          "published_at": "2026-11-17T23:26:54+05:00",
           "topic": "business"
         },
         {
@@ -236,9 +228,17 @@
           "publisher": "Investify",
           "published_at": "2026-11-18T01:06:27+05:00",
           "topic": "business"
+        },
+        {
+          "id": "28a4a6e8bfd793ff",
+          "title": "MUGHAL Company Profile - Mughal Iron and Steel Industries Ltd",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE84dS1tWW9PV3ktZ3JSZWFEYmdhWUI4ZjRJLS1Ld25mS2NCYWJCTE8xR3NwaDBoaWhjOHJlbDZYV29lWFFwTHl5MFpnTU12cWExS01fNWZzVXJkdG8?oc=5",
+          "publisher": "Investify",
+          "published_at": "2026-11-18T04:57:48+05:00",
+          "topic": "business"
         }
       ],
-      "fetched_at": "2026-11-19T16:58:32.982215+05:00"
+      "fetched_at": "2026-11-19T21:14:05.821940+05:00"
     },
     {
       "id": "trade-2026-11-18",
