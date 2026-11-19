@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-19T03:39:43.323801+05:00",
+  "checked_at": "2026-11-19T09:14:34.800730+05:00",
   "quotes": 12793,
   "checks": [
     {
@@ -60,7 +60,7 @@
       "store": "Metro",
       "url": "https://metro-online.pk/",
       "status": "parsed",
-      "offers": 211
+      "offers": 222
     },
     {
       "store": "Foodpanda / Kifayah",

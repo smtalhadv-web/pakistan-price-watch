@@ -1,18 +1,18 @@
 {
-  "checked_at": "2026-11-19T03:39:50.441719+05:00",
+  "checked_at": "2026-11-19T09:14:41.939586+05:00",
   "checks": [
     {
       "topic": "economy",
-      "status": "updated",
-      "headlines": 7
-    },
-    {
-      "topic": "business",
       "status": "updated",
       "headlines": 8
     },
     {
       "topic": "trade",
+      "status": "updated",
+      "headlines": 8
+    },
+    {
+      "topic": "business",
       "status": "updated",
       "headlines": 8
     }
@@ -26,27 +26,27 @@
       "context": "Trade and customs developments can affect landed costs and delivery times. Check the original notification, effective date and product classification before applying a reported change to an item.",
       "headlines": [
         {
+          "id": "c334b6e624861d33",
+          "title": "Pakistan’s import bill rises 8.6% YoY to nearly $6bn in October",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNy1iYzhhdXZUckpnWmdnUW9nT0s5UGROOTRqc0kwY1BRWlVNaGFEa2hkN2ZlWWlIZEg1bERFLUFhM2Z0NnEyUnFKcnNBTGpFZ0JWYlpyUHZiSzZZeWdHUVBGX0Z5NW02emFlQjVsN1J5T2NYUXlETmN3YkNoQmJ2bmJZOWZYRDJzWVhoc3k4UVByN0JUNHVCYS1STktWbm5Fcm9FcWdrTQ?oc=5",
+          "publisher": "Investify",
+          "published_at": "2026-11-17T17:24:06+05:00",
+          "topic": "trade"
+        },
+        {
+          "id": "4d5bb0070c14a205",
+          "title": "Import Export Data Providers Ranked on Buyer Discovery, Not Record Counts",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWDJZSkpCcFZrdE84SVI2RUQ1SEtoNHVDajFvWENzNmpoYTFrdHczSk4teHQ2bGxHYkNHQlFQcTU5VU1vRkxjeXJIWmxheHhUUXY0RWhMckdHSzMtYkZFNVFmUXVFNldaLU9pVW5nTHp3eEJTWDBzeVhoaTNXV2RMekF3MWJwaDVQd1p5c3VKWURMWnktSURjc05ZUVdWMjVFSGlXSTRDTGZ4RExSeEVIUDlwdTJPQVc3aDNN?oc=5",
+          "publisher": "EIN Presswire",
+          "published_at": "2026-11-19T08:38:00+05:00",
+          "topic": "trade"
+        },
+        {
           "id": "131377b5864ed86f",
           "title": "SBP makes GD number mandatory for all import payments",
           "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZjdRakV1LTgzY21qS1k3eHVEY2VDV09GQjlja2pWeUZyX19pZHJjcUNLNjNDSGY1eWlLN3B3N0VxdTFYYWFxVFRGX2JWUmt0US1hMHRfZlJHc25JLWR5ZG4xZXNjOFRCU1ZWRDMxNHpvbnAxUlRpTkZVSFZSbDN2TndNdlpQYW5hU1N6a01seVo1QTEzTjdfUTNHU3A?oc=5",
           "publisher": "Investify",
           "published_at": "2026-11-18T10:54:05+05:00",
-          "topic": "trade"
-        },
-        {
-          "id": "98c4ed5e00b2a66f",
-          "title": "Iron Gate and the Limits of a U.S. Land Blockade on Iran",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNUjNKaXB3a2VpOHBjX3BoMDJnemVhMHFBV3ljSjM3UE1Bc3FDZzd5SVNXVlNMY0wwdzdGOXUzenhqd1BNZlpNbnpxNjNqZlBjd2lIdk83Z2ZOZ2lCZkowbXVDbC15NXliY2lUNngxTlpUTWpJdk1ZZWNWcXhSZHBMeVJScDgzaE82bThhYUhQMzY1aEU?oc=5",
-          "publisher": "https://debuglies.com",
-          "published_at": "2026-11-18T18:55:18+05:00",
-          "topic": "trade"
-        },
-        {
-          "id": "ebe65c2ef2c7f43d",
-          "title": "Pakistan Customs revises customs values of imported latex rubber threads to $3–$3.95 per kg",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOZi1ScWV5REJhWWFjVzI2MzFPQjh0UjFRczFaRUhxUGZIX1dXQUdGTkFOVWtySkhCS2k2UmlteUxFUHZpMU52alhHZ2xlb1Mzc2xhOWRXR0ZlWUFuUEJHUnR2NlRKQnJTTEY2Z0RHN1VjMGlkQmhFVkEyR3dUTFYtQ1VCUkxNRk5xcGNuYjZMZDRnaUhlOEF1aWNPLVNoc2xsR2Z0NDhYdzlBcWpHZWxqVW1HVmhrazF5YVZ2NEp4VmxqSE53OHlaaXBSZWk?oc=5",
-          "publisher": "Investify",
-          "published_at": "2026-11-18T12:52:06+05:00",
           "topic": "trade"
         },
         {
@@ -66,31 +66,31 @@
           "topic": "trade"
         },
         {
-          "id": "621e7772df09fd34",
-          "title": "Ministers to drop foie gras imports ban to help seal EU food trade deal",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUFQ5RzYxQnYyd3B3TFZKdHNqVUg1NWphU2hKTFBaTDhBYlRWcjlXWDRuU1lEN2N0ZE9CZnFGOVo1ejNHWUhNcnRzR0F0b1ZBTWlDdFFkelVOSW9hNGFYaUlLcmdKWUh5RUZPb1lHSzZjczRsSFZaclJlMGhUYmwwSmdHQmx5YkxZNWtWV3VNMC1HWDZtcUxTRTZWM2o5QXk4U3lB?oc=5",
-          "publisher": "The Guardian",
-          "published_at": "2026-11-18T18:37:00+05:00",
+          "id": "aa0ad6fe45a7ac47",
+          "title": "Preferential tariff concessions: Exporters can enhance competitiveness in global markets: TDAP",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5pM1dZWXp3bFF2R00zamhIYVRKNldKRGZqTmdjQlFLd08xQXpEUTBaOEIybnA2M1JvV2lFdWVwcFRRSFJCWkhvTTlVQjRlNjlV0gFWQVVfeXFMT0luMzJSdklyZE9SWmwzbWg4czFEaFh0TEROcEV6TFQwTnR2M3E1eThrYURiam9XSzZBdlIwZFNlQXBXS1NJQm94NzNBOHY2aFJQM2JhWGc?oc=5",
+          "publisher": "Business Recorder",
+          "published_at": "2026-11-19T04:55:03+05:00",
           "topic": "trade"
         },
         {
-          "id": "c334b6e624861d33",
-          "title": "Pakistan’s import bill rises 8.6% YoY to nearly $6bn in October",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNy1iYzhhdXZUckpnWmdnUW9nT0s5UGROOTRqc0kwY1BRWlVNaGFEa2hkN2ZlWWlIZEg1bERFLUFhM2Z0NnEyUnFKcnNBTGpFZ0JWYlpyUHZiSzZZeWdHUVBGX0Z5NW02emFlQjVsN1J5T2NYUXlETmN3YkNoQmJ2bmJZOWZYRDJzWVhoc3k4UVByN0JUNHVCYS1STktWbm5Fcm9FcWdrTQ?oc=5",
-          "publisher": "Investify",
-          "published_at": "2026-11-17T17:24:06+05:00",
+          "id": "9e26b5254d05a16f",
+          "title": "TDAP portal aims to help exporters benefit from preferential trade concessions",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTElpbkNIV0VvUXpiaTRjSnJBcXF2TEZPOUJDM09SYlY4OTRHVHRySlNkMndhTlJ6Y3YzajFEVXg2SFc4RGMwcVc1U0xTVHdZUnV5TW9JRGZIUkxDZEpBbWtPY1F1TnU0VHFfT3loWmRQLVQ3SmkzMm5hREY3N0xSTlhqcUxfMVdBYWp5Vm9KdXY2dWhHZWpEaVVqdHd4WVJERm13WDh0X3lpa2NnajVJdHFuRmc4QQ?oc=5",
+          "publisher": "The News Pakistan",
+          "published_at": "2026-11-19T00:00:00+05:00",
           "topic": "trade"
         },
         {
-          "id": "ea13ed7f21d8ad67",
-          "title": "SBP makes goods declaration numbers mandatory for import payment records from January",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQa0RIVnB1Q2xwbDJVVEdBai10MUpIZEFKVjBEX3h0NVRnS3Jhc3dwRlI5ZVJGamxvYVlTZTF3eEowQXZreDRJbWxLWVphaU1yOV9Cd1k4bTNobTduQzg4TnMzdVFXblEtZTVpVi1ZOFpZMW9jZ0NuUDBUb1k5eGt2bndlVE9FUUZia2tyT1hOOWFwdkFQSnQ1bzE3U2hqUFBOZ25ZaTMyeTdfazUtTGsxUFVrZl92MGQxaTk4UWVnVE1felZjQlZ3?oc=5",
-          "publisher": "Investify",
-          "published_at": "2026-11-18T09:15:00+05:00",
+          "id": "14cc340052d0ef94",
+          "title": "Pakistan’s mango exports plunge 36pc as Middle East tensions disrupt key markets",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQTdRRVdxQklZR3g3WHFTazQ4NGc2TXRCSzRHLWp6U2tkNURLWGtPQ0FmcWtwRXJQTm1iemc1SlE3aU1SX1k2Y1FEUi00THNWRm1KVUdOck43czAybDFabldWTVBKWUVHWTBSZUhpVmJydHhwLXJEd0d5SDRVREpnU0JlUGlEbFl3aUNkNGhVLUpWdXV0bmVJUHJmMzdnblVoX3pDMkhDemRPclFCTG8ybjZrSmw1dEQ0R3l5WXBXNXdpVkZB?oc=5",
+          "publisher": "Profit by Pakistan Today",
+          "published_at": "2026-11-18T22:40:06+05:00",
           "topic": "trade"
         }
       ],
-      "fetched_at": "2026-11-19T03:39:50.441719+05:00"
+      "fetched_at": "2026-11-19T09:14:41.939586+05:00"
     },
     {
       "id": "economy-2026-11-19",
@@ -105,6 +105,30 @@
           "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQSThUaXZkdkxNTFJsUHM2dDRuWlRjQTJXRUw5MGdON09tYzhPa2xfY2E2UDZkQjFuSm80dTJVOXdtQk9WUTNhMmV1b3Q2ZEV0T1NqUmtCekZFUWV1WHNoZXFBZ0E3VExJWFM2QjhEbjg4TmVrSFB2a0JNZWxCMmpKSW5FX2kyak90M2xqV3dCaGdCLWF5clJNdGN0TVVKVDFPZzBiT1dOaFVNaHlLX0Y3V2ctLU02cm9tUGI3NWllSUh4dktYcllMeTM2dlTSAdIBQVVfeXFMTktBQVhMTXJQZWZNaHBVcnRHZlN5UE96ME1IT2h1UWNLeFc0RjRkZlFnUndJam5xTXlYRDZlQ3luZHR6RWN4RTU0MFlVZHRkQjhkbmVvY1R0QjFmTWY0YnhHRWphTExkLWVNRG5KeFBqSG9HRlNlVU1tUVlNNkh6NF9FRUM4M1NhX29CMzNXeGlTYzA5eGhEYVUzaC1mUF9tS19QcGo0UnpnLUIxOE9zczVYVmUxUkxnV2JNc1NTTjByUi1wbklSSjgyYVVnNFFKbjBn?oc=5",
           "publisher": "Business Standard",
           "published_at": "2026-11-17T22:18:08+05:00",
+          "topic": "economy"
+        },
+        {
+          "id": "2cc5e7ab50c96654",
+          "title": "Indian rupee's inflow-driven upward momentum faces hawkish Fed headwinds",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNb1YzNXRYSzFQYlRDRml4TzNfVnBrcmhoUFFLM2o3VXh5eXRWQ0FoMWJsbUNvaFI3bHQ4NG5jOU50Z3lJdVFhRE5sNi1YUzJ0aWJPTEJkYVdpbVVMVk1OamFsZkw1d3J5bC1YaHg5M2JVSnNROWVDTVAyYzVJUXFmRElGOGdpM0M5WmVOU3N0MTVySWR3Q2RocDd3MUhzVmhXMXJnMy15cTJUX0tyUzVTVdIBVkFVX3lxTE0tRjc3M0ROVnF1ZXNYUnhHbnRJMEdBRTBKS1Q5N0MwaTNqOHg2dnduUDVVbjR5N0VFTXhnNWxwa3lzMTRTdGVVTWxTN2VBSjBTVDlSRjFB?oc=5",
+          "publisher": "Business Recorder",
+          "published_at": "2026-11-19T08:09:51+05:00",
+          "topic": "economy"
+        },
+        {
+          "id": "56d54d993871b8a5",
+          "title": "PM Shehbaz unveils 100-day development plan for AJK",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTnFGU085bFNPSEJPODJLR1E3cE1icmExQ0tETW9jNTc4UFU4WTZndEZzanpxTTRNOS1YcDZoRzNwSUhWVmZWcnFXZXRmRy1fWldGMDkyQmdUaDR3d1RnMHVVREVjSkhCODYyVFdEODZEaktvcmRhWmxCSUNTX2o2WlVsV2QxcnloZV9zZ1RnUQ?oc=5",
+          "publisher": "Daily Times",
+          "published_at": "2026-11-19T04:02:14+05:00",
+          "topic": "economy"
+        },
+        {
+          "id": "7afef0926cf2f8ea",
+          "title": "PM Shehbaz pledges federal backing for development in Azad Kashmir",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE55aGpWamhRM0pmUjloSkIzQnY5eVJkRE1zcXdJWGY1SnpCS01RWHF1VUp2MHRfZThzSjF4UkNwZElGdll2dl9qWmVaYk8tSy1JV3Zv0gFTQVVfeXFMTnloalZqaFEzSmZSOWhKQjNCdjl5UmRETXNxd0lYZjVKekJLTVFYcXVVSnYwdF9lOHNKMXhSQ3BkSUZ2WXZ2X2paZVpiTy1LLUlXdm8?oc=5",
+          "publisher": "Aaj English TV",
+          "published_at": "2026-11-18T20:04:53+05:00",
           "topic": "economy"
         },
         {
@@ -124,39 +148,23 @@
           "topic": "economy"
         },
         {
+          "id": "997b433650d6b859",
+          "title": "India may have to manage rupee strength, not weakness, in FY28: CEA V Anantha Nageswaran",
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOaV9kWk9XYWYzWTExbWxWYlNFS0xvX0xyVTkySDZPODFQU1BrajdnanZ3cWlwSTFXa0xQN21RN1A0OFdfVE9aSVpoOWVRZ1c4YlY4OGNxby12S3NMZXo2dFlXSEVYQnJqcmQxQnBVX0VxZnFRUExmdXFMLXZMdDNGa1lqMDhfQmw0MHU4MEM1NjR3M3RUQi1RNHdmXzR5ZGt5Z2NUZkpaaDdqRkh5TEFZSDFmdEN5dDJSUHhfenIyNERNdTN6UnVocDU2YUtkZ2dvLVNVQ2ktZ3NiRV9ySDhsbnp3ZEjSAeoBQVVfeXFMTzAwOENybS0waHZVRU9VSnhiZi1uNUdobHhKZHBVMjZiOE54eFRPamhrMXN5WWdKMFVzZ0s5ZU9TbndXWElYRjFGRk9hdmpvZkgzeXZwYmozRGlnS3k5TlB4VGY4YUVMUWhVZWRlT3BfMTN0U1hTTmFib2I1ZTFRZnUteHZtemcxTEFFS1dYWEhoOVk2QzVETzRyRElzQ1JNYjJ4a0wwREtJNmdvN0xqQXQxc2F6ODNpc0JDVFFwc2h6LWJyZWJwZDFPQXBqYU52MGJQQW02S3R1VWRHRVF3alR0eUk1Nzc1XzR3?oc=5",
+          "publisher": "The Economic Times",
+          "published_at": "2026-11-19T06:31:01+05:00",
+          "topic": "economy"
+        },
+        {
           "id": "2b258d58160d71f0",
           "title": "Indian economy may get windfall gain in FY28 on lower crude prices: CEA",
           "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPRU5uMG5PbE1rNXNYYkhPV1hGWC1XTWZUSE54RE80QUVlRmNxa2tJdXllVkp1RkNfelFFVGpRbWJGXzJfSng1WC10amRUVm5KNVB1SHVDOVZTZWczai0wUklGTmRScnRXUzJsanAzYm9XUnJVdVhUcE9Bc1Q1X0hXT1N2N0tXSkl0NU1aR2lNVGZsVGdPUERxcWtFLV8wb2RGaVMxUHJyM2FaVngzb3dNeUdOYnlOcWRfQ0p5c2daTE43TUVNMF9RVm5VOUZhbHBXUXdhS0dlbXZ3eTZFNHhMUU1B0gHnAUFVX3lxTE1SVC1qUWtjM3BaXzd6WmVLVm4zTENoTXo3RFFFVVhTa3RMd3I0RWJHOU5LUmVSRGpKQm1UcEdRNGVnaVFnQ1F2T1QzZzFtOVJNeDRvRk45bzFCUjZqTTJDS2lNcTl3RTRRTjhqb0kyZ3lhZFVPT2U3Z0swY1VNVEo4T21BUmx4b05abWJRUkNxbUNocThkTnRTRkh3X3A1TTI2d1g4RVE5QUdlWFg1M0FBandudmN1MFc1VkxoR0lRczd0YU41M0VLUFQ2LUFBZmQzd1Nha2ZRSlR2VWZWWkdlYURvTlp6MA?oc=5",
           "publisher": "The Economic Times",
           "published_at": "2026-11-19T00:24:06+05:00",
           "topic": "economy"
-        },
-        {
-          "id": "997b433650d6b859",
-          "title": "India may have to manage rupee strength, not weakness, in FY28: CEA V Anantha Nageswaran",
-          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOaV9kWk9XYWYzWTExbWxWYlNFS0xvX0xyVTkySDZPODFQU1BrajdnanZ3cWlwSTFXa0xQN21RN1A0OFdfVE9aSVpoOWVRZ1c4YlY4OGNxby12S3NMZXo2dFlXSEVYQnJqcmQxQnBVX0VxZnFRUExmdXFMLXZMdDNGa1lqMDhfQmw0MHU4MEM1NjR3M3RUQi1RNHdmXzR5ZGt5Z2NUZkpaaDdqRkh5TEFZSDFmdEN5dDJSUHhfenIyNERNdTN6UnVocDU2YUtkZ2dvLVNVQ2ktZ3NiRV9ySDhsbnp3ZEjSAeoBQVVfeXFMTzAwOENybS0waHZVRU9VSnhiZi1uNUdobHhKZHBVMjZiOE54eFRPamhrMXN5WWdKMFVzZ0s5ZU9TbndXWElYRjFGRk9hdmpvZkgzeXZwYmozRGlnS3k5TlB4VGY4YUVMUWhVZWRlT3BfMTN0U1hTTmFib2I1ZTFRZnUteHZtemcxTEFFS1dYWEhoOVk2QzVETzRyRElzQ1JNYjJ4a0wwREtJNmdvN0xqQXQxc2F6ODNpc0JDVFFwc2h6LWJyZWJwZDFPQXBqYU52MGJQQW02S3R1VWRHRVF3alR0eUk1Nzc1XzR3?oc=5",
-          "publisher": "The Economic Times",
-          "published_at": "2026-11-18T20:56:18+05:00",
-          "topic": "economy"
-        },
-        {
-          "id": "9994dcbdbca88d22",
-          "title": "RBI may hike interest rates by 75 basis points by Q2 of next year: Goldman Sachs",
-          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQczJnMThWMksteU0tN2JsU0pNQmRISmRwS0I0SWR0ZkxOeVB5UWN3cG8zYnFpbG5sNTNBUExETHZfbk9xaVpibUU0MWZWVWF6Uk04X001OWRyYTZCTzg2NGdqQlZ5LXpjZFhRRmJVWXE5a2NNb1FhdHdxUzRRRGtrY2cxRVd5Zkg5c215UFhNVFptTURKbkU0QjVmTkVXZjhaY0JQNkM4NU4xZzBRTG1YVm54VURVaTNERnJYZUpxby1rNllUbzY5MVRSYmthbl9oU2haaV9GLVdCdFFzUUJ4ZXlmWldHY2xO0gHuAUFVX3lxTE9JQlVONC1SZ001clZaOGpYdndnaXpCM0JtT2dtTFgwRWpvZDB1X0FxSFJQRjA4aUVwUlcxelQzeF9EYU5HT3o4enNsalZsZXB0SzlGNDNET1dUdi1JVVdaRXgwcThZLTFfaUZ0N0FDdWVQcW5FNnRVdmw2UFBOLVhHa1FWTnhjdEVZWnNwWW11VmVTNzZ6WWdXNk5vTE5TNXRfN0k2Ulp5QlVTemFQQ1doQ1hzbW9YRU13Q202VlRyTHhFZmEweW5fVkJwd01aeUExcG9TcXIyTGphRC01UTVXalpUd0hIQ0Zva3NrT0E?oc=5",
-          "publisher": "The Economic Times",
-          "published_at": "2026-11-18T15:41:25+05:00",
-          "topic": "economy"
-        },
-        {
-          "id": "080bb676c616d9de",
-          "title": "India Inc.’s sudden craving for dollars is a dangerous gamble",
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQWVNNMkNuSjN1YktTU0d3YzQ4ZlpOSjJlUURGdzIwV3RmbXlMOWV0dXRodjRmRXMwY2FSNGZncUxFaG9Bd3lNR1ZrcHE3dC1FUVd6aXZTZWtBRjE2WTJyRWVITHlFQk5tZzl3bTlOc1ZNLWxNLWt2UDUtRE5telJPQUx1V01hQzA1cV84Z25uTWYxTk40MjZleUx4Q18tMnZUdnoyUFJmSVd6Z1ROZFoxRWhkWmwxdEE1UGd0NmlSM1BXaEh6WV9YVlRXXzF5LWx2YnBQS9IB2gFBVV95cUxNb3A0TDBzYUJRZU42QnVzcXc3ZDhWbU5tOTRIWWhrSDNtN3V5Mk9fMzFRaGk0b0NfWHlrd2FjLUYyZlJjdDRIQVFDWElRNHVOa2tLNHNfSjRrR0FlXzVSZHdRMmhQWVIzYmMybjhJNzBfamZPSTIzckhPQXJYQm1SaUFVVkVQVjBCZTFmRlV5N1RIZm12eEM4SFpsa09LdmtzSGY1YzNkUFptZ3BWVmdkRGlvYUg3VmlOdlJ5SFVPcVdkeHByN2dnSEdLZzB3S1JzZG9GM1owQ2pEdw?oc=5",
-          "publisher": "The Economic Times",
-          "published_at": "2026-11-17T09:55:04+05:00",
-          "topic": "economy"
         }
       ],
-      "fetched_at": "2026-11-19T03:39:50.441719+05:00"
+      "fetched_at": "2026-11-19T09:14:41.939586+05:00"
     },
     {
       "id": "business-2026-11-19",
@@ -174,14 +182,6 @@
           "topic": "business"
         },
         {
-          "id": "8a463e88d8b4346c",
-          "title": "Pakistan Seeks Finnish Investment in EVs, Battery Storage and Mineral Processing",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTU40OHlBWmo1OW0yUjNneTZMazczcWdZWEpBV2JGMXlwRGRRWlVrRTNjSnJ0d1ppNkxmNEx5OWtPYmtxMElJa25HNzJleG9UeHhXNXcwZGxuX3hHY2hublNnMHVEeURqRjI3NUVNTk5YWGtNV0ZuSEdvQ0JmYWtRZTVmbVVKSUVCdWJlR3dXbmkzdmthLUsxMWFmdkVuLWhoeE1ZSl9uQ09LYnJ5aURKZWJR?oc=5",
-          "publisher": "Energy Update",
-          "published_at": "2026-11-18T12:38:08+05:00",
-          "topic": "business"
-        },
-        {
           "id": "5cf2f50fe7cbb198",
           "title": "PIAHCLA Company Profile - PIA Holding Company Ltd",
           "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8tNXBPX0ZSdTE5UUN2UFVBZzBFeTJxZnpjYXVFbGQybE5XTHA5N0tVZC14QU5YU0dyR2hlaVN4dzNpRnRKQ09PbGF5NEZ6RmQwSW4tYUpaYkRiamJF?oc=5",
@@ -190,11 +190,11 @@
           "topic": "business"
         },
         {
-          "id": "bbd4db4f625cf25f",
-          "title": "Finnish companies explore investment opportunities in Pakistan's energy, mineral sectors",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNeUhrb3RkV2pteXA0bTYzMTZvRmRlU19iNmctV3lXaFp2SEQwQXNuOXBBU1JXUUVRNkRyWExFWE93Q1I0OFNSWG5UcVIwUHhoS0Rub3lrc0lQR0U2a1JYQXRNTnI5bmp2VkpvcHAwUzBCc2ZqQmlXT3hMOF9MMDZRZUZ4UGNib0szdHJsYkVfUWlDSFphRmVSRnVRTDBSV2Q0YmlZQkVLWTd5ZjZEeDZuWkNFcGxSOUVHOEJZNFZ1OGJwVzhFd21tZ2R3?oc=5",
-          "publisher": "Investify",
-          "published_at": "2026-11-17T07:15:00+05:00",
+          "id": "8a463e88d8b4346c",
+          "title": "Pakistan Seeks Finnish Investment in EVs, Battery Storage and Mineral Processing",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTU40OHlBWmo1OW0yUjNneTZMazczcWdZWEpBV2JGMXlwRGRRWlVrRTNjSnJ0d1ppNkxmNEx5OWtPYmtxMElJa25HNzJleG9UeHhXNXcwZGxuX3hHY2hublNnMHVEeURqRjI3NUVNTk5YWGtNV0ZuSEdvQ0JmYWtRZTVmbVVKSUVCdWJlR3dXbmkzdmthLUsxMWFmdkVuLWhoeE1ZSl9uQ09LYnJ5aURKZWJR?oc=5",
+          "publisher": "Energy Update",
+          "published_at": "2026-11-18T12:38:08+05:00",
           "topic": "business"
         },
         {
@@ -228,9 +228,17 @@
           "publisher": "| Associated Press Of Pakistan",
           "published_at": "2026-11-17T13:45:06+05:00",
           "topic": "business"
+        },
+        {
+          "id": "d9dc25765a3c4603",
+          "title": "AHCL Company Profile - Arif Habib Corporation Ltd",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5SOGFvNVNsaU1XcnBmV1QwN1htWTd1MnZ4bGpTckpnRjM3YVhmcDhCUDdCSUdrcGpJeV9RN2JhYXhOUDA1QjVfTWZZSnNvekZoQ2ViLXhsMzc?oc=5",
+          "publisher": "Investify",
+          "published_at": "2026-11-18T01:06:27+05:00",
+          "topic": "business"
         }
       ],
-      "fetched_at": "2026-11-19T03:39:50.441719+05:00"
+      "fetched_at": "2026-11-19T09:14:41.939586+05:00"
     },
     {
       "id": "trade-2026-11-18",
