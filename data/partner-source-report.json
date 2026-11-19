@@ -1,6 +1,6 @@
 {
-  "checked_at": "2026-11-19T09:14:34.800730+05:00",
-  "quotes": 12793,
+  "checked_at": "2026-11-19T16:58:26.485348+05:00",
+  "quotes": 12798,
   "checks": [
     {
       "store": "Chase Value",
@@ -30,7 +30,7 @@
       "store": "Naheed",
       "url": "https://www.naheed.pk/groceries-pets/dairy/milk-dairy-drinks",
       "status": "parsed",
-      "offers": 32
+      "offers": 31
     },
     {
       "store": "Naheed",
@@ -60,7 +60,7 @@
       "store": "Metro",
       "url": "https://metro-online.pk/",
       "status": "parsed",
-      "offers": 222
+      "offers": 211
     },
     {
       "store": "Foodpanda / Kifayah",

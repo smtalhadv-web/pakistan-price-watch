@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-19T09:14:41.939586+05:00",
+  "checked_at": "2026-11-19T16:58:32.982215+05:00",
   "checks": [
     {
       "topic": "economy",
@@ -7,12 +7,12 @@
       "headlines": 8
     },
     {
-      "topic": "trade",
+      "topic": "business",
       "status": "updated",
       "headlines": 8
     },
     {
-      "topic": "business",
+      "topic": "trade",
       "status": "updated",
       "headlines": 8
     }
@@ -34,6 +34,14 @@
           "topic": "trade"
         },
         {
+          "id": "2b4d7f3c636423e0",
+          "title": "Philippine pork import curb raises concern for Brazilian exporters",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObkZYSFpxckh4NHJ3N3VPdXNIVHhOakJyWXEzbDBia0U5TGxGUmFYbTFRMjAzeTRMa1BZLTd1Q1kweWNXNzZ0VFF5dWxRV2UzMXlRNk03ekxxOUEwNWFxMldxeGxsenJubEl6bEJOa0pXMVlNR2dpYjF1alMydjJYVmlKWERMal9BbXhpbGc4UjVnZVpWVlhJQU1kZm5QOFp4RnFCTkF5ZDI0QQ?oc=5",
+          "publisher": "The Pig Site",
+          "published_at": "2026-11-19T08:23:55+05:00",
+          "topic": "trade"
+        },
+        {
           "id": "4d5bb0070c14a205",
           "title": "Import Export Data Providers Ranked on Buyer Discovery, Not Record Counts",
           "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWDJZSkpCcFZrdE84SVI2RUQ1SEtoNHVDajFvWENzNmpoYTFrdHczSk4teHQ2bGxHYkNHQlFQcTU5VU1vRkxjeXJIWmxheHhUUXY0RWhMckdHSzMtYkZFNVFmUXVFNldaLU9pVW5nTHp3eEJTWDBzeVhoaTNXV2RMekF3MWJwaDVQd1p5c3VKWURMWnktSURjc05ZUVdWMjVFSGlXSTRDTGZ4RExSeEVIUDlwdTJPQVc3aDNN?oc=5",
@@ -42,11 +50,11 @@
           "topic": "trade"
         },
         {
-          "id": "131377b5864ed86f",
-          "title": "SBP makes GD number mandatory for all import payments",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZjdRakV1LTgzY21qS1k3eHVEY2VDV09GQjlja2pWeUZyX19pZHJjcUNLNjNDSGY1eWlLN3B3N0VxdTFYYWFxVFRGX2JWUmt0US1hMHRfZlJHc25JLWR5ZG4xZXNjOFRCU1ZWRDMxNHpvbnAxUlRpTkZVSFZSbDN2TndNdlpQYW5hU1N6a01seVo1QTEzTjdfUTNHU3A?oc=5",
+          "id": "29d70a5c885e25ea",
+          "title": "FBR links customs valuation of imported sulphur to international Argus prices",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNb1VWZF9Qa2h4a1lDcFJpOTJ6U1kzN1BoVXkzNUo3U1ItNElmRWtaeUFic1ZRc05OWExlQnFsTlJ0d1hGUkF0UmZPZXhXOWpWOVI0MUVVMTc1aXNJcTZQcTUyZjRBRlhsclZGNXdaRkJ2QXQ2d3BuOW9zVmJjVWJ6WUlNLWZ4WHVhdHU3VEpjaklfYUFERWVnTFE2a0Q3YnE4LW5lQmpadENpVzByMzd3V01NVTViQmF3LXNlTA?oc=5",
           "publisher": "Investify",
-          "published_at": "2026-11-18T10:54:05+05:00",
+          "published_at": "2026-11-18T13:09:14+05:00",
           "topic": "trade"
         },
         {
@@ -58,11 +66,19 @@
           "topic": "trade"
         },
         {
-          "id": "f50752d9d31e7f35",
-          "title": "Pakistan outlines tariff cuts to boost trade opportunities with Turkmenistan",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9XS2d3Yy1fUUR6M2d3cDVfdjdSUjYyYWx5a0d0ZU0xb3ZiNURocm1vZ0F6blE3NGZwd0txemhkcWdSSFVoaXpibXZoak1RSm5GdUJjX1N6SkxqVkFTUjhvZnJ3?oc=5",
-          "publisher": "Trend News Agency",
-          "published_at": "2026-11-18T14:03:03+05:00",
+          "id": "ea13ed7f21d8ad67",
+          "title": "SBP makes goods declaration numbers mandatory for import payment records from January",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQa0RIVnB1Q2xwbDJVVEdBai10MUpIZEFKVjBEX3h0NVRnS3Jhc3dwRlI5ZVJGamxvYVlTZTF3eEowQXZreDRJbWxLWVphaU1yOV9Cd1k4bTNobTduQzg4TnMzdVFXblEtZTVpVi1ZOFpZMW9jZ0NuUDBUb1k5eGt2bndlVE9FUUZia2tyT1hOOWFwdkFQSnQ1bzE3U2hqUFBOZ25ZaTMyeTdfazUtTGsxUFVrZl92MGQxaTk4UWVnVE1felZjQlZ3?oc=5",
+          "publisher": "Investify",
+          "published_at": "2026-11-18T09:15:00+05:00",
+          "topic": "trade"
+        },
+        {
+          "id": "131377b5864ed86f",
+          "title": "SBP makes GD number mandatory for all import payments",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZjdRakV1LTgzY21qS1k3eHVEY2VDV09GQjlja2pWeUZyX19pZHJjcUNLNjNDSGY1eWlLN3B3N0VxdTFYYWFxVFRGX2JWUmt0US1hMHRfZlJHc25JLWR5ZG4xZXNjOFRCU1ZWRDMxNHpvbnAxUlRpTkZVSFZSbDN2TndNdlpQYW5hU1N6a01seVo1QTEzTjdfUTNHU3A?oc=5",
+          "publisher": "Investify",
+          "published_at": "2026-11-18T10:54:05+05:00",
           "topic": "trade"
         },
         {
@@ -72,25 +88,9 @@
           "publisher": "Business Recorder",
           "published_at": "2026-11-19T04:55:03+05:00",
           "topic": "trade"
-        },
-        {
-          "id": "9e26b5254d05a16f",
-          "title": "TDAP portal aims to help exporters benefit from preferential trade concessions",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTElpbkNIV0VvUXpiaTRjSnJBcXF2TEZPOUJDM09SYlY4OTRHVHRySlNkMndhTlJ6Y3YzajFEVXg2SFc4RGMwcVc1U0xTVHdZUnV5TW9JRGZIUkxDZEpBbWtPY1F1TnU0VHFfT3loWmRQLVQ3SmkzMm5hREY3N0xSTlhqcUxfMVdBYWp5Vm9KdXY2dWhHZWpEaVVqdHd4WVJERm13WDh0X3lpa2NnajVJdHFuRmc4QQ?oc=5",
-          "publisher": "The News Pakistan",
-          "published_at": "2026-11-19T00:00:00+05:00",
-          "topic": "trade"
-        },
-        {
-          "id": "14cc340052d0ef94",
-          "title": "Pakistan’s mango exports plunge 36pc as Middle East tensions disrupt key markets",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQTdRRVdxQklZR3g3WHFTazQ4NGc2TXRCSzRHLWp6U2tkNURLWGtPQ0FmcWtwRXJQTm1iemc1SlE3aU1SX1k2Y1FEUi00THNWRm1KVUdOck43czAybDFabldWTVBKWUVHWTBSZUhpVmJydHhwLXJEd0d5SDRVREpnU0JlUGlEbFl3aUNkNGhVLUpWdXV0bmVJUHJmMzdnblVoX3pDMkhDemRPclFCTG8ybjZrSmw1dEQ0R3l5WXBXNXdpVkZB?oc=5",
-          "publisher": "Profit by Pakistan Today",
-          "published_at": "2026-11-18T22:40:06+05:00",
-          "topic": "trade"
         }
       ],
-      "fetched_at": "2026-11-19T09:14:41.939586+05:00"
+      "fetched_at": "2026-11-19T16:58:32.982215+05:00"
     },
     {
       "id": "economy-2026-11-19",
@@ -99,6 +99,14 @@
       "title": "Economy news briefing · 2026-11-19",
       "context": "Watch how inflation, currency movements and borrowing costs may affect household budgets and import costs. A headline alone does not establish that a retail price has changed.",
       "headlines": [
+        {
+          "id": "c08aee5fdc0d5223",
+          "title": "Exchange rate & other protections",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBMY2VpcHRiQS1hdUxTXzNfRWwtVklYTXpQYjYxNU15VFJ3YlptZWtvTXdTd2xEQW9uRWxNUVE3WkwtZmlnTkIxSw?oc=5",
+          "publisher": "Dawn",
+          "published_at": "2026-11-19T06:51:49+05:00",
+          "topic": "economy"
+        },
         {
           "id": "c3cbfb358e68b70a",
           "title": "Rich nations' debt surge raises borrowing costs for poorer economies",
@@ -148,23 +156,15 @@
           "topic": "economy"
         },
         {
-          "id": "997b433650d6b859",
-          "title": "India may have to manage rupee strength, not weakness, in FY28: CEA V Anantha Nageswaran",
-          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOaV9kWk9XYWYzWTExbWxWYlNFS0xvX0xyVTkySDZPODFQU1BrajdnanZ3cWlwSTFXa0xQN21RN1A0OFdfVE9aSVpoOWVRZ1c4YlY4OGNxby12S3NMZXo2dFlXSEVYQnJqcmQxQnBVX0VxZnFRUExmdXFMLXZMdDNGa1lqMDhfQmw0MHU4MEM1NjR3M3RUQi1RNHdmXzR5ZGt5Z2NUZkpaaDdqRkh5TEFZSDFmdEN5dDJSUHhfenIyNERNdTN6UnVocDU2YUtkZ2dvLVNVQ2ktZ3NiRV9ySDhsbnp3ZEjSAeoBQVVfeXFMTzAwOENybS0waHZVRU9VSnhiZi1uNUdobHhKZHBVMjZiOE54eFRPamhrMXN5WWdKMFVzZ0s5ZU9TbndXWElYRjFGRk9hdmpvZkgzeXZwYmozRGlnS3k5TlB4VGY4YUVMUWhVZWRlT3BfMTN0U1hTTmFib2I1ZTFRZnUteHZtemcxTEFFS1dYWEhoOVk2QzVETzRyRElzQ1JNYjJ4a0wwREtJNmdvN0xqQXQxc2F6ODNpc0JDVFFwc2h6LWJyZWJwZDFPQXBqYU52MGJQQW02S3R1VWRHRVF3alR0eUk1Nzc1XzR3?oc=5",
-          "publisher": "The Economic Times",
-          "published_at": "2026-11-19T06:31:01+05:00",
-          "topic": "economy"
-        },
-        {
-          "id": "2b258d58160d71f0",
-          "title": "Indian economy may get windfall gain in FY28 on lower crude prices: CEA",
-          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPRU5uMG5PbE1rNXNYYkhPV1hGWC1XTWZUSE54RE80QUVlRmNxa2tJdXllVkp1RkNfelFFVGpRbWJGXzJfSng1WC10amRUVm5KNVB1SHVDOVZTZWczai0wUklGTmRScnRXUzJsanAzYm9XUnJVdVhUcE9Bc1Q1X0hXT1N2N0tXSkl0NU1aR2lNVGZsVGdPUERxcWtFLV8wb2RGaVMxUHJyM2FaVngzb3dNeUdOYnlOcWRfQ0p5c2daTE43TUVNMF9RVm5VOUZhbHBXUXdhS0dlbXZ3eTZFNHhMUU1B0gHnAUFVX3lxTE1SVC1qUWtjM3BaXzd6WmVLVm4zTENoTXo3RFFFVVhTa3RMd3I0RWJHOU5LUmVSRGpKQm1UcEdRNGVnaVFnQ1F2T1QzZzFtOVJNeDRvRk45bzFCUjZqTTJDS2lNcTl3RTRRTjhqb0kyZ3lhZFVPT2U3Z0swY1VNVEo4T21BUmx4b05abWJRUkNxbUNocThkTnRTRkh3X3A1TTI2d1g4RVE5QUdlWFg1M0FBandudmN1MFc1VkxoR0lRczd0YU41M0VLUFQ2LUFBZmQzd1Nha2ZRSlR2VWZWWkdlYURvTlp6MA?oc=5",
-          "publisher": "The Economic Times",
-          "published_at": "2026-11-19T00:24:06+05:00",
+          "id": "6c24ed65928bb5f8",
+          "title": "Indias GDP Growth To Slow To 7.2% In 2027, Goldman Sachs Sees Inflation At 5.7% And More RBI Rate Hikes",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQNEQwaWwxVG54cjVzS3Z4SVR2UGluZkdBZVBLVlUyR2dpTVhCRVNOVzVmaFdsZmlwM2QzR3J0TXBoUXV5ZWJad18yNlRReDVHQTJPdG1jRFhNMDl4MlpRTm9zWjYxdUNJWEs0ZXFKcHBBdWRUWjhJNVFtaWF6YkZWWEtnSWh2dnYxT1Rkem55SkFVeEFFQ05aWEZ1dUltamFWdlZTTDNJMWotbzNiVFdJN01oQUZHVEpGV3lkeDJNUUNoRnZBakdod09XNW5Ba3Zua1dBV3Zn0gHbAUFVX3lxTE1jTEIyWnFVWFhrdmdkdEFvZ1pWOWczTEI0UlQ0c01faG1YZ2V2anFoa2UtX1lUakw5aHNJU01SNHlBRDNfUnFQSjg0N1hNUzZIV2NBRlh2LUpzQklOcGp0OEhDV1M2d2x1ak5fbnN1UlFHU1cwcURUSDU2N1YwRjlxbFRzd290c0RjVXBaeFRUNTcyYV9qZWdMMkhXUHVsTVZtNmNjRUJNV25JcWotZm9IY2xUUy0telMtREV2R2MtanZIQ2RvcnU1WDF6UC1xdHBxRmhZNnpYWjJGbw?oc=5",
+          "publisher": "Free Press Journal",
+          "published_at": "2026-11-19T09:21:03+05:00",
           "topic": "economy"
         }
       ],
-      "fetched_at": "2026-11-19T09:14:41.939586+05:00"
+      "fetched_at": "2026-11-19T16:58:32.982215+05:00"
     },
     {
       "id": "business-2026-11-19",
@@ -174,19 +174,19 @@
       "context": "Company and industry developments can affect supply, stock availability and competition. Compare dated supplier offers before making a purchase decision.",
       "headlines": [
         {
+          "id": "d41157cb6ce7abd5",
+          "title": "GHNI Company Announcements - Ghandhara Industries Ltd",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5USWdZVlkyWHB5MmxGei1BVFlUWTNHMmpLSVkxV3h6N2RDWFg4LUE2VWUwSFZpY1diZ0J0MlRKOXNqTTRSaDRlTjU4WlVNcVB4cU0xa3pyMDE5dTRRQlNjUw?oc=5",
+          "publisher": "Investify",
+          "published_at": "2026-11-19T11:27:14+05:00",
+          "topic": "business"
+        },
+        {
           "id": "713870595a9980db",
           "title": "Pakistan’s CPEC Investment Potential at CIIE 2026",
           "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE80ZmRtWExsZjVqWl9OUWhRM3dfaXpUQmtxaDc4cE42WVN6c0RPaDU4OHRoVURDZGNrcG5UeW1zdEZwSExJQXhVVVp0Z1NGUEk5dURDbVhxZ3dYQTZJWWFSTzJISjZzVmVPd0hlN1FtY2FkTmoxLWRxNHJDcVlfeEk?oc=5",
           "publisher": "The Daily CPEC",
           "published_at": "2026-11-18T12:26:40+05:00",
-          "topic": "business"
-        },
-        {
-          "id": "5cf2f50fe7cbb198",
-          "title": "PIAHCLA Company Profile - PIA Holding Company Ltd",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8tNXBPX0ZSdTE5UUN2UFVBZzBFeTJxZnpjYXVFbGQybE5XTHA5N0tVZC14QU5YU0dyR2hlaVN4dzNpRnRKQ09PbGF5NEZ6RmQwSW4tYUpaYkRiamJF?oc=5",
-          "publisher": "Investify",
-          "published_at": "2026-11-17T20:06:19+05:00",
           "topic": "business"
         },
         {
@@ -198,19 +198,19 @@
           "topic": "business"
         },
         {
-          "id": "765d64405df01d50",
-          "title": "Pakistan, Finland Explore Investment Opportunities in Energy, Minerals and Infrastructure",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRUhoUmxtZ0ZFbnMxMzg3ZkJxdF94SUZyR2ZxZlZsWUhYblQ4UXdmbVJIdmU0S2hMUHBXa29TSzUxb056cWtwd3lDSXIxUnVVeGdBeHlNNnoySjRXYXJBMnNPbUF4Z2pRbEp2WHJHOWZOOUZWRUxEY2htTUtCNE5iYjNSWUhZWk1pU0otbmdYeVlCZU1Zbk5aS05ST3BXSG5DLXRyZk1yZVpaLTg0ZVYyYzVNQXF5X2w3aWoxRQ?oc=5",
-          "publisher": "Energy Update",
-          "published_at": "2026-11-17T12:06:11+05:00",
+          "id": "5cf2f50fe7cbb198",
+          "title": "PIAHCLA Company Profile - PIA Holding Company Ltd",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8tNXBPX0ZSdTE5UUN2UFVBZzBFeTJxZnpjYXVFbGQybE5XTHA5N0tVZC14QU5YU0dyR2hlaVN4dzNpRnRKQ09PbGF5NEZ6RmQwSW4tYUpaYkRiamJF?oc=5",
+          "publisher": "Investify",
+          "published_at": "2026-11-17T20:06:19+05:00",
           "topic": "business"
         },
         {
-          "id": "eb1fb802ab108651",
-          "title": "Saudi's Delta Energy To Explore $30B Gas Infrastructure Investment In Pakistan: Report",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQSG9LUEtVb1RsdjhBeUQ2Q3pPeVFHSzlRVHR0cURzVDJLeFg2Wm9ValVPQ0FiQl9hQnNVcTVpV0NFb1lBQUtJd0puUzBnc19PU1ZNLUVnS09FSVIyWThXcmZ1SlF1eXJ1VnNiWVNzVkpNdjViMllxX3FScU9ZSklnX2J0ZTlCQm5MbmNzeUp4LU9mSzQ3U0hBME9HQ3NtMkVJb1lkREM0WTFucmFGSndWd3FpdzFNeHBLRTNabmxxNmhZN2Yy?oc=5",
-          "publisher": "Forbes Middle East",
-          "published_at": "2026-11-17T18:05:54+05:00",
+          "id": "1d114568e242272d",
+          "title": "Pakistan’s banking sector hopeful of corporate bond market revival in 2027",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVTIyVXZDM0pJazhMYmxBazBNU2c5Z1VXTm5xLXp1RkJqUXlnRXhveGFiTno0MlVwTXh2Y1pJMmY1Sm04Rkx1N0FKSFRXUjRkR1Q3OXM5VU16Q2V3R05HR3UyX2dDMnRmMDFQRGlyNV85bF85ZEpjM0pJeFRzZF8xMjJCOVJlYTRlNFJvV1JzM0ZBb0N6TlVRcW4tRlBSWUlOSEF3a0N0S3JBNV9HdWwtVTVxY1k?oc=5",
+          "publisher": "Arab News PK",
+          "published_at": "2026-11-19T10:53:02+05:00",
           "topic": "business"
         },
         {
@@ -222,11 +222,11 @@
           "topic": "business"
         },
         {
-          "id": "22c9e45773c20945",
-          "title": "Pakistan, Turkmenistan agree to expand bilateral trade, investment, economic cooperation",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcWQyZkNLbkIwUVUyUEVsWTViWFhMOThUVk16ZFlyQTVVbHYxZVB4MEJmcHE2ejBBeW9jeG9yNllya3ZobVpFRllaeFV0SnhJc2ZaY1k4OVBfa2h2TndwdThBZkJJQVJXMzViMnowTE5vMU9oOElMWXhlQ19hWFBPWERXS1UwX0ZjZVdNeHQwQ1QtT3BJMXN6TnVKMFdqRURpN0s5OVhKNXhZMGh3MUNHbFNnLXdNbGxLZ0E?oc=5",
-          "publisher": "| Associated Press Of Pakistan",
-          "published_at": "2026-11-17T13:45:06+05:00",
+          "id": "2ff30e283ba0191e",
+          "title": "SIFC reports $20 billion China investment portfolio, $2.3 billion in Saudi-linked deals",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTl9vbTdJM3lXRk5lZFBfMHZCVjRqMTN4RG5JUWN5MXRSQklhZ0EtV2hjWmV3YkN0bjBac1VKNjI1TEpfenBvMEhSQWlWVnhGMzBIcFZKYjF1WnRyOWpvbXJpMG81SWwxazMwUFRmZ1FMbzRJaDFzc3NrZVdFa2dpTUYzcnY4WmxQMFJvczZ2Q05LeWFxTmJ1Y1lKWi1XZ05oYWpYU0hseG44d3NHMHViQ3QtaUgzd1lXWjBEQQ?oc=5",
+          "publisher": "Minute Mirror",
+          "published_at": "2026-11-18T15:31:26+05:00",
           "topic": "business"
         },
         {
@@ -238,7 +238,7 @@
           "topic": "business"
         }
       ],
-      "fetched_at": "2026-11-19T09:14:41.939586+05:00"
+      "fetched_at": "2026-11-19T16:58:32.982215+05:00"
     },
     {
       "id": "trade-2026-11-18",
