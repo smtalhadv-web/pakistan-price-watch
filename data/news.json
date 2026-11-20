@@ -1,10 +1,10 @@
 {
-  "checked_at": "2026-11-20T03:45:15.901863+05:00",
+  "checked_at": "2026-11-20T09:15:38.307523+05:00",
   "checks": [
     {
       "topic": "economy",
       "status": "updated",
-      "headlines": 8
+      "headlines": 7
     },
     {
       "topic": "business",
@@ -50,19 +50,19 @@
           "topic": "trade"
         },
         {
-          "id": "5d8173081cb2c4f7",
-          "title": "EU trade policy shifts toward managed import curbs on China",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZm1vZDdVSHdnRDFuOUxiY0dpQnpaNGlNaHo1OEQtSlA0SXMxMHF1b0Fxd1dCa3ZGcjBnYUNEcXdPR2hKcWVCV2pFcGRHZFpFQ3l1NjVUTktwOVJXWXJaSXVuckQzMVpkMjVIa0lubTR4dENuYjF4d05xNmM1N29Cek1hOHZSMWZDSHJrMHA2S0hobjF0MkRKSGpBZFo?oc=5",
-          "publisher": "Traders Union",
-          "published_at": "2026-11-19T17:44:23+05:00",
-          "topic": "trade"
-        },
-        {
           "id": "829726f8934bb434",
           "title": "Iran bans tomato, potato and onion exports: What does this mean for Tajikistan?",
           "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRTB6Ry1GUjlubExyS2lBM3VvUUdOalZNb0pGYm9hYnNndDg2VXV3aUlkdktGRjcxNFhjczFKR0JaRV9YemgydHVFc2JqakFGX1c0TkZSUUl3d1l5dUFoTjYxY1pXdHo5OWs2ZlBjYlI0OHFaT0VwOTlmaG16UGNCVVBYd25EVlZGd3BUa0ttemIybURjb2YwX0lmanM2dXc5VkxSSFU5dnBqZ0VMZTZJ?oc=5",
           "publisher": "Азия-Плюс",
           "published_at": "2026-11-19T13:57:31+05:00",
+          "topic": "trade"
+        },
+        {
+          "id": "5d8173081cb2c4f7",
+          "title": "EU trade policy shifts toward managed import curbs on China",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZm1vZDdVSHdnRDFuOUxiY0dpQnpaNGlNaHo1OEQtSlA0SXMxMHF1b0Fxd1dCa3ZGcjBnYUNEcXdPR2hKcWVCV2pFcGRHZFpFQ3l1NjVUTktwOVJXWXJaSXVuckQzMVpkMjVIa0lubTR4dENuYjF4d05xNmM1N29Cek1hOHZSMWZDSHJrMHA2S0hobjF0MkRKSGpBZFo?oc=5",
+          "publisher": "Traders Union",
+          "published_at": "2026-11-19T17:44:23+05:00",
           "topic": "trade"
         },
         {
@@ -74,23 +74,23 @@
           "topic": "trade"
         },
         {
-          "id": "2b4d7f3c636423e0",
-          "title": "Philippine pork import curb raises concern for Brazilian exporters",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObkZYSFpxckh4NHJ3N3VPdXNIVHhOakJyWXEzbDBia0U5TGxGUmFYbTFRMjAzeTRMa1BZLTd1Q1kweWNXNzZ0VFF5dWxRV2UzMXlRNk03ekxxOUEwNWFxMldxeGxsenJubEl6bEJOa0pXMVlNR2dpYjF1alMydjJYVmlKWERMal9BbXhpbGc4UjVnZVpWVlhJQU1kZm5QOFp4RnFCTkF5ZDI0QQ?oc=5",
-          "publisher": "The Pig Site",
-          "published_at": "2026-11-19T08:23:55+05:00",
-          "topic": "trade"
-        },
-        {
           "id": "29d70a5c885e25ea",
           "title": "FBR links customs valuation of imported sulphur to international Argus prices",
           "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNb1VWZF9Qa2h4a1lDcFJpOTJ6U1kzN1BoVXkzNUo3U1ItNElmRWtaeUFic1ZRc05OWExlQnFsTlJ0d1hGUkF0UmZPZXhXOWpWOVI0MUVVMTc1aXNJcTZQcTUyZjRBRlhsclZGNXdaRkJ2QXQ2d3BuOW9zVmJjVWJ6WUlNLWZ4WHVhdHU3VEpjaklfYUFERWVnTFE2a0Q3YnE4LW5lQmpadENpVzByMzd3V01NVTViQmF3LXNlTA?oc=5",
           "publisher": "Investify",
           "published_at": "2026-11-18T13:09:14+05:00",
           "topic": "trade"
+        },
+        {
+          "id": "2b4d7f3c636423e0",
+          "title": "Philippine pork import curb raises concern for Brazilian exporters",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObkZYSFpxckh4NHJ3N3VPdXNIVHhOakJyWXEzbDBia0U5TGxGUmFYbTFRMjAzeTRMa1BZLTd1Q1kweWNXNzZ0VFF5dWxRV2UzMXlRNk03ekxxOUEwNWFxMldxeGxsenJubEl6bEJOa0pXMVlNR2dpYjF1alMydjJYVmlKWERMal9BbXhpbGc4UjVnZVpWVlhJQU1kZm5QOFp4RnFCTkF5ZDI0QQ?oc=5",
+          "publisher": "The Pig Site",
+          "published_at": "2026-11-19T08:23:55+05:00",
+          "topic": "trade"
         }
       ],
-      "fetched_at": "2026-11-20T03:45:15.901863+05:00"
+      "fetched_at": "2026-11-20T09:15:38.307523+05:00"
     },
     {
       "id": "economy-2026-11-20",
@@ -140,14 +140,6 @@
           "topic": "economy"
         },
         {
-          "id": "6c24ed65928bb5f8",
-          "title": "Indias GDP Growth To Slow To 7.2% In 2027, Goldman Sachs Sees Inflation At 5.7% And More RBI Rate Hikes",
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQNEQwaWwxVG54cjVzS3Z4SVR2UGluZkdBZVBLVlUyR2dpTVhCRVNOVzVmaFdsZmlwM2QzR3J0TXBoUXV5ZWJad18yNlRReDVHQTJPdG1jRFhNMDl4MlpRTm9zWjYxdUNJWEs0ZXFKcHBBdWRUWjhJNVFtaWF6YkZWWEtnSWh2dnYxT1Rkem55SkFVeEFFQ05aWEZ1dUltamFWdlZTTDNJMWotbzNiVFdJN01oQUZHVEpGV3lkeDJNUUNoRnZBakdod09XNW5Ba3Zua1dBV3Zn0gHbAUFVX3lxTE1jTEIyWnFVWFhrdmdkdEFvZ1pWOWczTEI0UlQ0c01faG1YZ2V2anFoa2UtX1lUakw5aHNJU01SNHlBRDNfUnFQSjg0N1hNUzZIV2NBRlh2LUpzQklOcGp0OEhDV1M2d2x1ak5fbnN1UlFHU1cwcURUSDU2N1YwRjlxbFRzd290c0RjVXBaeFRUNTcyYV9qZWdMMkhXUHVsTVZtNmNjRUJNV25JcWotZm9IY2xUUy0telMtREV2R2MtanZIQ2RvcnU1WDF6UC1xdHBxRmhZNnpYWjJGbw?oc=5",
-          "publisher": "Free Press Journal",
-          "published_at": "2026-11-19T09:21:03+05:00",
-          "topic": "economy"
-        },
-        {
           "id": "997b433650d6b859",
           "title": "India may have to manage rupee strength, not weakness, in FY28: CEA V Anantha Nageswaran",
           "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOaV9kWk9XYWYzWTExbWxWYlNFS0xvX0xyVTkySDZPODFQU1BrajdnanZ3cWlwSTFXa0xQN21RN1A0OFdfVE9aSVpoOWVRZ1c4YlY4OGNxby12S3NMZXo2dFlXSEVYQnJqcmQxQnBVX0VxZnFRUExmdXFMLXZMdDNGa1lqMDhfQmw0MHU4MEM1NjR3M3RUQi1RNHdmXzR5ZGt5Z2NUZkpaaDdqRkh5TEFZSDFmdEN5dDJSUHhfenIyNERNdTN6UnVocDU2YUtkZ2dvLVNVQ2ktZ3NiRV9ySDhsbnp3ZEjSAeoBQVVfeXFMTzAwOENybS0waHZVRU9VSnhiZi1uNUdobHhKZHBVMjZiOE54eFRPamhrMXN5WWdKMFVzZ0s5ZU9TbndXWElYRjFGRk9hdmpvZkgzeXZwYmozRGlnS3k5TlB4VGY4YUVMUWhVZWRlT3BfMTN0U1hTTmFib2I1ZTFRZnUteHZtemcxTEFFS1dYWEhoOVk2QzVETzRyRElzQ1JNYjJ4a0wwREtJNmdvN0xqQXQxc2F6ODNpc0JDVFFwc2h6LWJyZWJwZDFPQXBqYU52MGJQQW02S3R1VWRHRVF3alR0eUk1Nzc1XzR3?oc=5",
@@ -156,15 +148,15 @@
           "topic": "economy"
         },
         {
-          "id": "2b258d58160d71f0",
-          "title": "Indian economy may get windfall gain in FY28 on lower crude prices: CEA",
-          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPRU5uMG5PbE1rNXNYYkhPV1hGWC1XTWZUSE54RE80QUVlRmNxa2tJdXllVkp1RkNfelFFVGpRbWJGXzJfSng1WC10amRUVm5KNVB1SHVDOVZTZWczai0wUklGTmRScnRXUzJsanAzYm9XUnJVdVhUcE9Bc1Q1X0hXT1N2N0tXSkl0NU1aR2lNVGZsVGdPUERxcWtFLV8wb2RGaVMxUHJyM2FaVngzb3dNeUdOYnlOcWRfQ0p5c2daTE43TUVNMF9RVm5VOUZhbHBXUXdhS0dlbXZ3eTZFNHhMUU1B0gHnAUFVX3lxTE1SVC1qUWtjM3BaXzd6WmVLVm4zTENoTXo3RFFFVVhTa3RMd3I0RWJHOU5LUmVSRGpKQm1UcEdRNGVnaVFnQ1F2T1QzZzFtOVJNeDRvRk45bzFCUjZqTTJDS2lNcTl3RTRRTjhqb0kyZ3lhZFVPT2U3Z0swY1VNVEo4T21BUmx4b05abWJRUkNxbUNocThkTnRTRkh3X3A1TTI2d1g4RVE5QUdlWFg1M0FBandudmN1MFc1VkxoR0lRczd0YU41M0VLUFQ2LUFBZmQzd1Nha2ZRSlR2VWZWWkdlYURvTlp6MA?oc=5",
-          "publisher": "The Economic Times",
-          "published_at": "2026-11-19T00:24:06+05:00",
+          "id": "6c24ed65928bb5f8",
+          "title": "Indias GDP Growth To Slow To 7.2% In 2027, Goldman Sachs Sees Inflation At 5.7% And More RBI Rate Hikes",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQNEQwaWwxVG54cjVzS3Z4SVR2UGluZkdBZVBLVlUyR2dpTVhCRVNOVzVmaFdsZmlwM2QzR3J0TXBoUXV5ZWJad18yNlRReDVHQTJPdG1jRFhNMDl4MlpRTm9zWjYxdUNJWEs0ZXFKcHBBdWRUWjhJNVFtaWF6YkZWWEtnSWh2dnYxT1Rkem55SkFVeEFFQ05aWEZ1dUltamFWdlZTTDNJMWotbzNiVFdJN01oQUZHVEpGV3lkeDJNUUNoRnZBakdod09XNW5Ba3Zua1dBV3Zn0gHbAUFVX3lxTE1jTEIyWnFVWFhrdmdkdEFvZ1pWOWczTEI0UlQ0c01faG1YZ2V2anFoa2UtX1lUakw5aHNJU01SNHlBRDNfUnFQSjg0N1hNUzZIV2NBRlh2LUpzQklOcGp0OEhDV1M2d2x1ak5fbnN1UlFHU1cwcURUSDU2N1YwRjlxbFRzd290c0RjVXBaeFRUNTcyYV9qZWdMMkhXUHVsTVZtNmNjRUJNV25JcWotZm9IY2xUUy0telMtREV2R2MtanZIQ2RvcnU1WDF6UC1xdHBxRmhZNnpYWjJGbw?oc=5",
+          "publisher": "Free Press Journal",
+          "published_at": "2026-11-19T09:21:03+05:00",
           "topic": "economy"
         }
       ],
-      "fetched_at": "2026-11-20T03:45:15.901863+05:00"
+      "fetched_at": "2026-11-20T09:15:38.307523+05:00"
     },
     {
       "id": "business-2026-11-20",
@@ -198,6 +190,14 @@
           "topic": "business"
         },
         {
+          "id": "2bf341198fc8e617",
+          "title": "PM vows export-led economic growth",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBIaVhrUmNYZEZYbl9jYmd1bTFFRG9mVmFpUFBpcTNmNHJHWnd3bm4tMUxaM0taM19lWGtUVUlRWmFKdzk1NHFKVWhNa1hHV2N4enM1dmdrUEFvV2QxVTE1Y1JyUHZidDA1WlBiamgyUnJ5Z3JFajNn?oc=5",
+          "publisher": "Dawn",
+          "published_at": "2026-11-20T06:50:12+05:00",
+          "topic": "business"
+        },
+        {
           "id": "1d114568e242272d",
           "title": "Pakistan’s banking sector hopeful of corporate bond market revival in 2027",
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVTIyVXZDM0pJazhMYmxBazBNU2c5Z1VXTm5xLXp1RkJqUXlnRXhveGFiTno0MlVwTXh2Y1pJMmY1Sm04Rkx1N0FKSFRXUjRkR1Q3OXM5VU16Q2V3R05HR3UyX2dDMnRmMDFQRGlyNV85bF85ZEpjM0pJeFRzZF8xMjJCOVJlYTRlNFJvV1JzM0ZBb0N6TlVRcW4tRlBSWUlOSEF3a0N0S3JBNV9HdWwtVTVxY1k?oc=5",
@@ -222,23 +222,15 @@
           "topic": "business"
         },
         {
-          "id": "a603967ddd4408fe",
-          "title": "Saudi firm eyes $30 billion energy investment in Pakistan",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORlJIbmpmc3ZQMkdsZFhkSWlKWWpVakg2ajdWVWh3VktOWVJsajRhNWQ4U2FHY0xuODlTam1LSTFPVWRuc0Nfa0FtOWVIRVQtQlFfSXZvWlFMeGxXZkhKWWF3RkZkSzBGTWxkNGROVm9qYjE4MUZfTTdzdWxvU0tHR2tLcWdkWWVWa3lTNUtiVVBMdkdpa2NF?oc=5",
-          "publisher": "Minute Mirror",
-          "published_at": "2026-11-18T11:42:31+05:00",
-          "topic": "business"
-        },
-        {
-          "id": "28a4a6e8bfd793ff",
-          "title": "MUGHAL Company Profile - Mughal Iron and Steel Industries Ltd",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE84dS1tWW9PV3ktZ3JSZWFEYmdhWUI4ZjRJLS1Ld25mS2NCYWJCTE8xR3NwaDBoaWhjOHJlbDZYV29lWFFwTHl5MFpnTU12cWExS01fNWZzVXJkdG8?oc=5",
+          "id": "63c4090139c10a55",
+          "title": "AGHA Stock Discussion and Investor Sentiment - Agha Steel Industries Ltd",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1UX2ZPRzNlWG41djJadGYwekg5d1ZKQnpfVWtMZmZOcUUwdmRXVzFHU3lDZHhBbFUxeEM1eFlFbDhsN3ZaelBJN3BhalBIV1kxVGVMdWlNcjlaYzct?oc=5",
           "publisher": "Investify",
-          "published_at": "2026-11-18T04:57:48+05:00",
+          "published_at": "2026-11-18T12:39:51+05:00",
           "topic": "business"
         }
       ],
-      "fetched_at": "2026-11-20T03:45:15.901863+05:00"
+      "fetched_at": "2026-11-20T09:15:38.307523+05:00"
     },
     {
       "id": "trade-2026-11-19",

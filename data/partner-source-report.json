@@ -1,6 +1,6 @@
 {
-  "checked_at": "2026-11-20T03:45:09.804876+05:00",
-  "quotes": 13030,
+  "checked_at": "2026-11-20T09:15:30.579274+05:00",
+  "quotes": 13044,
   "checks": [
     {
       "store": "Chase Value",
@@ -30,7 +30,7 @@
       "store": "Naheed",
       "url": "https://www.naheed.pk/groceries-pets/dairy/milk-dairy-drinks",
       "status": "parsed",
-      "offers": 31
+      "offers": 32
     },
     {
       "store": "Naheed",
@@ -60,7 +60,7 @@
       "store": "Metro",
       "url": "https://metro-online.pk/",
       "status": "parsed",
-      "offers": 205
+      "offers": 212
     },
     {
       "store": "Foodpanda / Kifayah",
@@ -72,19 +72,19 @@
       "store": "OLX",
       "url": "https://www.olx.com.pk/items/q-iphone-15",
       "status": "fetch failed; dated offers retained",
-      "error": "HTTP Error 403: Forbidden"
+      "error": "HTTP Error 401: Unauthorized"
     },
     {
       "store": "OLX",
       "url": "https://www.olx.com.pk/items/q-laptop",
       "status": "fetch failed; dated offers retained",
-      "error": "HTTP Error 403: Forbidden"
+      "error": "HTTP Error 401: Unauthorized"
     },
     {
       "store": "OLX",
       "url": "https://www.olx.com.pk/items/q-sofa",
       "status": "fetch failed; dated offers retained",
-      "error": "HTTP Error 403: Forbidden"
+      "error": "HTTP Error 401: Unauthorized"
     }
   ]
 }
