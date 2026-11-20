@@ -10,31 +10,31 @@
     ],
     [
       "gold",
-      114296
+      114381
     ],
     [
       "silver",
-      106101
+      105837
     ],
     [
       "pso-history",
-      230525
+      230522
     ],
     [
       "samsung",
-      664018
+      666198
     ],
     [
       "xiaomi",
-      564584
+      564586
     ],
     [
       "vivo",
-      480167
+      480170
     ],
     [
       "oppo",
-      495675
+      495672
     ],
     [
       "realme",
@@ -46,18 +46,18 @@
     ],
     [
       "tecno",
-      484949
+      486152
     ],
     [
       "appliances",
-      987803
+      951509
     ],
     [
       "pbs",
-      344443
+      344844
     ]
   ],
-  "checked_at": "2026-11-20T04:15:20.439815+00:00",
+  "checked_at": "2026-11-20T11:59:05.652579+00:00",
   "sources": [
     {
       "source": "PSO dated fuel archive",
@@ -79,7 +79,7 @@
     {
       "source": "PriceOye published listings",
       "status": "parsed",
-      "observed_records": 134,
+      "observed_records": 138,
       "new_records": 0
     },
     {
@@ -115,7 +115,7 @@
       "new_records": 0
     }
   ],
-  "quotes": 5942,
+  "quotes": 5943,
   "manual_queue": [
     "Verify new image rates before transcribing; source sheets refresh automatically",
     "Unsupported sources retain their dated quotes"
