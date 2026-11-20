@@ -1,18 +1,18 @@
 {
-  "checked_at": "2026-11-20T16:59:17.419413+05:00",
-  "quotes": 13052,
+  "checked_at": "2026-11-20T21:13:59.014849+05:00",
+  "quotes": 13775,
   "checks": [
     {
       "store": "Chase Value",
       "url": "https://chasevalue.pk/products.json?limit=100&page=1",
       "status": "parsed",
-      "offers": 676
+      "offers": 1104
     },
     {
       "store": "Chase Value",
       "url": "https://chasevalue.pk/products.json?limit=100&page=2",
       "status": "parsed",
-      "offers": 707
+      "offers": 671
     },
     {
       "store": "Naheed",
@@ -54,13 +54,13 @@
       "store": "Paklap",
       "url": "https://www.paklap.pk/daily-deals.html",
       "status": "parsed",
-      "offers": 5
+      "offers": 6
     },
     {
       "store": "Metro",
       "url": "https://metro-online.pk/",
       "status": "parsed",
-      "offers": 205
+      "offers": 207
     },
     {
       "store": "Foodpanda / Kifayah",

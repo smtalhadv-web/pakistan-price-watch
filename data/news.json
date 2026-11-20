@@ -1,15 +1,15 @@
 {
-  "checked_at": "2026-11-20T16:59:25.216650+05:00",
+  "checked_at": "2026-11-20T21:14:07.489056+05:00",
   "checks": [
-    {
-      "topic": "economy",
-      "status": "updated",
-      "headlines": 5
-    },
     {
       "topic": "business",
       "status": "updated",
       "headlines": 8
+    },
+    {
+      "topic": "economy",
+      "status": "updated",
+      "headlines": 5
     },
     {
       "topic": "trade",
@@ -50,19 +50,19 @@
           "topic": "trade"
         },
         {
-          "id": "829726f8934bb434",
-          "title": "Iran bans tomato, potato and onion exports: What does this mean for Tajikistan?",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRTB6Ry1GUjlubExyS2lBM3VvUUdOalZNb0pGYm9hYnNndDg2VXV3aUlkdktGRjcxNFhjczFKR0JaRV9YemgydHVFc2JqakFGX1c0TkZSUUl3d1l5dUFoTjYxY1pXdHo5OWs2ZlBjYlI0OHFaT0VwOTlmaG16UGNCVVBYd25EVlZGd3BUa0ttemIybURjb2YwX0lmanM2dXc5VkxSSFU5dnBqZ0VMZTZJ?oc=5",
-          "publisher": "Азия-Плюс",
-          "published_at": "2026-11-19T13:57:31+05:00",
+          "id": "047ab41492056d63",
+          "title": "Philippines Resumes Rice Imports from Vietnam, Thailand and Myanmar — CMB News",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMUgzYzhFZ3JFUEhrczZVd1hDcWp1RVFybC1nb3R6SnphTXA5ZDhOVEZWODBHdHhhcDFtY19JUWU5N09Ra09fNmhfQzVrTTBjMkZuX24tUk1XYlppaHhRU3o1YzEyTWRjSjJXSGtKVjBHdFdzeThnWDlRQ3FPaUpoc3F0ZVhpeVJLR1RyWE5mM21KSno0Rlpr?oc=5",
+          "publisher": "CMB News",
+          "published_at": "2026-11-20T17:12:47+05:00",
           "topic": "trade"
         },
         {
-          "id": "5d8173081cb2c4f7",
-          "title": "EU trade policy shifts toward managed import curbs on China",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZm1vZDdVSHdnRDFuOUxiY0dpQnpaNGlNaHo1OEQtSlA0SXMxMHF1b0Fxd1dCa3ZGcjBnYUNEcXdPR2hKcWVCV2pFcGRHZFpFQ3l1NjVUTktwOVJXWXJaSXVuckQzMVpkMjVIa0lubTR4dENuYjF4d05xNmM1N29Cek1hOHZSMWZDSHJrMHA2S0hobjF0MkRKSGpBZFo?oc=5",
+          "id": "eb38336115801493",
+          "title": "Scott Lincicome: U.S. export and import records both follow pre-Trump trends",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcGpLdVZUVnFOdnJwb2p6ZkJmYlpXdlJhdkdibFRUdXdfWWxGNVJnZmp6dU5UZGl6YjlVN0NBdHBCTGdNRExSeDNKSmRCb0JUNjVEX3hDMlB0VFF5WHd5a0dIWFBYLWJjQkhnZ2dqTllaREk5ZWpFLU1Id29DR054LUtFNmZuNllkV0pJVElVbXQwaUU?oc=5",
           "publisher": "Traders Union",
-          "published_at": "2026-11-19T17:44:23+05:00",
+          "published_at": "2026-11-20T19:50:39+05:00",
           "topic": "trade"
         },
         {
@@ -74,23 +74,23 @@
           "topic": "trade"
         },
         {
+          "id": "5d8173081cb2c4f7",
+          "title": "EU trade policy shifts toward managed import curbs on China",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZm1vZDdVSHdnRDFuOUxiY0dpQnpaNGlNaHo1OEQtSlA0SXMxMHF1b0Fxd1dCa3ZGcjBnYUNEcXdPR2hKcWVCV2pFcGRHZFpFQ3l1NjVUTktwOVJXWXJaSXVuckQzMVpkMjVIa0lubTR4dENuYjF4d05xNmM1N29Cek1hOHZSMWZDSHJrMHA2S0hobjF0MkRKSGpBZFo?oc=5",
+          "publisher": "Traders Union",
+          "published_at": "2026-11-19T17:44:23+05:00",
+          "topic": "trade"
+        },
+        {
           "id": "26a88b6f38314742",
           "title": "China's Next Growth Opportunity Is India? What the Evidence Allows",
           "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQ1doQ0RUQll1THBudkVvRW9TMnc3Qm1WQW9GOUpJUk1DRXRFc0dab1NJZWNjZEZySkdZbUdPZTdhMmQzWEFVc3ZpRHFZcHlNMkF6NUpZajlEZFA2WWQwRDdyNmt3MDRwR0RxT3M5RTFRNTE5a1NnTGlCVExsV0ROYjdKNnI?oc=5",
           "publisher": "IndraStra Global",
           "published_at": "2026-11-20T13:38:00+05:00",
           "topic": "trade"
-        },
-        {
-          "id": "3dd9e2b0e009c13e",
-          "title": "India imposes 162.5% duty and tax on bulk Scotch imports amid UK trade pact dispute",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPUEJfWEx2Qmk3dUUyaTVNZnJ3X2xLOU82LVJ5Y05xLU52NW1TM0xFUlMwMmRiQTVjaURxYWNYYlF5b2J5YjVlWUo2MFVSMU40VnNrZDQzS3dxS0tGRlkwX20xODVhSXd0Y2YzNzZoTUtYSzhWTjI0SVl4enNGd094aTIzYldfbHFid0YwWTJOa2pvQnFfVXVxb2VpdVNaclg4OXk1aXRldXl0NDgyY1I0cHBWWFBiaU1RTENqMjBlMURDQldtQTZJY2dLZWQtOWhY0gHXAUFVX3lxTE85aUlLLWx4dG5GdjBJWklIYk1JZl9KREVHZEFNaFdjaDVBWV9KNjJ1bGdPM1h4RG5tNGlheks4UlZFWEZFd0ppdTFEQ0kzNXlENlBvVklGNDJpYUhDTzZVVVVVQ2F3WVZLZ05sNmdNNFdkZ2R5RW15V0N1c0x4bGJaX2wyYk5KTENWZDRqTER1VTFMNnYxWHBObFFTeFFHUlFlRnhDTWszYlpVVmYtdlhfWUVwR0tiR1RCcXdnMHdkbzVSdkdSTFdOU0gtbHAzOG14ejY4dWVz?oc=5",
-          "publisher": "The Hindu",
-          "published_at": "2026-11-18T22:16:22+05:00",
-          "topic": "trade"
         }
       ],
-      "fetched_at": "2026-11-20T16:59:25.216650+05:00"
+      "fetched_at": "2026-11-20T21:14:07.489056+05:00"
     },
     {
       "id": "economy-2026-11-20",
@@ -124,11 +124,11 @@
           "topic": "economy"
         },
         {
-          "id": "997b433650d6b859",
-          "title": "India may have to manage rupee strength, not weakness, in FY28: CEA V Anantha Nageswaran",
-          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOaV9kWk9XYWYzWTExbWxWYlNFS0xvX0xyVTkySDZPODFQU1BrajdnanZ3cWlwSTFXa0xQN21RN1A0OFdfVE9aSVpoOWVRZ1c4YlY4OGNxby12S3NMZXo2dFlXSEVYQnJqcmQxQnBVX0VxZnFRUExmdXFMLXZMdDNGa1lqMDhfQmw0MHU4MEM1NjR3M3RUQi1RNHdmXzR5ZGt5Z2NUZkpaaDdqRkh5TEFZSDFmdEN5dDJSUHhfenIyNERNdTN6UnVocDU2YUtkZ2dvLVNVQ2ktZ3NiRV9ySDhsbnp3ZEjSAeoBQVVfeXFMTzAwOENybS0waHZVRU9VSnhiZi1uNUdobHhKZHBVMjZiOE54eFRPamhrMXN5WWdKMFVzZ0s5ZU9TbndXWElYRjFGRk9hdmpvZkgzeXZwYmozRGlnS3k5TlB4VGY4YUVMUWhVZWRlT3BfMTN0U1hTTmFib2I1ZTFRZnUteHZtemcxTEFFS1dYWEhoOVk2QzVETzRyRElzQ1JNYjJ4a0wwREtJNmdvN0xqQXQxc2F6ODNpc0JDVFFwc2h6LWJyZWJwZDFPQXBqYU52MGJQQW02S3R1VWRHRVF3alR0eUk1Nzc1XzR3?oc=5",
-          "publisher": "The Economic Times",
-          "published_at": "2026-11-18T20:56:18+05:00",
+          "id": "6c24ed65928bb5f8",
+          "title": "Indias GDP Growth To Slow To 7.2% In 2027, Goldman Sachs Sees Inflation At 5.7% And More RBI Rate Hikes",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQNEQwaWwxVG54cjVzS3Z4SVR2UGluZkdBZVBLVlUyR2dpTVhCRVNOVzVmaFdsZmlwM2QzR3J0TXBoUXV5ZWJad18yNlRReDVHQTJPdG1jRFhNMDl4MlpRTm9zWjYxdUNJWEs0ZXFKcHBBdWRUWjhJNVFtaWF6YkZWWEtnSWh2dnYxT1Rkem55SkFVeEFFQ05aWEZ1dUltamFWdlZTTDNJMWotbzNiVFdJN01oQUZHVEpGV3lkeDJNUUNoRnZBakdod09XNW5Ba3Zua1dBV3Zn0gHbAUFVX3lxTE1jTEIyWnFVWFhrdmdkdEFvZ1pWOWczTEI0UlQ0c01faG1YZ2V2anFoa2UtX1lUakw5aHNJU01SNHlBRDNfUnFQSjg0N1hNUzZIV2NBRlh2LUpzQklOcGp0OEhDV1M2d2x1ak5fbnN1UlFHU1cwcURUSDU2N1YwRjlxbFRzd290c0RjVXBaeFRUNTcyYV9qZWdMMkhXUHVsTVZtNmNjRUJNV25JcWotZm9IY2xUUy0telMtREV2R2MtanZIQ2RvcnU1WDF6UC1xdHBxRmhZNnpYWjJGbw?oc=5",
+          "publisher": "Free Press Journal",
+          "published_at": "2026-11-19T09:21:03+05:00",
           "topic": "economy"
         },
         {
@@ -140,7 +140,7 @@
           "topic": "economy"
         }
       ],
-      "fetched_at": "2026-11-20T16:59:25.216650+05:00"
+      "fetched_at": "2026-11-20T21:14:07.489056+05:00"
     },
     {
       "id": "business-2026-11-20",
@@ -158,19 +158,19 @@
           "topic": "business"
         },
         {
-          "id": "d20300d71eaf6c3b",
-          "title": "Pakistan Seeks Singapore Fintech Support for SMEs",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPcERKbXBQMHB0aGZsczJpSUhxdWRfbi1GRzJUT2kzdkNpUXpRdTVVWFBIZm52YTVOLWNpUnVKRC1DX1hMV2E2eXVMNUliSTRhWEQ5V2lkdXZoXzEwZXlXQS1GeHRIR2JYc0owRkQtSFNsZ3hFb3pwZG40NW5wbWVCOEhfUQ?oc=5",
-          "publisher": "Digital Pakistan",
-          "published_at": "2026-11-20T13:00:41+05:00",
-          "topic": "business"
-        },
-        {
           "id": "cd5642f16e0b2fcc",
           "title": "Anas Ammar To Join Forbes Middle East’s Building The Future Summit In Egypt",
           "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPLVZwM0Q3THFKOTFORjd5dFFvVXFUb0VIbVJORUdIY05FTUo1ODRIRnA4bmVlX0NkcW5adXNxWmNwSGdHTGhQTDJTbHpCSW9Qb1BCbHN1NHlObkhobF82LTF4elRmSjlZNjlOQkVVS1hWZzNHQmZZcVRGZkI3LUcyN29qdmdNQTJJT0s4ZlpSVGd3TkZ5MnlNSWNDd0ZVUERPbnJSUlhubElKUUIwbjlkSjU1V01FZEttaHk3STBYbw?oc=5",
           "publisher": "Forbes Middle East",
           "published_at": "2026-11-19T21:57:20+05:00",
+          "topic": "business"
+        },
+        {
+          "id": "1dc9b74e19e8c0ae",
+          "title": "Pakistan Stock Exchange, UNICEF, and Pakistan Business Council Ring the Bell for Children on World Children’s Day",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNdFlNMEdoOUZQOHlPbHl3S0Nrb3hRYXZqNEZNM2hZMmFoT28yUlZ4dnE4QzZUQUJZdFdNcUpvQ3BEb0MxNDRkN0YtQ2RaRGtQLU5CUWJiOGtaU2ZVRUdYLWRROHlhN2ZqS1hNQVJSTlBudVdST2hmRjkwNGVfMHhsMkwtdDRGUFBPRVMxRWx6ZDYxSTlITmxmeGVtdjd4TU5Vd2pfSmotTC1pYkd3b0l2czhsdkNjUG9mdzdmb0szNTZ3NTNC?oc=5",
+          "publisher": "Unicef",
+          "published_at": "2026-11-20T13:11:05+05:00",
           "topic": "business"
         },
         {
@@ -206,15 +206,15 @@
           "topic": "business"
         },
         {
-          "id": "dee0f213bbbc707b",
-          "title": "SRVI Company Announcements - Service Industries Ltd",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9NNERDMjlwUWMtN1phSjVsdUp6UmhTRnFhVVd2NWdhUGdMTFNyN1FRX01UOGo2bXIydjdSUDVmMTRITEJyeFlpcGFsdnNJS3huWFJvUHJRQjJLS0RGT0hENg?oc=5",
+          "id": "d41157cb6ce7abd5",
+          "title": "GHNI Company Announcements - Ghandhara Industries Ltd",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5USWdZVlkyWHB5MmxGei1BVFlUWTNHMmpLSVkxV3h6N2RDWFg4LUE2VWUwSFZpY1diZ0J0MlRKOXNqTTRSaDRlTjU4WlVNcVB4cU0xa3pyMDE5dTRRQlNjUw?oc=5",
           "publisher": "Investify",
-          "published_at": "2026-11-19T21:06:41+05:00",
+          "published_at": "2026-11-19T11:27:14+05:00",
           "topic": "business"
         }
       ],
-      "fetched_at": "2026-11-20T16:59:25.216650+05:00"
+      "fetched_at": "2026-11-20T21:14:07.489056+05:00"
     },
     {
       "id": "trade-2026-11-19",
