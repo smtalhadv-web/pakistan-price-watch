@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-20T16:14:05.503343+00:00",
+  "checked_at": "2026-11-20T22:17:26.921577+00:00",
   "checks": [
     {
       "store": "Al-Fatah",
@@ -11,9 +11,9 @@
     {
       "store": "Shophive",
       "url": "https://www.shophive.com/mobile-phones",
-      "quotes": 12,
-      "status": "updated",
-      "error": null
+      "quotes": 0,
+      "status": "failed; previous dated quotes retained",
+      "error": "HTTP Error 502: Bad Gateway"
     },
     {
       "store": "Mega.pk",
