@@ -1,19 +1,19 @@
 {
-  "checked_at": "2026-11-21T04:12:28.989767+00:00",
+  "checked_at": "2026-11-21T11:33:17.079408+00:00",
   "checks": [
     {
       "store": "Al-Fatah",
       "url": "https://alfatah.pk/products.json?limit=100",
-      "quotes": 245,
+      "quotes": 197,
       "status": "updated",
       "error": null
     },
     {
       "store": "Shophive",
       "url": "https://www.shophive.com/mobile-phones",
-      "quotes": 0,
-      "status": "failed; previous dated quotes retained",
-      "error": "HTTP Error 502: Bad Gateway"
+      "quotes": 12,
+      "status": "updated",
+      "error": null
     },
     {
       "store": "Mega.pk",

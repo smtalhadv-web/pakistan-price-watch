@@ -1,18 +1,18 @@
 {
-  "checked_at": "2026-11-21T09:12:30.640313+05:00",
+  "checked_at": "2026-11-21T16:33:18.919743+05:00",
   "checks": [
     {
       "topic": "economy",
       "status": "updated",
-      "headlines": 4
+      "headlines": 3
     },
     {
-      "topic": "business",
+      "topic": "trade",
       "status": "updated",
       "headlines": 8
     },
     {
-      "topic": "trade",
+      "topic": "business",
       "status": "updated",
       "headlines": 8
     }
@@ -25,14 +25,6 @@
       "title": "Trade news briefing · 2026-11-21",
       "context": "Trade and customs developments can affect landed costs and delivery times. Check the original notification, effective date and product classification before applying a reported change to an item.",
       "headlines": [
-        {
-          "id": "24de12b653389afa",
-          "title": "Breakup of Pakistan’s trade data in October: PBS",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQb2Eyb1RCeDJBSzhhc3JHWWJ0TGxwTy1kRDFsX1I2VnA1dC04bVJpOE1Zb0N0NjFzUFoyQXg4czZjQ0E0eU5kN2hTMlFPSW9aT1k5elFBckhrU1UxQTd0YkZBTmhFZ0FHcjBNcFNVckxIY1FTWU85Nm9IdFctMkctbC0zVVp1QUM0eGVFUHgyMWtWekZI?oc=5",
-          "publisher": "Investify",
-          "published_at": "2026-11-21T07:24:04+05:00",
-          "topic": "trade"
-        },
         {
           "id": "b34ccd1c718602c3",
           "title": "Iran, Pakistan Look Beyond $6 Billion Trade Base as Free-Trade Deal Nears Finish Line",
@@ -50,11 +42,43 @@
           "topic": "trade"
         },
         {
+          "id": "1f9cb50165a9cb0c",
+          "title": "FCC sets aside high court rulings upholding infrastructure cess in Sindh, KP",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5adllEazFhLVFvbXA5ZS1kV1ozdTJmajdKQ3VhUGJfcGdSaW9xbUc0bDBUUDkyLWwyMVNFR1k0RzdYcXQ3c2J5ZA?oc=5",
+          "publisher": "Dawn",
+          "published_at": "2026-11-19T19:43:43+05:00",
+          "topic": "trade"
+        },
+        {
+          "id": "95ddb5e4095d5e1b",
+          "title": "Breakup of Pakistan’s trade data in October: PBS",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNHQxbWFFYUZ1eTVraTlxNjVrMlJtZ29xOVNxb05oQnh5WkpGTEJmYmJ5bDhQY0p3dnJoMm90TzFNZFNDbGNmRkVzQVRibXh6MUZPa2dWaEdhTEhYNGRUdUtHQkwxWHprOEJNYXhkUEJrbHVlYjU1aThhMlJIeVJVM0tVZ1Q?oc=5",
+          "publisher": "Mettis Global",
+          "published_at": "2026-11-21T01:19:00+05:00",
+          "topic": "trade"
+        },
+        {
           "id": "6e6a9068182bda02",
           "title": "Sri Lanka urges Pakistan to boost exports under Free Trade Agreement",
           "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVWVTd29zbHMxcnVvcTlkQTBtc2ZCcGZUT1piZXQ4ZG96TldNZWJCd1ZoSzJoRWduR2lta1JMUTJSN1BPTlVOdGcxR1BXbGJ6LVR6Y29YLWNmRks5UUpYNE5La0h3Z3BPX3dnRllDUlhlM21VbWtGdmpKZXlXREFYazMzZWwtRWVmVWFqZmZxV3I1b3JwTm5fVUs5WGRmeTFhWGExWWNKVTJNQVV6ZkFOaA?oc=5",
           "publisher": "Investify",
           "published_at": "2026-11-20T20:30:37+05:00",
+          "topic": "trade"
+        },
+        {
+          "id": "74f4d562d12583f3",
+          "title": "Sri Lanka Offers Greater Access to Pakistani Exports in $19bn Market",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbXZDNzdGUk1TY1VXbnZhZDV4dUhCWkxJOXdWdWNSU2g2emtpVGdQVDhqaFpFakV2STZmWEEtM3lfOHc1M0c0REJVVmthVkNma2RfaWkyVDFENjROd2xCbkk5WmhXMGNuWVNtUlRCMlJxU1N0SGZEVG9Qc2lPT0J2ZTR6dzRsSTMteDNGVUUtRktMRURBTU4walpRMHJORkdIWmxDdGp3?oc=5",
+          "publisher": "sabahnews.net",
+          "published_at": "2026-11-20T18:49:30+05:00",
+          "topic": "trade"
+        },
+        {
+          "id": "24de12b653389afa",
+          "title": "Breakup of Pakistan’s trade data in October: PBS",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQb2Eyb1RCeDJBSzhhc3JHWWJ0TGxwTy1kRDFsX1I2VnA1dC04bVJpOE1Zb0N0NjFzUFoyQXg4czZjQ0E0eU5kN2hTMlFPSW9aT1k5elFBckhrU1UxQTd0YkZBTmhFZ0FHcjBNcFNVckxIY1FTWU85Nm9IdFctMkctbC0zVVp1QUM0eGVFUHgyMWtWekZI?oc=5",
+          "publisher": "Investify",
+          "published_at": "2026-11-21T07:24:04+05:00",
           "topic": "trade"
         },
         {
@@ -64,33 +88,9 @@
           "publisher": "Minute Mirror",
           "published_at": "2026-11-20T15:04:13+05:00",
           "topic": "trade"
-        },
-        {
-          "id": "047ab41492056d63",
-          "title": "Philippines Resumes Rice Imports from Vietnam, Thailand and Myanmar — CMB News",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMUgzYzhFZ3JFUEhrczZVd1hDcWp1RVFybC1nb3R6SnphTXA5ZDhOVEZWODBHdHhhcDFtY19JUWU5N09Ra09fNmhfQzVrTTBjMkZuX24tUk1XYlppaHhRU3o1YzEyTWRjSjJXSGtKVjBHdFdzeThnWDlRQ3FPaUpoc3F0ZVhpeVJLR1RyWE5mM21KSno0Rlpr?oc=5",
-          "publisher": "CMB News",
-          "published_at": "2026-11-20T17:12:47+05:00",
-          "topic": "trade"
-        },
-        {
-          "id": "1f9cb50165a9cb0c",
-          "title": "FCC sets aside high court rulings upholding infrastructure cess in Sindh, KP",
-          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5adllEazFhLVFvbXA5ZS1kV1ozdTJmajdKQ3VhUGJfcGdSaW9xbUc0bDBUUDkyLWwyMVNFR1k0RzdYcXQ3c2J5ZA?oc=5",
-          "publisher": "Dawn",
-          "published_at": "2026-11-19T19:43:43+05:00",
-          "topic": "trade"
-        },
-        {
-          "id": "eb38336115801493",
-          "title": "Scott Lincicome: U.S. export and import records both follow pre-Trump trends",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcGpLdVZUVnFOdnJwb2p6ZkJmYlpXdlJhdkdibFRUdXdfWWxGNVJnZmp6dU5UZGl6YjlVN0NBdHBCTGdNRExSeDNKSmRCb0JUNjVEX3hDMlB0VFF5WHd5a0dIWFBYLWJjQkhnZ2dqTllaREk5ZWpFLU1Id29DR054LUtFNmZuNllkV0pJVElVbXQwaUU?oc=5",
-          "publisher": "Traders Union",
-          "published_at": "2026-11-20T19:50:39+05:00",
-          "topic": "trade"
         }
       ],
-      "fetched_at": "2026-11-21T09:12:30.640313+05:00"
+      "fetched_at": "2026-11-21T16:33:18.919743+05:00"
     },
     {
       "id": "economy-2026-11-21",
@@ -122,17 +122,9 @@
           "publisher": "The Economic Times",
           "published_at": "2026-11-20T14:48:50+05:00",
           "topic": "economy"
-        },
-        {
-          "id": "6c24ed65928bb5f8",
-          "title": "Indias GDP Growth To Slow To 7.2% In 2027, Goldman Sachs Sees Inflation At 5.7% And More RBI Rate Hikes",
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQNEQwaWwxVG54cjVzS3Z4SVR2UGluZkdBZVBLVlUyR2dpTVhCRVNOVzVmaFdsZmlwM2QzR3J0TXBoUXV5ZWJad18yNlRReDVHQTJPdG1jRFhNMDl4MlpRTm9zWjYxdUNJWEs0ZXFKcHBBdWRUWjhJNVFtaWF6YkZWWEtnSWh2dnYxT1Rkem55SkFVeEFFQ05aWEZ1dUltamFWdlZTTDNJMWotbzNiVFdJN01oQUZHVEpGV3lkeDJNUUNoRnZBakdod09XNW5Ba3Zua1dBV3Zn0gHbAUFVX3lxTE1jTEIyWnFVWFhrdmdkdEFvZ1pWOWczTEI0UlQ0c01faG1YZ2V2anFoa2UtX1lUakw5aHNJU01SNHlBRDNfUnFQSjg0N1hNUzZIV2NBRlh2LUpzQklOcGp0OEhDV1M2d2x1ak5fbnN1UlFHU1cwcURUSDU2N1YwRjlxbFRzd290c0RjVXBaeFRUNTcyYV9qZWdMMkhXUHVsTVZtNmNjRUJNV25JcWotZm9IY2xUUy0telMtREV2R2MtanZIQ2RvcnU1WDF6UC1xdHBxRmhZNnpYWjJGbw?oc=5",
-          "publisher": "Free Press Journal",
-          "published_at": "2026-11-19T09:21:03+05:00",
-          "topic": "economy"
         }
       ],
-      "fetched_at": "2026-11-21T09:12:30.640313+05:00"
+      "fetched_at": "2026-11-21T16:33:18.919743+05:00"
     },
     {
       "id": "business-2026-11-21",
@@ -142,11 +134,11 @@
       "context": "Company and industry developments can affect supply, stock availability and competition. Compare dated supplier offers before making a purchase decision.",
       "headlines": [
         {
-          "id": "49fdb17fe0a8e46e",
-          "title": "Pakistan, South Africa agree to strengthen private-sector linkages",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcHNuajlIWHZLWkxiWExzZFhvcWZBOWxnNTQ3OGlROFd3bVBXcmtIekZVUVo3aDIwQVAtZTJUbTNxNDBsaGhxUFo1R1dwSHN0UFlLX0lCVVFxSE5rUGlPcm1mbGlpNWJ3d0lxS0FBV0FyS2Fnb0N4RXBORndxX1F1UnBDRGFIYVp4X0cwYkcwaW9RWWV4V3dWbXAtT2pvTmYzTk1nRGtsUXpiNFU3?oc=5",
+          "id": "cbf6171d65fc6e3e",
+          "title": "Pakistan Stock Market News, PSX Business News & Updates",
+          "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE40QlduNXZKNko0SXFOR1RzYUNxR19oUWdQdmxxdVhTbGNMMGRFaFd5Z0ktSG45QWlhbUhNMTRmVkxBRjg?oc=5",
           "publisher": "Investify",
-          "published_at": "2026-11-20T15:54:05+05:00",
+          "published_at": "2026-11-21T14:19:21+05:00",
           "topic": "business"
         },
         {
@@ -158,11 +150,27 @@
           "topic": "business"
         },
         {
+          "id": "49fdb17fe0a8e46e",
+          "title": "Pakistan, South Africa agree to strengthen private-sector linkages",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcHNuajlIWHZLWkxiWExzZFhvcWZBOWxnNTQ3OGlROFd3bVBXcmtIekZVUVo3aDIwQVAtZTJUbTNxNDBsaGhxUFo1R1dwSHN0UFlLX0lCVVFxSE5rUGlPcm1mbGlpNWJ3d0lxS0FBV0FyS2Fnb0N4RXBORndxX1F1UnBDRGFIYVp4X0cwYkcwaW9RWWV4V3dWbXAtT2pvTmYzTk1nRGtsUXpiNFU3?oc=5",
+          "publisher": "Investify",
+          "published_at": "2026-11-20T15:54:05+05:00",
+          "topic": "business"
+        },
+        {
           "id": "619f0ce752fe694f",
           "title": "Anas Ammar To Join Forbes Middle East’s Building The Future Summit In Egypt",
           "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSFl6RFZaaTFnRFNCcHpBZ0wyemZZV0dDazBRNUxza3IzaHU4Y0xjbXZnZzNKMng4eXlSN0VmX1Z6Wjc1MDRJSEQzbG43cXB2YzBXQmNjaWtfUG5VWnpOdVdfR0lmLUFHQ3ZBVTdMbzQ1Y1ItNjAtdHNILTVzM2pyd2hmUmQ2bWtJeDBkMXl5UzFhanFDZ1FGZDlhTWFVdlNpNDE5ZlRoVnI4ckRKbExiaVAwOHItQzJuOE1lWXpXNlRIMTNG?oc=5",
           "publisher": "Forbes Middle East",
           "published_at": "2026-11-19T21:57:20+05:00",
+          "topic": "business"
+        },
+        {
+          "id": "b94dba1978390cd3",
+          "title": "IMF Urges Pakistan To Pursue Export-Led Economic Growth",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUW1EVUk3ZEx2SXB6dnliX3JJckVpVWFsb1BES2wwOTRGTlpQQlA3RVdtNVVSR3gxRDBlZlRLWGVoemgtdzV1N2pTcnIxeEpwMGVla1hvUUFNTURoWWRHVk5YOWlQRTdPZVZIWm9HMkdRTmdDc1Q5ZWFXRDBvd1FnamotZXk1TzJCR2hBVHlnRjJ0VFBzUEQ2R3lzTQ?oc=5",
+          "publisher": "The Friday Times",
+          "published_at": "2026-11-21T11:00:00+05:00",
           "topic": "business"
         },
         {
@@ -182,31 +190,15 @@
           "topic": "business"
         },
         {
-          "id": "105d3f465245e0fd",
-          "title": "ARMG Company Announcements - ARM Green Industries Ltd",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5FcVlHVkNiRVJua0dqbDBFUE8zWUpCZ0xaSlJJSkY5VGdtcGhWLUFmX3FmLTlZLTFTajFhd2I3eXZqZjFSc1RPSTRmWmtmcjRkcGdncDF0c1RJZUxoZTVtcA?oc=5",
+          "id": "78ea65ffa3705f15",
+          "title": "HUSI Company Profile - Husein Industries Ltd",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5TS3FEM2poTmlLVjZMbTlUa01MaFk0SjFwTWtySTU4NzdaWnhTRFhQSTZBUHpQOHpsUElaZzM0WHpIQ01MX0h2UmR2V2JaU2VlbFZMNWRJYkE?oc=5",
           "publisher": "Investify",
-          "published_at": "2026-11-20T17:54:36+05:00",
-          "topic": "business"
-        },
-        {
-          "id": "e6722b782eff59ee",
-          "title": "SURAJ Company Profile - Suraj Ghee Industries Ltd",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE84OTVBaHFkeGZpcmNIZDM5SVo5WVRaZVB0bUlYSFFQNm10dW5TdnprTFc2R3RlZXdpbVdQTk1qYmpOMVNpbGNXTkw0UFJpX296LUk3S2VSV1V4dw?oc=5",
-          "publisher": "Investify",
-          "published_at": "2026-11-20T15:49:07+05:00",
-          "topic": "business"
-        },
-        {
-          "id": "393a599b6fc5424f",
-          "title": "Pakistan eyes South African investment in mining, critical minerals",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdE9uVHBxYkNfdEUxSEtMaFVRaHBiZ3dZVWtlTUZIc0FVZHNpT2RuRXI5MUxDTC1VNVc3eW4tRzBjMDBlRGFQRkJyQVBmR0JKZGd4RUxCa1pjaV95VHFFa2piWC1EckpkM1lkQVNHeGhTbVNPUFdHU3BFb04zdmRTYzE4VmstWlJaU2Q0R1l4VlJ5Szc1TFpSZEZidnE1WUJSWVdqYnZLenlqQXRUeGc?oc=5",
-          "publisher": "Investify",
-          "published_at": "2026-11-20T11:59:14+05:00",
+          "published_at": "2026-11-20T19:00:18+05:00",
           "topic": "business"
         }
       ],
-      "fetched_at": "2026-11-21T09:12:30.640313+05:00"
+      "fetched_at": "2026-11-21T16:33:18.919743+05:00"
     },
     {
       "id": "trade-2026-11-20",

@@ -1,18 +1,18 @@
 {
-  "checked_at": "2026-11-21T09:12:23.062757+05:00",
-  "quotes": 13805,
+  "checked_at": "2026-11-21T16:32:47.640911+05:00",
+  "quotes": 14091,
   "checks": [
     {
       "store": "Chase Value",
       "url": "https://chasevalue.pk/products.json?limit=100&page=1",
       "status": "parsed",
-      "offers": 1065
+      "offers": 988
     },
     {
       "store": "Chase Value",
       "url": "https://chasevalue.pk/products.json?limit=100&page=2",
       "status": "parsed",
-      "offers": 663
+      "offers": 698
     },
     {
       "store": "Naheed",
@@ -35,14 +35,14 @@
     {
       "store": "Naheed",
       "url": "https://www.naheed.pk/groceries-pets/baking-cooking/rice",
-      "status": "parsed",
-      "offers": 22
+      "status": "fetch failed; dated offers retained",
+      "error": "The read operation timed out"
     },
     {
       "store": "Naheed",
       "url": "https://www.naheed.pk/groceries-pets/baking-cooking/flours-meals",
-      "status": "parsed",
-      "offers": 32
+      "status": "fetch failed; dated offers retained",
+      "error": "The read operation timed out"
     },
     {
       "store": "Paklap",
@@ -53,14 +53,14 @@
     {
       "store": "Paklap",
       "url": "https://www.paklap.pk/daily-deals.html",
-      "status": "parsed",
-      "offers": 6
+      "status": "fetch failed; dated offers retained",
+      "error": "The read operation timed out"
     },
     {
       "store": "Metro",
       "url": "https://metro-online.pk/",
       "status": "parsed",
-      "offers": 209
+      "offers": 205
     },
     {
       "store": "Foodpanda / Kifayah",
