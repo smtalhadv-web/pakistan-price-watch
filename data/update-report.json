@@ -6,15 +6,15 @@
     ],
     [
       "forex",
-      110576
+      109472
     ],
     [
       "gold",
-      113988
+      114228
     ],
     [
       "silver",
-      105694
+      105962
     ],
     [
       "pso-history",
@@ -50,14 +50,14 @@
     ],
     [
       "appliances",
-      1161911
+      1164096
     ],
     [
       "pbs",
       344844
     ]
   ],
-  "checked_at": "2026-11-21T16:14:51.319524+00:00",
+  "checked_at": "2026-11-21T20:58:14.901776+00:00",
   "sources": [
     {
       "source": "PSO dated fuel archive",
@@ -73,7 +73,7 @@
     {
       "source": "Published currency tables",
       "status": "parsed",
-      "observed_records": 36,
+      "observed_records": 26,
       "new_records": 0
     },
     {

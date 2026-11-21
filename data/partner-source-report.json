@@ -1,6 +1,6 @@
 {
-  "checked_at": "2026-11-21T21:15:01.488267+05:00",
-  "quotes": 14555,
+  "checked_at": "2026-11-22T01:58:27.590424+05:00",
+  "quotes": 14570,
   "checks": [
     {
       "store": "Chase Value",
@@ -65,8 +65,8 @@
     {
       "store": "Foodpanda / Kifayah",
       "url": "https://www.foodpanda.pk/shop/a036/kifayah-supermarket-pechs",
-      "status": "no verified quotes",
-      "offers": 0
+      "status": "parsed",
+      "offers": 90
     },
     {
       "store": "OLX",
