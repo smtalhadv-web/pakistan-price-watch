@@ -1,18 +1,18 @@
 {
-  "checked_at": "2026-11-21T16:33:18.919743+05:00",
+  "checked_at": "2026-11-21T21:15:08.665244+05:00",
   "checks": [
     {
       "topic": "economy",
       "status": "updated",
-      "headlines": 3
+      "headlines": 4
     },
     {
-      "topic": "trade",
+      "topic": "business",
       "status": "updated",
       "headlines": 8
     },
     {
-      "topic": "business",
+      "topic": "trade",
       "status": "updated",
       "headlines": 8
     }
@@ -26,35 +26,19 @@
       "context": "Trade and customs developments can affect landed costs and delivery times. Check the original notification, effective date and product classification before applying a reported change to an item.",
       "headlines": [
         {
-          "id": "b34ccd1c718602c3",
-          "title": "Iran, Pakistan Look Beyond $6 Billion Trade Base as Free-Trade Deal Nears Finish Line",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBHWE00ZWp1SFZQdng3T1RITUwxdURQaENvMDJ5cUtTQ0hXZllPZUhRV1ZJcnVoZExoTVI4T1dhaUE1TWhjZUZyTFo5YzV0NTR6SlE?oc=5",
-          "publisher": "Financial Tribune",
-          "published_at": "2026-11-20T17:50:47+05:00",
-          "topic": "trade"
-        },
-        {
-          "id": "e7243c2e6746de10",
-          "title": "Iran-Pakistan trade reaches $6b, with potential to exceed $10b as FTA nears final stage",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZHpDNkFRanU5TGNfVFU2aU53RXp1X3pRaFQ1S2lNeWVGSFR6bzN2U3hNRnBUWWZrMGNvVzB6TmI5V2NvaTktakEtWkpTdXRrblFXYUtUemNTVjd6U1c2V19TVDBvWV9xTlJ6SWo5RUpEUTl3cW9meWc2c1JpdkJDWXNCbFUtY1NlbC1WWTc4WWlBa01BR0w0SURzMXIyUEg2?oc=5",
-          "publisher": "Tehran Times",
-          "published_at": "2026-11-20T13:48:49+05:00",
-          "topic": "trade"
-        },
-        {
-          "id": "1f9cb50165a9cb0c",
-          "title": "FCC sets aside high court rulings upholding infrastructure cess in Sindh, KP",
-          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5adllEazFhLVFvbXA5ZS1kV1ozdTJmajdKQ3VhUGJfcGdSaW9xbUc0bDBUUDkyLWwyMVNFR1k0RzdYcXQ3c2J5ZA?oc=5",
-          "publisher": "Dawn",
-          "published_at": "2026-11-19T19:43:43+05:00",
-          "topic": "trade"
-        },
-        {
           "id": "95ddb5e4095d5e1b",
           "title": "Breakup of Pakistan’s trade data in October: PBS",
           "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNHQxbWFFYUZ1eTVraTlxNjVrMlJtZ29xOVNxb05oQnh5WkpGTEJmYmJ5bDhQY0p3dnJoMm90TzFNZFNDbGNmRkVzQVRibXh6MUZPa2dWaEdhTEhYNGRUdUtHQkwxWHprOEJNYXhkUEJrbHVlYjU1aThhMlJIeVJVM0tVZ1Q?oc=5",
           "publisher": "Mettis Global",
           "published_at": "2026-11-21T01:19:00+05:00",
+          "topic": "trade"
+        },
+        {
+          "id": "b34ccd1c718602c3",
+          "title": "Iran, Pakistan Look Beyond $6 Billion Trade Base as Free-Trade Deal Nears Finish Line",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBHWE00ZWp1SFZQdng3T1RITUwxdURQaENvMDJ5cUtTQ0hXZllPZUhRV1ZJcnVoZExoTVI4T1dhaUE1TWhjZUZyTFo5YzV0NTR6SlE?oc=5",
+          "publisher": "Financial Tribune",
+          "published_at": "2026-11-20T17:50:47+05:00",
           "topic": "trade"
         },
         {
@@ -74,6 +58,22 @@
           "topic": "trade"
         },
         {
+          "id": "e7243c2e6746de10",
+          "title": "Iran-Pakistan trade reaches $6b, with potential to exceed $10b as FTA nears final stage",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZHpDNkFRanU5TGNfVFU2aU53RXp1X3pRaFQ1S2lNeWVGSFR6bzN2U3hNRnBUWWZrMGNvVzB6TmI5V2NvaTktakEtWkpTdXRrblFXYUtUemNTVjd6U1c2V19TVDBvWV9xTlJ6SWo5RUpEUTl3cW9meWc2c1JpdkJDWXNCbFUtY1NlbC1WWTc4WWlBa01BR0w0SURzMXIyUEg2?oc=5",
+          "publisher": "Tehran Times",
+          "published_at": "2026-11-20T13:48:49+05:00",
+          "topic": "trade"
+        },
+        {
+          "id": "b94dba1978390cd3",
+          "title": "IMF Urges Pakistan To Pursue Export-Led Economic Growth",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUW1EVUk3ZEx2SXB6dnliX3JJckVpVWFsb1BES2wwOTRGTlpQQlA3RVdtNVVSR3gxRDBlZlRLWGVoemgtdzV1N2pTcnIxeEpwMGVla1hvUUFNTURoWWRHVk5YOWlQRTdPZVZIWm9HMkdRTmdDc1Q5ZWFXRDBvd1FnamotZXk1TzJCR2hBVHlnRjJ0VFBzUEQ2R3lzTQ?oc=5",
+          "publisher": "The Friday Times",
+          "published_at": "2026-11-21T11:00:00+05:00",
+          "topic": "trade"
+        },
+        {
           "id": "24de12b653389afa",
           "title": "Breakup of Pakistan’s trade data in October: PBS",
           "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQb2Eyb1RCeDJBSzhhc3JHWWJ0TGxwTy1kRDFsX1I2VnA1dC04bVJpOE1Zb0N0NjFzUFoyQXg4czZjQ0E0eU5kN2hTMlFPSW9aT1k5elFBckhrU1UxQTd0YkZBTmhFZ0FHcjBNcFNVckxIY1FTWU85Nm9IdFctMkctbC0zVVp1QUM0eGVFUHgyMWtWekZI?oc=5",
@@ -90,7 +90,7 @@
           "topic": "trade"
         }
       ],
-      "fetched_at": "2026-11-21T16:33:18.919743+05:00"
+      "fetched_at": "2026-11-21T21:15:08.665244+05:00"
     },
     {
       "id": "economy-2026-11-21",
@@ -122,9 +122,17 @@
           "publisher": "The Economic Times",
           "published_at": "2026-11-20T14:48:50+05:00",
           "topic": "economy"
+        },
+        {
+          "id": "65720ad847582008",
+          "title": "Indian rupee strengthens to 7-month high at 92.99 against US dollar;how will it impact imports, exports and inflation?",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOX0ZPNkpTODdEREc5S3VIZkhnQzVHZU93ODYzYjRWb0ZKand6RkhsMGRiUUJON0RZTzd0QTBfdklGQkdYM1VwVDFYNUhuVWlfbWJTVjczSkN6OXlYaUdmRlg4NHlheHVhQkZfbm9IbmxCRHp5NXc5YV94MUpMUDRDVmswLW5nVmF6RU8zVUhpQTUzZ0hCN2FfdDJVeHpmekt6emVwaUp4NFRXcXBxNWJLLVk3aEVWa0w4YlZaM2EtOWRCUy1KLURF?oc=5",
+          "publisher": "IBTimes India",
+          "published_at": "2026-11-20T17:54:33+05:00",
+          "topic": "economy"
         }
       ],
-      "fetched_at": "2026-11-21T16:33:18.919743+05:00"
+      "fetched_at": "2026-11-21T21:15:08.665244+05:00"
     },
     {
       "id": "business-2026-11-21",
@@ -134,11 +142,11 @@
       "context": "Company and industry developments can affect supply, stock availability and competition. Compare dated supplier offers before making a purchase decision.",
       "headlines": [
         {
-          "id": "cbf6171d65fc6e3e",
-          "title": "Pakistan Stock Market News, PSX Business News & Updates",
-          "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE40QlduNXZKNko0SXFOR1RzYUNxR19oUWdQdmxxdVhTbGNMMGRFaFd5Z0ktSG45QWlhbUhNMTRmVkxBRjg?oc=5",
+          "id": "105d3f465245e0fd",
+          "title": "ARMG Company Announcements - ARM Green Industries Ltd",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5FcVlHVkNiRVJua0dqbDBFUE8zWUpCZ0xaSlJJSkY5VGdtcGhWLUFmX3FmLTlZLTFTajFhd2I3eXZqZjFSc1RPSTRmWmtmcjRkcGdncDF0c1RJZUxoZTVtcA?oc=5",
           "publisher": "Investify",
-          "published_at": "2026-11-21T14:19:21+05:00",
+          "published_at": "2026-11-20T17:54:36+05:00",
           "topic": "business"
         },
         {
@@ -158,11 +166,11 @@
           "topic": "business"
         },
         {
-          "id": "619f0ce752fe694f",
-          "title": "Anas Ammar To Join Forbes Middle East’s Building The Future Summit In Egypt",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSFl6RFZaaTFnRFNCcHpBZ0wyemZZV0dDazBRNUxza3IzaHU4Y0xjbXZnZzNKMng4eXlSN0VmX1Z6Wjc1MDRJSEQzbG43cXB2YzBXQmNjaWtfUG5VWnpOdVdfR0lmLUFHQ3ZBVTdMbzQ1Y1ItNjAtdHNILTVzM2pyd2hmUmQ2bWtJeDBkMXl5UzFhanFDZ1FGZDlhTWFVdlNpNDE5ZlRoVnI4ckRKbExiaVAwOHItQzJuOE1lWXpXNlRIMTNG?oc=5",
-          "publisher": "Forbes Middle East",
-          "published_at": "2026-11-19T21:57:20+05:00",
+          "id": "1dc9b74e19e8c0ae",
+          "title": "Pakistan Stock Exchange, UNICEF, and Pakistan Business Council Ring the Bell for Children on World Children’s Day",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNdFlNMEdoOUZQOHlPbHl3S0Nrb3hRYXZqNEZNM2hZMmFoT28yUlZ4dnE4QzZUQUJZdFdNcUpvQ3BEb0MxNDRkN0YtQ2RaRGtQLU5CUWJiOGtaU2ZVRUdYLWRROHlhN2ZqS1hNQVJSTlBudVdST2hmRjkwNGVfMHhsMkwtdDRGUFBPRVMxRWx6ZDYxSTlITmxmeGVtdjd4TU5Vd2pfSmotTC1pYkd3b0l2czhsdkNjUG9mdzdmb0szNTZ3NTNC?oc=5",
+          "publisher": "Unicef",
+          "published_at": "2026-11-20T13:11:05+05:00",
           "topic": "business"
         },
         {
@@ -190,15 +198,15 @@
           "topic": "business"
         },
         {
-          "id": "78ea65ffa3705f15",
-          "title": "HUSI Company Profile - Husein Industries Ltd",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5TS3FEM2poTmlLVjZMbTlUa01MaFk0SjFwTWtySTU4NzdaWnhTRFhQSTZBUHpQOHpsUElaZzM0WHpIQ01MX0h2UmR2V2JaU2VlbFZMNWRJYkE?oc=5",
+          "id": "e6722b782eff59ee",
+          "title": "SURAJ Company Profile - Suraj Ghee Industries Ltd",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE84OTVBaHFkeGZpcmNIZDM5SVo5WVRaZVB0bUlYSFFQNm10dW5TdnprTFc2R3RlZXdpbVdQTk1qYmpOMVNpbGNXTkw0UFJpX296LUk3S2VSV1V4dw?oc=5",
           "publisher": "Investify",
-          "published_at": "2026-11-20T19:00:18+05:00",
+          "published_at": "2026-11-20T15:49:07+05:00",
           "topic": "business"
         }
       ],
-      "fetched_at": "2026-11-21T16:33:18.919743+05:00"
+      "fetched_at": "2026-11-21T21:15:08.665244+05:00"
     },
     {
       "id": "trade-2026-11-20",
