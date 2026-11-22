@@ -6,7 +6,7 @@
     ],
     [
       "forex",
-      111541
+      110439
     ],
     [
       "gold",
@@ -50,14 +50,14 @@
     ],
     [
       "appliances",
-      1165477
+      1163348
     ],
     [
       "pbs",
       344844
     ]
   ],
-  "checked_at": "2026-11-22T16:18:51.708553+00:00",
+  "checked_at": "2026-11-22T21:08:52.333810+00:00",
   "sources": [
     {
       "source": "PSO dated fuel archive",
@@ -73,14 +73,14 @@
     {
       "source": "Published currency tables",
       "status": "parsed",
-      "observed_records": 36,
+      "observed_records": 26,
       "new_records": 0
     },
     {
       "source": "PriceOye published listings",
       "status": "parsed",
       "observed_records": 138,
-      "new_records": 0
+      "new_records": 1
     },
     {
       "source": "PBS weekly city prices",
@@ -97,7 +97,7 @@
     {
       "source": "Additional mobile, laptop, watch and audio listings",
       "status": "parsed",
-      "new_records": 1
+      "new_records": 0
     },
     {
       "source": "Furniture and power-tool variant listings",
@@ -115,7 +115,7 @@
       "new_records": 0
     }
   ],
-  "quotes": 5948,
+  "quotes": 5949,
   "manual_queue": [
     "Verify new image rates before transcribing; source sheets refresh automatically",
     "Unsupported sources retain their dated quotes"

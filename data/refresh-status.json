@@ -1,6 +1,6 @@
 {
-  "started_at": "2026-11-22T16:18:46.588945+00:00",
-  "completed_at": "2026-11-22T16:19:12.085072+00:00",
+  "started_at": "2026-11-22T21:08:46.291171+00:00",
+  "completed_at": "2026-11-22T21:09:08.688942+00:00",
   "status": "partial",
   "timezone": "Asia/Karachi",
   "scheduled_times": [
@@ -11,49 +11,49 @@
     {
       "name": "collect.py",
       "status": "completed",
-      "elapsed_seconds": 3.5,
+      "elapsed_seconds": 4.8,
       "detail": ""
     },
     {
       "name": "download_sources.py",
       "status": "failed",
-      "elapsed_seconds": 0.4,
+      "elapsed_seconds": 0.3,
       "detail": "  File \"/opt/hostedtoolcache/Python/3.12.16/x64/lib/python3.12/pathlib.py\", line 1027, in read_text\n    with self.open(mode='r', encoding=encoding, errors=errors) as f:\n         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/opt/hostedtoolcache/Python/3.12.16/x64/lib/python3.12/pathlib.py\", line 1013, in open\n    return io.open(self, mode, buffering, encoding, errors, newline)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\nFileNotFoundError: [Errno 2] No such file or directory: '/home/runner/work/pakistan-price-watch/pakistan-price-watch/raw/karachi.html'\n"
     },
     {
       "name": "ingest.py",
       "status": "completed",
-      "elapsed_seconds": 1.5,
+      "elapsed_seconds": 1.1,
       "detail": ""
     },
     {
       "name": "expand_fetch.py",
       "status": "completed",
-      "elapsed_seconds": 1.9,
+      "elapsed_seconds": 1.5,
       "detail": ""
     },
     {
       "name": "expand.py",
       "status": "completed",
-      "elapsed_seconds": 1.5,
+      "elapsed_seconds": 1.0,
       "detail": ""
     },
     {
       "name": "commerce.py",
       "status": "completed",
-      "elapsed_seconds": 9.3,
+      "elapsed_seconds": 7.4,
       "detail": ""
     },
     {
       "name": "partner_sources.py",
       "status": "completed",
-      "elapsed_seconds": 5.5,
+      "elapsed_seconds": 4.7,
       "detail": ""
     },
     {
       "name": "extra_sources.py",
       "status": "completed",
-      "elapsed_seconds": 1.7,
+      "elapsed_seconds": 1.5,
       "detail": ""
     }
   ],
@@ -77,7 +77,7 @@
       "url": null,
       "status": "verified",
       "detail": "parsed",
-      "quotes": 36
+      "quotes": 26
     },
     {
       "source": "PriceOye published listings",
@@ -490,7 +490,7 @@
       "url": "https://priceoye.pk/trimmers-shavers?page=3",
       "status": "verified",
       "detail": "parsed",
-      "quotes": 36
+      "quotes": 23
     },
     {
       "source": "https://priceoye.pk/speakers?page=1",
@@ -731,9 +731,9 @@
       "quotes": 30
     }
   ],
-  "total_quotes": 24017,
-  "verified_quotes": 5771,
-  "changed_prices": 4,
-  "new_quotes": 3,
-  "retained_quotes": 18246
+  "total_quotes": 24033,
+  "verified_quotes": 5749,
+  "changed_prices": 2,
+  "new_quotes": 16,
+  "retained_quotes": 18284
 }
