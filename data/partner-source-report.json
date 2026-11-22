@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-22T16:46:55.405682+05:00",
+  "checked_at": "2026-11-22T21:19:04.861440+05:00",
   "quotes": 14571,
   "checks": [
     {
@@ -30,7 +30,7 @@
       "store": "Naheed",
       "url": "https://www.naheed.pk/groceries-pets/dairy/milk-dairy-drinks",
       "status": "parsed",
-      "offers": 31
+      "offers": 32
     },
     {
       "store": "Naheed",
@@ -72,19 +72,19 @@
       "store": "OLX",
       "url": "https://www.olx.com.pk/items/q-iphone-15",
       "status": "fetch failed; dated offers retained",
-      "error": "HTTP Error 403: Forbidden"
+      "error": "HTTP Error 401: Unauthorized"
     },
     {
       "store": "OLX",
       "url": "https://www.olx.com.pk/items/q-laptop",
       "status": "fetch failed; dated offers retained",
-      "error": "HTTP Error 403: Forbidden"
+      "error": "HTTP Error 401: Unauthorized"
     },
     {
       "store": "OLX",
       "url": "https://www.olx.com.pk/items/q-sofa",
       "status": "fetch failed; dated offers retained",
-      "error": "HTTP Error 403: Forbidden"
+      "error": "HTTP Error 401: Unauthorized"
     }
   ]
 }
