@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-22T09:12:54.122110+05:00",
+  "checked_at": "2026-11-22T16:46:55.405682+05:00",
   "quotes": 14571,
   "checks": [
     {
@@ -18,7 +18,7 @@
       "store": "Naheed",
       "url": "https://www.naheed.pk/groceries-pets",
       "status": "parsed",
-      "offers": 48
+      "offers": 47
     },
     {
       "store": "Naheed",
@@ -30,7 +30,7 @@
       "store": "Naheed",
       "url": "https://www.naheed.pk/groceries-pets/dairy/milk-dairy-drinks",
       "status": "parsed",
-      "offers": 32
+      "offers": 31
     },
     {
       "store": "Naheed",
@@ -42,7 +42,7 @@
       "store": "Naheed",
       "url": "https://www.naheed.pk/groceries-pets/baking-cooking/flours-meals",
       "status": "parsed",
-      "offers": 32
+      "offers": 31
     },
     {
       "store": "Paklap",
@@ -72,19 +72,19 @@
       "store": "OLX",
       "url": "https://www.olx.com.pk/items/q-iphone-15",
       "status": "fetch failed; dated offers retained",
-      "error": "HTTP Error 401: Unauthorized"
+      "error": "HTTP Error 403: Forbidden"
     },
     {
       "store": "OLX",
       "url": "https://www.olx.com.pk/items/q-laptop",
       "status": "fetch failed; dated offers retained",
-      "error": "HTTP Error 401: Unauthorized"
+      "error": "HTTP Error 403: Forbidden"
     },
     {
       "store": "OLX",
       "url": "https://www.olx.com.pk/items/q-sofa",
       "status": "fetch failed; dated offers retained",
-      "error": "HTTP Error 401: Unauthorized"
+      "error": "HTTP Error 403: Forbidden"
     }
   ]
 }
