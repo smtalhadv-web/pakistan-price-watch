@@ -6,15 +6,15 @@
     ],
     [
       "forex",
-      109472
+      111541
     ],
     [
       "gold",
-      114228
+      114225
     ],
     [
       "silver",
-      105962
+      105976
     ],
     [
       "pso-history",
@@ -22,7 +22,7 @@
     ],
     [
       "samsung",
-      717573
+      717189
     ],
     [
       "xiaomi",
@@ -50,14 +50,14 @@
     ],
     [
       "appliances",
-      1164096
+      1184302
     ],
     [
       "pbs",
       344844
     ]
   ],
-  "checked_at": "2026-11-21T20:58:14.901776+00:00",
+  "checked_at": "2026-11-22T04:12:40.938227+00:00",
   "sources": [
     {
       "source": "PSO dated fuel archive",
@@ -73,13 +73,13 @@
     {
       "source": "Published currency tables",
       "status": "parsed",
-      "observed_records": 26,
+      "observed_records": 36,
       "new_records": 0
     },
     {
       "source": "PriceOye published listings",
       "status": "parsed",
-      "observed_records": 138,
+      "observed_records": 136,
       "new_records": 0
     },
     {
@@ -115,7 +115,7 @@
       "new_records": 0
     }
   ],
-  "quotes": 5943,
+  "quotes": 5946,
   "manual_queue": [
     "Verify new image rates before transcribing; source sheets refresh automatically",
     "Unsupported sources retain their dated quotes"

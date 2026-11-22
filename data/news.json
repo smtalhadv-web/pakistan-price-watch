@@ -1,10 +1,10 @@
 {
-  "checked_at": "2026-11-22T01:58:34.240895+05:00",
+  "checked_at": "2026-11-22T09:13:02.439089+05:00",
   "checks": [
     {
       "topic": "economy",
       "status": "updated",
-      "headlines": 3
+      "headlines": 4
     },
     {
       "topic": "business",
@@ -26,22 +26,6 @@
       "context": "Trade and customs developments can affect landed costs and delivery times. Check the original notification, effective date and product classification before applying a reported change to an item.",
       "headlines": [
         {
-          "id": "b34ccd1c718602c3",
-          "title": "Iran, Pakistan Look Beyond $6 Billion Trade Base as Free-Trade Deal Nears Finish Line",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBHWE00ZWp1SFZQdng3T1RITUwxdURQaENvMDJ5cUtTQ0hXZllPZUhRV1ZJcnVoZExoTVI4T1dhaUE1TWhjZUZyTFo5YzV0NTR6SlE?oc=5",
-          "publisher": "Financial Tribune",
-          "published_at": "2026-11-20T17:50:47+05:00",
-          "topic": "trade"
-        },
-        {
-          "id": "e7243c2e6746de10",
-          "title": "Iran-Pakistan trade reaches $6b, with potential to exceed $10b as FTA nears final stage",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZHpDNkFRanU5TGNfVFU2aU53RXp1X3pRaFQ1S2lNeWVGSFR6bzN2U3hNRnBUWWZrMGNvVzB6TmI5V2NvaTktakEtWkpTdXRrblFXYUtUemNTVjd6U1c2V19TVDBvWV9xTlJ6SWo5RUpEUTl3cW9meWc2c1JpdkJDWXNCbFUtY1NlbC1WWTc4WWlBa01BR0w0SURzMXIyUEg2?oc=5",
-          "publisher": "Tehran Times",
-          "published_at": "2026-11-20T13:48:49+05:00",
-          "topic": "trade"
-        },
-        {
           "id": "95ddb5e4095d5e1b",
           "title": "Breakup of Pakistan’s trade data in October: PBS",
           "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNHQxbWFFYUZ1eTVraTlxNjVrMlJtZ29xOVNxb05oQnh5WkpGTEJmYmJ5bDhQY0p3dnJoMm90TzFNZFNDbGNmRkVzQVRibXh6MUZPa2dWaEdhTEhYNGRUdUtHQkwxWHprOEJNYXhkUEJrbHVlYjU1aThhMlJIeVJVM0tVZ1Q?oc=5",
@@ -58,11 +42,27 @@
           "topic": "trade"
         },
         {
+          "id": "b34ccd1c718602c3",
+          "title": "Iran, Pakistan Look Beyond $6 Billion Trade Base as Free-Trade Deal Nears Finish Line",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBHWE00ZWp1SFZQdng3T1RITUwxdURQaENvMDJ5cUtTQ0hXZllPZUhRV1ZJcnVoZExoTVI4T1dhaUE1TWhjZUZyTFo5YzV0NTR6SlE?oc=5",
+          "publisher": "Financial Tribune",
+          "published_at": "2026-11-20T17:50:47+05:00",
+          "topic": "trade"
+        },
+        {
           "id": "74f4d562d12583f3",
           "title": "Sri Lanka Offers Greater Access to Pakistani Exports in $19bn Market",
           "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbXZDNzdGUk1TY1VXbnZhZDV4dUhCWkxJOXdWdWNSU2g2emtpVGdQVDhqaFpFakV2STZmWEEtM3lfOHc1M0c0REJVVmthVkNma2RfaWkyVDFENjROd2xCbkk5WmhXMGNuWVNtUlRCMlJxU1N0SGZEVG9Qc2lPT0J2ZTR6dzRsSTMteDNGVUUtRktMRURBTU4walpRMHJORkdIWmxDdGp3?oc=5",
           "publisher": "sabahnews.net",
           "published_at": "2026-11-20T18:49:30+05:00",
+          "topic": "trade"
+        },
+        {
+          "id": "e7243c2e6746de10",
+          "title": "Iran-Pakistan trade reaches $6b, with potential to exceed $10b as FTA nears final stage",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZHpDNkFRanU5TGNfVFU2aU53RXp1X3pRaFQ1S2lNeWVGSFR6bzN2U3hNRnBUWWZrMGNvVzB6TmI5V2NvaTktakEtWkpTdXRrblFXYUtUemNTVjd6U1c2V19TVDBvWV9xTlJ6SWo5RUpEUTl3cW9meWc2c1JpdkJDWXNCbFUtY1NlbC1WWTc4WWlBa01BR0w0SURzMXIyUEg2?oc=5",
+          "publisher": "Tehran Times",
+          "published_at": "2026-11-20T13:48:49+05:00",
           "topic": "trade"
         },
         {
@@ -90,7 +90,7 @@
           "topic": "trade"
         }
       ],
-      "fetched_at": "2026-11-22T01:58:34.240895+05:00"
+      "fetched_at": "2026-11-22T09:13:02.439089+05:00"
     },
     {
       "id": "economy-2026-11-22",
@@ -99,6 +99,14 @@
       "title": "Economy news briefing · 2026-11-22",
       "context": "Watch how inflation, currency movements and borrowing costs may affect household budgets and import costs. A headline alone does not establish that a retail price has changed.",
       "headlines": [
+        {
+          "id": "5a8f7763ef6e3402",
+          "title": "Stocks end lower as political uncertainty halts recovery",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUUVsaFYwR3lOQnFVdTh5blctNFhJZ1ZoaThUNmNUenFPSlYzdFBpY2hPdkhCWGZFY3JpMWFyTHA1ZlVMeXh5STJMSG5qSkQ2UUtIX09VbDJxR0JtZFVJNUpHa3U2V0twR2dnN081aGpDSDhhRnl0ZDdlUERLVUpWc1JQdVY4cUtoc3hkdlVHNWh0WElG?oc=5",
+          "publisher": "Dawn",
+          "published_at": "2026-11-22T05:11:41+05:00",
+          "topic": "economy"
+        },
         {
           "id": "9a26464603ec4312",
           "title": "Pakistan's public debt faces six economic shocks, could exceed 75% of GDP under combined stress scenario: Finance Ministry",
@@ -124,7 +132,7 @@
           "topic": "economy"
         }
       ],
-      "fetched_at": "2026-11-22T01:58:34.240895+05:00"
+      "fetched_at": "2026-11-22T09:13:02.439089+05:00"
     },
     {
       "id": "business-2026-11-22",
@@ -133,6 +141,14 @@
       "title": "Business news briefing · 2026-11-22",
       "context": "Company and industry developments can affect supply, stock availability and competition. Compare dated supplier offers before making a purchase decision.",
       "headlines": [
+        {
+          "id": "c98c72d492831aa6",
+          "title": "Portuguese firms invited to invest in Pakistan",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbnZwdm9acjd1eHYtT2J6T1RHTUlLbHdvZnBmVm5oTnVob0xzd0FiQllJVm1KWHAwNndnUmcwN2hnSnhNN3k1TDRqaXBweEpYWU1EV0FzdUlGTTVZSTliWWJVcExWRElfdXdkUW9ISHN3ZWxEaTZuSko0bU5aQzIxVWozdHdhMnlEbnRjQVRoLXB4XzQ?oc=5",
+          "publisher": "Investify",
+          "published_at": "2026-11-22T07:26:05+05:00",
+          "topic": "business"
+        },
         {
           "id": "1dc9b74e19e8c0ae",
           "title": "Pakistan Stock Exchange, UNICEF, and Pakistan Business Council Ring the Bell for Children on World Children’s Day",
@@ -150,11 +166,11 @@
           "topic": "business"
         },
         {
-          "id": "105d3f465245e0fd",
-          "title": "ARMG Company Announcements - ARM Green Industries Ltd",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5FcVlHVkNiRVJua0dqbDBFUE8zWUpCZ0xaSlJJSkY5VGdtcGhWLUFmX3FmLTlZLTFTajFhd2I3eXZqZjFSc1RPSTRmWmtmcjRkcGdncDF0c1RJZUxoZTVtcA?oc=5",
-          "publisher": "Investify",
-          "published_at": "2026-11-20T17:54:36+05:00",
+          "id": "96e142c2903528d8",
+          "title": "Pakistan seeks South African investment in mining and critical minerals",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPS2d2U2hiWEY3ajFHNGJUSnN3MHJrbV80NnQxWTM5Mmc2ZEMwWFozd1BoWWVOTnMydHhrUEY3X2pER1NQcHRLODNFUkRRRkhUZmtYX1dmdFBhOWIxZHAtdWNROGZxVFNOSVRyX3dJMW1ER3BsY0FNa0NrcUZPTTIwUi15ekEzQkZTc1ZYZW9rRWgwWGlCeUJaSXBtWUdYTEZyX0JrQw?oc=5",
+          "publisher": "Traders Union",
+          "published_at": "2026-11-20T23:42:31+05:00",
           "topic": "business"
         },
         {
@@ -166,11 +182,11 @@
           "topic": "business"
         },
         {
-          "id": "96e142c2903528d8",
-          "title": "Pakistan seeks South African investment in mining and critical minerals",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPS2d2U2hiWEY3ajFHNGJUSnN3MHJrbV80NnQxWTM5Mmc2ZEMwWFozd1BoWWVOTnMydHhrUEY3X2pER1NQcHRLODNFUkRRRkhUZmtYX1dmdFBhOWIxZHAtdWNROGZxVFNOSVRyX3dJMW1ER3BsY0FNa0NrcUZPTTIwUi15ekEzQkZTc1ZYZW9rRWgwWGlCeUJaSXBtWUdYTEZyX0JrQw?oc=5",
-          "publisher": "Traders Union",
-          "published_at": "2026-11-20T23:42:31+05:00",
+          "id": "105d3f465245e0fd",
+          "title": "ARMG Company Announcements - ARM Green Industries Ltd",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5FcVlHVkNiRVJua0dqbDBFUE8zWUpCZ0xaSlJJSkY5VGdtcGhWLUFmX3FmLTlZLTFTajFhd2I3eXZqZjFSc1RPSTRmWmtmcjRkcGdncDF0c1RJZUxoZTVtcA?oc=5",
+          "publisher": "Investify",
+          "published_at": "2026-11-20T17:54:36+05:00",
           "topic": "business"
         },
         {
@@ -182,14 +198,6 @@
           "topic": "business"
         },
         {
-          "id": "de807078f3fa5ecd",
-          "title": "Pakistan & Sweden hold talks to modernise Bilateral Investment Treaty",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVXNadzZxd01Sb1dCU3ZiSW9JNlNJMTBiQnZOd0dDa2R2STNTYjNYeVZOUExKNnotZUR3SkEwdlJ2bVpkaTkwRldQM0pfMGZzbHRKcUxCSkxfZ0NpUm13UnBHU3hrcnhPbm1XRk9BUHFpTE1wUy04d2lhZVlrRHI5dGtKcUYyT2R6M1ZfRVN4RXJXTGVOc2NMVHltTHU3RFZ4TWZJQVBxN1FoNkNwV3ZRMUI1Z0U?oc=5",
-          "publisher": "Investify",
-          "published_at": "2026-11-21T10:35:26+05:00",
-          "topic": "business"
-        },
-        {
           "id": "e6722b782eff59ee",
           "title": "SURAJ Company Profile - Suraj Ghee Industries Ltd",
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE84OTVBaHFkeGZpcmNIZDM5SVo5WVRaZVB0bUlYSFFQNm10dW5TdnprTFc2R3RlZXdpbVdQTk1qYmpOMVNpbGNXTkw0UFJpX296LUk3S2VSV1V4dw?oc=5",
@@ -198,7 +206,7 @@
           "topic": "business"
         }
       ],
-      "fetched_at": "2026-11-22T01:58:34.240895+05:00"
+      "fetched_at": "2026-11-22T09:13:02.439089+05:00"
     },
     {
       "id": "trade-2026-11-21",
