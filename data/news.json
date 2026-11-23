@@ -1,23 +1,245 @@
 {
-  "checked_at": "2026-11-23T02:09:10.368635+05:00",
+  "checked_at": "2026-11-23T09:17:47.909043+05:00",
   "checks": [
     {
       "topic": "economy",
-      "status": "failed — previous dated posts retained",
-      "reason": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "topic": "business",
-      "status": "failed — previous dated posts retained",
-      "reason": "HTTP Error 503: Service Unavailable"
+      "status": "updated",
+      "headlines": 8
     },
     {
       "topic": "trade",
-      "status": "failed — previous dated posts retained",
-      "reason": "HTTP Error 503: Service Unavailable"
+      "status": "updated",
+      "headlines": 8
+    },
+    {
+      "topic": "business",
+      "status": "updated",
+      "headlines": 8
     }
   ],
   "posts": [
+    {
+      "id": "trade-2026-11-23",
+      "topic": "trade",
+      "date": "2026-11-23",
+      "title": "Trade news briefing · 2026-11-23",
+      "context": "Trade and customs developments can affect landed costs and delivery times. Check the original notification, effective date and product classification before applying a reported change to an item.",
+      "headlines": [
+        {
+          "id": "8eb9cb577b6ac9cd",
+          "title": "Import Export Compliance Pakistan: A 2026 Guide to Customs, Tariffs and Trade Remedies",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdUN0Ry1UelhIT0VFOFB3QXJ4bERpVy00dThjdmpybFVVY1F5clViWTlXWE1kYkpnTUNodHlSYTUtaUdNR2d0OVVRRk5TREUzOFVXVU5ROTloSWxWcmJNTHVzeU1TUl9fcnFaYTNaMmRyMjA4T0dhOUNPbURWZUpjWU12NU9yVUpScXJB?oc=5",
+          "publisher": "Global Advisory Experts",
+          "published_at": "2026-11-22T12:32:34+05:00",
+          "topic": "trade"
+        },
+        {
+          "id": "bdb6647f8e3511fc",
+          "title": "Textile exports rise 6.35pc in July-October",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE51M3JrbFZoZk4tajN4NDBSTzQ0Z2ZDb2tpdEtJSVZQbE5XM3p4LVpCX1UyakEwZmNpem9HVTk1TEloS08wRllCTw?oc=5",
+          "publisher": "Dawn",
+          "published_at": "2026-11-22T05:11:41+05:00",
+          "topic": "trade"
+        },
+        {
+          "id": "ba6fb75dd5169e32",
+          "title": "Pakistan issues third wheat import tender for 800,000 tonnes",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMk9RZUhNdVdEdy1BZURjN1BkSU5QR1pzdjZSM3pLS1V0aUViazZEVkFIMXM1QXNselF3b2NsUUNPckI3S0o4cUR1NjRuaHRvS2JVeTZWX3NtMnh4a0xwSGlPay1jb1ZEWWppclRBSjJ4dVZZbGdGRGI3OWh3aEROZU9CZHlKVF9kcFl3UWhnVlBKbmV2WGUzT3ZDSG5Rb3VYQVYwTVBn?oc=5",
+          "publisher": "Investify",
+          "published_at": "2026-11-23T07:40:00+05:00",
+          "topic": "trade"
+        },
+        {
+          "id": "d3f7c40b0a466b70",
+          "title": "VASP Licensing Pakistan: PVARA Crypto Licence Guide",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNU2lpdGhxaFZaaTBRblJTaHh4d2dISmxoVXVnTTc3bWJZd1BIa3Ixbk1XQ1F4SzJKWGF5VEpqblZTNlVFUWJyUm8zb3F5OTNOVWZFN2tVeGVJUGpfRlZuLUROSjNwWHE1UWZXR3dlajBvamZUN2tGRFd6aTJMZUNsanZFTmRQTHdWZlZrd0tVMGRGa3M?oc=5",
+          "publisher": "Global Advisory Experts",
+          "published_at": "2026-11-23T05:52:39+05:00",
+          "topic": "trade"
+        },
+        {
+          "id": "b94dba1978390cd3",
+          "title": "IMF Urges Pakistan To Pursue Export-Led Economic Growth",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUW1EVUk3ZEx2SXB6dnliX3JJckVpVWFsb1BES2wwOTRGTlpQQlA3RVdtNVVSR3gxRDBlZlRLWGVoemgtdzV1N2pTcnIxeEpwMGVla1hvUUFNTURoWWRHVk5YOWlQRTdPZVZIWm9HMkdRTmdDc1Q5ZWFXRDBvd1FnamotZXk1TzJCR2hBVHlnRjJ0VFBzUEQ2R3lzTQ?oc=5",
+          "publisher": "The Friday Times",
+          "published_at": "2026-11-21T11:00:00+05:00",
+          "topic": "trade"
+        },
+        {
+          "id": "1a34f45a7414f4f8",
+          "title": "Bosnia's trade deficit widens 12% as fuel import bill jumps by half",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNXzUyRnZQTHN2RzluLXB2NGJsUGxydVNTNlZxMnBFUmR2Nm9qZ1N4SmpPOUwzSUZ4Q05SVlJRR2RmWnRlYzlNYmt2Q3NBaGt0NHd0N1dHUzFpLU0yaDRUbFFqYkRSbGxEQnNvOGMtQU5CNXFmc0VFbDRnRWVsRUFoNGpqUTV5bWxERERyVjV6dU5YQ2ZMdERGQUFSbXg5UURSMDFoYQ?oc=5",
+          "publisher": "bne IntelliNews",
+          "published_at": "2026-11-21T23:10:31+05:00",
+          "topic": "trade"
+        },
+        {
+          "id": "42a0650d8f72a641",
+          "title": "UK pork exporters face uncertainty as Philippines import ban threatens trade outlook",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOSDBsTlZSVzNKeE9aY216SG1EWGJmWDVyMl9DODVZOTFOenhCRF9DT3BmYzIxeXZLeFpiVXEzaTFXN3U1X003Yk9hazhIZVNYQnEyN2FIaTl4ckNxZHkydkNRZ3R5dlJpM0JGamc3M3h2ZklwRFJUQk4xa09MaXp2WjF3MENoQ003TGtlSQ?oc=5",
+          "publisher": "Traders Union",
+          "published_at": "2026-11-22T18:41:21+05:00",
+          "topic": "trade"
+        },
+        {
+          "id": "b47ec2716dc7e363",
+          "title": "Rising LNG Import Costs In Bangladesh | Falling gas output fuels costly LNG dependence",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOM0Q5Z3RLVThTaEtDUW5LaTZ0VFkzSk5zbDVzZElmYnlIc1NwZGZoMmV3SG5jSTFXMko5X2ZhbXFPX2F4LVFHcEFqYjhOSmIySlpyY245WHJzMlBDSVlNWHpLdF92ZkRJczFDa1c1Z2VJUkRFb1FGT3NkbGk5Nm9uYnVLakl6MUhjdHM3ek9MVlZ0R2xBekJMQVo3d0ZzUkt3dlNNNWhaLU4?oc=5",
+          "publisher": "The Daily Star",
+          "published_at": "2026-11-22T15:47:37+05:00",
+          "topic": "trade"
+        }
+      ],
+      "fetched_at": "2026-11-23T09:17:47.909043+05:00"
+    },
+    {
+      "id": "economy-2026-11-23",
+      "topic": "economy",
+      "date": "2026-11-23",
+      "title": "Economy news briefing · 2026-11-23",
+      "context": "Watch how inflation, currency movements and borrowing costs may affect household budgets and import costs. A headline alone does not establish that a retail price has changed.",
+      "headlines": [
+        {
+          "id": "59d3b467e7646d4f",
+          "title": "Stocks end lower as political uncertainty halts recovery",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1qczFoalNsNkI3aHNqX2Y5Sm5lMTAxX2VPMGNvQURmRjJCRGJyZ0tjamNSUUJfRkgyWUQwUzNENV9rNy1IRmJHVQ?oc=5",
+          "publisher": "Dawn",
+          "published_at": "2026-11-22T05:11:41+05:00",
+          "topic": "economy"
+        },
+        {
+          "id": "9d1aa1b07af6727e",
+          "title": "Gold, silver outlook: Bullion may remain under pressure as US inflation data, Fed signals loom",
+          "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNWkNuYlhtTjA5OHpmN3lJUzB3Q3EzQmlESnJnVnk4dDRrV0tqbWV5OTNpX3hYN1FIX3U4VDhEcl9IZmZzZlVSa19GVzczX2dsNFg5d3hRQUNza3RWekk2MlhudThiaFR1TmF2dTVmTFo4bENINV9HTDBEVDFOV014M1NNNURVRTRjLUI4M0ltTFpSa3FSWDJnZk90cFAzMlZVLW0wUjZ5VkpVVEg3TWtaYkJKODgySjhjaUhNOU9ZT3NtT3J0bm9tNW52d1ZqVXh2MldSZzRVVmV2V0wzSHVmbl9EV0FGeFNDcFA0NFByQy1CNnBOTFVUTFJpS1VNMXN4VXRVZkFzX1_SAY4CQVVfeXFMT3d6b2NLZl9CcGZlakg1ZGRTQmpCVnJWa1pfOXBEVmdnbmxoZkJGS25RNXNIMlkxckpYOVRhNjhhbVdzZEVNM3JmNTZIS1EzcUJUb29heDRxLTE0VW4yNDNrY0Rqb1IyOE9UX3BkcGcteDBvTnZkSXdaT1lDLUlJUWVsZUxlbzdYNnFCU2Y5UkpqMDZjY3hUSkVLZjZLUTA5VlBuLW9CNlQwQmpOMGo5X1hNV1Q3TDF2LTdmZUljUFZwbnNqNHl4bUpJNEpZUnVla0xYV3ZwSUtkaW5NZHBjNkVRWHZIaUtWeG45NFVtSDQtSmFNMWhLUEkzczR6cVh4ZGYzSUhkcmE2NnNaeDRn?oc=5",
+          "publisher": "The Times of India",
+          "published_at": "2026-11-22T21:50:00+05:00",
+          "topic": "economy"
+        },
+        {
+          "id": "7799e1e85322d536",
+          "title": "Marginal gains maintain momentum",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5kMWtLbXJnNkpLRXk0YVh4SjVqeWFtOVdLd19NdTl0dld6dFowcUFKNVFWUk5lTUhsUGYyc1l3bzdvbzQ0X2hiYjBxSlNPdGduVEt2Z3d30gFWQVVfeXFMTmQxa0ttcmc2SktFeTRhWHhKNWp5YW05V0t3X011OXR2V3p0WjBxQUo1UVZSTmVNSGxQZjJzWXdvN29vNDRfaGJiMHFKU090Z25US3Znd3c?oc=5",
+          "publisher": "Business Recorder",
+          "published_at": "2026-11-23T04:48:34+05:00",
+          "topic": "economy"
+        },
+        {
+          "id": "06b8dd94d83a54cd",
+          "title": "Dubai No Longer a Preferred Investment Destination",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSnJVVmxrOVN3SUFvWndYeXRfY1hKV3lKaElFTk5fYTZZREpmWDZWblpWTDRxUDB3U2ozNEcxbjlwRmRBS0cwV2V0aDFydlBQRDFrR0xhRVVjY000c3BHMFVNX2s2bEhNZnZRWWwtX1hXNVMxYXRial9fOEtqQmZHUUVBNGlHbVF6S0s4M2Nsc9IBlAFBVV95cUxPdENrVVE1eTllZE5ublVHUVVhT09NMGgyc0hyNjdLVldBOVFqbUF5YVFUemJUaFF3MDJGTFRvOHNWTFdjS3U2WThLc0V5OUkwakF1Zkt4amNrREFJVFh1U0lvV2h5Q29ORjYwUi00bktlQmc5Y3I5U1JYcTNfUmpORjZscC00cWoyVUFmN2lXREpuck1R?oc=5",
+          "publisher": "ProPakistani",
+          "published_at": "2026-11-22T12:17:52+05:00",
+          "topic": "economy"
+        },
+        {
+          "id": "9163a3966bcac1db",
+          "title": "Gold Prices Pakistan Drop Sharply amid Global Market",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSUc3cjVZVmxKTjJGOGdqdVl5RElrLXZNeFlkZURmVGtPak5xMTlYUGZ2YWt4U0FyX2MzLXAtenBvVVNObU1YRFRLU3ZONGNWSXRyRjQ4alpaNGVRXzVMRFUxQUpJTmhyQnlLbXNKMlFFc3BDX2k3RU81NFBIWUlBOWhQSTJPT2pOXzdXOHJ3?oc=5",
+          "publisher": "NewzTodays",
+          "published_at": "2026-11-22T20:51:21+05:00",
+          "topic": "economy"
+        },
+        {
+          "id": "5106e3e54ced7750",
+          "title": "Gold Investors Have Lost Rs. 2 Lac Per Tola Since January",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVy10VDd1QjZCc05GWHZvNVBTWGIwcGVtcHA5cmhBYV80Q09BZXZET2pNWTBsakdVQXhjNGZJc3RLMkpDdVFkdzJRcm9kNVNuUllXejFURm01TGh1ZkNZamQ1cUE3OVVoWXI1d3pMelRILTJ3cEhrWVNVMkJIRmFRVHVFSzNGWGhzaVBRRjMtZkNlNmhaZzVj0gGcAUFVX3lxTE50TlgyNV9PTEFsMUxUNFVmS3FOQzJqZEpTbkFobEJTcWM0V3B0Uk9nTXVKd0dQWU5kcG9hQXFUYXdTQUF1SEM2dkNza2lXQVo5d1k1YUN1bDJDTmYyLXlaYm9PTC1UZlhNbWRHckpQdmxCNGxYRnpxSEVTdVN1THVOTFRIV09wSVBRbDFnMUEtd01YaHRuN19LaS1FRw?oc=5",
+          "publisher": "ProPakistani",
+          "published_at": "2026-11-22T09:59:57+05:00",
+          "topic": "economy"
+        },
+        {
+          "id": "15c9ae6555010d5f",
+          "title": "Nifty scales nine-month high, 26K in sight: 5 triggers that could drive or derail D-Street rally this week",
+          "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPY2REdUZvVjhpeUhFMGlRR1ltSXliSW1ITFVTVVEtNGI5NVM3TU8wUU9fTnJ5dXRmdEVxcWFMRzRBRFZBX1I0QXRRRVdESlJSbXRGYTdjN1c5cWFxbFd5eF93cVFGdGg5QURFZFh0SFROUXEtc1QweHBqblV6UElPVHhXODNsQXpJdzNFcjFYckR2SFZkVk5VZEsxYl85VDN1VmtqR3Zia3NCSjNPczV0XzJ2ZDhoR3V1ejNlLUhRYUVuUnBUeC1GNGpRWGtRSWRWaGxpZ3lWb1QyVlZ1eHZRQUI3ak4tclZoaXRyUDA5eXpDdkhQc2NrQzdXQdIBgAJBVV95cUxNNURhSHVPallUbjFwaGtkTHo0dzJIVlBBOVdmem1KUC1uLVVFcUpydTYyRUg4SjloZHBpcXVvUXFubHVIRlVuNU9TTkUwVXpkRFdKYWt2aWpaSl9Rc3N1cUg0ZXpyZGFwbHJQUHR5NTJkRlpscldZTUFQREZjbkRQbWMtZmZhYkFXWGF1OFU1N1ZRYnRJa0lmdlJoRElLcEp2MHBFbU5qeDNzVC1MTmFPYU1ZendJNDduQmNmcFJuZmFRdG0wbWY0U2JVd1lLOWt6YnlkeFFodjc4Wi1GSGJlRUs3TXNtM3VYUE1LOWVSQnNyUHV6MGFOZTVRcVpmM3Vs?oc=5",
+          "publisher": "The Economic Times",
+          "published_at": "2026-11-22T09:39:09+05:00",
+          "topic": "economy"
+        },
+        {
+          "id": "f085e0212ce53c27",
+          "title": "Stock market outlook: FII flows, US inflation, crude oil among top factors to watch next week",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNUEJVYzNtdFR1ZEQyc2F4djZwMGJqeWNURUk4RHRmUmh2QnEyTWFvTm5CMHBCWDZCNEt3eWFMSlQ1VC1YN1A5Rl85cjBEbGNxTkRwMzUyaHdsVHZudXpiOTVPR1F0QVpGbERPT0ZJZzdONE52b0doNUI4WG9sRXprVExadEF3d3QtRUJ1bVktZkN4NkJXS3E1NXRzR0VPLURqdFR1bWZ2SFJkNUhERlI2UEZaNWR3LXlWMUd5Umt5RXhWanZCQ08zYnVBUGp3QWdVeFJUR1VNR09mLVREaEs4?oc=5",
+          "publisher": "The Hawk",
+          "published_at": "2026-11-22T11:08:12+05:00",
+          "topic": "economy"
+        }
+      ],
+      "fetched_at": "2026-11-23T09:17:47.909043+05:00"
+    },
+    {
+      "id": "business-2026-11-23",
+      "topic": "business",
+      "date": "2026-11-23",
+      "title": "Business news briefing · 2026-11-23",
+      "context": "Company and industry developments can affect supply, stock availability and competition. Compare dated supplier offers before making a purchase decision.",
+      "headlines": [
+        {
+          "id": "098fcb9412c56843",
+          "title": "Five largest banks control 57.3% of Pakistan's banking assets, SBP data shows",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNYWVXT0c1OTN5OHZmUmhYWmtZOVB2WEFHMzdRNktRYlVaVnR2Qy1mYkJxdGNXVDhmWUctYlhYTTEyQzUxRkt2bWxVNUtObkZUWHNxeEdPNmZDU3BmN2RrSFE1OC14RHA1MGIzVFZiRjdZQjBhYzlzSHVCS21zZFJrd1VhNE9SbUNENjZZWDFkMEQ2RmUtZVNDekRFQ2lVRXhkNEZleEpvR3k3bnNfaXktbndrdEpKQ1JkQlE?oc=5",
+          "publisher": "Investify",
+          "published_at": "2026-11-23T08:00:00+05:00",
+          "topic": "business"
+        },
+        {
+          "id": "f90c4f46a8d7405d",
+          "title": "Pakistan, Portugal explore trade and investment cooperation across key sectors",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPVlZBNkZSZDF4UzRMaC16TnN3NnRkV3VXejUzRzVrQlZJVnEwd1lDc3RZak9RR1hKdHZKY0hPTmJYVlo2cnprTFM5dVByeEdkN3NmX25vRUlBeFBiSV9PMTBrVUpES0pQekdxdHdmR3dPQnItb1JwdF82UGRicTdTNVhOeFRuM0FTbjdZMWNJeXRHcG0tYTNQUTZuV0VtQ200cTRGY2NFOGQyWVUwYVAxOHlqSEhMbnB4M2FqdQ?oc=5",
+          "publisher": "Investify",
+          "published_at": "2026-11-22T17:21:51+05:00",
+          "topic": "business"
+        },
+        {
+          "id": "17a17e29a739d373",
+          "title": "Portugal’s foreign minister visits Pakistan to boost trade",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUGdVc3BmbC1ETVZsSXpzS3Vzb0dNcXFqZ0luMHNmY1plS2VyM2NqeXVhVlB2LTRzQkxodF9FZndGaU9KX3p1QWpwdGN5WWlKcHQ5Vkc3c2Z6SUdhamloeDAyNjlTVEw4UndWZ1VyQ25mdGhIcnZQUUxEN08tYmw4ck5rWkJydlQwcFVSdUV1aDRDSmlDRkZ5bg?oc=5",
+          "publisher": "Minute Mirror",
+          "published_at": "2026-11-22T12:40:27+05:00",
+          "topic": "business"
+        },
+        {
+          "id": "b94dba1978390cd3",
+          "title": "IMF Urges Pakistan To Pursue Export-Led Economic Growth",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUW1EVUk3ZEx2SXB6dnliX3JJckVpVWFsb1BES2wwOTRGTlpQQlA3RVdtNVVSR3gxRDBlZlRLWGVoemgtdzV1N2pTcnIxeEpwMGVla1hvUUFNTURoWWRHVk5YOWlQRTdPZVZIWm9HMkdRTmdDc1Q5ZWFXRDBvd1FnamotZXk1TzJCR2hBVHlnRjJ0VFBzUEQ2R3lzTQ?oc=5",
+          "publisher": "The Friday Times",
+          "published_at": "2026-11-21T11:00:00+05:00",
+          "topic": "business"
+        },
+        {
+          "id": "387d6214e8458215",
+          "title": "Portuguese FM Paulo Rangel Visits Pakistan as Countries Mark 77 Years of Diplomatic Relations",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQ2k5QkJDOXVZM2FSZzE5YXYzb2Y2cVFoLUo2ZzZDQm9CQWhqbmJ6eS1XOHBhcm5HVXJGc2VFVVY5MGJVcUE0MEFVVGQ1UEhqVVNTamtkdGNwdzlFZVJ5MzJoVV9GWTFPeURpN0Z5alNXTGdhMk5SeG1rLVhxY2c5RVNEZlN0QS1WQ28wM3Z0Y09XOWJtWEs0?oc=5",
+          "publisher": "The Diplomatic Insight",
+          "published_at": "2026-11-22T11:25:18+05:00",
+          "topic": "business"
+        },
+        {
+          "id": "c98c72d492831aa6",
+          "title": "Portuguese firms invited to invest in Pakistan",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbnZwdm9acjd1eHYtT2J6T1RHTUlLbHdvZnBmVm5oTnVob0xzd0FiQllJVm1KWHAwNndnUmcwN2hnSnhNN3k1TDRqaXBweEpYWU1EV0FzdUlGTTVZSTliWWJVcExWRElfdXdkUW9ISHN3ZWxEaTZuSko0bU5aQzIxVWozdHdhMnlEbnRjQVRoLXB4XzQ?oc=5",
+          "publisher": "Investify",
+          "published_at": "2026-11-22T07:26:05+05:00",
+          "topic": "business"
+        },
+        {
+          "id": "3956ee4917ec4c95",
+          "title": "Oman, Uzbekistan establish joint business council to boost trade and investment",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSHcxeF85TV9KbWxSNURzYVd5a1pzaVdDOFVJQS1ZV3lFSW9LQmxrWjhUb1dyNUN0WVlucExQdng2a00tZms5TV9LZ09CNlBqVXgySGpYWUVTMjRLOXV0UkRYdVRMbW1yUzdCOExLZXotNlduMVpiVElMbXp5M0RfSFJ0RjhRRkRMQkhmeTRYa1ZWTDZVUFpudDBlWnU5MHk2bk43YjBFZl9TXzFUNC1EY2VPOU1ySXky?oc=5",
+          "publisher": "Times of Oman",
+          "published_at": "2026-11-21T16:30:00+05:00",
+          "topic": "business"
+        },
+        {
+          "id": "a3b0577764dc4361",
+          "title": "MG Morning Breeze: Updates to Skim before Market",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPQ2RqMGxaV2JIR1Fva1B4VWJPc05LU0pXSVhZNVdpX3VVY01WMmVPZmhvRzg2TktZakRJRDBzRkpCbEQ3LXpfTUtKV1lYNmx3dHFKTXJ1NHdSdlFsRTA1SWh6M2RKSWFSSnVmNUpQR0RxYi1RU0pzWTBQOHVlcGZNXzNDTzdYUQ?oc=5",
+          "publisher": "Mettis Global",
+          "published_at": "2026-11-23T06:00:00+05:00",
+          "topic": "business"
+        }
+      ],
+      "fetched_at": "2026-11-23T09:17:47.909043+05:00"
+    },
     {
       "id": "trade-2026-11-22",
       "topic": "trade",
