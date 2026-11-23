@@ -1,6 +1,6 @@
 {
-  "started_at": "2026-11-23T13:26:40.267790+00:00",
-  "completed_at": "2026-11-23T13:27:01.737769+00:00",
+  "started_at": "2026-11-23T16:16:02.631032+00:00",
+  "completed_at": "2026-11-23T16:16:28.155462+00:00",
   "status": "partial",
   "timezone": "Asia/Karachi",
   "scheduled_times": [
@@ -11,49 +11,49 @@
     {
       "name": "collect.py",
       "status": "completed",
-      "elapsed_seconds": 4.2,
+      "elapsed_seconds": 3.2,
       "detail": ""
     },
     {
       "name": "download_sources.py",
       "status": "failed",
-      "elapsed_seconds": 0.3,
+      "elapsed_seconds": 0.4,
       "detail": "  File \"/opt/hostedtoolcache/Python/3.12.16/x64/lib/python3.12/pathlib.py\", line 1027, in read_text\n    with self.open(mode='r', encoding=encoding, errors=errors) as f:\n         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/opt/hostedtoolcache/Python/3.12.16/x64/lib/python3.12/pathlib.py\", line 1013, in open\n    return io.open(self, mode, buffering, encoding, errors, newline)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\nFileNotFoundError: [Errno 2] No such file or directory: '/home/runner/work/pakistan-price-watch/pakistan-price-watch/raw/karachi.html'\n"
     },
     {
       "name": "ingest.py",
       "status": "completed",
-      "elapsed_seconds": 1.1,
+      "elapsed_seconds": 1.5,
       "detail": ""
     },
     {
       "name": "expand_fetch.py",
       "status": "completed",
-      "elapsed_seconds": 1.4,
+      "elapsed_seconds": 2.0,
       "detail": ""
     },
     {
       "name": "expand.py",
       "status": "completed",
-      "elapsed_seconds": 1.0,
+      "elapsed_seconds": 1.5,
       "detail": ""
     },
     {
       "name": "commerce.py",
       "status": "completed",
-      "elapsed_seconds": 7.4,
+      "elapsed_seconds": 10.4,
       "detail": ""
     },
     {
       "name": "partner_sources.py",
       "status": "completed",
-      "elapsed_seconds": 4.3,
+      "elapsed_seconds": 4.9,
       "detail": ""
     },
     {
       "name": "extra_sources.py",
       "status": "completed",
-      "elapsed_seconds": 1.5,
+      "elapsed_seconds": 1.4,
       "detail": ""
     }
   ],
@@ -84,7 +84,7 @@
       "url": null,
       "status": "verified",
       "detail": "parsed",
-      "quotes": 138
+      "quotes": 137
     },
     {
       "source": "PBS weekly city prices",
@@ -616,7 +616,7 @@
       "url": "https://chasevalue.pk/products.json?limit=100&page=1",
       "status": "verified",
       "detail": "parsed",
-      "quotes": 773
+      "quotes": 745
     },
     {
       "source": "Chase Value",
@@ -630,7 +630,7 @@
       "url": "https://www.naheed.pk/groceries-pets",
       "status": "verified",
       "detail": "parsed",
-      "quotes": 48
+      "quotes": 47
     },
     {
       "source": "Naheed",
@@ -679,7 +679,7 @@
       "url": "https://metro-online.pk/",
       "status": "verified",
       "detail": "parsed",
-      "quotes": 207
+      "quotes": 208
     },
     {
       "source": "Foodpanda / Kifayah",
@@ -731,9 +731,9 @@
       "quotes": 30
     }
   ],
-  "total_quotes": 24466,
-  "verified_quotes": 5849,
-  "changed_prices": 176,
-  "new_quotes": 423,
-  "retained_quotes": 18617
+  "total_quotes": 24469,
+  "verified_quotes": 5819,
+  "changed_prices": 12,
+  "new_quotes": 3,
+  "retained_quotes": 18650
 }
