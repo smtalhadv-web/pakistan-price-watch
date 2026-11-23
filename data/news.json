@@ -1,10 +1,10 @@
 {
-  "checked_at": "2026-11-23T09:17:47.909043+05:00",
+  "checked_at": "2026-11-23T18:27:03.516321+05:00",
   "checks": [
     {
       "topic": "economy",
-      "status": "updated",
-      "headlines": 8
+      "status": "failed — previous dated posts retained",
+      "reason": "HTTP Error 429: Too Many Requests"
     },
     {
       "topic": "trade",
@@ -34,63 +34,63 @@
           "topic": "trade"
         },
         {
+          "id": "ddc89687d095f90a",
+          "title": "PTI questions sugar export approval, seeks audit of import deal",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5pSkJERWFaeUg4VlNqV3NaN05BVzZSb2Z0ODRkRFJmRVR6MU1vNHlwcm5lUWUxNzgxYWxZVGZWVk9jS2xNQmZJVA?oc=5",
+          "publisher": "Dawn",
+          "published_at": "2026-11-23T05:03:37+05:00",
+          "topic": "trade"
+        },
+        {
+          "id": "6d597f599b9ef82b",
+          "title": "Pakistan's mobile phone import bill falls 7.2% in first four months of FY27",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMGlyU2JOeTB3dGJoVmw0dnV0TEtqMG42aDlPZ3VycEJwZTA1a3JxUWhocjNUR1hfcm90WUxocjlrdXNuckJBVVZKajNIUXFYbGpUU1duckJSUmluOEpNU0M5dmRjbm9JYjIxcTFwYS1lSXVxaW5CUjB6R1YtQUdIUm4yN1ZBaUJCLTBsMFEyYWlvYkdVMVlOaGRVbUJMN2dkQkpXWWNiMFVFNVFZX3BhOXI3TDJMNVNx?oc=5",
+          "publisher": "Investify",
+          "published_at": "2026-11-23T13:13:45+05:00",
+          "topic": "trade"
+        },
+        {
+          "id": "b74eb4fad0c3c48c",
+          "title": "Major Commercial Laws in Pakistan: A 2026 Guide for Business Owners",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbVlqandRdGJQYVd2ZjV5Sm93Q1c0X2N6M3ZaM0FTd0xMQVZ5YnM5ajNua1NXNFhHT1BublA1d2ZTOGg5bExoS29PTXYxcUVXWHVfY3hZT0VRSjZoY19OOFVMNHJJMGxjd3JQcW42WGc5Z0laOF9fX2RyRVpfdTBsalVPUWVhSzA?oc=5",
+          "publisher": "Global Advisory Experts",
+          "published_at": "2026-11-23T09:30:24+05:00",
+          "topic": "trade"
+        },
+        {
+          "id": "c12226ee2f6bf70e",
+          "title": "Pakistan's oil import bill rises 9.34% to $5.63 billion in July-October FY27",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQLTF4dGJBT1JKOGpWcVFDU1JEbExwZGFOazVNeGtYTDNYVC1YamRoOUZDaThVVGpCOUFYeklHd0szU3NGRzVLLVk4S2FtWkp0eFBGcDNSYzRSMXVBQk1ESENEeG9IYXprb05LNGFlQXo3bGZ4ekNkZ2hxNDh4WGdQTWR4eHhhR2o3LXFQam0xUjVOaFlMQWVUaS1HRG9Qa2V2WEdmeTE3UmNkc05taXFPRUxLYk8zM2lk?oc=5",
+          "publisher": "Investify",
+          "published_at": "2026-11-23T11:06:42+05:00",
+          "topic": "trade"
+        },
+        {
+          "id": "7e9cead926f76c09",
+          "title": "Capitalising on Middle East conflict",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5tRkdPWXZNTFZ1NEU2ajlBVW0xcEUwcmZhMTVLUml6MXF1Z201dWVYd3FPVGZYRGZJazZDejE5Y0hqckFJWUc1Xw?oc=5",
+          "publisher": "Dawn",
+          "published_at": "2026-11-23T15:59:24+05:00",
+          "topic": "trade"
+        },
+        {
+          "id": "8aac7f5c3e705fe2",
+          "title": "Force Majeure Clauses Pakistan 2026: Hardship and Price Escalation Drafting Guide",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPeUtYWXBKS1JLZ3FoOEc5Y0hOVEtvbkhrT2I4Q3VwcWN1aDg2bUl6cXVaM1hER091ME5iZlNlYlhQR2g3MHhXd3JUTTZKUi1JaURJVjVIZ1E1UlRsNFhFMUJJWWx0V1ZhNDNhSXNDR0QxSzQ3QU5tOFZ1X2tMSVpzY25pTDFucy1jNW1jRVFVX1ZvUS1CVW5vM2FCZw?oc=5",
+          "publisher": "Global Advisory Experts",
+          "published_at": "2026-11-23T07:37:39+05:00",
+          "topic": "trade"
+        },
+        {
           "id": "bdb6647f8e3511fc",
           "title": "Textile exports rise 6.35pc in July-October",
           "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE51M3JrbFZoZk4tajN4NDBSTzQ0Z2ZDb2tpdEtJSVZQbE5XM3p4LVpCX1UyakEwZmNpem9HVTk1TEloS08wRllCTw?oc=5",
           "publisher": "Dawn",
           "published_at": "2026-11-22T05:11:41+05:00",
           "topic": "trade"
-        },
-        {
-          "id": "ba6fb75dd5169e32",
-          "title": "Pakistan issues third wheat import tender for 800,000 tonnes",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMk9RZUhNdVdEdy1BZURjN1BkSU5QR1pzdjZSM3pLS1V0aUViazZEVkFIMXM1QXNselF3b2NsUUNPckI3S0o4cUR1NjRuaHRvS2JVeTZWX3NtMnh4a0xwSGlPay1jb1ZEWWppclRBSjJ4dVZZbGdGRGI3OWh3aEROZU9CZHlKVF9kcFl3UWhnVlBKbmV2WGUzT3ZDSG5Rb3VYQVYwTVBn?oc=5",
-          "publisher": "Investify",
-          "published_at": "2026-11-23T07:40:00+05:00",
-          "topic": "trade"
-        },
-        {
-          "id": "d3f7c40b0a466b70",
-          "title": "VASP Licensing Pakistan: PVARA Crypto Licence Guide",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNU2lpdGhxaFZaaTBRblJTaHh4d2dISmxoVXVnTTc3bWJZd1BIa3Ixbk1XQ1F4SzJKWGF5VEpqblZTNlVFUWJyUm8zb3F5OTNOVWZFN2tVeGVJUGpfRlZuLUROSjNwWHE1UWZXR3dlajBvamZUN2tGRFd6aTJMZUNsanZFTmRQTHdWZlZrd0tVMGRGa3M?oc=5",
-          "publisher": "Global Advisory Experts",
-          "published_at": "2026-11-23T05:52:39+05:00",
-          "topic": "trade"
-        },
-        {
-          "id": "b94dba1978390cd3",
-          "title": "IMF Urges Pakistan To Pursue Export-Led Economic Growth",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUW1EVUk3ZEx2SXB6dnliX3JJckVpVWFsb1BES2wwOTRGTlpQQlA3RVdtNVVSR3gxRDBlZlRLWGVoemgtdzV1N2pTcnIxeEpwMGVla1hvUUFNTURoWWRHVk5YOWlQRTdPZVZIWm9HMkdRTmdDc1Q5ZWFXRDBvd1FnamotZXk1TzJCR2hBVHlnRjJ0VFBzUEQ2R3lzTQ?oc=5",
-          "publisher": "The Friday Times",
-          "published_at": "2026-11-21T11:00:00+05:00",
-          "topic": "trade"
-        },
-        {
-          "id": "1a34f45a7414f4f8",
-          "title": "Bosnia's trade deficit widens 12% as fuel import bill jumps by half",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNXzUyRnZQTHN2RzluLXB2NGJsUGxydVNTNlZxMnBFUmR2Nm9qZ1N4SmpPOUwzSUZ4Q05SVlJRR2RmWnRlYzlNYmt2Q3NBaGt0NHd0N1dHUzFpLU0yaDRUbFFqYkRSbGxEQnNvOGMtQU5CNXFmc0VFbDRnRWVsRUFoNGpqUTV5bWxERERyVjV6dU5YQ2ZMdERGQUFSbXg5UURSMDFoYQ?oc=5",
-          "publisher": "bne IntelliNews",
-          "published_at": "2026-11-21T23:10:31+05:00",
-          "topic": "trade"
-        },
-        {
-          "id": "42a0650d8f72a641",
-          "title": "UK pork exporters face uncertainty as Philippines import ban threatens trade outlook",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOSDBsTlZSVzNKeE9aY216SG1EWGJmWDVyMl9DODVZOTFOenhCRF9DT3BmYzIxeXZLeFpiVXEzaTFXN3U1X003Yk9hazhIZVNYQnEyN2FIaTl4ckNxZHkydkNRZ3R5dlJpM0JGamc3M3h2ZklwRFJUQk4xa09MaXp2WjF3MENoQ003TGtlSQ?oc=5",
-          "publisher": "Traders Union",
-          "published_at": "2026-11-22T18:41:21+05:00",
-          "topic": "trade"
-        },
-        {
-          "id": "b47ec2716dc7e363",
-          "title": "Rising LNG Import Costs In Bangladesh | Falling gas output fuels costly LNG dependence",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOM0Q5Z3RLVThTaEtDUW5LaTZ0VFkzSk5zbDVzZElmYnlIc1NwZGZoMmV3SG5jSTFXMko5X2ZhbXFPX2F4LVFHcEFqYjhOSmIySlpyY245WHJzMlBDSVlNWHpLdF92ZkRJczFDa1c1Z2VJUkRFb1FGT3NkbGk5Nm9uYnVLakl6MUhjdHM3ek9MVlZ0R2xBekJMQVo3d0ZzUkt3dlNNNWhaLU4?oc=5",
-          "publisher": "The Daily Star",
-          "published_at": "2026-11-22T15:47:37+05:00",
-          "topic": "trade"
         }
       ],
-      "fetched_at": "2026-11-23T09:17:47.909043+05:00"
+      "fetched_at": "2026-11-23T18:27:03.516321+05:00"
     },
     {
       "id": "economy-2026-11-23",
@@ -174,19 +174,35 @@
       "context": "Company and industry developments can affect supply, stock availability and competition. Compare dated supplier offers before making a purchase decision.",
       "headlines": [
         {
-          "id": "098fcb9412c56843",
-          "title": "Five largest banks control 57.3% of Pakistan's banking assets, SBP data shows",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNYWVXT0c1OTN5OHZmUmhYWmtZOVB2WEFHMzdRNktRYlVaVnR2Qy1mYkJxdGNXVDhmWUctYlhYTTEyQzUxRkt2bWxVNUtObkZUWHNxeEdPNmZDU3BmN2RrSFE1OC14RHA1MGIzVFZiRjdZQjBhYzlzSHVCS21zZFJrd1VhNE9SbUNENjZZWDFkMEQ2RmUtZVNDekRFQ2lVRXhkNEZleEpvR3k3bnNfaXktbndrdEpKQ1JkQlE?oc=5",
+          "id": "64ed94d858a353a8",
+          "title": "Neem secures ADB Ventures investment to expand digital payments for Pakistani businesses",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxObW41Rk9SMnRFUFljQXlJQ1VJVEhrS1lvcWtGejRVUm96NFBVekxtOU5KY0x6VmZ4dHVPbjVsMkNYOXZFU3AyVjMyaS12THZkOHB6RkxvT19nZm9JMmtmWlhGZVVoYzZJWTR5UmRGUTFSUmUyWHA0U2o5M2I5VWxaTUVHRDFfMFFHTjdxeE9kRlNuM01IZnJDME9pbUwwRFp3R0tmZ1FHTnYxTUZLMzFWR2M5MjE0aUxMWTRCTVZobGIxVE5kMEtFWlpDVQ?oc=5",
           "publisher": "Investify",
-          "published_at": "2026-11-23T08:00:00+05:00",
+          "published_at": "2026-11-23T13:24:33+05:00",
           "topic": "business"
         },
         {
-          "id": "f90c4f46a8d7405d",
-          "title": "Pakistan, Portugal explore trade and investment cooperation across key sectors",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPVlZBNkZSZDF4UzRMaC16TnN3NnRkV3VXejUzRzVrQlZJVnEwd1lDc3RZak9RR1hKdHZKY0hPTmJYVlo2cnprTFM5dVByeEdkN3NmX25vRUlBeFBiSV9PMTBrVUpES0pQekdxdHdmR3dPQnItb1JwdF82UGRicTdTNVhOeFRuM0FTbjdZMWNJeXRHcG0tYTNQUTZuV0VtQ200cTRGY2NFOGQyWVUwYVAxOHlqSEhMbnB4M2FqdQ?oc=5",
+          "id": "ec8a64525e4b75e6",
+          "title": "ADB invests in Pakistan-based B2B fintech company Neem",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9QM2J5bTBEZmFrQVFKREM0dHR6cVpMN1BNRU9oRHdPZ0RKdnlkQ1c4UmdINEpIMS05TGVTbC01Qm82TEViamp6MA?oc=5",
+          "publisher": "Dawn",
+          "published_at": "2026-11-23T12:12:17+05:00",
+          "topic": "business"
+        },
+        {
+          "id": "b74eb4fad0c3c48c",
+          "title": "Major Commercial Laws in Pakistan: A 2026 Guide for Business Owners",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbVlqandRdGJQYVd2ZjV5Sm93Q1c0X2N6M3ZaM0FTd0xMQVZ5YnM5ajNua1NXNFhHT1BublA1d2ZTOGg5bExoS29PTXYxcUVXWHVfY3hZT0VRSjZoY19OOFVMNHJJMGxjd3JQcW42WGc5Z0laOF9fX2RyRVpfdTBsalVPUWVhSzA?oc=5",
+          "publisher": "Global Advisory Experts",
+          "published_at": "2026-11-23T09:30:24+05:00",
+          "topic": "business"
+        },
+        {
+          "id": "83b709ef1644c447",
+          "title": "Fintech Neem secures investment from ADB Ventures to expand Pakistan’s financial infrastructure",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNNHRiendhOUtyeUctdmlTdlpGWFlhbmVBd1k2c1JmMGRSTUJyRXBVVGNpZDhJNmVmd3Z4Qm9JYUt4bnVfR1BXS1pjX2lacTNuTE9sbkNpRkhvTXhXVTQzdHQ5V25mcV9DSlpnNkxhcUtUTVNmTXpHWGkyOElJVWFRenBsbXV2blpiTmgzWDhqcXhCM0xMMHpzeFF6MWNJQVVna3RKY1FvT0lTX3M4QXNDWmZwV3ZRMHluOHRZREs1djJEbkE3VXNaSVUwRGVzdw?oc=5",
           "publisher": "Investify",
-          "published_at": "2026-11-22T17:21:51+05:00",
+          "published_at": "2026-11-23T10:30:05+05:00",
           "topic": "business"
         },
         {
@@ -198,19 +214,19 @@
           "topic": "business"
         },
         {
-          "id": "b94dba1978390cd3",
-          "title": "IMF Urges Pakistan To Pursue Export-Led Economic Growth",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUW1EVUk3ZEx2SXB6dnliX3JJckVpVWFsb1BES2wwOTRGTlpQQlA3RVdtNVVSR3gxRDBlZlRLWGVoemgtdzV1N2pTcnIxeEpwMGVla1hvUUFNTURoWWRHVk5YOWlQRTdPZVZIWm9HMkdRTmdDc1Q5ZWFXRDBvd1FnamotZXk1TzJCR2hBVHlnRjJ0VFBzUEQ2R3lzTQ?oc=5",
-          "publisher": "The Friday Times",
-          "published_at": "2026-11-21T11:00:00+05:00",
-          "topic": "business"
-        },
-        {
           "id": "387d6214e8458215",
           "title": "Portuguese FM Paulo Rangel Visits Pakistan as Countries Mark 77 Years of Diplomatic Relations",
           "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQ2k5QkJDOXVZM2FSZzE5YXYzb2Y2cVFoLUo2ZzZDQm9CQWhqbmJ6eS1XOHBhcm5HVXJGc2VFVVY5MGJVcUE0MEFVVGQ1UEhqVVNTamtkdGNwdzlFZVJ5MzJoVV9GWTFPeURpN0Z5alNXTGdhMk5SeG1rLVhxY2c5RVNEZlN0QS1WQ28wM3Z0Y09XOWJtWEs0?oc=5",
           "publisher": "The Diplomatic Insight",
           "published_at": "2026-11-22T11:25:18+05:00",
+          "topic": "business"
+        },
+        {
+          "id": "63ef5c6e745e1982",
+          "title": "The Monday Roundup: what we are watching this week | November 23rd",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPcnZIalJVRWNtRjRBWFdDeGpyU1VTU2hGbEJGOGlkVjY0YmEzM1hOX2VNN3F4eUkweEg5d2NXU2x1dVF2SXAzSHVvYzBSYTlUdUdpd2FLMEktQnFjSzZfY1VHRm9MN2ctcGcwM3JIMUJkZEhWaFMwdktKOG11aHJmQ3N2c196RGZodXl5bG9pdDVuYW5tMGVOYzlnWWZXeldCSDFPbA?oc=5",
+          "publisher": "IBS Intelligence",
+          "published_at": "2026-11-23T16:36:52+05:00",
           "topic": "business"
         },
         {
@@ -220,25 +236,9 @@
           "publisher": "Investify",
           "published_at": "2026-11-22T07:26:05+05:00",
           "topic": "business"
-        },
-        {
-          "id": "3956ee4917ec4c95",
-          "title": "Oman, Uzbekistan establish joint business council to boost trade and investment",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSHcxeF85TV9KbWxSNURzYVd5a1pzaVdDOFVJQS1ZV3lFSW9LQmxrWjhUb1dyNUN0WVlucExQdng2a00tZms5TV9LZ09CNlBqVXgySGpYWUVTMjRLOXV0UkRYdVRMbW1yUzdCOExLZXotNlduMVpiVElMbXp5M0RfSFJ0RjhRRkRMQkhmeTRYa1ZWTDZVUFpudDBlWnU5MHk2bk43YjBFZl9TXzFUNC1EY2VPOU1ySXky?oc=5",
-          "publisher": "Times of Oman",
-          "published_at": "2026-11-21T16:30:00+05:00",
-          "topic": "business"
-        },
-        {
-          "id": "a3b0577764dc4361",
-          "title": "MG Morning Breeze: Updates to Skim before Market",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPQ2RqMGxaV2JIR1Fva1B4VWJPc05LU0pXSVhZNVdpX3VVY01WMmVPZmhvRzg2TktZakRJRDBzRkpCbEQ3LXpfTUtKV1lYNmx3dHFKTXJ1NHdSdlFsRTA1SWh6M2RKSWFSSnVmNUpQR0RxYi1RU0pzWTBQOHVlcGZNXzNDTzdYUQ?oc=5",
-          "publisher": "Mettis Global",
-          "published_at": "2026-11-23T06:00:00+05:00",
-          "topic": "business"
         }
       ],
-      "fetched_at": "2026-11-23T09:17:47.909043+05:00"
+      "fetched_at": "2026-11-23T18:27:03.516321+05:00"
     },
     {
       "id": "trade-2026-11-22",

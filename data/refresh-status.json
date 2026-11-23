@@ -1,6 +1,6 @@
 {
-  "started_at": "2026-11-23T04:17:24.359489+00:00",
-  "completed_at": "2026-11-23T04:17:47.041212+00:00",
+  "started_at": "2026-11-23T13:26:40.267790+00:00",
+  "completed_at": "2026-11-23T13:27:01.737769+00:00",
   "status": "partial",
   "timezone": "Asia/Karachi",
   "scheduled_times": [
@@ -17,31 +17,31 @@
     {
       "name": "download_sources.py",
       "status": "failed",
-      "elapsed_seconds": 0.5,
+      "elapsed_seconds": 0.3,
       "detail": "  File \"/opt/hostedtoolcache/Python/3.12.16/x64/lib/python3.12/pathlib.py\", line 1027, in read_text\n    with self.open(mode='r', encoding=encoding, errors=errors) as f:\n         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/opt/hostedtoolcache/Python/3.12.16/x64/lib/python3.12/pathlib.py\", line 1013, in open\n    return io.open(self, mode, buffering, encoding, errors, newline)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\nFileNotFoundError: [Errno 2] No such file or directory: '/home/runner/work/pakistan-price-watch/pakistan-price-watch/raw/karachi.html'\n"
     },
     {
       "name": "ingest.py",
       "status": "completed",
-      "elapsed_seconds": 1.2,
+      "elapsed_seconds": 1.1,
       "detail": ""
     },
     {
       "name": "expand_fetch.py",
       "status": "completed",
-      "elapsed_seconds": 1.8,
+      "elapsed_seconds": 1.4,
       "detail": ""
     },
     {
       "name": "expand.py",
       "status": "completed",
-      "elapsed_seconds": 1.2,
+      "elapsed_seconds": 1.0,
       "detail": ""
     },
     {
       "name": "commerce.py",
       "status": "completed",
-      "elapsed_seconds": 7.8,
+      "elapsed_seconds": 7.4,
       "detail": ""
     },
     {
@@ -53,7 +53,7 @@
     {
       "name": "extra_sources.py",
       "status": "completed",
-      "elapsed_seconds": 1.4,
+      "elapsed_seconds": 1.5,
       "detail": ""
     }
   ],
@@ -84,7 +84,7 @@
       "url": null,
       "status": "verified",
       "detail": "parsed",
-      "quotes": 136
+      "quotes": 138
     },
     {
       "source": "PBS weekly city prices",
@@ -476,21 +476,21 @@
       "url": "https://priceoye.pk/trimmers-shavers?page=1",
       "status": "verified",
       "detail": "parsed",
-      "quotes": 26
+      "quotes": 28
     },
     {
       "source": "https://priceoye.pk/trimmers-shavers?page=2",
       "url": "https://priceoye.pk/trimmers-shavers?page=2",
       "status": "verified",
       "detail": "parsed",
-      "quotes": 34
+      "quotes": 36
     },
     {
       "source": "https://priceoye.pk/trimmers-shavers?page=3",
       "url": "https://priceoye.pk/trimmers-shavers?page=3",
       "status": "verified",
       "detail": "parsed",
-      "quotes": 33
+      "quotes": 36
     },
     {
       "source": "https://priceoye.pk/speakers?page=1",
@@ -518,14 +518,14 @@
       "url": "https://mistore.pk/products.json?limit=250&page=1",
       "status": "verified",
       "detail": "parsed",
-      "quotes": 395
+      "quotes": 396
     },
     {
       "source": "https://mistore.pk/products.json?limit=250&page=2",
       "url": "https://mistore.pk/products.json?limit=250&page=2",
       "status": "verified",
       "detail": "parsed",
-      "quotes": 400
+      "quotes": 402
     },
     {
       "source": "https://mistore.pk/products.json?limit=250&page=3",
@@ -616,21 +616,21 @@
       "url": "https://chasevalue.pk/products.json?limit=100&page=1",
       "status": "verified",
       "detail": "parsed",
-      "quotes": 692
+      "quotes": 773
     },
     {
       "source": "Chase Value",
       "url": "https://chasevalue.pk/products.json?limit=100&page=2",
       "status": "verified",
       "detail": "parsed",
-      "quotes": 1049
+      "quotes": 981
     },
     {
       "source": "Naheed",
       "url": "https://www.naheed.pk/groceries-pets",
       "status": "verified",
       "detail": "parsed",
-      "quotes": 47
+      "quotes": 48
     },
     {
       "source": "Naheed",
@@ -651,7 +651,7 @@
       "url": "https://www.naheed.pk/groceries-pets/baking-cooking/rice",
       "status": "verified",
       "detail": "parsed",
-      "quotes": 22
+      "quotes": 24
     },
     {
       "source": "Naheed",
@@ -663,23 +663,23 @@
     {
       "source": "Paklap",
       "url": "https://www.paklap.pk/laptops-prices.html",
-      "status": "verified",
-      "detail": "parsed",
-      "quotes": 20
+      "status": "not_verified",
+      "detail": "fetch failed; dated offers retained",
+      "quotes": 0
     },
     {
       "source": "Paklap",
       "url": "https://www.paklap.pk/daily-deals.html",
-      "status": "verified",
-      "detail": "parsed",
-      "quotes": 6
+      "status": "not_verified",
+      "detail": "fetch failed; dated offers retained",
+      "quotes": 0
     },
     {
       "source": "Metro",
       "url": "https://metro-online.pk/",
       "status": "verified",
       "detail": "parsed",
-      "quotes": 212
+      "quotes": 207
     },
     {
       "source": "Foodpanda / Kifayah",
@@ -714,7 +714,7 @@
       "url": "https://alfatah.pk/products.json?limit=100",
       "status": "verified",
       "detail": "updated",
-      "quotes": 175
+      "quotes": 265
     },
     {
       "source": "Shophive",
@@ -731,9 +731,9 @@
       "quotes": 30
     }
   ],
-  "total_quotes": 24043,
-  "verified_quotes": 5768,
-  "changed_prices": 12,
-  "new_quotes": 10,
-  "retained_quotes": 18275
+  "total_quotes": 24466,
+  "verified_quotes": 5849,
+  "changed_prices": 176,
+  "new_quotes": 423,
+  "retained_quotes": 18617
 }

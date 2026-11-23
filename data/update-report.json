@@ -6,15 +6,15 @@
     ],
     [
       "forex",
-      111540
+      111484
     ],
     [
       "gold",
-      114225
+      112588
     ],
     [
       "silver",
-      105979
+      105056
     ],
     [
       "pso-history",
@@ -50,14 +50,14 @@
     ],
     [
       "appliances",
-      1190575
+      1157647
     ],
     [
       "pbs",
       344844
     ]
   ],
-  "checked_at": "2026-11-23T04:17:30.109051+00:00",
+  "checked_at": "2026-11-23T13:26:45.699044+00:00",
   "sources": [
     {
       "source": "PSO dated fuel archive",
@@ -79,8 +79,8 @@
     {
       "source": "PriceOye published listings",
       "status": "parsed",
-      "observed_records": 136,
-      "new_records": 1
+      "observed_records": 138,
+      "new_records": 0
     },
     {
       "source": "PBS weekly city prices",

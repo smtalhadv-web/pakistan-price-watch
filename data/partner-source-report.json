@@ -1,24 +1,24 @@
 {
-  "checked_at": "2026-11-23T09:17:41.384879+05:00",
-  "quotes": 14592,
+  "checked_at": "2026-11-23T18:26:55.917071+05:00",
+  "quotes": 14746,
   "checks": [
     {
       "store": "Chase Value",
       "url": "https://chasevalue.pk/products.json?limit=100&page=1",
       "status": "parsed",
-      "offers": 692
+      "offers": 773
     },
     {
       "store": "Chase Value",
       "url": "https://chasevalue.pk/products.json?limit=100&page=2",
       "status": "parsed",
-      "offers": 1049
+      "offers": 981
     },
     {
       "store": "Naheed",
       "url": "https://www.naheed.pk/groceries-pets",
       "status": "parsed",
-      "offers": 47
+      "offers": 48
     },
     {
       "store": "Naheed",
@@ -36,7 +36,7 @@
       "store": "Naheed",
       "url": "https://www.naheed.pk/groceries-pets/baking-cooking/rice",
       "status": "parsed",
-      "offers": 22
+      "offers": 24
     },
     {
       "store": "Naheed",
@@ -47,20 +47,20 @@
     {
       "store": "Paklap",
       "url": "https://www.paklap.pk/laptops-prices.html",
-      "status": "parsed",
-      "offers": 20
+      "status": "fetch failed; dated offers retained",
+      "error": "HTTP Error 403: Forbidden"
     },
     {
       "store": "Paklap",
       "url": "https://www.paklap.pk/daily-deals.html",
-      "status": "parsed",
-      "offers": 6
+      "status": "fetch failed; dated offers retained",
+      "error": "HTTP Error 403: Forbidden"
     },
     {
       "store": "Metro",
       "url": "https://metro-online.pk/",
       "status": "parsed",
-      "offers": 212
+      "offers": 207
     },
     {
       "store": "Foodpanda / Kifayah",
