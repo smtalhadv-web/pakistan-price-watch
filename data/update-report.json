@@ -2,7 +2,7 @@
   "fetches": [
     [
       "karachi",
-      "<urlopen error [Errno 101] Network is unreachable>"
+      "HTTP Error 404: Not Found"
     ],
     [
       "forex",
@@ -50,14 +50,14 @@
     ],
     [
       "appliances",
-      1196212
+      1191526
     ],
     [
       "pbs",
       344844
     ]
   ],
-  "checked_at": "2026-11-24T02:28:51.695948+00:00",
+  "checked_at": "2026-11-24T04:15:18.301978+00:00",
   "sources": [
     {
       "source": "PSO dated fuel archive",
@@ -79,7 +79,7 @@
     {
       "source": "PriceOye published listings",
       "status": "parsed",
-      "observed_records": 133,
+      "observed_records": 135,
       "new_records": 0
     },
     {
@@ -97,7 +97,7 @@
     {
       "source": "Additional mobile, laptop, watch and audio listings",
       "status": "parsed",
-      "new_records": 1
+      "new_records": 0
     },
     {
       "source": "Furniture and power-tool variant listings",
@@ -111,11 +111,11 @@
     },
     {
       "source": "Toyota manufacturer vehicle price configuration",
-      "status": "manual_required",
-      "reason": "[Errno 2] No such file or directory: '/home/runner/work/pakistan-price-watch/pakistan-price-watch/raw/corolla.html'"
+      "status": "parsed",
+      "new_records": 0
     }
   ],
-  "quotes": 5959,
+  "quotes": 5961,
   "manual_queue": [
     "Verify new image rates before transcribing; source sheets refresh automatically",
     "Unsupported sources retain their dated quotes"

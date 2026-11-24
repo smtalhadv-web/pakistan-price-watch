@@ -1,6 +1,6 @@
 {
-  "started_at": "2026-11-24T02:27:49.404960+00:00",
-  "completed_at": "2026-11-24T02:29:41.222650+00:00",
+  "started_at": "2026-11-24T04:15:12.445056+00:00",
+  "completed_at": "2026-11-24T04:15:36.684322+00:00",
   "status": "partial",
   "timezone": "Asia/Karachi",
   "scheduled_times": [
@@ -11,49 +11,49 @@
     {
       "name": "collect.py",
       "status": "completed",
-      "elapsed_seconds": 60.6,
+      "elapsed_seconds": 4.6,
       "detail": ""
     },
     {
       "name": "download_sources.py",
       "status": "failed",
-      "elapsed_seconds": 0.4,
+      "elapsed_seconds": 0.5,
       "detail": "  File \"/opt/hostedtoolcache/Python/3.12.16/x64/lib/python3.12/pathlib.py\", line 1027, in read_text\n    with self.open(mode='r', encoding=encoding, errors=errors) as f:\n         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/opt/hostedtoolcache/Python/3.12.16/x64/lib/python3.12/pathlib.py\", line 1013, in open\n    return io.open(self, mode, buffering, encoding, errors, newline)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\nFileNotFoundError: [Errno 2] No such file or directory: '/home/runner/work/pakistan-price-watch/pakistan-price-watch/raw/karachi.html'\n"
     },
     {
       "name": "ingest.py",
       "status": "completed",
-      "elapsed_seconds": 1.5,
+      "elapsed_seconds": 1.0,
       "detail": ""
     },
     {
       "name": "expand_fetch.py",
       "status": "completed",
-      "elapsed_seconds": 30.4,
+      "elapsed_seconds": 2.1,
       "detail": ""
     },
     {
       "name": "expand.py",
       "status": "completed",
-      "elapsed_seconds": 1.5,
+      "elapsed_seconds": 1.0,
       "detail": ""
     },
     {
       "name": "commerce.py",
       "status": "completed",
-      "elapsed_seconds": 10.5,
+      "elapsed_seconds": 8.2,
       "detail": ""
     },
     {
       "name": "partner_sources.py",
       "status": "completed",
-      "elapsed_seconds": 4.8,
+      "elapsed_seconds": 4.5,
       "detail": ""
     },
     {
       "name": "extra_sources.py",
       "status": "completed",
-      "elapsed_seconds": 1.8,
+      "elapsed_seconds": 2.2,
       "detail": ""
     }
   ],
@@ -84,7 +84,7 @@
       "url": null,
       "status": "verified",
       "detail": "parsed",
-      "quotes": 133
+      "quotes": 135
     },
     {
       "source": "PBS weekly city prices",
@@ -124,8 +124,8 @@
     {
       "source": "Toyota manufacturer vehicle price configuration",
       "url": null,
-      "status": "not_verified",
-      "detail": "manual_required",
+      "status": "verified",
+      "detail": "parsed",
       "quotes": 0
     },
     {
@@ -476,21 +476,21 @@
       "url": "https://priceoye.pk/trimmers-shavers?page=1",
       "status": "verified",
       "detail": "parsed",
-      "quotes": 24
+      "quotes": 26
     },
     {
       "source": "https://priceoye.pk/trimmers-shavers?page=2",
       "url": "https://priceoye.pk/trimmers-shavers?page=2",
       "status": "verified",
       "detail": "parsed",
-      "quotes": 33
+      "quotes": 34
     },
     {
       "source": "https://priceoye.pk/trimmers-shavers?page=3",
       "url": "https://priceoye.pk/trimmers-shavers?page=3",
       "status": "verified",
       "detail": "parsed",
-      "quotes": 30
+      "quotes": 33
     },
     {
       "source": "https://priceoye.pk/speakers?page=1",
@@ -679,7 +679,7 @@
       "url": "https://metro-online.pk/",
       "status": "verified",
       "detail": "parsed",
-      "quotes": 207
+      "quotes": 208
     },
     {
       "source": "Foodpanda / Kifayah",
@@ -732,8 +732,8 @@
     }
   ],
   "total_quotes": 24477,
-  "verified_quotes": 5768,
-  "changed_prices": 27,
-  "new_quotes": 8,
-  "retained_quotes": 18709
+  "verified_quotes": 5811,
+  "changed_prices": 9,
+  "new_quotes": 0,
+  "retained_quotes": 18666
 }
