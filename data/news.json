@@ -1,6 +1,11 @@
 {
-  "checked_at": "2026-11-24T09:15:37.756877+05:00",
+  "checked_at": "2026-11-24T19:05:04.141040+05:00",
   "checks": [
+    {
+      "topic": "business",
+      "status": "updated",
+      "headlines": 8
+    },
     {
       "topic": "economy",
       "status": "updated",
@@ -8,11 +13,6 @@
     },
     {
       "topic": "trade",
-      "status": "updated",
-      "headlines": 8
-    },
-    {
-      "topic": "business",
       "status": "updated",
       "headlines": 8
     }
@@ -26,11 +26,27 @@
       "context": "Trade and customs developments can affect landed costs and delivery times. Check the original notification, effective date and product classification before applying a reported change to an item.",
       "headlines": [
         {
-          "id": "8eb9cb577b6ac9cd",
-          "title": "Import Export Compliance Pakistan: A 2026 Guide to Customs, Tariffs and Trade Remedies",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdUN0Ry1UelhIT0VFOFB3QXJ4bERpVy00dThjdmpybFVVY1F5clViWTlXWE1kYkpnTUNodHlSYTUtaUdNR2d0OVVRRk5TREUzOFVXVU5ROTloSWxWcmJNTHVzeU1TUl9fcnFaYTNaMmRyMjA4T0dhOUNPbURWZUpjWU12NU9yVUpScXJB?oc=5",
-          "publisher": "Global Advisory Experts",
-          "published_at": "2026-11-22T12:32:34+05:00",
+          "id": "4e1886d50e5b81d2",
+          "title": "Pakistan's Sugar Import-Export Cycle Raises Questions Over Commodity Management",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUF9VeHZEa0RsTFNZQXN3SnM1Qklyd0MtT3JuYTZIalhGWXJ5RTJHRnFudFJidHZxaW1WaU9DZm90QUVYWmdFOUQwdmVuNnRfOTgzZ3E1ellyZ2t6S2VBR1htWE80OFdJakRKd1p3d2FaR25XbUh2d3FWN1BvR0ZLOFhZNmRmOXExck5ReHFTSzQ3cHpRNE9QWngwVTNlbm96cHRqektFUW9jaU1OOEttcTBNSWQwMmpY?oc=5",
+          "publisher": "The Friday Times",
+          "published_at": "2026-11-24T17:29:00+05:00",
+          "topic": "trade"
+        },
+        {
+          "id": "73f0d2748aae58f5",
+          "title": "Food exports jump, imports stay flat in October",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOLVVMRDVnQlhWbm0tajVCT1IwMThyRGNTVVZ0U1Y0OEI3Vlk2OHo2cHlka2VORFE3ZVVWamdqU091bFU4NGN5YXhzdUtIaWRGR2psWWx6VktTYXZqa2dQV3N4a3Q0TF9BdDVLWW9laUx5dFZjSm56U1Ayc3NYUHlsdmpybjhvMkpiQUxQQUVDVnhiVlU?oc=5",
+          "publisher": "Investify",
+          "published_at": "2026-11-24T09:03:37+05:00",
+          "topic": "trade"
+        },
+        {
+          "id": "7ca81511f03cf250",
+          "title": "Pakistan’s Sugar Planning Failure",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBkN0F3T1hOVjhmakxxYmNrMzFVZlZJTldWUFV4bzlpRG9fNVhlQXpPQUZUYjJzeXVTaVRfQll0V3VzcG16RENNeTlidU9TZk92aEJuQVVjYUN6dGExcGJ2SnpHR0l2NDYxbzA1Zkx0cGI2UQ?oc=5",
+          "publisher": "Mettis Global",
+          "published_at": "2026-11-24T10:41:00+05:00",
           "topic": "trade"
         },
         {
@@ -42,14 +58,6 @@
           "topic": "trade"
         },
         {
-          "id": "6d597f599b9ef82b",
-          "title": "Pakistan's mobile phone import bill falls 7.2% in first four months of FY27",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMGlyU2JOeTB3dGJoVmw0dnV0TEtqMG42aDlPZ3VycEJwZTA1a3JxUWhocjNUR1hfcm90WUxocjlrdXNuckJBVVZKajNIUXFYbGpUU1duckJSUmluOEpNU0M5dmRjbm9JYjIxcTFwYS1lSXVxaW5CUjB6R1YtQUdIUm4yN1ZBaUJCLTBsMFEyYWlvYkdVMVlOaGRVbUJMN2dkQkpXWWNiMFVFNVFZX3BhOXI3TDJMNVNx?oc=5",
-          "publisher": "Investify",
-          "published_at": "2026-11-23T13:13:45+05:00",
-          "topic": "trade"
-        },
-        {
           "id": "b74eb4fad0c3c48c",
           "title": "Major Commercial Laws in Pakistan: A 2026 Guide for Business Owners",
           "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbVlqandRdGJQYVd2ZjV5Sm93Q1c0X2N6M3ZaM0FTd0xMQVZ5YnM5ajNua1NXNFhHT1BublA1d2ZTOGg5bExoS29PTXYxcUVXWHVfY3hZT0VRSjZoY19OOFVMNHJJMGxjd3JQcW42WGc5Z0laOF9fX2RyRVpfdTBsalVPUWVhSzA?oc=5",
@@ -58,39 +66,31 @@
           "topic": "trade"
         },
         {
-          "id": "7e9cead926f76c09",
-          "title": "Capitalising on Middle East conflict",
-          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5tRkdPWXZNTFZ1NEU2ajlBVW0xcEUwcmZhMTVLUml6MXF1Z201dWVYd3FPVGZYRGZJazZDejE5Y0hqckFJWUc1Xw?oc=5",
+          "id": "a94abf35969897aa",
+          "title": "Food exports jump, imports stay flat in October",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1EaERJdVhaU29Ub2cxUENWRkZjQ3d3UVVIbEZtTF9lV2o3SlVPVEV4UmJpQkRfYV9aNWJyUGZJUDRteExydVgxaw?oc=5",
           "publisher": "Dawn",
-          "published_at": "2026-11-23T05:54:21+05:00",
+          "published_at": "2026-11-24T06:47:31+05:00",
           "topic": "trade"
         },
         {
-          "id": "8aac7f5c3e705fe2",
-          "title": "Force Majeure Clauses Pakistan 2026: Hardship and Price Escalation Drafting Guide",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPeUtYWXBKS1JLZ3FoOEc5Y0hOVEtvbkhrT2I4Q3VwcWN1aDg2bUl6cXVaM1hER091ME5iZlNlYlhQR2g3MHhXd3JUTTZKUi1JaURJVjVIZ1E1UlRsNFhFMUJJWWx0V1ZhNDNhSXNDR0QxSzQ3QU5tOFZ1X2tMSVpzY25pTDFucy1jNW1jRVFVX1ZvUS1CVW5vM2FCZw?oc=5",
-          "publisher": "Global Advisory Experts",
-          "published_at": "2026-11-23T07:37:39+05:00",
+          "id": "6d597f599b9ef82b",
+          "title": "Pakistan's mobile phone import bill falls 7.2% in first four months of FY27",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMGlyU2JOeTB3dGJoVmw0dnV0TEtqMG42aDlPZ3VycEJwZTA1a3JxUWhocjNUR1hfcm90WUxocjlrdXNuckJBVVZKajNIUXFYbGpUU1duckJSUmluOEpNU0M5dmRjbm9JYjIxcTFwYS1lSXVxaW5CUjB6R1YtQUdIUm4yN1ZBaUJCLTBsMFEyYWlvYkdVMVlOaGRVbUJMN2dkQkpXWWNiMFVFNVFZX3BhOXI3TDJMNVNx?oc=5",
+          "publisher": "Investify",
+          "published_at": "2026-11-23T13:13:45+05:00",
           "topic": "trade"
         },
         {
-          "id": "ebd614ba40e4c601",
-          "title": "Insurance Act 2026 Pakistan Guide for Businesses",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOLW9qanBwbFFrbWJjeHNCam9WRWYyeS1ua0hEa0YzQUgzdXNPUU9PbjVBWWpSNjlpcUhfZnFQNHZiQjY0d1MtT2IxZVJDUjRwamQ5bzdJQUc4SWFrbTBJODVtQU1XQ2FraERBaFNNMk54ajAxUkhlaGhBNWtseUcwN3laUDZ6MVVLR3ZwTTFudEZzaG8?oc=5",
-          "publisher": "Global Advisory Experts",
-          "published_at": "2026-11-23T10:27:40+05:00",
-          "topic": "trade"
-        },
-        {
-          "id": "e0423fc4c907a00a",
-          "title": "Competition Compliance Belgium: 2026 Contract Guide",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZl83ZElYT0hFLWpjcTNwR3loakVFTjVleVdIUTdfR0Y5Z2dZbDlvVFVZMmdaNnZRX0NxRVNWTkpvWmkxcmNJRnRJam5jQVZ6TF9zTTdYRFlKYUxUQmNRYV80azRCaVVLSG1QOUdwVW1BNDdNNmxsRUdTZVlidGE0TEZLVkdocTQ0eE9CdkJuajhsZWFNd1RWYXN4QmJFQjVUY1E?oc=5",
-          "publisher": "Global Advisory Experts",
-          "published_at": "2026-11-22T12:57:34+05:00",
+          "id": "9ea245b03616b17c",
+          "title": "Saudi EXIM seals 5 agreements at Berne Union meetings in Tokyo",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQTlzRHI0dlVObDFNU1F6bHBiYllNazgyRE9oTERPTXVRR01PVkJfT0YzQWJoSThDdWJ3OWMtNTV3cVVBa1Nmdm5TaTJvNXZSZEtXT3VCSnN3X201U1NFMjJmbTdCUHNtbm9oSXd2ZFIyYUNBSEtFQ1FlTGRNYzZwLTg5cS1sd3lxQl9IY3NZZ0VUNXo1VkZuTGRfWW9nSVpLbEoyMGkwSQ?oc=5",
+          "publisher": "Arab News",
+          "published_at": "2026-11-23T19:36:43+05:00",
           "topic": "trade"
         }
       ],
-      "fetched_at": "2026-11-24T09:15:37.756877+05:00"
+      "fetched_at": "2026-11-24T19:05:04.141040+05:00"
     },
     {
       "id": "economy-2026-11-24",
@@ -99,6 +99,30 @@
       "title": "Economy news briefing · 2026-11-24",
       "context": "Watch how inflation, currency movements and borrowing costs may affect household budgets and import costs. A headline alone does not establish that a retail price has changed.",
       "headlines": [
+        {
+          "id": "9d1aa1b07af6727e",
+          "title": "Gold, silver outlook: Bullion may remain under pressure as US inflation data, Fed signals loom",
+          "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNWkNuYlhtTjA5OHpmN3lJUzB3Q3EzQmlESnJnVnk4dDRrV0tqbWV5OTNpX3hYN1FIX3U4VDhEcl9IZmZzZlVSa19GVzczX2dsNFg5d3hRQUNza3RWekk2MlhudThiaFR1TmF2dTVmTFo4bENINV9HTDBEVDFOV014M1NNNURVRTRjLUI4M0ltTFpSa3FSWDJnZk90cFAzMlZVLW0wUjZ5VkpVVEg3TWtaYkJKODgySjhjaUhNOU9ZT3NtT3J0bm9tNW52d1ZqVXh2MldSZzRVVmV2V0wzSHVmbl9EV0FGeFNDcFA0NFByQy1CNnBOTFVUTFJpS1VNMXN4VXRVZkFzX1_SAY4CQVVfeXFMT3d6b2NLZl9CcGZlakg1ZGRTQmpCVnJWa1pfOXBEVmdnbmxoZkJGS25RNXNIMlkxckpYOVRhNjhhbVdzZEVNM3JmNTZIS1EzcUJUb29heDRxLTE0VW4yNDNrY0Rqb1IyOE9UX3BkcGcteDBvTnZkSXdaT1lDLUlJUWVsZUxlbzdYNnFCU2Y5UkpqMDZjY3hUSkVLZjZLUTA5VlBuLW9CNlQwQmpOMGo5X1hNV1Q3TDF2LTdmZUljUFZwbnNqNHl4bUpJNEpZUnVla0xYV3ZwSUtkaW5NZHBjNkVRWHZIaUtWeG45NFVtSDQtSmFNMWhLUEkzczR6cVh4ZGYzSUhkcmE2NnNaeDRn?oc=5",
+          "publisher": "The Times of India",
+          "published_at": "2026-11-22T21:50:00+05:00",
+          "topic": "economy"
+        },
+        {
+          "id": "812786695c541299",
+          "title": "Gold falls 11% to Rs 1.21 lakh and silver plunges 16.2% to Rs 1.47 lakh in a week to over one-year lows;",
+          "url": "https://news.google.com/rss/articles/CBMi9ANBVV95cUxPUnZoYmg1akpuNEhRdG1kd2tSanh3MFU4SGx2R2dnSllsTkpPSjVkQzMyYUgyd2ZvMkIyVFp6TVdXUTgwanpJSTRKc2xtOW13aTE3bWtRTVdVeHBMSkd5cnJyUFprOWFVbGlxV0hHajJ5YXBSZWVnT3V3ZGRkTnRySGtTS1NNOVhMTG9HeW40LTlUTVcyNUR2cjYyLW5vNGtiYzVuVjMzRF9GVFN1clJnREJWOS01SmlhTnNiNFRaMkIxQ3pnbGNURkpYVGVMWVo3UHJNUThFSjJJdzFZc1FBandiZmp1WFdqaDRITnJ2NEJNSG4xRUNhekhCTy1EaFRrajZfR1lMMklDU1lOQk5ubFNPTjZaSHhLZDlIbE01RGNKcDUwYk53SUdCM1VFTlhPV1ZsQllMSUNQUjRjblZYZ3daZzVSVEtSbmw0dFY5Q3RBOWpuUFhuV21TbFQwSzNpU2dFZmF5blBmeEwzU0w1SXV0N3pBOEZvemFzYmUxY3pSS2tjTEduQ2lFZU9Ma0NNWE9aNi12WGZNemVqME9MVlh4VkdESVpHWklzTUxZMWp4cENfNUd5bV9YRG1nT3VKOEFSeTdJMTFoajAzTDhHRzNYNzRNa2V0eHJ0cnI3WkZORFJMRGxLUlR5UnhkQzk1TkZEZdIBqgNBVV95cUxPQTJmbElQdWt2YWdTMzY0QzdoeGstblFYanVpRUlFbDhyaWFySTd4d3dFQzlmaF9uS3BLX09hUDB0UWRHcnd2SEFoT3JnTkdmdzhoTTEwLURvbVFWUXRWbjE0VXdCVV9pVk1pZkFHalYxOUpvMzhFelpWRTZVSF9iWGI2TzRVUFQ2WkVtbzBpbVZuc1RmZ2NNbUliWTQ4OU5qcGJMWHVRR0NIOHFtUWdfb2w2X3ZRS3FteDMyY2dWd3BPTGk1UHN4RGk4R1ZscFR4Q0V3ZDA2Vk9fdXY5MmpCM0hCdVJXZ05TNzdyMjJGWWNPZFZRaWxVZnZPM1lWMTVzZllnMENtUmI2WXVkRkV2U1ZsUFRYb2dCUlp0cnZqbXdSLVJWVXZ3WFVQRGlwV2VLdHNSVHVpMG9CWlJYaldlbjZHLXAyUFFOcFNvR1ZXMmFxM0RMa21uQlhMWHdHOGgxUmVDeVpGZjBwMEljRjNRelM2ZzhhckxlYjdnV3dZdllJYVE2ZW1BZ3JUU3AtYUFWOG9sYl9VdWZMWEJZU0xLNGpyVTI5WmgwV0E?oc=5",
+          "publisher": "The Times of India",
+          "published_at": "2026-11-23T07:35:00+05:00",
+          "topic": "economy"
+        },
+        {
+          "id": "553973e308357dcd",
+          "title": "Pakistani Rupee Closes at 276.50 Against US Dollar, Gains Re0.01",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOa0tjSVI4NGlkakE3VU1EbnY0SkM4em1GTkgwTDFGQnQxWUdBNGVXckpfTlktSnhKZS0wS0g2emJDd2k4RXNhTUwzRnVYVVd0a1B5NXljZkY2QTBadWZFNEVXS0k3NU0ycVZjc2R5VFcyMzVhTmRoblVYcENFQlVNNkZkRm1sLUtlcHVZXzlscnpDYVo4WE1NU2hDV2lPaWNuV3l5cTJ5bw?oc=5",
+          "publisher": "times of islamabad",
+          "published_at": "2026-11-23T17:21:12+05:00",
+          "topic": "economy"
+        },
         {
           "id": "891efd81bf6aec5b",
           "title": "Gold rebounds Rs7,800",
@@ -116,11 +140,11 @@
           "topic": "economy"
         },
         {
-          "id": "06b8dd94d83a54cd",
-          "title": "Dubai No Longer a Preferred Investment Destination",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSnJVVmxrOVN3SUFvWndYeXRfY1hKV3lKaElFTk5fYTZZREpmWDZWblpWTDRxUDB3U2ozNEcxbjlwRmRBS0cwV2V0aDFydlBQRDFrR0xhRVVjY000c3BHMFVNX2s2bEhNZnZRWWwtX1hXNVMxYXRial9fOEtqQmZHUUVBNGlHbVF6S0s4M2Nsc9IBlAFBVV95cUxPdENrVVE1eTllZE5ublVHUVVhT09NMGgyc0hyNjdLVldBOVFqbUF5YVFUemJUaFF3MDJGTFRvOHNWTFdjS3U2WThLc0V5OUkwakF1Zkt4amNrREFJVFh1U0lvV2h5Q29ORjYwUi00bktlQmc5Y3I5U1JYcTNfUmpORjZscC00cWoyVUFmN2lXREpuck1R?oc=5",
-          "publisher": "ProPakistani",
-          "published_at": "2026-11-22T12:17:52+05:00",
+          "id": "01e1b0b06691321f",
+          "title": "A double bonanza is shaping up for investors, businesses and consumers",
+          "url": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxOdmQ1UXc4Zll2bi1KZ0ozaUpfbHNTVEtBWjlDdkJsdmNsZ29uQlFTMTN5SXY0aDBvUjVMOHUtUXFMTk91T3pieGJRTENwSEVXUkt0d0JmSXRGLWY3dGhIOVNvM0M2UU5ObGdYaW5LRTRRUzRENjlBd1ZOMkluSE9ZRko0dTc5Nnlvd0FEVVdySkM0Qmc3aFN3TEZibE1Pb2NJYXdLUDIzWTJSRVhEM2pCVWE1akRVV0JHNFBaMTRLVGw3azN1X3IyN3NJSm5qRTJxM0d2UUt0YXFiX2dKNDBfV3J0b3ZEUzlxOGJBa0g5STJsOHEtbnhmc2hjWnhWZFo3bUVFMlhyeHhWeDdxVjZ4ekVpM2tnaDJlLUJhZTZJM2FOVTYtM2JreHItc1QtUnZrb3h1TWxzZ0VmYW5iVXVmdnIwZWUzVHlqemg4Tm83LUhlcHF2b3hlQmxmMDhwbnZnNXZtaGw5RFBoUWQzQmfSAfMCQVVfeXFMT1dmamJudEdxbldWMlVuYUN2WnN0UGt6Z1VOblpJNmtmdWl2c1NaZWZTbkZ2Y2thRm1TUFU2N0pKeFEwSUNyU3hGcC1DWXVfWGphZ2hKN3JPODJvYkQxUFhpUzhTUklSNUlWYy1lcDNRMmZYckZiU21uVHNwVThQZzdzaGhsSFF6d1NjRXp1ZmNHV2pGTkVGWW9UTlZlUlU4ZFFJc2V3RHZoUFgtamt0WHdYX3NudjJxZWFwaDhqelZsUkg1b3VDdHpaUG1kRzlHb3lEcHFrQ09lOTdRXzhfLUtvSjdmdk5NV0FEV18xeHladEdBV1lJY3QtdkJEZllSSWxTR2V2REFGY0hVWjdBT0JpRHdEMVVMMFZJU2FIS2c0QUxQN01NcVAxVDNaR0REaHFEa1F3SmFiNWNKY05yMS1ZYlVNOHR3aGg4ZWtJZGJELV85ZXkyR3VaY1RwYWtvT0dGLTlWVTRORUx0NnVJbkd2ZUE?oc=5",
+          "publisher": "The Economic Times",
+          "published_at": "2026-11-24T14:55:56+05:00",
           "topic": "economy"
         },
         {
@@ -132,39 +156,15 @@
           "topic": "economy"
         },
         {
-          "id": "15df3198fe7033a2",
-          "title": "Gold snaps 10-day losing run, rises Rs 1,500 to Rs 1.26 lakh/10gm",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNVFjaTNJLVZlaUhqdGRUdDFoV0Ytak9wdk96SHhuaUtac2xoZmZWZGxmTVVYd1c2TzVNQThVOEtGc0QyT2VUM1NXV2hSX2draEFxemtQNzFiWWhrT0NTYjFtQUtnWXRrV2llakU1NFFRUGl1eUdxWTFPN3hObXF5VXhYcVczOXB2TElBR0dnSXJnODh6eXNMQ29iZ0xKWVU4dmIzLXVFclQ5MWcteTdZ0gG0AUFVX3lxTE5JRlZMZmVVYzJETEZTdF9sUGZUa0REOVZDbGowbzA5Mm5JS0Y0MWpyN0pvbndCQnM3T0l6UjNDSUc3bVZLT1VvblpacVV6Z3NTZFhGOERacUFJNzM5ZndBa3FOdklLM3kyUHhxT3RMWnowVmFjYUxpX3JMc0hSQ3hSX0NFYnN3a1VoWnBBajJtOXZZSG0xMmNJd1NGOXVpWll1eE12T1FaU0hiUDlXVE9rME9ubA?oc=5",
-          "publisher": "Greater Kashmir",
-          "published_at": "2026-11-23T17:30:48+05:00",
-          "topic": "economy"
-        },
-        {
           "id": "7799e1e85322d536",
           "title": "Marginal gains maintain momentum",
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5kMWtLbXJnNkpLRXk0YVh4SjVqeWFtOVdLd19NdTl0dld6dFowcUFKNVFWUk5lTUhsUGYyc1l3bzdvbzQ0X2hiYjBxSlNPdGduVEt2Z3d30gFWQVVfeXFMTmQxa0ttcmc2SktFeTRhWHhKNWp5YW05V0t3X011OXR2V3p0WjBxQUo1UVZSTmVNSGxQZjJzWXdvN29vNDRfaGJiMHFKU090Z25US3Znd3c?oc=5",
           "publisher": "Business Recorder",
           "published_at": "2026-11-23T04:48:34+05:00",
           "topic": "economy"
-        },
-        {
-          "id": "5106e3e54ced7750",
-          "title": "Gold Investors Have Lost Rs. 2 Lac Per Tola Since January",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVy10VDd1QjZCc05GWHZvNVBTWGIwcGVtcHA5cmhBYV80Q09BZXZET2pNWTBsakdVQXhjNGZJc3RLMkpDdVFkdzJRcm9kNVNuUllXejFURm01TGh1ZkNZamQ1cUE3OVVoWXI1d3pMelRILTJ3cEhrWVNVMkJIRmFRVHVFSzNGWGhzaVBRRjMtZkNlNmhaZzVj0gGcAUFVX3lxTE50TlgyNV9PTEFsMUxUNFVmS3FOQzJqZEpTbkFobEJTcWM0V3B0Uk9nTXVKd0dQWU5kcG9hQXFUYXdTQUF1SEM2dkNza2lXQVo5d1k1YUN1bDJDTmYyLXlaYm9PTC1UZlhNbWRHckpQdmxCNGxYRnpxSEVTdVN1THVOTFRIV09wSVBRbDFnMUEtd01YaHRuN19LaS1FRw?oc=5",
-          "publisher": "ProPakistani",
-          "published_at": "2026-11-22T09:59:57+05:00",
-          "topic": "economy"
-        },
-        {
-          "id": "9163a3966bcac1db",
-          "title": "Gold Prices Pakistan Drop Sharply amid Global Market",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSUc3cjVZVmxKTjJGOGdqdVl5RElrLXZNeFlkZURmVGtPak5xMTlYUGZ2YWt4U0FyX2MzLXAtenBvVVNObU1YRFRLU3ZONGNWSXRyRjQ4alpaNGVRXzVMRFUxQUpJTmhyQnlLbXNKMlFFc3BDX2k3RU81NFBIWUlBOWhQSTJPT2pOXzdXOHJ3?oc=5",
-          "publisher": "NewzTodays",
-          "published_at": "2026-11-22T20:51:21+05:00",
-          "topic": "economy"
         }
       ],
-      "fetched_at": "2026-11-24T09:15:37.756877+05:00"
+      "fetched_at": "2026-11-24T19:05:04.141040+05:00"
     },
     {
       "id": "business-2026-11-24",
@@ -173,6 +173,30 @@
       "title": "Business news briefing · 2026-11-24",
       "context": "Company and industry developments can affect supply, stock availability and competition. Compare dated supplier offers before making a purchase decision.",
       "headlines": [
+        {
+          "id": "30d6bcaac9832bee",
+          "title": "Foreign investors’ confidence turns negative as Pakistan’s business sentiment deteriorates sharply: OICCI",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQUk43cDBBTTZJUmd1bGplT0FEaXZHNVlnaHQzY1BRV2lfLUFsTW95M3NJZmU3eE9HdVpWY1F2SU9HbGY0M1JzY042SWoydVNtM2lJVmxUOWpGVHZwX3pnNjVlMG5OWUNnRU5MSEVsd1NjTzdnR19mXzhxRVY1cmFZdFFtbUVtRm9LbGEwUEcyRDh4QkhfeVRLaWluS2p4blQ4c0FESVFmTGpjQUxSbzIwNHdQSVd5QW5wRlUyeVBZUVBjNk14d1AyeVM3YmQ?oc=5",
+          "publisher": "Investify",
+          "published_at": "2026-11-24T16:14:54+05:00",
+          "topic": "business"
+        },
+        {
+          "id": "031275ef8901b213",
+          "title": "Foreign investor confidence in Pakistan slumps as US-Iran war lifts energy costs - survey",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQSXF3S0lHTk9aSzFnTGlrX1Eza2Y2akd5emg4LVlGN2RiUWhMbkNVOWR4R2w1eXUwbGRuWDJCS1VHNmhTcm8xQ0FEcm93ZEpsN3JFQ0NOTnVPRDhLVlFYNUtmX244cXlEMFpKazEtTEZ1clJfbFlZNTdlSzNHZXFucFI4dGMzMFRRLW5RR0dMeU93WGF3VVdRRWdtRFpKZ1BIclhSVnhES0I3N2FlTXpEaW5Tazlrb0hiSW5vQ25JY25lTlU4bWlF?oc=5",
+          "publisher": "Arab News PK",
+          "published_at": "2026-11-24T16:58:46+05:00",
+          "topic": "business"
+        },
+        {
+          "id": "a134ddbafd50e65c",
+          "title": "Portugal seeks new era of friendship, economic cooperation with Pakistan: FM Paulo Rangel",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUGVTbi13eWgyOFUzbFk3TzFFODdQak9XeFQ5WG1pc01xTzdsbFNvNmxMeUtTdDVuMjRXamZhNW1lT0MydkswM2RrZ1d0cUZtWlJpU3lweVlkcU5tdXllOEdLQnJGVlJiU05iVmJja3pxaF92SlZlQ2NiVS1EQ2ZNcHFMeTBZSWdVbmhLZUI2UGVjR0JHRUFRcTRnblNlOVp4Q2g4WjkxX21xel85czdEX01SbTFwaDR6QXQtczllRnk?oc=5",
+          "publisher": "Azərtac",
+          "published_at": "2026-11-24T13:46:00+05:00",
+          "topic": "business"
+        },
         {
           "id": "d806758a69338247",
           "title": "Pakistan, Oman aim to expand economic cooperation beyond energy sector",
@@ -190,19 +214,19 @@
           "topic": "business"
         },
         {
-          "id": "387d6214e8458215",
-          "title": "Portuguese FM Paulo Rangel Visits Pakistan as Countries Mark 77 Years of Diplomatic Relations",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQ2k5QkJDOXVZM2FSZzE5YXYzb2Y2cVFoLUo2ZzZDQm9CQWhqbmJ6eS1XOHBhcm5HVXJGc2VFVVY5MGJVcUE0MEFVVGQ1UEhqVVNTamtkdGNwdzlFZVJ5MzJoVV9GWTFPeURpN0Z5alNXTGdhMk5SeG1rLVhxY2c5RVNEZlN0QS1WQ28wM3Z0Y09XOWJtWEs0?oc=5",
-          "publisher": "The Diplomatic Insight",
-          "published_at": "2026-11-22T11:25:18+05:00",
+          "id": "3d2a7b44921e8195",
+          "title": "Foreign investors’ confidence turns negative as Pakistan’s business sentiment deteriorates sharply, says OICCI",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPa2pqWlpScG5OaWt5QVJyMVJOZy0wT1JZNjg3SXFFVGlZSzJuRjBVRS0xeTBrUlRJUG42QXliU19wNjBPYU4tQW9YMUlRUVdvY21GRzZMRFlWQS1qUkV3Q25LSmduZkh4UUxtM3p1M0dVcTVfODcxdnZwYm1MWWtfazIzdzZIYm5oVFJLb0hBSXdiV0xabHg2c3E4ZXpfNEpZNnVYajUyQjNnblRiaGdrck9fZnIzaVNBaGxuWjBBMTZsVVVCRTNhLTN3aDdTTDRGQ25MNG1HMXBUUlFNb1E?oc=5",
+          "publisher": "Biz Today",
+          "published_at": "2026-11-24T16:58:47+05:00",
           "topic": "business"
         },
         {
-          "id": "17a17e29a739d373",
-          "title": "Portugal’s foreign minister visits Pakistan to boost trade",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUGdVc3BmbC1ETVZsSXpzS3Vzb0dNcXFqZ0luMHNmY1plS2VyM2NqeXVhVlB2LTRzQkxodF9FZndGaU9KX3p1QWpwdGN5WWlKcHQ5Vkc3c2Z6SUdhamloeDAyNjlTVEw4UndWZ1VyQ25mdGhIcnZQUUxEN08tYmw4ck5rWkJydlQwcFVSdUV1aDRDSmlDRkZ5bg?oc=5",
-          "publisher": "Minute Mirror",
-          "published_at": "2026-11-22T12:40:27+05:00",
+          "id": "1dfafbe6e4598c85",
+          "title": "Neem Wins ADB Backing to Transform Pakistan’s Business Payments",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQaWw5OWtLMGFjcGdEVXZlbGs3WHdlVXhRSHNOT2hYNy1fU0ZaX1FqRnljOWh1dmMyODNoNGlHVnlGS1hyQjF4Nko3UDNaSFU2Yl84MlJ1aGJ5X0tHc19zN1dGNUxqd0pXV1doUVdkcTI2NVhVblh5UGFTN1BxZ3g3QW10TWRkdzYyZkhiazBWOERNdnhL?oc=5",
+          "publisher": "Digital Pakistan",
+          "published_at": "2026-11-24T13:00:19+05:00",
           "topic": "business"
         },
         {
@@ -212,33 +236,9 @@
           "publisher": "Investify",
           "published_at": "2026-11-23T12:12:17+05:00",
           "topic": "business"
-        },
-        {
-          "id": "f90c4f46a8d7405d",
-          "title": "Pakistan, Portugal explore trade and investment cooperation across key sectors",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPVlZBNkZSZDF4UzRMaC16TnN3NnRkV3VXejUzRzVrQlZJVnEwd1lDc3RZak9RR1hKdHZKY0hPTmJYVlo2cnprTFM5dVByeEdkN3NmX25vRUlBeFBiSV9PMTBrVUpES0pQekdxdHdmR3dPQnItb1JwdF82UGRicTdTNVhOeFRuM0FTbjdZMWNJeXRHcG0tYTNQUTZuV0VtQ200cTRGY2NFOGQyWVUwYVAxOHlqSEhMbnB4M2FqdQ?oc=5",
-          "publisher": "Investify",
-          "published_at": "2026-11-22T17:21:51+05:00",
-          "topic": "business"
-        },
-        {
-          "id": "ec8a64525e4b75e6",
-          "title": "ADB invests in Pakistan-based B2B fintech company Neem",
-          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9QM2J5bTBEZmFrQVFKREM0dHR6cVpMN1BNRU9oRHdPZ0RKdnlkQ1c4UmdINEpIMS05TGVTbC01Qm82TEViamp6MA?oc=5",
-          "publisher": "Dawn",
-          "published_at": "2026-11-23T12:12:17+05:00",
-          "topic": "business"
-        },
-        {
-          "id": "098fcb9412c56843",
-          "title": "Five largest banks control 57.3% of Pakistan's banking assets, SBP data shows",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNYWVXT0c1OTN5OHZmUmhYWmtZOVB2WEFHMzdRNktRYlVaVnR2Qy1mYkJxdGNXVDhmWUctYlhYTTEyQzUxRkt2bWxVNUtObkZUWHNxeEdPNmZDU3BmN2RrSFE1OC14RHA1MGIzVFZiRjdZQjBhYzlzSHVCS21zZFJrd1VhNE9SbUNENjZZWDFkMEQ2RmUtZVNDekRFQ2lVRXhkNEZleEpvR3k3bnNfaXktbndrdEpKQ1JkQlE?oc=5",
-          "publisher": "Investify",
-          "published_at": "2026-11-23T08:00:00+05:00",
-          "topic": "business"
         }
       ],
-      "fetched_at": "2026-11-24T09:15:37.756877+05:00"
+      "fetched_at": "2026-11-24T19:05:04.141040+05:00"
     },
     {
       "id": "trade-2026-11-23",

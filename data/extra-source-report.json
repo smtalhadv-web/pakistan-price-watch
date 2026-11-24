@@ -1,17 +1,17 @@
 {
-  "checked_at": "2026-11-24T04:15:36.394132+00:00",
+  "checked_at": "2026-11-24T14:05:02.844002+00:00",
   "checks": [
     {
       "store": "Al-Fatah",
       "url": "https://alfatah.pk/products.json?limit=100",
-      "quotes": 265,
+      "quotes": 100,
       "status": "updated",
       "error": null
     },
     {
       "store": "Shophive",
       "url": "https://www.shophive.com/mobile-phones",
-      "quotes": 12,
+      "quotes": 13,
       "status": "updated",
       "error": null
     },
