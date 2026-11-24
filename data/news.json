@@ -1,18 +1,18 @@
 {
-  "checked_at": "2026-11-24T19:05:04.141040+05:00",
+  "checked_at": "2026-11-24T21:16:33.961573+05:00",
   "checks": [
     {
-      "topic": "business",
+      "topic": "trade",
       "status": "updated",
       "headlines": 8
+    },
+    {
+      "topic": "business",
+      "status": "failed — previous dated posts retained",
+      "reason": "HTTP Error 429: Too Many Requests"
     },
     {
       "topic": "economy",
-      "status": "updated",
-      "headlines": 8
-    },
-    {
-      "topic": "trade",
       "status": "updated",
       "headlines": 8
     }
@@ -42,14 +42,6 @@
           "topic": "trade"
         },
         {
-          "id": "7ca81511f03cf250",
-          "title": "Pakistan’s Sugar Planning Failure",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBkN0F3T1hOVjhmakxxYmNrMzFVZlZJTldWUFV4bzlpRG9fNVhlQXpPQUZUYjJzeXVTaVRfQll0V3VzcG16RENNeTlidU9TZk92aEJuQVVjYUN6dGExcGJ2SnpHR0l2NDYxbzA1Zkx0cGI2UQ?oc=5",
-          "publisher": "Mettis Global",
-          "published_at": "2026-11-24T10:41:00+05:00",
-          "topic": "trade"
-        },
-        {
           "id": "ddc89687d095f90a",
           "title": "PTI questions sugar export approval, seeks audit of import deal",
           "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5pSkJERWFaeUg4VlNqV3NaN05BVzZSb2Z0ODRkRFJmRVR6MU1vNHlwcm5lUWUxNzgxYWxZVGZWVk9jS2xNQmZJVA?oc=5",
@@ -66,11 +58,11 @@
           "topic": "trade"
         },
         {
-          "id": "a94abf35969897aa",
-          "title": "Food exports jump, imports stay flat in October",
-          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1EaERJdVhaU29Ub2cxUENWRkZjQ3d3UVVIbEZtTF9lV2o3SlVPVEV4UmJpQkRfYV9aNWJyUGZJUDRteExydVgxaw?oc=5",
-          "publisher": "Dawn",
-          "published_at": "2026-11-24T06:47:31+05:00",
+          "id": "94d14fbf433823a1",
+          "title": "Pakistan's trade gap widens 20% m/m to $4.1bn on oil, steel imports",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQYm50QTZEUDg1MmVYcENka0lrOXlMQmhITjhuZkZ0ZFlGMzc4WDRkb3EyNExsTmRCR0xKZUhxQkZQOU5LMlhlS0xDcU92TEhTcnFUX2hra2NWSmJ2dzNmcFdFM1VJVnNidWpPMkxkcnBRTVh5QXF5WTltX0RZR0tETWRuMHZEeGdJRG9oQTdnblhPSDZOaXp5SC1B?oc=5",
+          "publisher": "Yahoo Finance",
+          "published_at": "2026-11-24T04:21:22+05:00",
           "topic": "trade"
         },
         {
@@ -82,6 +74,14 @@
           "topic": "trade"
         },
         {
+          "id": "4bdf981ac4beb5fa",
+          "title": "TCP invites international bids to import up to 800,000 tonnes of wheat",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRmpjNEhfdWlQcGdCZi0yRGgzbXBoOWFXZU5EWGRRUzdVbTM3LVp0RlRzTFN0dElLeFBEd3cxRmtNTDNIWEtnYjc3a0V2Ql9WV1ZBaTRTdUszOHFQX2xUZHlWR2tvUFpZNTFrdHhzUTc4QlhMeE41UC1pUHJpaXY5aTJMWGVhWDUxdFVDMDMwTU9kejJWX1JCTXBLLXl3Y3JKUlNXM1MxYjk?oc=5",
+          "publisher": "Minute Mirror",
+          "published_at": "2026-11-23T18:31:05+05:00",
+          "topic": "trade"
+        },
+        {
           "id": "9ea245b03616b17c",
           "title": "Saudi EXIM seals 5 agreements at Berne Union meetings in Tokyo",
           "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQTlzRHI0dlVObDFNU1F6bHBiYllNazgyRE9oTERPTXVRR01PVkJfT0YzQWJoSThDdWJ3OWMtNTV3cVVBa1Nmdm5TaTJvNXZSZEtXT3VCSnN3X201U1NFMjJmbTdCUHNtbm9oSXd2ZFIyYUNBSEtFQ1FlTGRNYzZwLTg5cS1sd3lxQl9IY3NZZ0VUNXo1VkZuTGRfWW9nSVpLbEoyMGkwSQ?oc=5",
@@ -90,7 +90,7 @@
           "topic": "trade"
         }
       ],
-      "fetched_at": "2026-11-24T19:05:04.141040+05:00"
+      "fetched_at": "2026-11-24T21:16:33.961573+05:00"
     },
     {
       "id": "economy-2026-11-24",
@@ -140,19 +140,19 @@
           "topic": "economy"
         },
         {
-          "id": "01e1b0b06691321f",
-          "title": "A double bonanza is shaping up for investors, businesses and consumers",
-          "url": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxOdmQ1UXc4Zll2bi1KZ0ozaUpfbHNTVEtBWjlDdkJsdmNsZ29uQlFTMTN5SXY0aDBvUjVMOHUtUXFMTk91T3pieGJRTENwSEVXUkt0d0JmSXRGLWY3dGhIOVNvM0M2UU5ObGdYaW5LRTRRUzRENjlBd1ZOMkluSE9ZRko0dTc5Nnlvd0FEVVdySkM0Qmc3aFN3TEZibE1Pb2NJYXdLUDIzWTJSRVhEM2pCVWE1akRVV0JHNFBaMTRLVGw3azN1X3IyN3NJSm5qRTJxM0d2UUt0YXFiX2dKNDBfV3J0b3ZEUzlxOGJBa0g5STJsOHEtbnhmc2hjWnhWZFo3bUVFMlhyeHhWeDdxVjZ4ekVpM2tnaDJlLUJhZTZJM2FOVTYtM2JreHItc1QtUnZrb3h1TWxzZ0VmYW5iVXVmdnIwZWUzVHlqemg4Tm83LUhlcHF2b3hlQmxmMDhwbnZnNXZtaGw5RFBoUWQzQmfSAfMCQVVfeXFMT1dmamJudEdxbldWMlVuYUN2WnN0UGt6Z1VOblpJNmtmdWl2c1NaZWZTbkZ2Y2thRm1TUFU2N0pKeFEwSUNyU3hGcC1DWXVfWGphZ2hKN3JPODJvYkQxUFhpUzhTUklSNUlWYy1lcDNRMmZYckZiU21uVHNwVThQZzdzaGhsSFF6d1NjRXp1ZmNHV2pGTkVGWW9UTlZlUlU4ZFFJc2V3RHZoUFgtamt0WHdYX3NudjJxZWFwaDhqelZsUkg1b3VDdHpaUG1kRzlHb3lEcHFrQ09lOTdRXzhfLUtvSjdmdk5NV0FEV18xeHladEdBV1lJY3QtdkJEZllSSWxTR2V2REFGY0hVWjdBT0JpRHdEMVVMMFZJU2FIS2c0QUxQN01NcVAxVDNaR0REaHFEa1F3SmFiNWNKY05yMS1ZYlVNOHR3aGg4ZWtJZGJELV85ZXkyR3VaY1RwYWtvT0dGLTlWVTRORUx0NnVJbkd2ZUE?oc=5",
-          "publisher": "The Economic Times",
-          "published_at": "2026-11-24T14:55:56+05:00",
-          "topic": "economy"
-        },
-        {
           "id": "37f1cca3e7d1d0a8",
           "title": "Gold prices drop 36 percent from record highs amid global market pressure",
           "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSmpiZ1BickJTc0Z1MDlXekJmSkdlcUxXdU5nRVJ4a0dPLWJDbWxyMXkyRFloZl90UmFkV2tJc3lpcjlmaGI3aDR2VklFZkt3Tm5xWTNiMG5tUTB0ejF4WmVpTGU1TzdlbnpNbHBFcjBndnNVNFFjUXM5TGVQSFd6NlhXeWpfdDRYbExiU3h2VFJ6eXBXM0R3TjNVdllSdUQ0RlBHRTFYUXVKTE9k?oc=5",
           "publisher": "Daily Times",
           "published_at": "2026-11-23T13:01:22+05:00",
+          "topic": "economy"
+        },
+        {
+          "id": "01e1b0b06691321f",
+          "title": "A double bonanza is shaping up for investors, businesses and consumers",
+          "url": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxOdmQ1UXc4Zll2bi1KZ0ozaUpfbHNTVEtBWjlDdkJsdmNsZ29uQlFTMTN5SXY0aDBvUjVMOHUtUXFMTk91T3pieGJRTENwSEVXUkt0d0JmSXRGLWY3dGhIOVNvM0M2UU5ObGdYaW5LRTRRUzRENjlBd1ZOMkluSE9ZRko0dTc5Nnlvd0FEVVdySkM0Qmc3aFN3TEZibE1Pb2NJYXdLUDIzWTJSRVhEM2pCVWE1akRVV0JHNFBaMTRLVGw3azN1X3IyN3NJSm5qRTJxM0d2UUt0YXFiX2dKNDBfV3J0b3ZEUzlxOGJBa0g5STJsOHEtbnhmc2hjWnhWZFo3bUVFMlhyeHhWeDdxVjZ4ekVpM2tnaDJlLUJhZTZJM2FOVTYtM2JreHItc1QtUnZrb3h1TWxzZ0VmYW5iVXVmdnIwZWUzVHlqemg4Tm83LUhlcHF2b3hlQmxmMDhwbnZnNXZtaGw5RFBoUWQzQmfSAfMCQVVfeXFMT1dmamJudEdxbldWMlVuYUN2WnN0UGt6Z1VOblpJNmtmdWl2c1NaZWZTbkZ2Y2thRm1TUFU2N0pKeFEwSUNyU3hGcC1DWXVfWGphZ2hKN3JPODJvYkQxUFhpUzhTUklSNUlWYy1lcDNRMmZYckZiU21uVHNwVThQZzdzaGhsSFF6d1NjRXp1ZmNHV2pGTkVGWW9UTlZlUlU4ZFFJc2V3RHZoUFgtamt0WHdYX3NudjJxZWFwaDhqelZsUkg1b3VDdHpaUG1kRzlHb3lEcHFrQ09lOTdRXzhfLUtvSjdmdk5NV0FEV18xeHladEdBV1lJY3QtdkJEZllSSWxTR2V2REFGY0hVWjdBT0JpRHdEMVVMMFZJU2FIS2c0QUxQN01NcVAxVDNaR0REaHFEa1F3SmFiNWNKY05yMS1ZYlVNOHR3aGg4ZWtJZGJELV85ZXkyR3VaY1RwYWtvT0dGLTlWVTRORUx0NnVJbkd2ZUE?oc=5",
+          "publisher": "The Economic Times",
+          "published_at": "2026-11-24T14:55:56+05:00",
           "topic": "economy"
         },
         {
@@ -164,7 +164,7 @@
           "topic": "economy"
         }
       ],
-      "fetched_at": "2026-11-24T19:05:04.141040+05:00"
+      "fetched_at": "2026-11-24T21:16:33.961573+05:00"
     },
     {
       "id": "business-2026-11-24",

@@ -22,15 +22,15 @@
     ],
     [
       "samsung",
-      716599
+      716361
     ],
     [
       "xiaomi",
-      607325
+      607063
     ],
     [
       "vivo",
-      511647
+      511644
     ],
     [
       "oppo",
@@ -38,26 +38,26 @@
     ],
     [
       "realme",
-      503868
+      503865
     ],
     [
       "infinix",
-      514713
+      515930
     ],
     [
       "tecno",
-      514911
+      514914
     ],
     [
       "appliances",
-      1166711
+      1163891
     ],
     [
       "pbs",
       344844
     ]
   ],
-  "checked_at": "2026-11-24T14:04:44.658763+00:00",
+  "checked_at": "2026-11-24T16:16:13.548808+00:00",
   "sources": [
     {
       "source": "PSO dated fuel archive",
@@ -97,12 +97,12 @@
     {
       "source": "Additional mobile, laptop, watch and audio listings",
       "status": "parsed",
-      "new_records": 1
+      "new_records": 0
     },
     {
       "source": "Furniture and power-tool variant listings",
       "status": "parsed",
-      "new_records": 6
+      "new_records": 0
     },
     {
       "source": "Suzuki manufacturer vehicles and marine engines",
@@ -115,7 +115,7 @@
       "new_records": 0
     }
   ],
-  "quotes": 5968,
+  "quotes": 5970,
   "manual_queue": [
     "Verify new image rates before transcribing; source sheets refresh automatically",
     "Unsupported sources retain their dated quotes"

@@ -1,18 +1,18 @@
 {
-  "checked_at": "2026-11-24T19:04:56.181525+05:00",
-  "quotes": 15002,
+  "checked_at": "2026-11-24T21:16:25.171215+05:00",
+  "quotes": 15012,
   "checks": [
     {
       "store": "Chase Value",
       "url": "https://chasevalue.pk/products.json?limit=100&page=1",
       "status": "parsed",
-      "offers": 203
+      "offers": 208
     },
     {
       "store": "Chase Value",
       "url": "https://chasevalue.pk/products.json?limit=100&page=2",
       "status": "parsed",
-      "offers": 617
+      "offers": 559
     },
     {
       "store": "Naheed",
@@ -65,8 +65,8 @@
     {
       "store": "Foodpanda / Kifayah",
       "url": "https://www.foodpanda.pk/shop/a036/kifayah-supermarket-pechs",
-      "status": "no verified quotes",
-      "offers": 0
+      "status": "parsed",
+      "offers": 90
     },
     {
       "store": "OLX",
