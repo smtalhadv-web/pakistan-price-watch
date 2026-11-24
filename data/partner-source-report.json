@@ -1,6 +1,6 @@
 {
-  "checked_at": "2026-11-24T21:16:25.171215+05:00",
-  "quotes": 15012,
+  "checked_at": "2026-11-25T04:59:29.888047+05:00",
+  "quotes": 15022,
   "checks": [
     {
       "store": "Chase Value",
@@ -72,19 +72,19 @@
       "store": "OLX",
       "url": "https://www.olx.com.pk/items/q-iphone-15",
       "status": "fetch failed; dated offers retained",
-      "error": "HTTP Error 401: Unauthorized"
+      "error": "HTTP Error 403: Forbidden"
     },
     {
       "store": "OLX",
       "url": "https://www.olx.com.pk/items/q-laptop",
       "status": "fetch failed; dated offers retained",
-      "error": "HTTP Error 401: Unauthorized"
+      "error": "HTTP Error 403: Forbidden"
     },
     {
       "store": "OLX",
       "url": "https://www.olx.com.pk/items/q-sofa",
       "status": "fetch failed; dated offers retained",
-      "error": "HTTP Error 401: Unauthorized"
+      "error": "HTTP Error 403: Forbidden"
     }
   ]
 }
