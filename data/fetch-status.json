@@ -1,19 +1,19 @@
 [
   [
     "karachi",
-    "HTTP Error 404: Not Found"
+    "<urlopen error [Errno 101] Network is unreachable>"
   ],
   [
     "forex",
-    111484
+    111486
   ],
   [
     "gold",
-    112588
+    112868
   ],
   [
     "silver",
-    105056
+    105339
   ],
   [
     "pso-history",
@@ -25,7 +25,7 @@
   ],
   [
     "xiaomi",
-    607327
+    607325
   ],
   [
     "vivo",
@@ -49,7 +49,7 @@
   ],
   [
     "appliances",
-    1156070
+    1196212
   ],
   [
     "pbs",

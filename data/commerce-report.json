@@ -1,6 +1,6 @@
 {
-  "checked_at": "2026-11-23",
-  "observed_offers": 2520,
+  "checked_at": "2026-11-24",
+  "observed_offers": 2506,
   "sources": [
     {
       "url": "https://www.zahcomputers.pk/shop/",
@@ -94,7 +94,7 @@
     {
       "url": "https://priceoye.pk/mobiles/realme?page=1",
       "status": "parsed",
-      "observed_offers": 10
+      "observed_offers": 9
     },
     {
       "url": "https://priceoye.pk/mobiles/realme?page=2",
@@ -249,17 +249,17 @@
     {
       "url": "https://priceoye.pk/trimmers-shavers?page=1",
       "status": "parsed",
-      "observed_offers": 28
+      "observed_offers": 24
     },
     {
       "url": "https://priceoye.pk/trimmers-shavers?page=2",
       "status": "parsed",
-      "observed_offers": 36
+      "observed_offers": 33
     },
     {
       "url": "https://priceoye.pk/trimmers-shavers?page=3",
       "status": "parsed",
-      "observed_offers": 36
+      "observed_offers": 30
     },
     {
       "url": "https://priceoye.pk/speakers?page=1",

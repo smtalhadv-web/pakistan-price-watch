@@ -1,6 +1,6 @@
 {
-  "checked_at": "2026-11-23T21:16:21.860999+05:00",
-  "quotes": 14748,
+  "checked_at": "2026-11-24T07:29:34.559349+05:00",
+  "quotes": 14753,
   "checks": [
     {
       "store": "Chase Value",
@@ -18,7 +18,7 @@
       "store": "Naheed",
       "url": "https://www.naheed.pk/groceries-pets",
       "status": "parsed",
-      "offers": 47
+      "offers": 48
     },
     {
       "store": "Naheed",
@@ -60,7 +60,7 @@
       "store": "Metro",
       "url": "https://metro-online.pk/",
       "status": "parsed",
-      "offers": 208
+      "offers": 207
     },
     {
       "store": "Foodpanda / Kifayah",

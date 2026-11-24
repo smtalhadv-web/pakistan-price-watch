@@ -1,6 +1,6 @@
 {
-  "started_at": "2026-11-23T16:16:02.631032+00:00",
-  "completed_at": "2026-11-23T16:16:28.155462+00:00",
+  "started_at": "2026-11-24T02:27:49.404960+00:00",
+  "completed_at": "2026-11-24T02:29:41.222650+00:00",
   "status": "partial",
   "timezone": "Asia/Karachi",
   "scheduled_times": [
@@ -11,7 +11,7 @@
     {
       "name": "collect.py",
       "status": "completed",
-      "elapsed_seconds": 3.2,
+      "elapsed_seconds": 60.6,
       "detail": ""
     },
     {
@@ -29,7 +29,7 @@
     {
       "name": "expand_fetch.py",
       "status": "completed",
-      "elapsed_seconds": 2.0,
+      "elapsed_seconds": 30.4,
       "detail": ""
     },
     {
@@ -41,19 +41,19 @@
     {
       "name": "commerce.py",
       "status": "completed",
-      "elapsed_seconds": 10.4,
+      "elapsed_seconds": 10.5,
       "detail": ""
     },
     {
       "name": "partner_sources.py",
       "status": "completed",
-      "elapsed_seconds": 4.9,
+      "elapsed_seconds": 4.8,
       "detail": ""
     },
     {
       "name": "extra_sources.py",
       "status": "completed",
-      "elapsed_seconds": 1.4,
+      "elapsed_seconds": 1.8,
       "detail": ""
     }
   ],
@@ -84,7 +84,7 @@
       "url": null,
       "status": "verified",
       "detail": "parsed",
-      "quotes": 137
+      "quotes": 133
     },
     {
       "source": "PBS weekly city prices",
@@ -124,8 +124,8 @@
     {
       "source": "Toyota manufacturer vehicle price configuration",
       "url": null,
-      "status": "verified",
-      "detail": "parsed",
+      "status": "not_verified",
+      "detail": "manual_required",
       "quotes": 0
     },
     {
@@ -259,7 +259,7 @@
       "url": "https://priceoye.pk/mobiles/realme?page=1",
       "status": "verified",
       "detail": "parsed",
-      "quotes": 10
+      "quotes": 9
     },
     {
       "source": "https://priceoye.pk/mobiles/realme?page=2",
@@ -476,21 +476,21 @@
       "url": "https://priceoye.pk/trimmers-shavers?page=1",
       "status": "verified",
       "detail": "parsed",
-      "quotes": 28
+      "quotes": 24
     },
     {
       "source": "https://priceoye.pk/trimmers-shavers?page=2",
       "url": "https://priceoye.pk/trimmers-shavers?page=2",
       "status": "verified",
       "detail": "parsed",
-      "quotes": 36
+      "quotes": 33
     },
     {
       "source": "https://priceoye.pk/trimmers-shavers?page=3",
       "url": "https://priceoye.pk/trimmers-shavers?page=3",
       "status": "verified",
       "detail": "parsed",
-      "quotes": 36
+      "quotes": 30
     },
     {
       "source": "https://priceoye.pk/speakers?page=1",
@@ -630,7 +630,7 @@
       "url": "https://www.naheed.pk/groceries-pets",
       "status": "verified",
       "detail": "parsed",
-      "quotes": 47
+      "quotes": 48
     },
     {
       "source": "Naheed",
@@ -679,7 +679,7 @@
       "url": "https://metro-online.pk/",
       "status": "verified",
       "detail": "parsed",
-      "quotes": 208
+      "quotes": 207
     },
     {
       "source": "Foodpanda / Kifayah",
@@ -731,9 +731,9 @@
       "quotes": 30
     }
   ],
-  "total_quotes": 24469,
-  "verified_quotes": 5819,
-  "changed_prices": 12,
-  "new_quotes": 3,
-  "retained_quotes": 18650
+  "total_quotes": 24477,
+  "verified_quotes": 5768,
+  "changed_prices": 27,
+  "new_quotes": 8,
+  "retained_quotes": 18709
 }
