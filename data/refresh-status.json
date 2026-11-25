@@ -1,6 +1,6 @@
 {
-  "started_at": "2026-11-24T23:59:14.164248+00:00",
-  "completed_at": "2026-11-24T23:59:34.545535+00:00",
+  "started_at": "2026-11-25T04:15:53.445344+00:00",
+  "completed_at": "2026-11-25T04:16:15.986614+00:00",
   "status": "partial",
   "timezone": "Asia/Karachi",
   "scheduled_times": [
@@ -11,7 +11,7 @@
     {
       "name": "collect.py",
       "status": "completed",
-      "elapsed_seconds": 3.4,
+      "elapsed_seconds": 4.5,
       "detail": ""
     },
     {
@@ -23,7 +23,7 @@
     {
       "name": "ingest.py",
       "status": "completed",
-      "elapsed_seconds": 1.2,
+      "elapsed_seconds": 1.1,
       "detail": ""
     },
     {
@@ -41,19 +41,19 @@
     {
       "name": "commerce.py",
       "status": "completed",
-      "elapsed_seconds": 7.7,
+      "elapsed_seconds": 7.2,
       "detail": ""
     },
     {
       "name": "partner_sources.py",
       "status": "completed",
-      "elapsed_seconds": 3.7,
+      "elapsed_seconds": 5.2,
       "detail": ""
     },
     {
       "name": "extra_sources.py",
       "status": "completed",
-      "elapsed_seconds": 0.9,
+      "elapsed_seconds": 1.1,
       "detail": ""
     }
   ],
@@ -84,7 +84,7 @@
       "url": null,
       "status": "verified",
       "detail": "parsed",
-      "quotes": 137
+      "quotes": 133
     },
     {
       "source": "PBS weekly city prices",
@@ -476,21 +476,21 @@
       "url": "https://priceoye.pk/trimmers-shavers?page=1",
       "status": "verified",
       "detail": "parsed",
-      "quotes": 28
+      "quotes": 24
     },
     {
       "source": "https://priceoye.pk/trimmers-shavers?page=2",
       "url": "https://priceoye.pk/trimmers-shavers?page=2",
       "status": "verified",
       "detail": "parsed",
-      "quotes": 36
+      "quotes": 34
     },
     {
       "source": "https://priceoye.pk/trimmers-shavers?page=3",
       "url": "https://priceoye.pk/trimmers-shavers?page=3",
       "status": "verified",
       "detail": "parsed",
-      "quotes": 36
+      "quotes": 35
     },
     {
       "source": "https://priceoye.pk/speakers?page=1",
@@ -679,7 +679,7 @@
       "url": "https://metro-online.pk/",
       "status": "verified",
       "detail": "parsed",
-      "quotes": 208
+      "quotes": 212
     },
     {
       "source": "Foodpanda / Kifayah",
@@ -731,9 +731,9 @@
       "quotes": 30
     }
   ],
-  "total_quotes": 24858,
-  "verified_quotes": 4723,
-  "changed_prices": 20,
-  "new_quotes": 10,
-  "retained_quotes": 20135
+  "total_quotes": 24866,
+  "verified_quotes": 4721,
+  "changed_prices": 13,
+  "new_quotes": 8,
+  "retained_quotes": 20145
 }

@@ -1,20 +1,20 @@
 {
-  "checked_at": "2026-11-25T04:59:35.591034+05:00",
+  "checked_at": "2026-11-25T09:16:16.996555+05:00",
   "checks": [
     {
       "topic": "economy",
-      "status": "updated",
-      "headlines": 8
-    },
-    {
-      "topic": "trade",
-      "status": "updated",
-      "headlines": 8
+      "status": "failed — previous dated posts retained",
+      "reason": "HTTP Error 503: Service Unavailable"
     },
     {
       "topic": "business",
-      "status": "updated",
-      "headlines": 8
+      "status": "failed — previous dated posts retained",
+      "reason": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "topic": "trade",
+      "status": "failed — previous dated posts retained",
+      "reason": "HTTP Error 503: Service Unavailable"
     }
   ],
   "posts": [

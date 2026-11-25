@@ -10,7 +10,7 @@
     ],
     [
       "gold",
-      112937
+      112938
     ],
     [
       "silver",
@@ -22,7 +22,7 @@
     ],
     [
       "samsung",
-      716361
+      712393
     ],
     [
       "xiaomi",
@@ -50,14 +50,14 @@
     ],
     [
       "appliances",
-      1165259
+      1198122
     ],
     [
       "pbs",
       344844
     ]
   ],
-  "checked_at": "2026-11-24T23:59:18.856123+00:00",
+  "checked_at": "2026-11-25T04:15:59.204487+00:00",
   "sources": [
     {
       "source": "PSO dated fuel archive",
@@ -79,8 +79,8 @@
     {
       "source": "PriceOye published listings",
       "status": "parsed",
-      "observed_records": 137,
-      "new_records": 0
+      "observed_records": 133,
+      "new_records": 1
     },
     {
       "source": "PBS weekly city prices",
@@ -115,7 +115,7 @@
       "new_records": 0
     }
   ],
-  "quotes": 5970,
+  "quotes": 5971,
   "manual_queue": [
     "Verify new image rates before transcribing; source sheets refresh automatically",
     "Unsupported sources retain their dated quotes"
