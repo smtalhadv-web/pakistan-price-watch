@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-26T21:19:05.677771+05:00",
+  "checked_at": "2026-11-27T04:57:03.766253+05:00",
   "checks": [
     {
       "topic": "economy",
@@ -7,17 +7,239 @@
       "headlines": 8
     },
     {
-      "topic": "trade",
+      "topic": "business",
       "status": "updated",
       "headlines": 8
     },
     {
-      "topic": "business",
+      "topic": "trade",
       "status": "updated",
       "headlines": 8
     }
   ],
   "posts": [
+    {
+      "id": "trade-2026-11-27",
+      "topic": "trade",
+      "date": "2026-11-27",
+      "title": "Trade news briefing · 2026-11-27",
+      "context": "Trade and customs developments can affect landed costs and delivery times. Check the original notification, effective date and product classification before applying a reported change to an item.",
+      "headlines": [
+        {
+          "id": "496704583f87d5cf",
+          "title": "Pakistan’s trade deficit with seven Middle Eastern states narrows 29% to $3.75 billion in July-October",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQRlktT3RIRGVhQjVlcTd4VUw1NkNLX2pnQWUwN0F3QmxHS19GZW9hWUlUanMyR0JtSG5wOVhCNjY2bEFQMnByV3FhMGlwNXR0b29hNWN1ekw2ZEt2NDNLTWdtNVJwenhjQjcybEhTTTVoTnpzV3EyWlRWWWZKRmZzU1dlSkJmSXhMTHFncnRkZGlXSm9EQUJyLWZlSVV2QVBXTEY4T3dyX3JIellmX1pHNlV3bndkWWdGb2ZNbXkyUThaaTVNOTYyT2dOU1F5UQ?oc=5",
+          "publisher": "Investify",
+          "published_at": "2026-11-26T12:40:32+05:00",
+          "topic": "trade"
+        },
+        {
+          "id": "8b727a02a0f71767",
+          "title": "Trade gap with Gulf narrows",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9UV1hNam1sNGJMREU3cFptNk1DcGk2MVl5M3lfWHlPU0hPbWFzbkVBc2txeHZsVHlXeERjSV9oSnh6SUNBM3pkRg?oc=5",
+          "publisher": "Dawn",
+          "published_at": "2026-11-26T06:55:28+05:00",
+          "topic": "trade"
+        },
+        {
+          "id": "d449c85e9942f83d",
+          "title": "Experts say new U.S. tariffs do not pose substantial threat, India should not rush into trade deal",
+          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQZFByTVdLdWx5cnJhWHlIS1k1cGt1VU5pd2JVMm1LRkYxblg5OVlwMmxKVm1yeWYwVXJsajJJdmhHOXlUNV9zbWJkSDhjOXBmZm1wbFZRUW1OSWdsbkprejN5VDhCVnZEdENEVzEyNThYUURQUGZ5ekp3aTZvM3k4OF8xNTNISTVPeF9FU0tkQjN6LTNfWHhJRmVtaFBKTTE1ZmhZbnVRX21TSmh2VjJYZDlET3VNcF9QRFhOc2t1Qkg0aThHYkU2bTFITW1iNlpfN1B0OXR3WEFJNnJjWVRxVmFlbnAycExUM3pvNm9n0gH0AUFVX3lxTE5hdUhBQXdPYzFYeEFaVEpPYWVGUFlJbmhHZE9NbTZOcUh3OW80bllYenlBcVFrLVZzREs3T0J6eVB0ZmcySm12dUFpZ3FCOUdGQmM1STNBbXBpbkEyZXk0ZnQ1Y2JibnhnUlI0ZUdveG5WenZXZ19NRno0eXhKeFJKZHUyLWJwX19Yay1NX1pSSGQzYUlreloyNFJRZW44S1h2NmV2eW5iOVptS1J1SE5YdlBjdWhSa0tPOFNCclA0S0EwTjhENTBpNkh3cXRvV0FULTZBS0pLTTBwYnNyb3BIdmVoeVFGck92QVBsN2tXTnVwNE0?oc=5",
+          "publisher": "The Hindu",
+          "published_at": "2026-11-26T15:36:03+05:00",
+          "topic": "trade"
+        },
+        {
+          "id": "d7425f7f97a948c6",
+          "title": "Fresh US tariff plan raises uncertainty over Indian exporters' prospects",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNb3NPd2FpbWNOdGNTbHdjR0tVSjhHYnB0aWhKLWtUMUJ4NUVWZGFNV2ctVWxEbko5b3hONVMzRFVTR3lIN09uSDJ1ZGNiRTVnQ0tWalBhUXFaNlpXeHZGZVU1ZFc3V29GWGZaSE5ERVV6ME1KMXpfTHVuOUFEMDI0QUhaWmhkS0FleFdid2J0bUdCR2poYnFqQXBOWlh2MDZnd3A2dDFuUGN6OHJGbDlCdHBpR3pIemplSFN5NUVlUHF6VnpLLWlIUXNfMU9KRjlTR1HSAdcBQVVfeXFMT2U4V2JPWF8ydkRCNGxFS2RBMUtUQ1haX0Zla1h6TXpnemJfSGlmWEFfbEpXbV82TmlMaG9fcGdDSkJpYmI3NE9rTnVBRnpMSGQ3Q3dLdkJ4cDlJRkZHcTFVdlVCaWxNSEVpd2JpeXFYcVA1aFdRTVlBblZsaENmYVlrZ0ExMlExV29LQXpVblczb2FTU1puY0xweTd1VVFtbEo3Mlg4ampGRmF2c2h3ZVVaOUZMcDRhdTRfTzVNYXA0TDYxczhMOE1lSnJtY0V5cEFPS2lyMlk?oc=5",
+          "publisher": "Business Standard",
+          "published_at": "2026-11-26T19:15:30+05:00",
+          "topic": "trade"
+        },
+        {
+          "id": "84c6a9435fae0a4d",
+          "title": "Taliban’s Trade Pivot to New Delhi: From Pakistan’s Transit Restrictions to India’s Tariff Exemptions",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ud3E2ZVRGNGtMemNqdnpCNTE0eWQ4eFhjRmR3TzNKUkM2TldRY0owVmVYVUJja3M5S01xT0dTMTVxWHJXNUlaYUY3aWNXSXdnYzFxU19jX1M4WDJjYXlfQkkwdndYMXBrRWswMFhXWFllTlgw?oc=5",
+          "publisher": "8AM Media",
+          "published_at": "2026-11-25T06:52:26+05:00",
+          "topic": "trade"
+        },
+        {
+          "id": "0d68b3d6313dc16f",
+          "title": "The levies target some of the U.S.'s largest trading partners, putting China, the EU, India, Bangladesh, Cambodia, Indonesia, Japan, South Korea, Malaysia, Singapore, Switzerland, Taiwan, Thailand, and Vietnam in the crosshairs. Link to the",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQMGN1ZVNzcmRCLXJaY1E3UmVVdFVZLXRrMzNRUlFWejBic1ZyNE9wRm1IWHJoWkJkQ1ltSlAwcmxBN2FNX3kteEZpRjRRcVZTQ1J0MUNSNFRZUUxBTjZDMU1maDdMZzJQOTAzQkl2bUMyRDdHWG1GdTdvUFF3bWlfU2R1N0N5aHlCbkc5cXQ1Q25qNlRBcEhwZHdSNl9CbU5DMy1jSjNCbXBQUmJoUjJYVlFwU18yX2tXYVczWnBzaFM4ZlE5d0VhejJlZzJuTXJldzlVX2JB?oc=5",
+          "publisher": "Facebook",
+          "published_at": "2026-11-26T15:03:05+05:00",
+          "topic": "trade"
+        },
+        {
+          "id": "3f15875d2265a040",
+          "title": "US Tariff Hike on Bangladesh Exports | US proposes tariffs of up to 18% on Bangladesh’s goods",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNR1p4TjdNMDJQSHBJdXc4aHF1dFhFRWF3TXdabFBWTkY4Mko3Q3ozX295Ti1aYWRUTUZJUXo5aS11SjBKWmRBZUdaRjd5X082aDY1MC02VzVlcFpKQ0hTa1UySGpKYmU1SExKQXZ5MFRmYVU5QjhHdTRSUzhKTldHcWxUSldDUTdscnY2eWR2UWp1Mm5lcWc?oc=5",
+          "publisher": "The Daily Star",
+          "published_at": "2026-11-26T16:07:48+05:00",
+          "topic": "trade"
+        },
+        {
+          "id": "2ad758245010b460",
+          "title": "India at disadvantage? US tariff uncertainty puts Indian exporters, buyers on edge",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPX3BiMEduQmtOLWJVTXo0VmhoMHhfaUxhU1FfQW1tb1VGc2Zwdk85am4wa3Jhb2JpVmwwUExLeVB0ZUIwNFdsUjhJNVR2ckZMdzN6VFNiVXVnSk5tRWNyTTI0dVIxcUhkSjBTQmQxbEIwaDlYY2lCV3V1cWJJOXNINmdhR1A1cDg2VE9KRmJrY09CQ3ZMSWJnOEVDclg0YnNLeWRabE00OV9YLUVfNWZsR1VCMUNGdThfWGFXMjdfT0drVlZHakg0UF9MSGd3Y2lXbk5nMjBtejgwVnZ1YTYwSkFR0gHnAUFVX3lxTE5ycWRnRmRRclJEUlk1eHVlZ1lQZ1lMekhYRnp4bDhodER5WE1qVW9PdVI4ODJoTlN0blVfUV8zSWVPLXNXa2tYTW1LY3BXU042UDdCeUluSUVFSXMzNTlpbWYwOW1vV2VLLUFjTUZfN0NVenRCWmI1WnR6LW9EYkRzSWpfeHRIZ3lvbjEydEp5NDBLQTU4R2Utd0I5U185eDZzM1o1eU1WNmxiNVJnQ1lzSmFCenZJYl9DWTk3TktkR2FXcGZ6X0w4NVZjRVFQWGNOVFIxSnp4OU91bzE4cEg5a0FFQnpMQQ?oc=5",
+          "publisher": "The Times of India",
+          "published_at": "2026-11-26T22:41:00+05:00",
+          "topic": "trade"
+        }
+      ],
+      "fetched_at": "2026-11-27T04:57:03.766253+05:00"
+    },
+    {
+      "id": "economy-2026-11-27",
+      "topic": "economy",
+      "date": "2026-11-27",
+      "title": "Economy news briefing · 2026-11-27",
+      "context": "Watch how inflation, currency movements and borrowing costs may affect household budgets and import costs. A headline alone does not establish that a retail price has changed.",
+      "headlines": [
+        {
+          "id": "23d2ed5d5f5598e3",
+          "title": "Indian rupee strengthens, Philippine peso weakens – should expats send money now?",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQUEJLcFRyRVhPNTZHS09BUFJhQW5oRW1HaTI5VEU0OWxwWld5ZXFDTE5kMHpIdEM5WHdibno3U0ZkcjJVdUlEX1lWYnl5eW9POGNFUWktaEdkWnVNaE1RUUdFczFDaG1zYkFuWTBTRm5nREE1ZENmMDBrU2c0d0EwZlh3dngyN3lhTFQwNjBKZXlta3F5bGx3akNPMG9TVVJfY1c1WVdBdlAtclFZamNtbWN1dmx2SzNrUHpBSHg5Ym00enR3TDZjRWZTQmhqQS1tUW1sUGlB0gHoAUFVX3lxTE9RX0Nfd2NodjFMSGh0VGlvdExWb2Y1R3FvWkI1SjJNTFVHNTROd05HR21oQ05qZ3FFc2s0ZE14QlV6WTNXTWNHUWZOQ1hVRG9yYW9mMUN1UFJWemJiOV9JRFNpUHRjMXB0TzJfRnhRWkswN2hLNHBMOWZRSFZxc2FBWjExcmYybkZIZ3lWYVlHMmI1d1dETDViYkxUcllKamtidlJFV3RDZ2dIS3JyWFBfZ3dlcE5ZQTZTRUR2Y09meF9lNi1LXzJRZHg2ZU14aUxxZEU1TEtqUy1MTzI5LTdVU2xhOXZZVDA?oc=5",
+          "publisher": "Gulf News",
+          "published_at": "2026-11-25T12:25:25+05:00",
+          "topic": "economy"
+        },
+        {
+          "id": "1948ecaeb1219c50",
+          "title": "What a Current Account Surplus Means for the Rupee",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPYUJacU95VXRLTFFZR3BWZTFmOFBEMW1tRXhrakgyeWhwX0R1RGhZS25mVmFCRnhRMFRObUtLTEMzSTl1dU1yN2lTbXY3bmpsMjZRbDQ5a0VYN3NaY3BRZ3pXVXFBbkxDSWlZb0Q2ZWVPenB6czBwbUpncFNsUkZkZ21UamRkWi04Y3pJOHZCXzhBU0toU2VDXzlNN0lyUkU?oc=5",
+          "publisher": "UrduPoint",
+          "published_at": "2026-11-27T00:17:21+05:00",
+          "topic": "economy"
+        },
+        {
+          "id": "2be75341fcbbddde",
+          "title": "Why Pakistan Still Needs Loan Rollovers Even With Higher Reserves",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQd0ZSX0c3LWI1ZlRwR3YwM2ZBendoaFlpTU1fdkZ2RTNyRV9uNk5yR3AzOFlzWUt4Sk9JWHJtZmRFQTU2SmpXSDBTdjF4N1EwYzA1X3EyRnJvU0RRSGMyVVZkY3dMcjVPYTlra0hFdnVHSU01WXgyQ0RFaU5jRHhQU3kyQjNJR0ZGZTRFd3M2OVowSVk?oc=5",
+          "publisher": "UrduPoint",
+          "published_at": "2026-11-27T00:17:21+05:00",
+          "topic": "economy"
+        },
+        {
+          "id": "8b84dc5bd919c4f2",
+          "title": "Pakistani Rupee Gains to Rs. 276.45 Against US Dollar in Inter-Bank Market",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRG02akMyenpNSjQ5WXZBSC1OSmhLYTQwc3d0TzJoaU9OQW8wSVVfS19xVXhldkp5bHVTNlFtdXB0NVVRcTFRN1d0aHM5aDZkLVBkSmc0NDFDWWpwZzlBLWRDNTlXX2RuRUloOVRkMGs4YkNrMVY0RU9oM041Y2wtQU5oLXJLZmNSVnFEdlFuclJTUUY3SkpndElocGtOZHFDX0E?oc=5",
+          "publisher": "Bloom Pakistan",
+          "published_at": "2026-11-26T16:48:25+05:00",
+          "topic": "economy"
+        },
+        {
+          "id": "ed2dd7f2075b2fe8",
+          "title": "Why Interest Payments Take the Biggest Share of Pakistan's Budget, and How the Policy Rate Drives Them",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVk1QV3BBRk5aUV9xZUsxT0ZJNXZkbEFaREVSeVNJMDRJck9GRlk5dy05MWVMc0FfWVVTLUt2MXdWajR2VUFQTU1xV2NYWkFqUHU0UUxFdmhBOVdRTm5GMlZROUNXcVd2Yi15LTRJUmxQMFc2S01MMWlxS0hqb29mZ2dpRjJNbW9oWHYtRDRWazlWYno3ek9MN0JJNEoyaHhrb0d2LU9oV3RHY2hoT21HcXRqQ0Y?oc=5",
+          "publisher": "UrduPoint",
+          "published_at": "2026-11-26T17:23:58+05:00",
+          "topic": "economy"
+        },
+        {
+          "id": "b7bec8727d365aa2",
+          "title": "RBI should avoid jumbo rate hike in December to prevent capital outflows, rupee instability: SBI Research",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQWG1nQ1QycVV4Q3JZTVBJdVR3V2V6OS0xc1c2LVA2X0MtZGdrNjlVTjB5NkFYSzI2eE05RExEdUhOWkJLOXVfdGtBZ3VicUstSTRMaEFCaGhlc1R0c3FRWjNaanFsa0ZMWUtmUHo1Q2FMVmRndW5wakFpal9JWjhQeUszRzBqZDVwVXNHVERNd0JIM2VfSHk3bGR5eVhrUHgtbEp6Nkc1X0tBano1NkE0QkR1Y1hEVDcxZXZ5WGFUb2M5Y0NzTlpJRE9HS2FNc3kxVEhxaU1GY05jYWJhamtTStIB5AFBVV95cUxPeDJ0Z0R2TU5aeTZ2VmpMUE1KNV9VNDlOV1ZwSG5DbHdMQXhSTjNHNjRNS1FUY3NnMGtETzZrQlF0eDU2a2pURGJ5cVdfdzg2ZnRQSm9hUWdqRWdsX0FFLWd0RU5ONWIzbFpsWkZzMzFEa1VHejNJZkl6TTBoM2lrSlktYy1DSmNFRXB6bk0yR3ZaeVBmalR0TlhNNlk0T1c4aVlaNWlKbXJsbnNWbE5ZQTRLNWVFdEp1bmprUzlWNUpOMWVDdl9HeDhjbE4yb21xckFqYWxnVGRMQXJqUHdHMG56WFk?oc=5",
+          "publisher": "The Tribune",
+          "published_at": "2026-11-26T17:02:28+05:00",
+          "topic": "economy"
+        },
+        {
+          "id": "f3431fbb55c6201f",
+          "title": "What the New Auto Policy Would Change About Car Prices",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTHREdDM5cUpSOFRwZGJYMk80OXdjZ0tfU3dpNDN4RjQ0SENISUVHWE1UMENuaDdScU5TbnNtWDBSN3NrSzY2dVpNdGFXZG42T2pQUm41OEhObk9RcGt5alozNEJCd1otckc2NDVjYzNYcm5lOVFaN3Y5MkUzSEJNWHBIZTBmODlha1RsejF6NUZ4YVYtWDhrYWl6cFZqWHI1YlE?oc=5",
+          "publisher": "UrduPoint",
+          "published_at": "2026-11-27T00:17:22+05:00",
+          "topic": "economy"
+        },
+        {
+          "id": "021c40267852dd09",
+          "title": "Why Household Gas Is Only Available a Few Hours in Winter",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNXzBjbnY0M2RfdjRITHJndDRwcHBmV2x6ZW02ZUNNVGl1TnNuYy04Und5Rno4LWNuRmlKcWJKaUNrX3dmQUNTcXc2MFpKZUVkeWw4ZWt4Mk1qcXdhRXpDOE9zQTViMWNma3lSdUwyZnllZW5ISERpY19pT0JUbzZ3QkVnbTRmMkd1SGF0VXp2MGgxMjV5YVRYUFJ4clROSFE?oc=5",
+          "publisher": "UrduPoint",
+          "published_at": "2026-11-27T00:17:21+05:00",
+          "topic": "economy"
+        }
+      ],
+      "fetched_at": "2026-11-27T04:57:03.766253+05:00"
+    },
+    {
+      "id": "business-2026-11-27",
+      "topic": "business",
+      "date": "2026-11-27",
+      "title": "Business news briefing · 2026-11-27",
+      "context": "Company and industry developments can affect supply, stock availability and competition. Compare dated supplier offers before making a purchase decision.",
+      "headlines": [
+        {
+          "id": "dee0f213bbbc707b",
+          "title": "SRVI Company Announcements - Service Industries Ltd",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9NNERDMjlwUWMtN1phSjVsdUp6UmhTRnFhVVd2NWdhUGdMTFNyN1FRX01UOGo2bXIydjdSUDVmMTRITEJyeFlpcGFsdnNJS3huWFJvUHJRQjJLS0RGT0hENg?oc=5",
+          "publisher": "Investify",
+          "published_at": "2026-11-26T07:36:28+05:00",
+          "topic": "business"
+        },
+        {
+          "id": "e7350e7463386aa8",
+          "title": "Qatari firm eyes farm investment in Pakistan",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE52WkF6V3VuR19HVzU5NmVGUHZnbjNpQlN5TjJRTGVoVTRQZWRRQ2RvT2xjc3R6SnBpbE0wMWNQaXJRSFJHT0JLaA?oc=5",
+          "publisher": "Dawn",
+          "published_at": "2026-11-26T06:55:28+05:00",
+          "topic": "business"
+        },
+        {
+          "id": "a724775a2660de97",
+          "title": "ADB Ventures backs Neem to scale FinTech rails in Pakistan",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdU5qZ3JnQjhQRHJVUmtTLXplTnUtQlFuTWFBai1paXFoME9HUlBaV1VrbnpOcFdvY1ZPLXpvTElTb21wZUo5THhhSlZpMEdOMXhCYXRaRmhjWXF5cFFGeF9lMFRHczVXNWJfcUo0aE5ybWZ5MHl2ZFF1VDFhWGotajJXMGUwQU9ITjI4TUI5anQxR1MySENHdA?oc=5",
+          "publisher": "FinTech Global",
+          "published_at": "2026-11-25T19:07:32+05:00",
+          "topic": "business"
+        },
+        {
+          "id": "3c2444ede5c56810",
+          "title": "OICCI Survey Reveals Sharp 36-Point Drop in Pakistan’s Business Confidence",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWHVRdk5ra3E4WDN3dVlfNEkzN0JoSDFfaTlnS1ZLWVpNMnFJNjRjdG0xZUFGY3AyUi05cmlONEt2dDhPR2pCOWpadklJSEdZM1FTVDZqN3VCa1lfcGlkOFV0ZVlPVFNVZ0VEdFdjX19PMjd0eEdocGdDNFV4YjMtWXFoWExQbkhQNFI4MmotOHRKRXplOTlGRHdRVXZNS19yZVI1dUtWQXpMdw?oc=5",
+          "publisher": "Energy Update",
+          "published_at": "2026-11-25T12:53:08+05:00",
+          "topic": "business"
+        },
+        {
+          "id": "2654c9a0337a8e96",
+          "title": "Pakistan secures first tuna quota, eyes Maldives investment",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPa095YmFrWXFyVW9xTVJOMFpwOHpBdG9leDQ1Vmh5NmtvNUtsclpfdDdycmFqa3h4bmQtRVZ6cDJSQWtzb3hZbFFxV1JvMWhWYm01djRQVHFGWkhueTh2U2I5d0pRQW5qR2pyenoxMktfbENiLUxpb0x5U0NndTJURlVYTlJLb19uSEpnTFZST21mVUVtU1h4T1F5V0dCX3p4Z1k0?oc=5",
+          "publisher": "Investify",
+          "published_at": "2026-11-25T12:54:14+05:00",
+          "topic": "business"
+        },
+        {
+          "id": "0cb683df3efafcf9",
+          "title": "Govt invites European, Chinese firms to invest in Pakistan's food sector",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOS1B4MndTQkRVS1hPd1JrRE1QVTJTRlZOdHVoX1VmY2xrWW12d2s4Y1ZiLXdZR09TNFk4Nnpac0QxSV8wRkFaTHFFWUtMMEZNRGIwWFFJcjN1QUhvM0JhVDhFT2VnanFSdmVaMjdrVExmaXN2S3RJUVhIZUxrT25wOTAzdVp4V2hhRHJZdlBNUE1xb1pyWkJzY2NVdmpLc3pHM18weFYyUG1kOHlQOW1CZW5tT2w?oc=5",
+          "publisher": "Investify",
+          "published_at": "2026-11-25T10:25:18+05:00",
+          "topic": "business"
+        },
+        {
+          "id": "cd760d186cc74531",
+          "title": "Pakistan invites Maldives to invest in tuna-processing industry",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNeGJzd0toNGc0b2hiRDNGZ2hpN3FmeVRLMG9wcE5rdkdIM284UVNjUE03U056amI4eXdCUUxlZkdib01IY0xSZGpoR2ZDeFYwNUFGZXFibl9mNDNudXNsRGNWdy1MVS0wNURpamJkaGJSZzRzWlJDc21FTHZQajMwMUJpMFRwYlp0UWliOVd4a3JPS0hGbFhZR1N2Z1FKVGQ4MnhibnFOX1dpZw?oc=5",
+          "publisher": "Investify",
+          "published_at": "2026-11-25T21:38:54+05:00",
+          "topic": "business"
+        },
+        {
+          "id": "273495fe3ae12847",
+          "title": "Pakistan invites European, Chinese businesses to establish JVs in agri, food processing sectors, seeks long-term sourcing deals with Malaysia",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQNy15T1c4d0Rud1VMNy1OckRHNS01TGJsU0kxeHk4bVMxUkY3R0ZiekFYemI5LXRROVBOR1N4Y3pOSktwWmVEVVFxakpjeUR3aDVwUEVlZWhCdHE2aGdDck5FbnYwY2FsOHlDZ1ZHOU5vSURjRXpKVmNkellPZ1M3VXlNM0dHSjBXTGkyS1dnWFNTSV94cG5MT1dHSlRReW9ZZnF1YmFWRUFWN21MV0M4a0dBUzBwZFVua2FXQ0dPZjZBaEFyNHBSY0c0ZUgwUQ?oc=5",
+          "publisher": "Investify",
+          "published_at": "2026-11-25T13:31:58+05:00",
+          "topic": "business"
+        }
+      ],
+      "fetched_at": "2026-11-27T04:57:03.766253+05:00"
+    },
     {
       "id": "trade-2026-11-26",
       "topic": "trade",
