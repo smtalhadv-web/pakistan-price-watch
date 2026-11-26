@@ -1,6 +1,6 @@
 {
-  "started_at": "2026-11-26T04:19:46.211950+00:00",
-  "completed_at": "2026-11-26T04:20:09.080905+00:00",
+  "started_at": "2026-11-26T12:58:20.517184+00:00",
+  "completed_at": "2026-11-26T12:58:45.954299+00:00",
   "status": "partial",
   "timezone": "Asia/Karachi",
   "scheduled_times": [
@@ -23,7 +23,7 @@
     {
       "name": "ingest.py",
       "status": "completed",
-      "elapsed_seconds": 1.0,
+      "elapsed_seconds": 1.2,
       "detail": ""
     },
     {
@@ -35,25 +35,25 @@
     {
       "name": "expand.py",
       "status": "completed",
-      "elapsed_seconds": 0.9,
+      "elapsed_seconds": 1.2,
       "detail": ""
     },
     {
       "name": "commerce.py",
       "status": "completed",
-      "elapsed_seconds": 8.1,
+      "elapsed_seconds": 9.2,
       "detail": ""
     },
     {
       "name": "partner_sources.py",
       "status": "completed",
-      "elapsed_seconds": 5.2,
+      "elapsed_seconds": 6.0,
       "detail": ""
     },
     {
       "name": "extra_sources.py",
       "status": "completed",
-      "elapsed_seconds": 1.5,
+      "elapsed_seconds": 1.6,
       "detail": ""
     }
   ],
@@ -84,7 +84,7 @@
       "url": null,
       "status": "verified",
       "detail": "parsed",
-      "quotes": 132
+      "quotes": 137
     },
     {
       "source": "PBS weekly city prices",
@@ -231,7 +231,7 @@
       "url": "https://priceoye.pk/mobiles/oppo?page=1",
       "status": "verified",
       "detail": "parsed",
-      "quotes": 12
+      "quotes": 13
     },
     {
       "source": "https://priceoye.pk/mobiles/oppo?page=2",
@@ -476,21 +476,21 @@
       "url": "https://priceoye.pk/trimmers-shavers?page=1",
       "status": "verified",
       "detail": "parsed",
-      "quotes": 23
+      "quotes": 28
     },
     {
       "source": "https://priceoye.pk/trimmers-shavers?page=2",
       "url": "https://priceoye.pk/trimmers-shavers?page=2",
       "status": "verified",
       "detail": "parsed",
-      "quotes": 33
+      "quotes": 36
     },
     {
       "source": "https://priceoye.pk/trimmers-shavers?page=3",
       "url": "https://priceoye.pk/trimmers-shavers?page=3",
       "status": "verified",
       "detail": "parsed",
-      "quotes": 34
+      "quotes": 36
     },
     {
       "source": "https://priceoye.pk/speakers?page=1",
@@ -616,21 +616,21 @@
       "url": "https://chasevalue.pk/products.json?limit=100&page=1",
       "status": "verified",
       "detail": "parsed",
-      "quotes": 433
+      "quotes": 513
     },
     {
       "source": "Chase Value",
       "url": "https://chasevalue.pk/products.json?limit=100&page=2",
       "status": "verified",
       "detail": "parsed",
-      "quotes": 146
+      "quotes": 161
     },
     {
       "source": "Naheed",
       "url": "https://www.naheed.pk/groceries-pets",
       "status": "verified",
       "detail": "parsed",
-      "quotes": 47
+      "quotes": 48
     },
     {
       "source": "Naheed",
@@ -651,7 +651,7 @@
       "url": "https://www.naheed.pk/groceries-pets/baking-cooking/rice",
       "status": "verified",
       "detail": "parsed",
-      "quotes": 23
+      "quotes": 24
     },
     {
       "source": "Naheed",
@@ -679,14 +679,14 @@
       "url": "https://metro-online.pk/",
       "status": "verified",
       "detail": "parsed",
-      "quotes": 208
+      "quotes": 210
     },
     {
       "source": "Foodpanda / Kifayah",
       "url": "https://www.foodpanda.pk/shop/a036/kifayah-supermarket-pechs",
-      "status": "not_verified",
-      "detail": "no verified quotes",
-      "quotes": 0
+      "status": "verified",
+      "detail": "parsed",
+      "quotes": 90
     },
     {
       "source": "OLX",
@@ -714,7 +714,7 @@
       "url": "https://alfatah.pk/products.json?limit=100",
       "status": "verified",
       "detail": "updated",
-      "quotes": 100
+      "quotes": 108
     },
     {
       "source": "Shophive",
@@ -731,9 +731,9 @@
       "quotes": 30
     }
   ],
-  "total_quotes": 25311,
-  "verified_quotes": 4430,
-  "changed_prices": 3,
-  "new_quotes": 2,
-  "retained_quotes": 20881
+  "total_quotes": 25477,
+  "verified_quotes": 4640,
+  "changed_prices": 213,
+  "new_quotes": 166,
+  "retained_quotes": 20837
 }

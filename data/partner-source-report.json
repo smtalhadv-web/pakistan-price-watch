@@ -1,24 +1,24 @@
 {
-  "checked_at": "2026-11-26T09:20:02.315218+05:00",
-  "quotes": 15365,
+  "checked_at": "2026-11-26T17:58:38.304794+05:00",
+  "quotes": 15508,
   "checks": [
     {
       "store": "Chase Value",
       "url": "https://chasevalue.pk/products.json?limit=100&page=1",
       "status": "parsed",
-      "offers": 433
+      "offers": 513
     },
     {
       "store": "Chase Value",
       "url": "https://chasevalue.pk/products.json?limit=100&page=2",
       "status": "parsed",
-      "offers": 146
+      "offers": 161
     },
     {
       "store": "Naheed",
       "url": "https://www.naheed.pk/groceries-pets",
       "status": "parsed",
-      "offers": 47
+      "offers": 48
     },
     {
       "store": "Naheed",
@@ -36,7 +36,7 @@
       "store": "Naheed",
       "url": "https://www.naheed.pk/groceries-pets/baking-cooking/rice",
       "status": "parsed",
-      "offers": 23
+      "offers": 24
     },
     {
       "store": "Naheed",
@@ -60,13 +60,13 @@
       "store": "Metro",
       "url": "https://metro-online.pk/",
       "status": "parsed",
-      "offers": 208
+      "offers": 210
     },
     {
       "store": "Foodpanda / Kifayah",
       "url": "https://www.foodpanda.pk/shop/a036/kifayah-supermarket-pechs",
-      "status": "no verified quotes",
-      "offers": 0
+      "status": "parsed",
+      "offers": 90
     },
     {
       "store": "OLX",
