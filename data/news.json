@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-26T04:43:25.400322+05:00",
+  "checked_at": "2026-11-26T09:20:10.173019+05:00",
   "checks": [
     {
       "topic": "economy",
@@ -7,12 +7,12 @@
       "headlines": 8
     },
     {
-      "topic": "business",
+      "topic": "trade",
       "status": "updated",
       "headlines": 8
     },
     {
-      "topic": "trade",
+      "topic": "business",
       "status": "updated",
       "headlines": 8
     }
@@ -26,19 +26,19 @@
       "context": "Trade and customs developments can affect landed costs and delivery times. Check the original notification, effective date and product classification before applying a reported change to an item.",
       "headlines": [
         {
-          "id": "84c6a9435fae0a4d",
-          "title": "Taliban’s Trade Pivot to New Delhi: From Pakistan’s Transit Restrictions to India’s Tariff Exemptions",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ud3E2ZVRGNGtMemNqdnpCNTE0eWQ4eFhjRmR3TzNKUkM2TldRY0owVmVYVUJja3M5S01xT0dTMTVxWHJXNUlaYUY3aWNXSXdnYzFxU19jX1M4WDJjYXlfQkkwdndYMXBrRWswMFhXWFllTlgw?oc=5",
-          "publisher": "8AM Media",
-          "published_at": "2026-11-25T12:52:26+05:00",
+          "id": "6d6d3ada67aeeb33",
+          "title": "Trade gap with Gulf narrows",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBuNS15NkZhZWRKU2VKUkJfdjZQWndabVdBVXFUS01HLVQtMEtSck1kWV9pRXdrd0ZIeDFlU0h5VWVYV1UxWjVFMWxwOFR5d1oyUTJoN1IyVUxuZnhLamk3REpVeWZJVmV6MVhqdlJn?oc=5",
+          "publisher": "Dawn",
+          "published_at": "2026-11-26T06:55:28+05:00",
           "topic": "trade"
         },
         {
-          "id": "8c29864298f6d422",
-          "title": "Pakistan, China agree to fast-track LPG plant, petrol import projects under govt-to-govt arrangements",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNeWNrTDduMWlEY0d6MmM4YXIzYWtGQ0lWY0R1UGJ5enRLSFZWQXNfTlJSTFdPNFE5M0Nwa3JnaDZvNF9GWnBRZklvOHB6NkdtM0l6SUpXaG83MjdWdGh5eEd3NWdrWDFQeWlKZjNvbTZIYmw3RXFFRnNLbVFTbzg1VHVvc0wtWXZ3ZjBQTU14SXZhNnZRQmRPTFpTT2k0QW1ub1VGZjdpMDhmVmVrZnNwSHo0bVk3Y0t4YVRuZmwxVjNFRXFxcXdqMmg4cFBjUQ?oc=5",
+          "id": "0973cfc435938569",
+          "title": "Trade gap with Gulf narrows",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4yVjVhd2VjRVdwRmxQeUw1bDBpMXltYk9TcmRTaElQRHRKSllpLWhoaU1OTXZiMG1EZGZ3Y2VSMXhMWG9kRkVNd210RUllVS1ZR3l3amVkeXZKLUd4eUxEd0NYblU3VWxTeHB6VnNIeHpSLWRrRXpxRXhR?oc=5",
           "publisher": "Investify",
-          "published_at": "2026-11-25T13:12:21+05:00",
+          "published_at": "2026-11-26T08:25:21+05:00",
           "topic": "trade"
         },
         {
@@ -50,14 +50,6 @@
           "topic": "trade"
         },
         {
-          "id": "65691e9d0d585ab6",
-          "title": "Pakistan and China Discuss Fuel Import and LPG Projects",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQeTBDSDExOTdMclBCOXBucVZrM3dqdUx4ZlVMUTc1QjFqeE1fay1iRXBUNHNWdUszLU9fU0FZMEJ3MVp0b2UzS215VFVKbHRZRnZ4SVNJRDlVYThyZkh0Y2NqRXZjdFpMdGVSV2dPRFhkQncyTjNNZXpFSTVudTZNcVdUbzh1eFU2?oc=5",
-          "publisher": "The Daily CPEC",
-          "published_at": "2026-11-25T14:24:14+05:00",
-          "topic": "trade"
-        },
-        {
           "id": "7ca81511f03cf250",
           "title": "Pakistan’s Sugar Planning Failure",
           "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBkN0F3T1hOVjhmakxxYmNrMzFVZlZJTldWUFV4bzlpRG9fNVhlQXpPQUZUYjJzeXVTaVRfQll0V3VzcG16RENNeTlidU9TZk92aEJuQVVjYUN6dGExcGJ2SnpHR0l2NDYxbzA1Zkx0cGI2UQ?oc=5",
@@ -66,19 +58,27 @@
           "topic": "trade"
         },
         {
-          "id": "5a7467d7abac5d87",
-          "title": "Farmers or Feed? China’s Corn Quota and the Barley Side Door",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTzN3dHktdmhab1FCQTJ5MldLRkhoeVN2cHhOTWVIVG5pMnhEWHVKQjhHWlc3R0tIcFh6ZFl2Rlc4VVZ0UXFSWEpOUDMydFkyZHVNNENLWWZwN2JpQnc5eExLN1FHRElEWWhRbVU2ekN3OE5TNFhFYkVjS0lVYnJfbXJVcXBjRWU5MW9mVzU2NUs3dTBlektmWWpvcw?oc=5",
-          "publisher": "Geopolitical Monitor",
-          "published_at": "2026-11-25T18:03:07+05:00",
+          "id": "84c6a9435fae0a4d",
+          "title": "Taliban’s Trade Pivot to New Delhi: From Pakistan’s Transit Restrictions to India’s Tariff Exemptions",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ud3E2ZVRGNGtMemNqdnpCNTE0eWQ4eFhjRmR3TzNKUkM2TldRY0owVmVYVUJja3M5S01xT0dTMTVxWHJXNUlaYUY3aWNXSXdnYzFxU19jX1M4WDJjYXlfQkkwdndYMXBrRWswMFhXWFllTlgw?oc=5",
+          "publisher": "8AM Media",
+          "published_at": "2026-11-25T06:52:26+05:00",
           "topic": "trade"
         },
         {
-          "id": "a94abf35969897aa",
-          "title": "Food exports jump, imports stay flat in October",
-          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1EaERJdVhaU29Ub2cxUENWRkZjQ3d3UVVIbEZtTF9lV2o3SlVPVEV4UmJpQkRfYV9aNWJyUGZJUDRteExydVgxaw?oc=5",
-          "publisher": "Dawn",
-          "published_at": "2026-11-24T06:47:31+05:00",
+          "id": "65691e9d0d585ab6",
+          "title": "Pakistan and China Discuss Fuel Import and LPG Projects",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQeTBDSDExOTdMclBCOXBucVZrM3dqdUx4ZlVMUTc1QjFqeE1fay1iRXBUNHNWdUszLU9fU0FZMEJ3MVp0b2UzS215VFVKbHRZRnZ4SVNJRDlVYThyZkh0Y2NqRXZjdFpMdGVSV2dPRFhkQncyTjNNZXpFSTVudTZNcVdUbzh1eFU2?oc=5",
+          "publisher": "The Daily CPEC",
+          "published_at": "2026-11-25T14:24:14+05:00",
+          "topic": "trade"
+        },
+        {
+          "id": "b0677e969fb6a43b",
+          "title": "Saudi Export-Import Bank signs 5 international agreements to support exports",
+          "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9mQ1RLckdSanF2ZV9CMmhmbjl0Y0xYMmZuLXpzVk03SDVZZWs4ZnUxU1FmTUxwSjlmbVdIRDBocw?oc=5",
+          "publisher": "jawlah.co",
+          "published_at": "2026-11-24T20:12:39+05:00",
           "topic": "trade"
         },
         {
@@ -90,7 +90,7 @@
           "topic": "trade"
         }
       ],
-      "fetched_at": "2026-11-26T04:43:25.400322+05:00"
+      "fetched_at": "2026-11-26T09:20:10.173019+05:00"
     },
     {
       "id": "economy-2026-11-26",
@@ -113,14 +113,6 @@
           "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPeUE0YW55ZlZJTkhoTm1KUVE3ZUFjTzk4WjRwSzNNS2p6aWNCYnlSYjMxY0ZzMFl2bUJqLWU0VHJjQ0dxVzFFbUVNYnF4cHhLX3JzUVBPUmtTQ3dSNngzMU85eDZRc1dWekZwbVNEZG9mc3NGY1lfV1VTV3JyUmt6V2MxRnpQNjl4dDlFeXZ2bWE2YkZxOUp4c0xrZG9qVy1wQmhxSHUzZw?oc=5",
           "publisher": "UrduPoint",
           "published_at": "2026-11-25T02:36:50+05:00",
-          "topic": "economy"
-        },
-        {
-          "id": "74fe2010b40c2017",
-          "title": "Rupee records gain against US dollar",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1mTzVkQU9MTUhhQjBpVlFFSnR6OURTU05iWS1adGx3SnNrWjRENnp3dWhDdTBzcUh1TjRtRzdGZl9GM3RVMTBjdnF0MU1ZZWVs0gFWQVVfeXFMTnZZbmFkV29jYm1Cek9hZ0pIYm5YZzY4d2JQV1U1TkgwbHI2Vkg3WXEtUTVzSzBjTFJBeUhRT2JqeGhkcGRSMWJZRU9ndkljMkZ1c3F4YVE?oc=5",
-          "publisher": "Business Recorder",
-          "published_at": "2026-11-25T16:01:21+05:00",
           "topic": "economy"
         },
         {
@@ -148,11 +140,19 @@
           "topic": "economy"
         },
         {
-          "id": "b7270d6610f1b7ff",
-          "title": "How Inflation Is Measured in Pakistan: The CPI Basket Explained Simply",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQc3R6ZXFXRVNiZy1USnQ5aUNSX3RTVWNYaGVQUUxTTVJGeWNQZmlBSlFYVEZSNUdNTENscXVvSDdXLW50alhzZkcyODdJMDBMZ21wRG42aWx0WndiaDBqRkJiOHcwemJta1RUaUc1SW92N2U0c3U0MGFYbmQzZGpaZl81UUNHM2J3OWxRa3VpN3c?oc=5",
+          "id": "1948ecaeb1219c50",
+          "title": "What a Current Account Surplus Means for the Rupee",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPYUJacU95VXRLTFFZR3BWZTFmOFBEMW1tRXhrakgyeWhwX0R1RGhZS25mVmFCRnhRMFRObUtLTEMzSTl1dU1yN2lTbXY3bmpsMjZRbDQ5a0VYN3NaY3BRZ3pXVXFBbkxDSWlZb0Q2ZWVPenB6czBwbUpncFNsUkZkZ21UamRkWi04Y3pJOHZCXzhBU0toU2VDXzlNN0lyUkU?oc=5",
           "publisher": "UrduPoint",
-          "published_at": "2026-11-25T02:05:35+05:00",
+          "published_at": "2026-11-25T12:58:48+05:00",
+          "topic": "economy"
+        },
+        {
+          "id": "74fe2010b40c2017",
+          "title": "Rupee records gain against US dollar",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1mTzVkQU9MTUhhQjBpVlFFSnR6OURTU05iWS1adGx3SnNrWjRENnp3dWhDdTBzcUh1TjRtRzdGZl9GM3RVMTBjdnF0MU1ZZWVs0gFWQVVfeXFMTnZZbmFkV29jYm1Cek9hZ0pIYm5YZzY4d2JQV1U1TkgwbHI2Vkg3WXEtUTVzSzBjTFJBeUhRT2JqeGhkcGRSMWJZRU9ndkljMkZ1c3F4YVE?oc=5",
+          "publisher": "Business Recorder",
+          "published_at": "2026-11-25T16:01:21+05:00",
           "topic": "economy"
         },
         {
@@ -164,7 +164,7 @@
           "topic": "economy"
         }
       ],
-      "fetched_at": "2026-11-26T04:43:25.400322+05:00"
+      "fetched_at": "2026-11-26T09:20:10.173019+05:00"
     },
     {
       "id": "business-2026-11-26",
@@ -182,11 +182,11 @@
           "topic": "business"
         },
         {
-          "id": "1dfafbe6e4598c85",
-          "title": "Neem Wins ADB Backing to Transform Pakistan’s Business Payments",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQaWw5OWtLMGFjcGdEVXZlbGs3WHdlVXhRSHNOT2hYNy1fU0ZaX1FqRnljOWh1dmMyODNoNGlHVnlGS1hyQjF4Nko3UDNaSFU2Yl84MlJ1aGJ5X0tHc19zN1dGNUxqd0pXV1doUVdkcTI2NVhVblh5UGFTN1BxZ3g3QW10TWRkdzYyZkhiazBWOERNdnhL?oc=5",
-          "publisher": "Digital Pakistan",
-          "published_at": "2026-11-24T13:00:19+05:00",
+          "id": "273495fe3ae12847",
+          "title": "Pakistan invites European, Chinese businesses to establish JVs in agri, food processing sectors, seeks long-term sourcing deals with Malaysia",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQNy15T1c4d0Rud1VMNy1OckRHNS01TGJsU0kxeHk4bVMxUkY3R0ZiekFYemI5LXRROVBOR1N4Y3pOSktwWmVEVVFxakpjeUR3aDVwUEVlZWhCdHE2aGdDck5FbnYwY2FsOHlDZ1ZHOU5vSURjRXpKVmNkellPZ1M3VXlNM0dHSjBXTGkyS1dnWFNTSV94cG5MT1dHSlRReW9ZZnF1YmFWRUFWN21MV0M4a0dBUzBwZFVua2FXQ0dPZjZBaEFyNHBSY0c0ZUgwUQ?oc=5",
+          "publisher": "Investify",
+          "published_at": "2026-11-25T13:31:58+05:00",
           "topic": "business"
         },
         {
@@ -198,47 +198,47 @@
           "topic": "business"
         },
         {
-          "id": "273495fe3ae12847",
-          "title": "Pakistan invites European, Chinese businesses to establish JVs in agri, food processing sectors, seeks long-term sourcing deals with Malaysia",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQNy15T1c4d0Rud1VMNy1OckRHNS01TGJsU0kxeHk4bVMxUkY3R0ZiekFYemI5LXRROVBOR1N4Y3pOSktwWmVEVVFxakpjeUR3aDVwUEVlZWhCdHE2aGdDck5FbnYwY2FsOHlDZ1ZHOU5vSURjRXpKVmNkellPZ1M3VXlNM0dHSjBXTGkyS1dnWFNTSV94cG5MT1dHSlRReW9ZZnF1YmFWRUFWN21MV0M4a0dBUzBwZFVua2FXQ0dPZjZBaEFyNHBSY0c0ZUgwUQ?oc=5",
-          "publisher": "Investify",
-          "published_at": "2026-11-25T13:31:58+05:00",
+          "id": "a134ddbafd50e65c",
+          "title": "Portugal seeks new era of friendship, economic cooperation with Pakistan: FM Paulo Rangel",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUGVTbi13eWgyOFUzbFk3TzFFODdQak9XeFQ5WG1pc01xTzdsbFNvNmxMeUtTdDVuMjRXamZhNW1lT0MydkswM2RrZ1d0cUZtWlJpU3lweVlkcU5tdXllOEdLQnJGVlJiU05iVmJja3pxaF92SlZlQ2NiVS1EQ2ZNcHFMeTBZSWdVbmhLZUI2UGVjR0JHRUFRcTRnblNlOVp4Q2g4WjkxX21xel85czdEX01SbTFwaDR6QXQtczllRnk?oc=5",
+          "publisher": "Azərtac",
+          "published_at": "2026-11-24T13:46:00+05:00",
           "topic": "business"
         },
         {
-          "id": "4e52ae6490baaa69",
-          "title": "Pakistan secures 25,000-tonne tuna quota with $200 million export potential, invites Maldivian investment in canning industry",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNSFE5X3htRjFoNHBjeHhHWlZpb01ZMEo2NmJVZHk0aUUzLVVkX2dscVNpNG5wNVZkSGZIVGpsd3pTU3NDZXppZTFuVVJTeFJVZUdwblJvM2xTaDl5cWZoUFhnb1pLTVhLVjdWNVU0X1BpMFN2amxsX2FrYmtBTDAzMnRGOXNyQ2YtZzlXVEV3N1BMM0dDRlZnN2RTX3dsZTBqR1hWbVBmZV85N1VVZVJWR1o3VE5WVUVGUVprcTdCNzBZRGs1Y2RuWVI2OHRJdw?oc=5",
-          "publisher": "Investify",
-          "published_at": "2026-11-25T13:46:41+05:00",
+          "id": "c7299cc8dec97c2e",
+          "title": "Business confidence plunges: OICCI",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE53ZFJBaE9OaGxUdk8tNzRXSHJLLUV0QjN3amExNnRIOU1YbjMwRDBYVGJDZWRMNmFOb0RWMVFBdkpVaHBpRXB3cw?oc=5",
+          "publisher": "Dawn",
+          "published_at": "2026-11-25T06:45:40+05:00",
           "topic": "business"
         },
         {
-          "id": "e1b353ca780058e6",
-          "title": "Govt invites European, Chinese firms to invest in Pakistan's food sector",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdW8tQm5OdmwwYmRJOU9jYTFFcjlJamVXYkptakJCVVhEdnVjNkxCQVJxM0l5VmNUX212WjlYQmNNOGJSMGhTa09HZGtIal9qTERHclpoUVU5UzgzcDBRUU1oMHRTTFNCYjZHNDkwUWc5MklHcG5KZ3VKRHNMQUFQSXlMZjE0cGxRVmQ4amY2OXl1NmdGTGhYcTFGUWl4a1hyNjhsV09VUnE5R0dBdFEw0gFWQVVfeXFMTm5tVWZpWERSN3I1VmxEajJpODktUm9GTmJuRmJZeVVkWDhXSXZicERJVWtYRnJYdnhEQUYxZ0V3Q0dCZS0xbnJRLTExTklvelUyV0x5U1E?oc=5",
-          "publisher": "Business Recorder",
-          "published_at": "2026-11-25T10:25:18+05:00",
+          "id": "a724775a2660de97",
+          "title": "ADB Ventures backs Neem to scale FinTech rails in Pakistan",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdU5qZ3JnQjhQRHJVUmtTLXplTnUtQlFuTWFBai1paXFoME9HUlBaV1VrbnpOcFdvY1ZPLXpvTElTb21wZUo5THhhSlZpMEdOMXhCYXRaRmhjWXF5cFFGeF9lMFRHczVXNWJfcUo0aE5ybWZ5MHl2ZFF1VDFhWGotajJXMGUwQU9ITjI4TUI5anQxR1MySENHdA?oc=5",
+          "publisher": "FinTech Global",
+          "published_at": "2026-11-25T19:07:32+05:00",
           "topic": "business"
         },
         {
-          "id": "9a56c6ff89136ec0",
-          "title": "Pakistan seeks European, Chinese investment in food sector",
-          "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQTnhaaVV6Uk1nVnlRSXlIV1ZEeXFSRHVOdFV0UDVKZkJ6WWVnRjZkNXMwOElhNE4zbTBUaU1Ld0ZPOXQzal9pRDFmQVNRYlFrcmJDU3JtOHIwMkhBUVpjSVI5Z2dDamN4ZS04S0xaX2E5ZXpRSjhqV2Y4UWJzVnRGblI5UFlZUkVGa2NUWDY5bjZZSUl0TlBCMlRHa1lwd1VSX1RQYVBpc0FBTDBsd013VEFBUEx3SW9TY244XzNsMkhhMHpodml2QUZzb2FXUVV3NDVDdjdKY0MzMzNWZEdfaDZyYmhPdzY3X1pXNUJBWmZIQjJRRWtPM1lhTmZWZWdzVmFuQWt6bmJMeF8zN2N4TnR1UQ?oc=5",
-          "publisher": "Profit by Pakistan Today",
-          "published_at": "2026-11-25T13:37:43+05:00",
+          "id": "3c2444ede5c56810",
+          "title": "OICCI Survey Reveals Sharp 36-Point Drop in Pakistan’s Business Confidence",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWHVRdk5ra3E4WDN3dVlfNEkzN0JoSDFfaTlnS1ZLWVpNMnFJNjRjdG0xZUFGY3AyUi05cmlONEt2dDhPR2pCOWpadklJSEdZM1FTVDZqN3VCa1lfcGlkOFV0ZVlPVFNVZ0VEdFdjX19PMjd0eEdocGdDNFV4YjMtWXFoWExQbkhQNFI4MmotOHRKRXplOTlGRHdRVXZNS19yZVI1dUtWQXpMdw?oc=5",
+          "publisher": "Energy Update",
+          "published_at": "2026-11-25T12:53:08+05:00",
           "topic": "business"
         },
         {
-          "id": "8ae74148166e3375",
-          "title": "Pakistan Plans 32 Technology Zones to Boost IT Exports and Investment",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNOXJUWncxVVVTN3IyV2JMV3VkNFZVSDBOSGtLZG1IMDI5dmd4c3BBVDhDWk5HQkI3c3RJVXE5cGFfOFJmenhpTjEwdDFHeEVtSjZraW42M1MxdVJyQU9zOFV1N2hnTGxudGFYV0ZpOFVHZ0tjSDVGZWlTaGRGUDFrTVpTZ1R4NFRSYWtJaVhRVkdBNDBkNXRPMElKdw?oc=5",
-          "publisher": "TechJuice",
-          "published_at": "2026-11-25T18:17:06+05:00",
+          "id": "031275ef8901b213",
+          "title": "Foreign investor confidence in Pakistan slumps as US-Iran war lifts energy costs - survey",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQSXF3S0lHTk9aSzFnTGlrX1Eza2Y2akd5emg4LVlGN2RiUWhMbkNVOWR4R2w1eXUwbGRuWDJCS1VHNmhTcm8xQ0FEcm93ZEpsN3JFQ0NOTnVPRDhLVlFYNUtmX244cXlEMFpKazEtTEZ1clJfbFlZNTdlSzNHZXFucFI4dGMzMFRRLW5RR0dMeU93WGF3VVdRRWdtRFpKZ1BIclhSVnhES0I3N2FlTXpEaW5Tazlrb0hiSW5vQ25JY25lTlU4bWlF?oc=5",
+          "publisher": "Arab News PK",
+          "published_at": "2026-11-24T16:58:46+05:00",
           "topic": "business"
         }
       ],
-      "fetched_at": "2026-11-26T04:43:25.400322+05:00"
+      "fetched_at": "2026-11-26T09:20:10.173019+05:00"
     },
     {
       "id": "trade-2026-11-25",
