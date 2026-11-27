@@ -1,18 +1,18 @@
 {
-  "checked_at": "2026-11-27T09:15:24.367199+05:00",
-  "quotes": 15616,
+  "checked_at": "2026-11-27T17:55:00.725436+05:00",
+  "quotes": 15818,
   "checks": [
     {
       "store": "Chase Value",
       "url": "https://chasevalue.pk/products.json?limit=100&page=1",
       "status": "parsed",
-      "offers": 546
+      "offers": 629
     },
     {
       "store": "Chase Value",
       "url": "https://chasevalue.pk/products.json?limit=100&page=2",
       "status": "parsed",
-      "offers": 192
+      "offers": 255
     },
     {
       "store": "Naheed",
@@ -60,7 +60,7 @@
       "store": "Metro",
       "url": "https://metro-online.pk/",
       "status": "parsed",
-      "offers": 208
+      "offers": 210
     },
     {
       "store": "Foodpanda / Kifayah",
