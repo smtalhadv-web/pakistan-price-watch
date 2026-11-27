@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-27T17:55:08.882692+05:00",
+  "checked_at": "2026-11-27T21:12:20.989855+05:00",
   "checks": [
     {
       "topic": "economy",
@@ -50,6 +50,14 @@
           "topic": "trade"
         },
         {
+          "id": "38d5217847b21e8b",
+          "title": "Pakistan seeks duty-free access to Chinese market to narrow $19.6 billion trade gap",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTHhRTkNNLXd2WTZpOTRxUUFadlhqV2MtRFZ5YjRZM0YwWF9vOHQyUUo0THpwb1IxcDZ5Y29IdnNLREVFdEVNSHhwOFVqdG9KUXlSVkRURHhHTUZVSVBOb0VjbDdmd1JfejFSNmFYRkthRC1YanF0bmxOWk8yWWNoQ3NXOUpQdUpRNGlTYTZiNkg2RE9zXzA5dE1GMmxGdHRlMkdSZGk0eExNVWJhX2dwX3NXR2UzX3Z5d1oyUnY0aw?oc=5",
+          "publisher": "Arab News PK",
+          "published_at": "2026-11-27T17:55:11+05:00",
+          "topic": "trade"
+        },
+        {
           "id": "23842cdac7138ea0",
           "title": "Report: Sri Lanka’s Trade Balance with China",
           "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBIY1RlSDd0bDVIM2Q1bkF5bEs3a29UcHpKb2k0QVVwaFlkVHpFdUpBa0s4WHZJWWZBRjJtcVJTU09xRkg0dFFTQ1FlSVFLUjZkSFVmdnJCMEV0TGRlaTJDN1I0RlRuVExrenEtTUowSS1LdFNLdUUw?oc=5",
@@ -80,17 +88,9 @@
           "publisher": "Prothom Alo English",
           "published_at": "2026-11-27T10:57:05+05:00",
           "topic": "trade"
-        },
-        {
-          "id": "d449c85e9942f83d",
-          "title": "Experts say new U.S. tariffs do not pose substantial threat, India should not rush into trade deal",
-          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQZFByTVdLdWx5cnJhWHlIS1k1cGt1VU5pd2JVMm1LRkYxblg5OVlwMmxKVm1yeWYwVXJsajJJdmhHOXlUNV9zbWJkSDhjOXBmZm1wbFZRUW1OSWdsbkprejN5VDhCVnZEdENEVzEyNThYUURQUGZ5ekp3aTZvM3k4OF8xNTNISTVPeF9FU0tkQjN6LTNfWHhJRmVtaFBKTTE1ZmhZbnVRX21TSmh2VjJYZDlET3VNcF9QRFhOc2t1Qkg0aThHYkU2bTFITW1iNlpfN1B0OXR3WEFJNnJjWVRxVmFlbnAycExUM3pvNm9n0gH0AUFVX3lxTE5hdUhBQXdPYzFYeEFaVEpPYWVGUFlJbmhHZE9NbTZOcUh3OW80bllYenlBcVFrLVZzREs3T0J6eVB0ZmcySm12dUFpZ3FCOUdGQmM1STNBbXBpbkEyZXk0ZnQ1Y2JibnhnUlI0ZUdveG5WenZXZ19NRno0eXhKeFJKZHUyLWJwX19Yay1NX1pSSGQzYUlreloyNFJRZW44S1h2NmV2eW5iOVptS1J1SE5YdlBjdWhSa0tPOFNCclA0S0EwTjhENTBpNkh3cXRvV0FULTZBS0pLTTBwYnNyb3BIdmVoeVFGck92QVBsN2tXTnVwNE0?oc=5",
-          "publisher": "The Hindu",
-          "published_at": "2026-11-26T15:36:03+05:00",
-          "topic": "trade"
         }
       ],
-      "fetched_at": "2026-11-27T17:55:08.882692+05:00"
+      "fetched_at": "2026-11-27T21:12:20.989855+05:00"
     },
     {
       "id": "economy-2026-11-27",
@@ -112,7 +112,7 @@
           "title": "What a Eurobond Is, and What Pakistan's Cheaper Dollar Borrowing Really Costs",
           "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdmY0RkFsTmstX2RFMktXRDV2Tzdqa2NOVG1LOEI4TkQzMGVMN3k3eWl6SW1nMEdPLXRmYmJjV2VDcnE4czNCdVFteDlUcFdSWWwzWjVCcnpYZGNqWndhOHp0WVBVem9DLUpRY0JtUEhxX2dQZGszdkVyYWhuVUVSYTRBMWFfZjVPdERtcU11Z2RYaDBYZHdkUmM3TTdEM3hVel8zWGF1LXFTMF8yTmdRZkRQU1RRd3Ny?oc=5",
           "publisher": "UrduPoint",
-          "published_at": "2026-11-27T13:39:02+05:00",
+          "published_at": "2026-11-27T13:40:51+05:00",
           "topic": "economy"
         },
         {
@@ -124,14 +124,6 @@
           "topic": "economy"
         },
         {
-          "id": "4eaebe6fd28b3920",
-          "title": "Gold Prices Crash To Over 1-Year Low, Pakistan Market Feels Impact",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaDlpajQwbUNRcExEbU8tdUp6UC1fUFp3SWdIX0ptQ2dlU3MteGttNFBpYU9hUEsxR3NCYWlYY18xcHQ2eThKTlJPN1A2QjBiaTRGUWxOTEcwU0pYaGlsZHRUdndxcXFScUhRX0ZhSDdRUXc2aEJSY1V4bUtENVdtQUh4MXR0TnRUSEhfNlJfU2R5NVpJanBuYV9fTlZiWTdPWFZCYzdWMElHZw?oc=5",
-          "publisher": "times of islamabad",
-          "published_at": "2026-11-26T11:20:55+05:00",
-          "topic": "economy"
-        },
-        {
           "id": "d311601829d247c8",
           "title": "Gold prices surge for second consecutive session in Pakistan",
           "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPeEQ5VkczRHVhdDlXTTVtdjhKZm9GR2E4clVyYWo3bVI5Vm5HM241b203SkdEUGhCVXotSnJSQTZsLS01VGJKU2pjWDdEMncwcGxxUWpkbE1sT3d5Y25pU3FTbzJZdmRIbTVLMHhRQkpxaHNOc21raW5DTHdqbzRjcDJOUUhyeFBNY2pLUFR3QVF1aXRQM1E?oc=5",
@@ -140,11 +132,19 @@
           "topic": "economy"
         },
         {
-          "id": "abcfd5dd0a816187",
-          "title": "How Pakistan Now Sets the LPG Price, and Why a Cooking Cylinder Costs More in Lahore Than in Karachi",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMFNJc3lzQXVqenBnVjVaeEJLa3JYRE9DZThtNTFzNFZkcmpnTDlDal90V3prdnZoQmNfTGkwLS1tUHJJOGJBT2Vqdkp2WTI0TF9iZUFBTXVhZ2RnYS14d0NZcVVlUFFoYnBSVnJXRnNNVmNwXzdjSF9oNEZZQk94b0FCSXV2THdjTkZfa1Zn?oc=5",
-          "publisher": "UrduPoint",
-          "published_at": "2026-11-27T12:30:46+05:00",
+          "id": "4eaebe6fd28b3920",
+          "title": "Gold Prices Crash To Over 1-Year Low, Pakistan Market Feels Impact",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaDlpajQwbUNRcExEbU8tdUp6UC1fUFp3SWdIX0ptQ2dlU3MteGttNFBpYU9hUEsxR3NCYWlYY18xcHQ2eThKTlJPN1A2QjBiaTRGUWxOTEcwU0pYaGlsZHRUdndxcXFScUhRX0ZhSDdRUXc2aEJSY1V4bUtENVdtQUh4MXR0TnRUSEhfNlJfU2R5NVpJanBuYV9fTlZiWTdPWFZCYzdWMElHZw?oc=5",
+          "publisher": "times of islamabad",
+          "published_at": "2026-11-26T11:20:55+05:00",
+          "topic": "economy"
+        },
+        {
+          "id": "fa252867e0d72cd8",
+          "title": "Where will Gold Prices reach in 2027? Major forecasts emerge as investors await fresh rally",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZ1l2dER4N2xCNlBva09IbFFYSk5nazdEaXlMSndLMU9LUmxBLVNiUWR4cng1d2tBX19ub2FENWRJRVhYa2lGRW1vZ3RJY0g2SmZoMEhlY3VNZzl0cUFFaFd6UC1oTWktVnVkYVdKTGJlbGg2d3RtOWVhTHRUYmpYU1ROakxObEJVMjdEZnNvTnlQa1NoUk5fU2gwMWdlMzVXaGRlWmt6dXd1TXo1bXBJMF9tWnFFMVNrejIwVzJnYzhFemMzdXNHNVpn0gHKAUFVX3lxTE9nWXZ0RHg3bEI2UG9rT0hsUVhKTmdrN0RpeUxKd0sxT0tSbEEtU2JRZHhyeDV3a0FfX25vYUQ1ZElFWFhraUZFbW9ndEljSDZKZmgwSGVjdU1nOXRxQUVoV3pQLWhNaS1WdWRhV0pMYmVsaDZ3dG05ZWFMdFRialhTVE5qTE5sQlUyN0Rmc29OeVBrU2hSTl9TaDAxZ2UzNVdoZGVaa3p1d3VNejVtcEkwX21acUUxU2t6MjBXMmdjOEV6YzN1c0c1Wmc?oc=5",
+          "publisher": "Daily Ausaf",
+          "published_at": "2026-11-27T12:34:37+05:00",
           "topic": "economy"
         },
         {
@@ -164,7 +164,7 @@
           "topic": "economy"
         }
       ],
-      "fetched_at": "2026-11-27T17:55:08.882692+05:00"
+      "fetched_at": "2026-11-27T21:12:20.989855+05:00"
     },
     {
       "id": "business-2026-11-27",
@@ -173,6 +173,22 @@
       "title": "Business news briefing · 2026-11-27",
       "context": "Company and industry developments can affect supply, stock availability and competition. Compare dated supplier offers before making a purchase decision.",
       "headlines": [
+        {
+          "id": "95ae7e60bf5f829b",
+          "title": "FNEL Competitors - First National Equities Ltd",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8wbXFuc0dOSjQyeXk4Q1lsNU8xT3BQUEYyNW43Q0VidVR1aEZWZUUwWXpja2l1OUxxSUJjRWkwM1pmNlhQY0VvdmdnZzlkeVUxOS1VYVo0alJZV2s2cUE?oc=5",
+          "publisher": "Investify",
+          "published_at": "2026-11-27T19:54:02+05:00",
+          "topic": "business"
+        },
+        {
+          "id": "d6fc49dfea2c0338",
+          "title": "Business confidence plunges: OICCI",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1neWxVSVpxdkhJSENMWXVaQnBjZENiX0d1RldvQ2RWaTRrNzB3SkhveFVMbFBYeFFYNWtQaVJmSzB0RWRuN0p1RldYdWtkNkRFWW1rRm1zVGdPbWR3MGViRUhYc21BWXNiWnR4MFY0b09Qd01XUUZLWVdwVC0?oc=5",
+          "publisher": "Daily Sun",
+          "published_at": "2026-11-27T20:08:06+05:00",
+          "topic": "business"
+        },
         {
           "id": "f4020d5a27e9f6f1",
           "title": "Ismail Industries expands solar capacity to 18 MW with Hub project",
@@ -190,19 +206,19 @@
           "topic": "business"
         },
         {
-          "id": "a724775a2660de97",
-          "title": "ADB Ventures backs Neem to scale FinTech rails in Pakistan",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdU5qZ3JnQjhQRHJVUmtTLXplTnUtQlFuTWFBai1paXFoME9HUlBaV1VrbnpOcFdvY1ZPLXpvTElTb21wZUo5THhhSlZpMEdOMXhCYXRaRmhjWXF5cFFGeF9lMFRHczVXNWJfcUo0aE5ybWZ5MHl2ZFF1VDFhWGotajJXMGUwQU9ITjI4TUI5anQxR1MySENHdA?oc=5",
-          "publisher": "FinTech Global",
-          "published_at": "2026-11-25T19:07:32+05:00",
-          "topic": "business"
-        },
-        {
           "id": "436c0576eab96ab3",
           "title": "Who Is the Richest Man in Pakistan in 2026",
           "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5UdU1GM1F1VjhDM01zMWlKLXdWeThiMFpFanFnWWhUVXVTamkyY1pWMVJGYmNmZmlKQVdycF9KTlQ5N1UxTHdEcWZmSDFTdXZKWEFQTk9hWUNxSVBFclVmRGs4M0VFdU03RXFPSllFQ1JCWGFmdE93aE9xbw?oc=5",
           "publisher": "LiteFinance",
           "published_at": "2026-11-26T19:29:12+05:00",
+          "topic": "business"
+        },
+        {
+          "id": "d31cbed7875c33fc",
+          "title": "Ways to boost investment in Gwadar explored",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1oREd2b1FoTHNYZmY2TFp6am9SMmM0OUZUTzdaemVSdWxnb0Y3dWxwOUtsN0ZJX2F0TkhYLVRSTXA2dFQwYjJjZw?oc=5",
+          "publisher": "Dawn",
+          "published_at": "2026-11-26T06:54:48+05:00",
           "topic": "business"
         },
         {
@@ -214,31 +230,15 @@
           "topic": "business"
         },
         {
-          "id": "aaa792aed0cfb35d",
-          "title": "Neem secures seed investment from ADB Ventures for B2B payments",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZ0t1ckhSc3RNOXYyM29mVW5iSFB3RjlBcGZRb3gzMlNhdGlQZ1JhVFJJWVlVbF92OWlPTktkNS1uSnNQcTg1Vnl2NGJZM0NsbXNyUlFPalZPdGs0Snh6SzVjeWZ1R3FUSWE0NFFGVldDUFU1NUtZRVJKZFRpRG9RblZ5SEY1U2xpWTBwMFZ2eGpvSjZrTXZSNk9xNVc0emlISEE?oc=5",
-          "publisher": "The Paypers",
-          "published_at": "2026-11-25T20:21:40+05:00",
-          "topic": "business"
-        },
-        {
-          "id": "4fc348a7c2458918",
-          "title": "Neem Adds ADB Ventures To Its Pre-Series A To Expand Lending In Pakistan",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOd3E2TEV4RlNzd3c4SWxJTzljYnZPejJacGhCSzkwWUNBNmtvLW96ZzdtLXdKbklLRmZkc1poa010RnZGRkw2M3VvbjhwbGxfQ1FSZVZNdzhuTkhvMVNsSE5FXzRNU2VXMFFZby1oU3hoVUUtbEJtREZyMmR2cy1LdWJMWkFpdUswQUExS1RKMDI2TUJqeWRF?oc=5",
-          "publisher": "Pulse 2.0",
-          "published_at": "2026-11-26T17:46:21+05:00",
-          "topic": "business"
-        },
-        {
-          "id": "d31cbed7875c33fc",
-          "title": "Ways to boost investment in Gwadar explored",
-          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1oREd2b1FoTHNYZmY2TFp6am9SMmM0OUZUTzdaemVSdWxnb0Y3dWxwOUtsN0ZJX2F0TkhYLVRSTXA2dFQwYjJjZw?oc=5",
-          "publisher": "Dawn",
-          "published_at": "2026-11-26T06:54:48+05:00",
+          "id": "4a383caf852a860c",
+          "title": "Osiris deal leaves key details of Edotco takeover unclear",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB2Q09kWTJsV0hTX1JYbjlhdWJBUFdUdlhIbW8tR2VGeXVieE8yQ0U3SXpCMS1EV0JRcmc1WW50NWNkQ1lOOF9aNmJiYmJ3ajBsN0RuYUlyT2NjRjZWdk1iX293?oc=5",
+          "publisher": "Daily Bonik Barta",
+          "published_at": "2026-11-26T16:33:05+05:00",
           "topic": "business"
         }
       ],
-      "fetched_at": "2026-11-27T17:55:08.882692+05:00"
+      "fetched_at": "2026-11-27T21:12:20.989855+05:00"
     },
     {
       "id": "trade-2026-11-26",

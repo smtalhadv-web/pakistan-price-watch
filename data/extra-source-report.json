@@ -1,10 +1,10 @@
 {
-  "checked_at": "2026-11-27T12:55:07.440383+00:00",
+  "checked_at": "2026-11-27T16:12:19.465432+00:00",
   "checks": [
     {
       "store": "Al-Fatah",
       "url": "https://alfatah.pk/products.json?limit=100",
-      "quotes": 150,
+      "quotes": 153,
       "status": "updated",
       "error": null
     },

@@ -1,6 +1,6 @@
 {
-  "started_at": "2026-11-27T12:54:39.915570+00:00",
-  "completed_at": "2026-11-27T12:55:07.906007+00:00",
+  "started_at": "2026-11-27T16:11:54.275300+00:00",
+  "completed_at": "2026-11-27T16:12:19.848507+00:00",
   "status": "partial",
   "timezone": "Asia/Karachi",
   "scheduled_times": [
@@ -11,49 +11,49 @@
     {
       "name": "collect.py",
       "status": "completed",
-      "elapsed_seconds": 5.2,
+      "elapsed_seconds": 3.9,
       "detail": ""
     },
     {
       "name": "download_sources.py",
       "status": "failed",
-      "elapsed_seconds": 0.4,
+      "elapsed_seconds": 0.5,
       "detail": "  File \"/opt/hostedtoolcache/Python/3.12.16/x64/lib/python3.12/pathlib.py\", line 1027, in read_text\n    with self.open(mode='r', encoding=encoding, errors=errors) as f:\n         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/opt/hostedtoolcache/Python/3.12.16/x64/lib/python3.12/pathlib.py\", line 1013, in open\n    return io.open(self, mode, buffering, encoding, errors, newline)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\nFileNotFoundError: [Errno 2] No such file or directory: '/home/runner/work/pakistan-price-watch/pakistan-price-watch/raw/karachi.html'\n"
     },
     {
       "name": "ingest.py",
       "status": "completed",
-      "elapsed_seconds": 1.6,
+      "elapsed_seconds": 1.2,
       "detail": ""
     },
     {
       "name": "expand_fetch.py",
       "status": "completed",
-      "elapsed_seconds": 2.2,
+      "elapsed_seconds": 2.3,
       "detail": ""
     },
     {
       "name": "expand.py",
       "status": "completed",
-      "elapsed_seconds": 1.6,
+      "elapsed_seconds": 1.2,
       "detail": ""
     },
     {
       "name": "commerce.py",
       "status": "completed",
-      "elapsed_seconds": 9.6,
+      "elapsed_seconds": 9.7,
       "detail": ""
     },
     {
       "name": "partner_sources.py",
       "status": "completed",
-      "elapsed_seconds": 5.1,
+      "elapsed_seconds": 4.7,
       "detail": ""
     },
     {
       "name": "extra_sources.py",
       "status": "completed",
-      "elapsed_seconds": 2.0,
+      "elapsed_seconds": 1.9,
       "detail": ""
     }
   ],
@@ -714,7 +714,7 @@
       "url": "https://alfatah.pk/products.json?limit=100",
       "status": "verified",
       "detail": "updated",
-      "quotes": 150
+      "quotes": 153
     },
     {
       "source": "Shophive",
@@ -731,9 +731,9 @@
       "quotes": 30
     }
   ],
-  "total_quotes": 25944,
-  "verified_quotes": 4898,
-  "changed_prices": 66,
-  "new_quotes": 352,
-  "retained_quotes": 21046
+  "total_quotes": 25978,
+  "verified_quotes": 4901,
+  "changed_prices": 3,
+  "new_quotes": 34,
+  "retained_quotes": 21077
 }
